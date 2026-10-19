@@ -1,0 +1,69 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software or the released parameter set, please cite the article
+  below and the archived version of the software.
+type: software
+title: >-
+  RobustBayesianParameterBalancing: robust Bayesian parameter balancing in kinetic
+  models of metabolism
+version: 0.1.0
+license: MIT
+repository-code: "https://github.com/Trung-TinNGUYEN/Robust_Bayesian_Parameter_Balancing"
+authors:
+  - given-names: TrungTin
+    family-names: Nguyen
+    affiliation: >-
+      ARC Centre of Excellence for the Mathematical Analysis of Cellular Systems;
+      School of Mathematical Sciences, Queensland University of Technology
+  - given-names: Binh H.
+    family-names: Ho
+    affiliation: >-
+      Department of Mathematics, The University of Maryland, College Park, MD 20742, USA
+  - given-names: Michael
+    family-names: Pan
+    affiliation: >-
+      ARC Centre of Excellence for the Mathematical Analysis of Cellular Systems;
+      School of Mathematics and Statistics, The University of New South Wales
+  - given-names: Jennifer A.
+    family-names: Flegg
+    affiliation: >-
+      ARC Centre of Excellence for the Mathematical Analysis of Cellular Systems;
+      School of Mathematics and Statistics, University of Melbourne
+  - given-names: Michael J.
+    family-names: McDonald
+    affiliation: >-
+      ARC Centre of Excellence for the Mathematical Analysis of Cellular Systems;
+      School of Biological Sciences, Monash University
+  - given-names: Christopher
+    family-names: Drovandi
+    affiliation: >-
+      ARC Centre of Excellence for the Mathematical Analysis of Cellular Systems;
+      School of Mathematical Sciences, Queensland University of Technology
+keywords:
+  - parameter balancing
+  - kinetic models
+  - metabolism
+  - Bayesian hierarchical models
+  - calibration
+  - uncertainty quantification
+  - BRENDA
+  - eQuilibrator
+  - Julia
+preferred-citation:
+  type: article
+  title: >-
+    Hierarchical Bayesian modelling for robust parameter balancing in kinetic models
+    of metabolism
+  authors:
+    - given-names: TrungTin
+      family-names: Nguyen
+    - given-names: Binh H.
+      family-names: Ho
+    - given-names: Michael
+      family-names: Pan
+    - given-names: Jennifer A.
+      family-names: Flegg
+    - given-names: Michael J.
+      family-names: McDonald
+    - given-names: Christopher
+      family-names: Drovandi

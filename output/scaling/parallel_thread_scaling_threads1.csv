@@ -1,0 +1,4 @@
+experiment,threads,seconds
+record_loo_cv,1,1.626952417
+source_loso_cv,1,0.431113417
+synthetic_recovery,1,0.07552075

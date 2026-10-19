@@ -1,0 +1,14 @@
+!!SBtab TableName='Options' TableType='Quantity'
+!ID	!Value
+use_pseudo_values	True
+pH	7.0
+temperature	298.15
+overwrite_kinetics	True
+cell_volume	43.0
+parametrisation	hal
+enzyme_prefactor	True
+default_inhibition	complete
+default_activation	complete
+model_name	outputname
+boundary_values	ignore
+size_limit	300

@@ -1,0 +1,1498 @@
+ec_code,name,KM,substrate,species,metadata
+2.3.3.1,Citrate (si)-synthase,0.0036,oxaloacetate,Homo sapiens,"#12# wild-type, pH 8.0, temperature notspecified in the publication <28>; #12# pH 8.0, temperature notspecified in the publication, wild-type enzyme <28>"
+2.3.3.1,Citrate (si)-synthase,0.0057,oxaloacetate,Homo sapiens,"#12# mutant A348G, pH 8.0, temperature notspecified in the publication <28>; #12# pH 8.0, temperature notspecified in the publication, mutant enzyme G348G <28>"
+2.3.3.1,Citrate (si)-synthase,0.0059,oxaloacetate,Sus scrofa,#5# wild-type <2>
+2.3.3.1,Citrate (si)-synthase,0.043,oxaloacetate,Sus scrofa,#5# mutant H320G <2>
+2.3.3.1,Citrate (si)-synthase,0.005,oxaloacetate,Yarrowia lipolytica,
+2.3.3.1,Citrate (si)-synthase,5.0,oxaloacetate,Yarrowia lipolytica,
+2.3.3.1,Citrate (si)-synthase,0.019,oxaloacetate,Solanum lycopersicum,
+2.3.3.1,Citrate (si)-synthase,0.027,oxaloacetate,Nitrobacter winogradskyi,
+2.3.3.1,Citrate (si)-synthase,19000.0,oxaloacetate,Homo sapiens,"#12# mutant A348G, pH 8.0, temperature notspecified in the publication <28>; #12# pH 8.0, temperature notspecified in the publication, mutant enzyme G348G <28>"
+2.3.3.1,Citrate (si)-synthase,59000.0,oxaloacetate,Homo sapiens,"#12# wild-type, pH 8.0, temperature notspecified in the publication <28>; #12# pH 8.0, temperature notspecified in the publication, wild-type enzyme <28>"
+2.3.3.1,Citrate (si)-synthase,0.0077,acetyl-CoA,Homo sapiens,"#12# wild-type, pH 8.0, temperature notspecified in the publication <28>; #12# pH 8.0, temperature notspecified in the publication, wild-type enzyme <28>"
+2.3.3.1,Citrate (si)-synthase,0.0104,acetyl-CoA,Homo sapiens,"#12# mutant A348G, pH 8.0, temperature notspecified in the publication <28>; #12# pH 8.0, temperature notspecified in the publication, mutant enzyme G348G <28>"
+2.3.3.1,Citrate (si)-synthase,0.089,acetyl-CoA,Sus scrofa,#5# mutant H320G <2>
+2.3.3.1,Citrate (si)-synthase,0.005,acetyl-CoA,Sus scrofa,#5# wild-type <2>
+2.3.3.1,Citrate (si)-synthase,10.0,acetyl-CoA,Yarrowia lipolytica,
+2.3.3.1,Citrate (si)-synthase,0.01,acetyl-CoA,Yarrowia lipolytica,
+2.3.3.1,Citrate (si)-synthase,0.018,acetyl-CoA,Solanum lycopersicum,
+2.3.3.1,Citrate (si)-synthase,0.41,acetyl-CoA,Nitrobacter winogradskyi,
+2.3.3.1,Citrate (si)-synthase,11000.0,acetyl-CoA,Homo sapiens,"#12# mutant A348G, pH 8.0, temperature notspecified in the publication <28>; #12# pH 8.0, temperature notspecified in the publication, mutant enzyme G348G <28>"
+2.3.3.1,Citrate (si)-synthase,34000.0,acetyl-CoA,Homo sapiens,"#12# wild-type, pH 8.0, temperature notspecified in the publication <28>; #12# pH 8.0, temperature notspecified in the publication, wild-type enzyme <28>"
+4.2.1.3,Aconitate hydratase,0.2,cis-aconitate,Salmonella enterica subsp. enterica serovar Typhimurium,"#1# pH 8, 25Â°C, Lineweaver-Burk method <111>"
+4.2.1.3,Aconitate hydratase,0.007,cis-aconitate,Bos taurus,#11# liver enzyme <1>
+4.2.1.3,Aconitate hydratase,0.0048,cis-aconitate,Bos taurus,
+4.2.1.3,Aconitate hydratase,0.099,cis-aconitate,Bos taurus,#11# heart enzyme <1>
+4.2.1.3,Aconitate hydratase,0.009,cis-aconitate,Oryctolagus cuniculus,
+4.2.1.3,Aconitate hydratase,0.108,cis-aconitate,Sulfolobus acidocaldarius,"#20# pH 8.4, 75Â°C <44>"
+4.2.1.3,Aconitate hydratase,0.0185,cis-aconitate,Corynebacterium glutamicum,"#23# pH 8.0, 30Â°C <103>"
+4.2.1.3,Aconitate hydratase,0.03,cis-aconitate,Acer pseudoplatanus,#27# mitochondrial enzyme <3>
+4.2.1.3,Aconitate hydratase,0.036,cis-aconitate,Acer pseudoplatanus,
+4.2.1.3,Aconitate hydratase,0.0035,cis-aconitate,Plasmodium falciparum,#28# pH 7.4 <59>
+4.2.1.3,Aconitate hydratase,0.018,cis-aconitate,Saccharomycopsis lipolytica,
+4.2.1.3,Aconitate hydratase,0.1,cis-aconitate,Sinapis alba,
+4.2.1.3,Aconitate hydratase,0.016,cis-aconitate,Escherichia coli,"#6# 20Â°C, pH 7.4, enzyme form AcnB <39>"
+4.2.1.3,Aconitate hydratase,0.058,cis-aconitate,Escherichia coli,"#6# 20Â°C, pH 7.4, enzyme form AcnA <39>"
+4.2.1.3,Aconitate hydratase,26.0,cis-aconitate,Salmonella enterica subsp. enterica serovar Typhimurium,"#1# pH 8, 25Â°C, Lineweaver-Burk method <111>"
+4.2.1.3,Aconitate hydratase,0.9,isocitrate,Salmonella enterica subsp. enterica serovar Typhimurium,"#1# pH 8, 25Â°C, Lineweaver-Burk method <111>"
+4.2.1.3,Aconitate hydratase,0.012,isocitrate,Bos taurus,
+4.2.1.3,Aconitate hydratase,0.034,isocitrate,Bos taurus,#11# liver enzyme <1>
+4.2.1.3,Aconitate hydratase,0.139,isocitrate,Bos taurus,#11# heart enzyme <1>
+4.2.1.3,Aconitate hydratase,0.32,isocitrate,Oryctolagus cuniculus,
+4.2.1.3,Aconitate hydratase,1.49,isocitrate,Zea mays,"#14# isoform Aco1, pH 8.0, 25Â°C <122>"
+4.2.1.3,Aconitate hydratase,1.68,isocitrate,Zea mays,"#14# isoform Aco4, pH 8.0, 25Â°C <122>"
+4.2.1.3,Aconitate hydratase,0.58,isocitrate,Glycine max,
+4.2.1.3,Aconitate hydratase,0.37,isocitrate,Sulfolobus acidocaldarius,"#20# pH 8.4, 75Â°C <44>"
+4.2.1.3,Aconitate hydratase,0.7,isocitrate,Bacillus cereus,#22# isoenzyme II <8>
+4.2.1.3,Aconitate hydratase,3.33,isocitrate,Bacillus cereus,#22# isoenzyme I <8>
+4.2.1.3,Aconitate hydratase,0.552,isocitrate,Corynebacterium glutamicum,"#23# pH 8.0, 30Â°C <103>"
+4.2.1.3,Aconitate hydratase,0.56,isocitrate,Mycobacterium tuberculosis,"#24# pH 8.0, 25Â°C <74>"
+4.2.1.3,Aconitate hydratase,0.045,isocitrate,Saccharomycopsis lipolytica,
+4.2.1.3,Aconitate hydratase,0.15,isocitrate,Sinapis alba,
+4.2.1.3,Aconitate hydratase,3.0,isocitrate,Trypanosoma brucei,#46# recombinant enzyme <46>
+4.2.1.3,Aconitate hydratase,0.12,isocitrate,Rattus norvegicus,#8# mitochondrial enzyme <14>
+4.2.1.3,Aconitate hydratase,0.08,isocitrate,Rattus norvegicus,#8# cytoplasmic isoenzyme <14>
+4.2.1.3,Aconitate hydratase,1.2,isocitrate,Salmonella enterica subsp. enterica serovar Typhimurium,"#1# pH 8, 25Â°C, Lineweaver-Burk method <111>"
+4.2.1.3,Aconitate hydratase,5.3,citrate,Salmonella enterica subsp. enterica serovar Typhimurium,"#1# pH 8, 25Â°C, Lineweaver-Burk method <111>"
+4.2.1.3,Aconitate hydratase,0.2,citrate,Bos taurus,#11# liver enzyme <1>
+4.2.1.3,Aconitate hydratase,0.14,citrate,Bos taurus,
+4.2.1.3,Aconitate hydratase,0.95,citrate,Bos taurus,#11# heart enzyme <1>
+4.2.1.3,Aconitate hydratase,0.9,citrate,Oryctolagus cuniculus,
+4.2.1.3,Aconitate hydratase,9.5,citrate,Zea mays,"#14# isoform Aco4, pH 8.0, 25Â°C <122>"
+4.2.1.3,Aconitate hydratase,21.1,citrate,Zea mays,"#14# isoform Aco1, pH 8.0, 25Â°C <122>"
+4.2.1.3,Aconitate hydratase,2.9,citrate,Sulfolobus acidocaldarius,"#20# pH 8.4, 75Â°C <44>"
+4.2.1.3,Aconitate hydratase,1.4,citrate,Bacillus cereus,#22# isoenzyme II <8>
+4.2.1.3,Aconitate hydratase,10.0,citrate,Bacillus cereus,#22# isoenzyme I <8>
+4.2.1.3,Aconitate hydratase,0.12,citrate,Acer pseudoplatanus,#27# mitochondrial enzyme <3>
+4.2.1.3,Aconitate hydratase,0.13,citrate,Acer pseudoplatanus,
+4.2.1.3,Aconitate hydratase,4.2,citrate,Sinapis alba,
+4.2.1.3,Aconitate hydratase,1.7,citrate,Bacillus subtilis,
+4.2.1.3,Aconitate hydratase,11.0,citrate,Escherichia coli,"#6# 20Â°C, pH 7.4, enzyme form AcnB <39>"
+4.2.1.3,Aconitate hydratase,1.16,citrate,Escherichia coli,"#6# 20Â°C, pH 7.4, enzyme form AcnA <39>"
+4.2.1.3,Aconitate hydratase,0.41,citrate,Rattus norvegicus,#8# cytoplasmic isoenzyme <14>
+4.2.1.3,Aconitate hydratase,0.48,citrate,Corynebacterium glutamicum,"#8# mitochondrial isoenzyme <14>; #23# pH 8.0,30Â°C <103>"
+4.2.1.3,Aconitate hydratase,0.48,citrate,Rattus norvegicus,"#8# mitochondrial isoenzyme <14>; #23# pH 8.0,30Â°C <103>"
+4.2.1.3,Aconitate hydratase,1.0,citrate,Salmonella enterica subsp. enterica serovar Typhimurium,"#1# pH 8, 25Â°C, Lineweaver-Burk method <111>"
+4.2.1.3,Aconitate hydratase,0.032,methylisocitrate,Bos taurus,
+4.2.1.3,Aconitate hydratase,0.268,methylisocitrate,Saccharomycopsis lipolytica,
+4.2.1.3,Aconitate hydratase,0.0089,2-methyl cis-aconitate,Bos taurus,
+4.2.1.3,Aconitate hydratase,0.158,2-methyl cis-aconitate,Saccharomycopsis lipolytica,
+4.2.1.3,Aconitate hydratase,0.21,"(2R,3S)-2-methylisocitrate",Escherichia coli,
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.2,NAD+,Pisum sativum,#12# pH 7.5 <32>
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.33,NAD+,Pisum sativum,#12# membrane-associated ICDH <26>
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.25,NAD+,Pseudomonas sp.,
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.136,NAD+,Yarrowia lipolytica,"#18# pH 7.4, 25Â°C <31>; #67# pH 75, 25Â°C,recombinant His6-tagged enzyme <76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.136,NAD+,Ostreococcus sp. 'lucimarinus',"#18# pH 7.4, 25Â°C <31>; #67# pH 75, 25Â°C,recombinant His6-tagged enzyme <76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.3,NAD+,Cupriavidus necator,
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.05,NAD+,Leishmania mexicana,#25# at pH 7.4 and 37Â°C <83>
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.245,NAD+,Zymomonas mobilis,"#26# pH 7.5, 37Â°C, with Mn2+, recombinant enzyme<69>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.312,NAD+,Zymomonas mobilis,"#26# pH 7.5, 37Â°C, with Mg2+, recombinant enzyme<69>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),4.7,NAD+,Escherichia coli,#3# wild type <29>
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.099,NAD+,Escherichia coli,#3# 7-fold mutant <29>
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.35,NAD+,Streptococcus mutans,"#31# pH 7.5, 37Â°C, recombinant enzyme mutant S102T<70>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.154,NAD+,Streptococcus mutans,"#31# pH 7.5, 37Â°C, recombinant enzyme <70>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),1.56,NAD+,Streptococcus mutans,"#31# pH 7.5, 37Â°C, recombinant enzyme mutant S102Y<70>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.295,NAD+,Streptococcus mutans,"#31# pH 7.5, 37Â°C, recombinant enzyme mutant S102G<70>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.246,NAD+,Streptococcus mutans,"#31# pH 7.5, 37Â°C, recombinant enzyme mutant S102A<70>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),1.1325,NAD+,Phaeodactylum tricornutum,"#32# in the presence of Mn2+, at pH 8.0 and 25Â°C<81>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.903,NAD+,Phaeodactylum tricornutum,"#32# in the presence of Mg2+, at pH 8.0 and 25Â°C<81>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.0771,NAD+,Pyrococcus horikoshii,"#34# 6fold His-tagged enzyme, at 70Â°C in 50 mMN-2-hydroxyethylpiperadine-N0-2-ethanesulfonate-NaOH (pH 7.8), 0.2 MKCl, 0.2 mM MnCl2 <39>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.113,NAD+,Methylobacillus flagellatus,#37# at pH 8.5 and 42Â°C <84>
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.06,NAD+,Homo sapiens,"#4# pH 7.2, 25Â°C, recombinant wild-type enzyme <62>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.004,NAD+,Homo sapiens,"#4# purified recombinant mutant gamma-R97Q, pH 7.2,25Â°C <37>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.04,NAD+,Homo sapiens,"#4# 25Â°C, pH 7.2, alpha-subunit mutant enzyme D234C<45>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.09,NAD+,Homo sapiens,"#4# pH 7.2, 25Â°C, recombinant mutant betaY137E <62>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.07,NAD+,Homo sapiens,"#4# 25Â°C, pH 7.2, wild-type enzyme <45>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.12,NAD+,Homo sapiens,"#4# pH 7.2, 25Â°C, recombinant mutant betaY137F <62>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.014,NAD+,Homo sapiens,"#4# purified recombinant mutant beta-R99Q, pH 7.2,25Â°C <37>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.14,NAD+,Homo sapiens,"#4# 25Â°C, pH 7.2, alpha-subunit mutant enzyme D206N<45>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.19,NAD+,Homo sapiens,"#4# 25Â°C, pH 7.2, gamma-subunit mutant enzyme D215N<45>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),1.2,NAD+,Homo sapiens,"#4# pH 7.2, alpha-subunit mutant enzyme D181N <53>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),1.5,NAD+,Homo sapiens,"#4# pH 7.2, gamma-subunit mutant enzyme D190N <53>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.08,NAD+,Homo sapiens,"#4# pH 7.2, wild-type enzyme <53>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.71,NAD+,Homo sapiens,"#4# pH 7.2, beta-subunit mutant enzyme D192N <53>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),1.1,NAD+,Homo sapiens,"#4# 25Â°C, pH 7.2, alpha-subunit mutant enzyme D230C<45>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.63,NAD+,Homo sapiens,"#4# pH 7.2, 25Â°C, recombinant mutant betaY137S <62>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.073,NAD+,Homo sapiens,"#4# purified recombinant wild-type enzyme, pH 7.2,25Â°C <37>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.68,NAD+,Homo sapiens,"#4# 25Â°C, pH 7.2, beta-subunit mutant enzyme D217N<45>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.18,NAD+,Acidithiobacillus thiooxidans,"#45# pH 9.0, 30Â°C, native enzyme <34>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.226,NAD+,Ostreococcus tauri,"#46# pH 7.6, temperature not specified in thepublication, His6-tagged recombinant wild-type enzyme, with Mn2+ <73>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.265,NAD+,Ostreococcus tauri,"#46# pH 7.6, temperature not specified in thepublication, His6-tagged recombinant wild-type enzyme, with Mg2+ <73>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.738,NAD+,Ostreococcus tauri,"#46# pH 7.6, temperature not specified in thepublication, His6-tagged recombinant mutant D344R, with Mn2+ <73>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),20.65,NAD+,Ostreococcus tauri,"#46# pH 7.6, temperature not specified in thepublication, His6-tagged recombinant mutant D344R/M345H, with Mn2+<73>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),4.5,NAD+,Campylobacter concisus,"#47# mutant enzyme L580H/L591R/A640R, at pH 7.5 and25Â°C <78>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.088,NAD+,Campylobacter concisus,"#47# wild type enzyme, at pH 7.5 and 25Â°C <78>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.121,NAD+,Xylella fastidiosa,"#48# wild type enzyme, at pH 8.0 and 25Â°C <79>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.384,NAD+,Xylella fastidiosa,"#48# mutant enzyme D268K, at pH 8.0 and 25Â°C <79>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),3.15,NAD+,Xylella fastidiosa,"#48# mutant enzymeD268K/I269Y/A275V, at pH 8.0 and25Â°C <79>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),4.413,NAD+,Xylella fastidiosa,"#48# mutant enzyme D268K/I269Y, at pH 8.0 and 25Â°C<79>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.066,NAD+,Pyrococcus furiosus,"#60# pH 8.0, 70Â°C, mutant enzyme D328K <67>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.336,NAD+,Pyrococcus furiosus,"#60# pH 8.0, 70Â°C, mutant enzyme D328K/I329Y <67>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.068,NAD+,Pyrococcus furiosus,"#60# pH 8.0, 70Â°C, wild-type enzyme <67>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.0683,NAD+,Pyrococcus furiosus,"#60# pH 8.0, 70Â°C, the Km-value for NADP+ is about65fold higher than the KM-value for NAD+ <71>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.263,NAD+,Congregibacter litoralis,"#61# wild-type enzyme, with Mg2+, pH 7.5, 35Â°C<74>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.664,NAD+,Congregibacter litoralis,"#61# mutant D487R/L488H, with Mn2+, pH 7.5, 35Â°C<74>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.309,NAD+,Congregibacter litoralis,"#61# wild-type enzyme, with Mn2+, pH 7.5, 35Â°C<74>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.126,NAD+,Micromonas commoda,"#64# pH 75, 25Â°C, recombinant His6-tagged enzyme<76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.493,NAD+,Campylobacter sp.,"#65# pH 75, 25Â°C, recombinant His6-tagged mutantL584H/D595R <76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.0289,NAD+,Campylobacter sp.,"#65# pH 75, 25Â°C, recombinant His6-tagged enzyme<76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.0742,NAD+,Campylobacter curvus,"#66# pH 75, 25Â°C, recombinant His6-tagged enzyme<76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),2.948,NAD+,Ostreococcus sp. 'lucimarinus',"#67# pH 75, 25Â°C, recombinant His6-tagged mutantD326R/M327H <76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.075,NAD+,Bos taurus,
+1.1.1.41,Isocitrate dehydrogenase (nad+),1690.0,NAD+,Leishmania mexicana,#25# at pH 7.4 and 37Â°C <83>
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.0005,NAD+,Zymomonas mobilis,"#26# pH 7.5, 37Â°C, with Mn2+, recombinant enzyme<69>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.0003,NAD+,Zymomonas mobilis,"#26# pH 7.5, 37Â°C, with Mg2+, recombinant enzyme<69>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),2e-06,NAD+,Streptococcus mutans,"#31# pH 7.5, 37Â°C, recombinant enzyme mutantS102Y <70>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.00017,NAD+,Streptococcus mutans,"#31# pH 7.5, 37Â°C, recombinant enzyme mutantS102T <70>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),1e-05,NAD+,Streptococcus mutans,"#31# pH 7.5, 37Â°C, recombinant enzyme mutantS102A <70>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.00036,NAD+,Streptococcus mutans,"#31# pH 7.5, 37Â°C, recombinant enzyme <70>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),3e-05,NAD+,Streptococcus mutans,"#31# pH 7.5, 37Â°C, recombinant enzyme mutantS102G <70>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),90.0,NAD+,Phaeodactylum tricornutum,"#32# in the presence of Mg2+, at pH 8.0 and 25Â°C <81>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),160.0,NAD+,Phaeodactylum tricornutum,"#32# in the presence of Mn2+, at pH 8.0 and 25Â°C<81>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),1500.0,NAD+,Methylobacillus flagellatus,#37# at pH 8.5 and 42Â°C <84>
+1.1.1.41,Isocitrate dehydrogenase (nad+),55.6,NAD+,Ostreococcus tauri,"#46# pH 7.6, temperature not specified in thepublication, His6-tagged recombinant mutant D344R, with Mn2+ <73>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),3.9,NAD+,Ostreococcus tauri,"#46# pH 7.6, temperature not specified in thepublication, His6-tagged recombinant mutant D344R/M345H, with Mn2+<73>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),261.0,NAD+,Ostreococcus tauri,"#46# pH 7.6, temperature not specified in thepublication, His6-tagged recombinant wild-type enzyme, with Mg2+ <73>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),434.0,NAD+,Ostreococcus tauri,"#46# pH 7.6, temperature not specified in thepublication, His6-tagged recombinant wild-type enzyme, with Mn2+ <73>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),17.7,NAD+,Campylobacter concisus,"#47# mutant enzyme L580H/L591R/A640R, at pH 7.5 and25Â°C <78>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),886.0,NAD+,Campylobacter concisus,"#47# wild type enzyme, at pH 7.5 and 25Â°C <78>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),138.0,NAD+,Xylella fastidiosa,"#48# mutant enzyme D268K, at pH 8.0 and 25Â°C <79>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),8.0,NAD+,Xylella fastidiosa,"#48# mutant enzyme D268K/I269Y, at pH 8.0 and 25Â°C<79>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),4.0,NAD+,Xylella fastidiosa,"#48# mutant enzymeD268K/I269Y/A275V, at pH 8.0 and 25Â°C<79>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),617.0,NAD+,Xylella fastidiosa,"#48# wild type enzyme, at pH 8.0 and 25Â°C <79>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),314.0,NAD+,Pyrococcus furiosus,"#60# pH 8.0, 70Â°C, mutant enzyme D328K/I329Y <67>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),888.0,NAD+,Pyrococcus furiosus,"#60# pH 8.0, 70Â°C, wild-type enzyme <67>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),1567.0,NAD+,Pyrococcus furiosus,"#60# pH 8.0, 70Â°C, mutant enzyme D328K <67>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),140.0,NAD+,Congregibacter litoralis,"#61# wild-type enzyme, with Mg2+, pH 7.5, 35Â°C <74>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),15.0,NAD+,Congregibacter litoralis,"#61# mutant D487R/L488H, with Mn2+, pH 7.5, 35Â°C <74>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),270.0,NAD+,Congregibacter litoralis,"#61# wild-type enzyme, with Mn2+, pH 7.5, 35Â°C <74>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),179.0,NAD+,Micromonas commoda,"#64# pH 75, 25Â°C, recombinant His6-tagged enzyme<76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),19.3,NAD+,Campylobacter sp.,"#65# pH 75, 25Â°C, recombinant His6-tagged mutantL584H/D595R <76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),242.0,NAD+,Campylobacter sp.,"#65# pH 75, 25Â°C, recombinant His6-tagged enzyme<76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),146.0,NAD+,Campylobacter curvus,"#66# pH 75, 25Â°C, recombinant His6-tagged enzyme<76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),10.0,NAD+,Ostreococcus sp. 'lucimarinus',"#67# pH 75, 25Â°C, recombinant His6-tagged mutantD326R/M327H <76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),444.0,NAD+,Ostreococcus sp. 'lucimarinus',"#67# pH 75, 25Â°C, recombinant His6-tagged enzyme<76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.12,isocitrate,Pisum sativum,#12# pH 7.5 <32>
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.581,isocitrate,Yarrowia lipolytica,"#18# pH 7.4, 25Â°C <31>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.0517,isocitrate,Methylococcus capsulatus,
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.0164,isocitrate,Pyrococcus horikoshii,"#34# 6fold His-tagged enzyme, at 70Â°C in 50mM N-2-hydroxyethylpiperadine-N0-2-ethanesulfonate-NaOH (pH 7.8), 0.2 MKCl, 0.2 mM MnCl2, 1mM NAD+ <39>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.009,isocitrate,Methylobacillus flagellatus,#37# at pH 8.5 and 42Â°C <84>
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.5,isocitrate,Homo sapiens,"#4# pH 7.2, 25Â°C, recombinant wild-type enzyme,in presence of 1 mM ADP <62>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.09,isocitrate,Homo sapiens,"#4# pH 7.2, 25Â°C, recombinant mutant betaY137E,in presence of 1 mM ADP <62>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),2.0,isocitrate,Homo sapiens,"#4# purified recombinant mutant gamma-R97Q, pH7.2, 25Â°C <37>; #4# pH 7.2, 25Â°C, recombinant wild-type enzyme <62>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.28,isocitrate,Homo sapiens,"#4# pH 7.2, 25Â°C, recombinant mutant betaY137F,in presence of 1 mM ADP <62>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.9,isocitrate,Homo sapiens,"#4# purified recombinant mutant beta-R99Q, pH7.2, 25Â°C <37>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),2.2,isocitrate,Homo sapiens,"#4# purified recombinant wild-type enzyme, pH7.2, 25Â°C <37>; #4# wild type enzyme in 20 mM isocitrate and 1mM MnSO4<45>; #4# 25Â°C, pH 7.2, wild-type enzyme <45>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),2.4,isocitrate,Homo sapiens,"#4# pH 7.2, wild-type enzyme <53>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),20.0,isocitrate,Homo sapiens,"#4# D230C, alpha-subunit mutant, in 20 mMisocitrate and 1mM MnSO4 <45>; #4# 25Â°C, pH 7.2, alpha-subunit mutantenzyme D230C <45>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),1.8,isocitrate,Homo sapiens,"#4# purified recombinant mutant gamma-R97Q, pH7.2, 25Â°C, in presence of 1 mM ADP <37>; #4# pH 7.2, 25Â°C, recombinantmutant betaY137F <62>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.32,isocitrate,Homo sapiens,"#4# purified recombinant wild-type enzyme, pH7.2, 25Â°C, in presence of 1 mM ADP <37>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),1.2,isocitrate,Homo sapiens,"#4# pH 7.2, 25Â°C, recombinant mutant betaY137S<62>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.77,isocitrate,Homo sapiens,"#4# purified recombinant mutant beta-R99Q, pH7.2, 25Â°C, in presence of 1 mM ADP <37>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),3.5,isocitrate,Homo sapiens,"#4# D206N, alpha-subunit mutant, in 20 mMisocitrate and 1mM MnSO4 <45>; #4# 25Â°C, pH 7.2, alpha-subunit mutantenzyme D206N <45>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),9.1,isocitrate,Homo sapiens,"#4# pH 7.2, alpha-subunit mutant enzyme D181N<53>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),2.9,isocitrate,Homo sapiens,"#4# pH 7.2, beta-subunit mutant enzyme D192N<53>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),3.4,isocitrate,Homo sapiens,"#4# D234C, alpha-subunit mutant, in 20 mMisocitrate and 1mM MnSO4 <45>; #4# 25Â°C, pH 7.2, alpha-subunit mutantenzyme D234C <45>; #4# pH 7.2, 25Â°C, recombinant mutant betaY137E <62>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),5.1,isocitrate,Homo sapiens,"#4# D217N, beta-subunit mutant, in 20 mMisocitrate and 1mM MnSO4 <45>; #4# 25Â°C, pH 7.2, beta-subunit mutantenzyme D217N <45>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.92,isocitrate,Homo sapiens,"#4# pH 7.2, 25Â°C, recombinant mutant betaY137S,in presence of 1 mM ADP <62>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),13.0,isocitrate,Homo sapiens,"#4# pH 7.2, gamma-subunit mutant enzyme D190N<53>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),41.0,isocitrate,Homo sapiens,"#4# D215N, gamma-subunit mutant, in 20 mMisocitrate and 1mM MnSO4 <45>; #4# 25Â°C, pH 7.2, gamma-subunit mutantenzyme D215N <45>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.038,isocitrate,Campylobacter concisus,"#47# wild type enzyme, at pH 7.5 and 25Â°C<78>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.031,isocitrate,Campylobacter concisus,"#47# mutant enzyme L580H/L591R/A640R, at pH7.5 and 25Â°C <78>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),1200.0,isocitrate,Campylobacter concisus,"#47# mutant enzyme L580H/L591R/A640R, at pH7.5 and 25Â°C <78>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),2200.0,isocitrate,Campylobacter concisus,"#47# wild type enzyme, at pH 7.5 and 25Â°C<78>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),7.9,D-isocitrate,Azotobacter vinelandii,
+1.1.1.41,Isocitrate dehydrogenase (nad+),62.2,D-isocitrate,Colwellia maris,
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.1,D-isocitrate,Saccharomyces cerevisiae,"#7# octameric enzyme mutant IDH1/IDH2C150Swith AMP, with or without DTT, pH 7.4, 24Â°C <68>; #7# octamericwild-type enzyme with AMP and DTT, pH 7.4, 24Â°C <68>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.17,D-isocitrate,Saccharomyces cerevisiae,"#7# octameric enzyme mutantIDH1/IDH2C56S/C150S/C242S with AMP, without DTT, pH 7.4, 24Â°C <68>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),1.3,D-isocitrate,Saccharomyces cerevisiae,"#7# octameric enzyme mutantIDH1/IDH2C56S/C242S without AMP, with DTT, pH 7.4, 24Â°C <68>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.5,D-isocitrate,Saccharomyces cerevisiae,"#7# octameric enzyme IDH1G15D/IDH2 with AMP,without DTT, pH 7.4, 24Â°C <68>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.09,D-isocitrate,Saccharomyces cerevisiae,"#7# octameric wild-type enzyme with AMP,without DTT, pH 7.4, 24Â°C <68>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.2,D-isocitrate,Saccharomyces cerevisiae,"#7# octameric enzyme mutantIDH1/IDH2C56S/C242S with AMP and DTT, pH 7.4, 24Â°C <68>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.19,D-isocitrate,Saccharomyces cerevisiae,"#7# octameric enzyme mutantIDH1/IDH2C56S/C150S/C242S with AMP and DTT, pH 7.4, 24Â°C <68>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.32,D-isocitrate,Saccharomyces cerevisiae,"#7# octameric enzyme mutantIDH1/IDH2C56S/C242S with AMP, without DTT, pH 7.4, 24Â°C <68>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.54,D-isocitrate,Saccharomyces cerevisiae,"#7# octameric enzyme mutant IDH1/IDH2C150Swithout AMP, with DTT, pH 7.4, 24Â°C <68>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.56,D-isocitrate,Saccharomyces cerevisiae,"#7# octameric wild-type enzyme without AMPand DTT, pH 7.4, 24Â°C <68>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),1.6,D-isocitrate,Saccharomyces cerevisiae,"#7# octameric enzyme mutantIDH1/IDH2C56S/C242S without AMP and DTT, pH 7.4, 24Â°C <68>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.53,D-isocitrate,Saccharomyces cerevisiae,"#7# octameric enzyme mutant IDH1/IDH2C150Swithout AMP and DTT, pH 7.4, 24Â°C <68>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),1.01,D-isocitrate,Saccharomyces cerevisiae,"#7# octameric enzyme mutant IDH1G15D/IDH2without AMP and DTT, pH 7.4, 24Â°C <68>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.48,D-isocitrate,Saccharomyces cerevisiae,"#7# octameric enzyme IDH1G15D/IDH2 with AMPand DTT, pH 7.4, 24Â°C <68>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),1.03,D-isocitrate,Saccharomyces cerevisiae,"#7# octameric enzyme mutantIDH1/IDH2C56S/C150S/C242S without AMP, with or without DTT, pH 7.4,24Â°C <68>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.51,D-isocitrate,Saccharomyces cerevisiae,"#7# octameric wild-type enzyme without AMP,with DTT, pH 7.4, 24Â°C <68>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),1.19,D-isocitrate,Saccharomyces cerevisiae,"#7# octameric enzyme IDH1G15D/IDH2 withoutAMP, with DTT, pH 7.4, 24Â°C <68>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.03,"D,L-isocitrate",Cupriavidus necator,
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.11,"D,L-isocitrate",Saccharomyces cerevisiae,
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.45,"D,L-isocitrate",Bos taurus,
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.002,DL-isocitrate,Leishmania mexicana,#25# at pH 7.4 and 37Â°C <83>
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.15,DL-isocitrate,Streptococcus mutans,"#31# pH 7.5, 37Â°C, recombinant enzymemutant S102T <70>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.075,DL-isocitrate,Streptococcus mutans,"#31# pH 7.5, 37Â°C, recombinant wild-typeenzyme <70>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.143,DL-isocitrate,Streptococcus mutans,"#31# pH 7.5, 37Â°C, recombinant enzymemutant S102G <70>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.148,DL-isocitrate,Streptococcus mutans,"#31# pH 7.5, 37Â°C, recombinant enzymemutant S102A <70>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.385,DL-isocitrate,Streptococcus mutans,"#31# pH 7.5, 37Â°C, recombinant enzymemutant S102Y <70>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),39500.0,DL-isocitrate,Leishmania mexicana,#25# at pH 7.4 and 37Â°C <83>
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.00017,DL-isocitrate,Streptococcus mutans,"#31# pH 7.5, 37Â°C, recombinant enzymemutant S102T <70>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),2.2e-05,DL-isocitrate,Streptococcus mutans,"#31# pH 7.5, 37Â°C, recombinant enzymemutant S102A <70>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.00165,DL-isocitrate,Streptococcus mutans,"#31# pH 7.5, 37Â°C, recombinant wild-typeenzyme <70>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),2.8e-05,DL-isocitrate,Streptococcus mutans,"#31# pH 7.5, 37Â°C, recombinant enzymemutant S102G <70>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),4e-06,DL-isocitrate,Streptococcus mutans,"#31# pH 7.5, 37Â°C, recombinant enzymemutant S102Y <70>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),8.2,NADP+,Zymomonas mobilis,"#26# pH 7.5, 37Â°C, with Mg2+, recombinant enzyme<69>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),7.7,NADP+,Zymomonas mobilis,"#26# pH 7.5, 37Â°C, with Mn2+, recombinant enzyme<69>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.017,NADP+,Escherichia coli,#3# wild type <29>
+1.1.1.41,Isocitrate dehydrogenase (nad+),5.8,NADP+,Escherichia coli,#3# 7-fold mutant <29>
+1.1.1.41,Isocitrate dehydrogenase (nad+),5.8,NADP+,Azotobacter vinelandii,#3# 7-fold mutant <29>
+1.1.1.41,Isocitrate dehydrogenase (nad+),6.9,NADP+,Colwellia maris,
+1.1.1.41,Isocitrate dehydrogenase (nad+),6.57,NADP+,Acidithiobacillus thiooxidans,"#45# pH 9.0, 30Â°C, native enzyme <34>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.067,NADP+,Ostreococcus tauri,"#46# pH 7.6, temperature not specified in thepublication, His6-tagged recombinant mutant D344R, with Mn2+ <73>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.0139,NADP+,Ostreococcus tauri,"#46# pH 7.6, temperature not specified in thepublication, His6-tagged recombinant mutant D344R/M345H, with Mn2+<73>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),3.354,NADP+,Ostreococcus tauri,"#46# pH 7.6, temperature not specified in thepublication, His6-tagged recombinant wild-type enzyme, with Mg2+ <73>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),4.314,NADP+,Ostreococcus tauri,"#46# pH 7.6, temperature not specified in thepublication, His6-tagged recombinant wild-type enzyme, with Mn2+ <73>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),4.3,NADP+,Campylobacter concisus,"#47# wild type enzyme, at pH 7.5 and 25Â°C <78>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.207,NADP+,Campylobacter concisus,"#47# mutant enzyme L580H/L591R/A640R, at pH 7.5and 25Â°C <78>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.031,NADP+,Xylella fastidiosa,"#48# mutant enzymeD268K/I269Y/A275V, at pH 8.0 and25Â°C <79>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.101,NADP+,Xylella fastidiosa,"#48# mutant enzyme D268K, at pH 8.0 and 25Â°C <79>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.087,NADP+,Xylella fastidiosa,"#48# mutant enzyme D268K/I269Y, at pH 8.0 and 25Â°C<79>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),2.339,NADP+,Xylella fastidiosa,"#48# wild type enzyme, at pH 8.0 and 25Â°C <79>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.211,NADP+,Pyrococcus furiosus,"#60# pH 8.0, 70Â°C, mutant enzyme D328K/I329Y <67>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.162,NADP+,Pyrococcus furiosus,"#60# pH 8.0, 70Â°C, mutant enzyme D328K <67>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),4.44,NADP+,Pyrococcus furiosus,"#60# pH 8.0, 70Â°C, wild-type enzyme <67>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.157,NADP+,Congregibacter litoralis,"#61# mutant D487R/L488H, with Mn2+, pH 7.5, 35Â°C<74>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),1.827,NADP+,Micromonas commoda,"#64# pH 75, 25Â°C, recombinant His6-tagged enzyme<76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.513,NADP+,Campylobacter sp.,"#65# pH 75, 25Â°C, recombinant His6-tagged enzyme<76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.0114,NADP+,Campylobacter sp.,"#65# pH 75, 25Â°C, recombinant His6-tagged mutantL584H/D595R <76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.476,NADP+,Campylobacter curvus,"#66# pH 75, 25Â°C, recombinant His6-tagged enzyme<76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.0082,NADP+,Ostreococcus sp. 'lucimarinus',"#67# pH 75, 25Â°C, recombinant His6-tagged mutantD326R/M327H <76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),2.211,NADP+,Ostreococcus sp. 'lucimarinus',"#67# pH 75, 25Â°C, recombinant His6-tagged enzyme<76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),2e-06,NADP+,Zymomonas mobilis,"#26# pH 7.5, 37Â°C, with Mg2+, recombinantenzyme <69>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),3e-06,NADP+,Zymomonas mobilis,"#26# pH 7.5, 37Â°C, with Mn2+, recombinantenzyme <69>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),5.1,NADP+,Ostreococcus tauri,"#46# pH 7.6, temperature not specified in thepublication, His6-tagged recombinant wild-type enzyme, with Mg2+ <73>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),10.7,NADP+,Ostreococcus tauri,"#46# pH 7.6, temperature not specified in thepublication, His6-tagged recombinant wild-type enzyme, with Mn2+ <73>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),836.0,NADP+,Ostreococcus tauri,"#46# pH 7.6, temperature not specified in thepublication, His6-tagged recombinant mutant D344R, with Mn2+ <73>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),281.0,NADP+,Ostreococcus tauri,"#46# pH 7.6, temperature not specified in thepublication, His6-tagged recombinant mutant D344R/M345H, with Mn2+<73>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),7.7,NADP+,Campylobacter concisus,"#47# wild type enzyme, at pH 7.5 and 25Â°C <78>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),208.0,NADP+,Campylobacter concisus,"#47# mutant enzyme L580H/L591R/A640R, at pH 7.5 and25Â°C <78>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),349.0,NADP+,Xylella fastidiosa,"#48# mutant enzyme D268K/I269Y, at pH 8.0 and 25Â°C<79>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),223.0,NADP+,Xylella fastidiosa,"#48# mutant enzymeD268K/I269Y/A275V, at pH 8.0 and25Â°C <79>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),3.0,NADP+,Xylella fastidiosa,"#48# wild type enzyme, at pH 8.0 and 25Â°C <79>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),381.0,NADP+,Xylella fastidiosa,"#48# mutant enzyme D268K, at pH 8.0 and 25Â°C <79>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),20.9,NADP+,Pyrococcus furiosus,"#60# pH 8.0, 70Â°C, wild-type enzyme <67>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),796.0,NADP+,Pyrococcus furiosus,"#60# pH 8.0, 70Â°C, mutant enzyme D328K/I329Y <67>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),821.0,NADP+,Pyrococcus furiosus,"#60# pH 8.0, 70Â°C, mutant enzyme D328K <67>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),350.0,NADP+,Congregibacter litoralis,"#61# mutant D487R/L488H, with Mn2+, pH 7.5, 35Â°C<74>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.8,NADP+,Micromonas commoda,"#64# pH 75, 25Â°C, recombinant His6-tagged enzyme<76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),368.0,NADP+,Campylobacter sp.,"#65# pH 75, 25Â°C, recombinant His6-tagged mutantL584H/D595R <76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),4.0,NADP+,Campylobacter sp.,"#65,66# pH 75, 25Â°C, recombinant His6-tagged enzyme<76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),4.0,NADP+,Campylobacter curvus,"#65,66# pH 75, 25Â°C, recombinant His6-tagged enzyme<76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),4.5,NADP+,Ostreococcus sp. 'lucimarinus',"#67# pH 75, 25Â°C, recombinant His6-tagged enzyme<76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),220.0,NADP+,Ostreococcus sp. 'lucimarinus',"#67# pH 75, 25Â°C, recombinant His6-tagged mutantD326R/M327H <76>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.0183,homoisocitrate,Pyrococcus horikoshii,"#34# 6fold His-tagged enzyme, at 70Â°C in50 mM N-2-hydroxyethylpiperadine-N0-2-ethanesulfonate-NaOH (pH 7.8),0.2 M KCl, 0.2 mM MnCl2, 1mM NAD+ <39>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.22,Mn2+,Homo sapiens,"#4# purified recombinant wild-type enzyme and mutantbeta-R99Q, pH 7.2, 25Â°C <37>"
+1.1.1.41,Isocitrate dehydrogenase (nad+),0.39,Mn2+,Homo sapiens,"#4# purified recombinant mutant gamma-R97Q, pH 7.2,25Â°C <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.13,2-oxoglutarate,Corynebacterium glutamicum,"#12# in 50 mM TES (pH 7.7), 10 mM MgCl2, 3mM L-cysteine, 2 mM NAD+, 0.9 mM thiamine diphosphate, 0.05 mMchlorpromazine, and 1.5 mM 2-oxoglutarate, temperature not specified inthe publication <28>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.116,2-oxoglutarate,Brassica oleracea,#16# pH 7.0 <5>
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.564,2-oxoglutarate,Brassica oleracea,#16# pH 7.4 <5>
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.4,2-oxoglutarate,Urocitellus richardsonii,"#18# overall reaction, enzyme fromhibernating animals, 5Â°C, pH 7.8 <40>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.29,2-oxoglutarate,Urocitellus richardsonii,"#18# overall reaction, enzyme fromeuthermic animals, 22Â°C, pH 7.8 <40>; #18# overall reaction, enzymefrom hibernating animals, 37Â°C, pH 7.8 <40>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.32,2-oxoglutarate,Urocitellus richardsonii,"#18# overall reaction, enzyme fromeuthermic animals, 37Â°C, pH 7.8 <40>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.38,2-oxoglutarate,Urocitellus richardsonii,"#18# overall reaction, enzyme fromhibernating animals, 22Â°C, pH 7.8 <40>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.45,2-oxoglutarate,Urocitellus richardsonii,"#29# enzyme from heart, at pH 7.0,temperature not specified in the publication <43>; #18# overallreaction, enzyme from euthermic animals, 5Â°C, pH 7.8 <40>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.45,2-oxoglutarate,Rattus norvegicus,"#29# enzyme from heart, at pH 7.0,temperature not specified in the publication <43>; #18# overallreaction, enzyme from euthermic animals, 5Â°C, pH 7.8 <40>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.27,2-oxoglutarate,Rattus norvegicus,"#29# enzyme from liver, at pH 7.0,temperature not specified in the publication <43>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.19,2-oxoglutarate,Synechococcus sp. PCC 7002,"#31# pH 7.0, 25Â°C <32>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.03,2-oxoglutarate,Escherichia coli,"#4# mutant E1o-H298D, pH not specified inthe publication, temperature not specified in the publication <37>; #4#mutant E1o-H298D/E2o-H348F, pH not specified in the publication,temperature not specified in the publication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.04,2-oxoglutarate,Escherichia coli,"#4# wild-type, pH not specified in thepublication, temperature not specified in the publication <37>; #4#mutant E1o-H298D/E2o-S333M, pH not specified in the publication,temperature not specified in the publication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.02,2-oxoglutarate,Escherichia coli,"#4# mutant E1o-H298D/E2o-H348Y, pH notspecified in the publication, temperature not specified in thepublication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.07,2-oxoglutarate,Escherichia coli,"#4# mutant E1o-H298D/E2o-H348Q, pH notspecified in the publication, temperature not specified in thepublication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.006,2-oxoglutarate,Escherichia coli,"#4# wild type enzyme, at pH 8.0 and 30Â°C<37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),1.87,2-oxoglutarate,Escherichia coli,"#4# mutant enzyme H298D, at pH 8.0 and 30Â°C<37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),123.0,2-oxoglutarate,Homo sapiens,"#23# overall-assay, pH 7.5, 37Â°C <34>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),247.0,2-oxoglutarate,Homo sapiens,"#23# enzyme-specific activity, pH 7.5, 37Â°C<34>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),6.3,2-oxoglutarate,Synechococcus sp. PCC 7002,"#31# pH 7.0, 25Â°C <32>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),210.0,2-oxoglutarate,Escherichia coli,"#4# mutant E1o-H298D/E2o-S333M, pH notspecified in the publication, temperature not specified in thepublication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.39,2-oxoglutarate,Escherichia coli,"#4# mutant enzyme H298D, at pH 8.0 and 30Â°C<37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),338.0,2-oxoglutarate,Escherichia coli,"#4# mutant E1o-H298D/E2o-H348Y, pH notspecified in the publication, temperature not specified in thepublication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),244.0,2-oxoglutarate,Escherichia coli,"#4# mutant E1o-H298D/E2o-H348F, pH notspecified in the publication, temperature not specified in thepublication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),149.0,2-oxoglutarate,Escherichia coli,"#4# mutant E1o-H298D/E2o-H348Q, pH notspecified in the publication, temperature not specified in thepublication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),875.0,2-oxoglutarate,Escherichia coli,"#4# wild-type, pH not specified in thepublication, temperature not specified in the publication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),456.6,2-oxoglutarate,Escherichia coli,"#4# wild type enzyme, at pH 8.0 and 30Â°C<37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),703.0,2-oxoglutarate,Escherichia coli,"#4# mutant E1o-H298D, pH not specified inthe publication, temperature not specified in the publication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),142.0,2-oxoglutarate,Homo sapiens,#5# at pH 7.0 and 37Â°C <42>
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.55,2-oxoadipate,Rattus norvegicus,"#28# preparation from heart, pH 7,temperature not specified in the publication <43>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.008,2-oxoadipate,Rattus norvegicus,"#28# preparation from liver, low affinitystate, pH 7, temperature not specified in the publication <43>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.45,2-oxoadipate,Rattus norvegicus,"#29# preparation from heart, pH 7,temperature not specified in the publication <43>; #28# preparationfrom liver, low affinity state, pH 7, temperature not specified in thepublication <43>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.27,2-oxoadipate,Rattus norvegicus,"#29# preparation from liver, pH 7,temperature not specified in the publication <43>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),7.0,2-oxoadipate,Homo sapiens,"#23# overall-assay, pH 7.5, 37Â°C <34>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),12.9,2-oxoadipate,Homo sapiens,"#23# enzyme-specific activity, pH 7.5, 37Â°C<34>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.05,2-oxovalerate,Escherichia coli,"#4# mutant E1o-H298D/E2o-H348Q, pH notspecified in the publication, temperature not specified in thepublication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.01,2-oxovalerate,Escherichia coli,"#4# mutant E1o-H298D/E2o-H348F, pH notspecified in the publication, temperature not specified in thepublication <37>; #4# mutant E1o-H298D/E2o-H348Y, pH not specified inthe publication, temperature not specified in the publication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.08,2-oxovalerate,Escherichia coli,"#4# mutant E1o-H298D/E2o-S333M, pH notspecified in the publication, temperature not specified in thepublication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),6.62,2-oxovalerate,Escherichia coli,"#4# mutant enzyme H298D, at pH 8.0 and 30Â°C<37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),8.18,2-oxovalerate,Escherichia coli,"#4# wild type enzyme, at pH 8.0 and 30Â°C<37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),4.7,2-oxovalerate,Escherichia coli,"#4# mutant E1o-H298D/E2o-S333M, pH notspecified in the publication, temperature not specified in thepublication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),6.8,2-oxovalerate,Escherichia coli,"#4# mutant E1o-H298D/E2o-H348Q, pH notspecified in the publication, temperature not specified in thepublication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),81.0,2-oxovalerate,Escherichia coli,"#4# mutant E1o-H298D/E2o-H348F, pH notspecified in the publication, temperature not specified in thepublication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.0165,2-oxovalerate,Escherichia coli,"#4# wild type enzyme, at pH 8.0 and 30Â°C<37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),57.0,2-oxovalerate,Escherichia coli,"#4# mutant E1o-H298D/E2o-H348Y, pH notspecified in the publication, temperature not specified in thepublication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.0725,2-oxovalerate,Escherichia coli,"#4# mutant enzyme H298D, at pH 8.0 and30Â°C <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.5,2-oxo-5-hexenoic acid,Escherichia coli,"#4# mutant E1o-H298D/E2o-H348F, pHnot specified in the publication, temperature not specified in thepublication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.11,2-oxo-5-hexenoic acid,Escherichia coli,"#4# mutant E1o-H298D/E2o-S333M, pHnot specified in the publication, temperature not specified in thepublication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),1.1,2-oxo-5-hexenoic acid,Escherichia coli,"#4# mutant E1o-H298D/E2o-H348Q, pHnot specified in the publication, temperature not specified in thepublication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.73,2-oxo-5-hexenoic acid,Escherichia coli,"#4# mutant E1o-H298D/E2o-H348Y, pHnot specified in the publication, temperature not specified in thepublication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),1.17,2-oxo-5-hexenoic acid,Escherichia coli,"#4# mutant E1o-H298D/E2o-H348Y, pHnot specified in the publication, temperature not specified in thepublication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.59,2-oxo-5-hexenoic acid,Escherichia coli,"#4# mutant E1o-H298D/E2o-H348Q, pHnot specified in the publication, temperature not specified in thepublication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),15.3,2-oxo-5-hexenoic acid,Escherichia coli,"#4# mutant E1o-H298D/E2o-S333M, pHnot specified in the publication, temperature not specified in thepublication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),1.98,2-oxo-5-hexenoic acid,Escherichia coli,"#4# mutant E1o-H298D/E2o-H348F, pHnot specified in the publication, temperature not specified in thepublication <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),11.1,2-oxo-5-hexenoate,Escherichia coli,"#4# mutant enzyme H298D, at pH 8.0 and30Â°C <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),8.01,2-oxo-5-hexenoate,Escherichia coli,"#4# wild type enzyme, at pH 8.0 and 30Â°C<37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.0074,2-oxo-5-hexenoate,Escherichia coli,"#4# wild type enzyme, at pH 8.0 and30Â°C <37>"
+1.2.4.2,Oxoglutarate dehydrogenase (succinyl-transferring),0.0134,2-oxo-5-hexenoate,Escherichia coli,"#4# mutant enzyme H298D, at pH 8.0 and30Â°C <37>"
+2.3.1.61,Dihydrolipoyllysine-residue succinyltransferase,0.03,DL-dihydrolipoamide,Yarrowia lipolytica,"#13# mutant enzyme H419D, at pH 8.0and 30Â°C <32>"
+2.3.1.61,Dihydrolipoyllysine-residue succinyltransferase,0.062,DL-dihydrolipoamide,Yarrowia lipolytica,"#13# mutant enzyme D423A, at pH 8.0and 30Â°C <32>; #13# mutant enzyme D423DEL, at pH 8.0 and 30Â°C <32>"
+2.3.1.61,Dihydrolipoyllysine-residue succinyltransferase,0.09,DL-dihydrolipoamide,Yarrowia lipolytica,"#13# mutant enzyme D423E, at pH 8.0and 30Â°C <32>"
+2.3.1.61,Dihydrolipoyllysine-residue succinyltransferase,0.025,DL-dihydrolipoamide,Yarrowia lipolytica,"#13# mutant enzyme H419DEL, at pH8.0 and 30Â°C <32>"
+2.3.1.61,Dihydrolipoyllysine-residue succinyltransferase,0.024,DL-dihydrolipoamide,Yarrowia lipolytica,"#13# mutant enzyme H419S, at pH 8.0and 30Â°C <32>"
+2.3.1.61,Dihydrolipoyllysine-residue succinyltransferase,0.026,DL-dihydrolipoamide,Yarrowia lipolytica,"#13# mutant enzyme H419A, at pH 8.0and 30Â°C <32>; #13# mutant enzyme H419G, at pH 8.0 and 30Â°C <32>"
+2.3.1.61,Dihydrolipoyllysine-residue succinyltransferase,0.043,DL-dihydrolipoamide,Yarrowia lipolytica,"#13# mutant enzyme D423S, at pH 8.0and 30Â°C <32>"
+2.3.1.61,Dihydrolipoyllysine-residue succinyltransferase,0.052,DL-dihydrolipoamide,Yarrowia lipolytica,"#13# mutant enzyme D423G, at pH 8.0and 30Â°C <32>"
+2.3.1.61,Dihydrolipoyllysine-residue succinyltransferase,0.0274,DL-dihydrolipoamide,Yarrowia lipolytica,"#13# wild type enzyme, at pH 8.0and 30Â°C <32>"
+2.3.1.61,Dihydrolipoyllysine-residue succinyltransferase,7000.0,DL-dihydrolipoamide,Yarrowia lipolytica,"#13# wild type enzyme, at pH 8.0 and30Â°C <32>"
+2.3.1.61,Dihydrolipoyllysine-residue succinyltransferase,0.06,succinyl-CoA,Acinetobacter lwoffii,
+2.3.1.61,Dihydrolipoyllysine-residue succinyltransferase,0.1,succinyl-CoA,Sus scrofa,
+2.3.1.61,Dihydrolipoyllysine-residue succinyltransferase,4.2,dihydrolipoamide,Sus scrofa,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.48,dihydrolipoamide,Saccharomyces cerevisiae,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.017,dihydrolipoamide,Natronobacterium gregoryi,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.83,dihydrolipoamide,Thermoplasma acidophilum,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.04,dihydrolipoamide,Streptococcus pneumoniae,#31# recombinant DLDH expressed withoutwithout a lipoyl protein domain <92>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.056,dihydrolipoamide,Streptococcus pneumoniae,#31# recombinant DLDH <92>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.064,dihydrolipoamide,Streptococcus pneumoniae,#31# recombinant DLDH expressed withoutlipoic acid <92>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.13,dihydrolipoamide,Trypanosoma cruzi,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.146,dihydrolipoamide,Plasmodium falciparum,"#45# pH 8.0, 25Â°C, mitochondrialisozyme <53>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,1.16,dihydrolipoamide,Plasmodium falciparum,"#45# pH 8.0, 25Â°C, recombinantHis-tagged enzyme <130>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.025,dihydrolipoamide,Escherichia coli,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.28,dihydrolipoamide,Escherichia coli,#6# free dihydrolipoamide dehydrogenase<28>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.08,dihydrolipoamide,Escherichia coli,#6# complex-bound dihydrolipoamidedehydrogenase <28>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.4,dihydrolipoamide,Syntrophotalea carbinolica,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.05,dihydrolipoamide,Homo sapiens,#7# mutant enzyme S53K/K54S <43>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.09,dihydrolipoamide,Homo sapiens,"#7# mutant P325A, pH 8.0, 37Â°C, presenceof 1.5 mM EDTA <114>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.69,dihydrolipoamide,Homo sapiens,#7# native enzyme <42>
+1.8.1.4,Dihydrolipoyl dehydrogenase,2.9,dihydrolipoamide,Homo sapiens,#7# mutant enzyme H457Q <42>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.76,dihydrolipoamide,Homo sapiens,#7# mutant enzyme K37E <42>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.88,dihydrolipoamide,Homo sapiens,#7# wild-type enzyme <43>
+1.8.1.4,Dihydrolipoyl dehydrogenase,43.6,dihydrolipoamide,Homo sapiens,#7# mutant enzyme H452Q <42>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.12,dihydrolipoamide,Homo sapiens,#7# mutant enzyme E192Q <43>; #80#mutant R281K <93>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.58,dihydrolipoamide,Homo sapiens,"#80# mutant T148G <93>; #7# mutantW366A, pH 8.0, 37Â°C, presence of 1.5 mM EDTA <114>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.64,dihydrolipoamide,Homo sapiens,"#80# wild-type enzyme, pH 8.0, 37Â°C<135,136>; #7# wild-type, pH 8.0, 37Â°C, presence of 1.5 mM EDTA <114>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.3,dihydrolipoamide,Clostridium kluyveri,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.7,dihydrolipoamide,Acidianus ambivalens,#80# mutant enzyme N286D <80>; #80#mutant N286D <80>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.7,dihydrolipoamide,Homo sapiens,#80# mutant enzyme N286D <80>; #80#mutant N286D <80>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.16,dihydrolipoamide,Homo sapiens,"#80# enzyme mutant C50T, pH 8.0, 37Â°C<136>; #80# enzyme mutant H329A, pH 8.0, 37Â°C <137>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.55,dihydrolipoamide,Homo sapiens,"#80# enzyme mutant P303A, pH 8.0, 37Â°C<135>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.027,dihydrolipoamide,Homo sapiens,"#80# enzyme mutant, pH 8.0, 37Â°C <131>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.2,dihydrolipoamide,Homo sapiens,#80# mutant enzyme N286Q <80>; #80#mutant N286Q <80>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.19,dihydrolipoamide,Homo sapiens,"#80# wild-type enzyme, pH 8.0, 37Â°C<137>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.22,dihydrolipoamide,Homo sapiens,"#80# enzyme mutant C50A, pH 8.0, 37Â°C<136>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.59,dihydrolipoamide,Homo sapiens,#80# mutant T148S <93>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.38,dihydrolipoamide,Homo sapiens,#80# wild-type <80>; #80# wild typeenzyme <80>; #80# mutant R281N <93>; #80# wild-type E3 <93>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.63,dihydrolipoamide,Homo sapiens,"#80# wild-type enzyme, pH 8.0, 37Â°C<131>; #80# enzyme mutant P156A, pH 8.0, 37Â°C <135>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,1.21,dihydrolipoamide,Homo sapiens,#80# mutant enzyme D320N <80>; #80#mutant D320N <80>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.018,dihydrolipoamide,Haloferax volcanii,"#84# pH 8.0, 37Â°C <123>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.023,dihydrolipoamide,Haloferax volcanii,"#84# pH 7.0, 30Â°C, mutant enzyme E423S<122>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.046,dihydrolipoamide,Haloferax volcanii,"#84# 37Â°C, pH 8.0 <121>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.0107,dihydrolipoamide,Haloferax volcanii,"#84# pH 7.0, 30Â°C, mutant enzyme E423A<122>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.0177,dihydrolipoamide,Haloferax volcanii,"#84# pH 7.0, 30Â°C, mutant enzymeE423Q, assay in the absence of KCI <122>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.0157,dihydrolipoamide,Haloferax volcanii,"#84# pH 7.0, 30Â°C, mutant enzymeE423D, assay in the absence of KCI <122>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.0266,dihydrolipoamide,Haloferax volcanii,"#84# pH 7.0, 30Â°C, mutant enzyme E423D<122>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.0274,dihydrolipoamide,Haloferax volcanii,"#84# pH 7.0, 30Â°C, wild-type enzyme,assay in the absence of KCI <122>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.0243,dihydrolipoamide,Haloferax volcanii,"#84# pH 7.0, 30Â°C, mutant enzymeE423A, assay in the absence of KCI <122>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.0228,dihydrolipoamide,Haloferax volcanii,"#84# pH 7.0, 30Â°C, mutant enzyme E423Q<122>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.0364,dihydrolipoamide,Haloferax volcanii,"#84# pH 7.0, 30Â°C, mutant enzymeE423S, assay in the absence of KCI <122>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.0269,dihydrolipoamide,Haloferax volcanii,"#84# pH 7.0, 30Â°C, wild-type enzyme<122>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,1404.7,dihydrolipoamide,Homo sapiens,"#80# wild-type enzyme, pH 8.0, 37Â°C<135>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,1296.8,dihydrolipoamide,Homo sapiens,"#80# enzyme mutant P156A, pH 8.0, 37Â°C<135>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,1143.6,dihydrolipoamide,Homo sapiens,"#80# enzyme mutant P303A, pH 8.0, 37Â°C<135>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.46,"2-phenyl-4,4,5,5-tetramethylimidazoline-1-oxyl-3-oxide",Bos taurus,"#11# in 50 mM Tris-HCl buffer (pH 7.6), at 37Â°C <107>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,1.45,"2-phenyl-4,4,5,5-tetramethylimidazoline-1-oxyl-3-oxide",Sus scrofa,"#9#in 50 mM Tris-HCl buffer (pH 7.6), at 37Â°C <107>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,1.42,glycerol trinitrate,Bos taurus,"#11# in 50 mM Tris-HCl buffer (pH7.6), at 37Â°C <107>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,16.93,glycerol trinitrate,Bos taurus,"#11# in the presence of superoxidedismutase, in 50 mM Tris-HCl buffer (pH 7.6), at 37Â°C <107>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.9,glycerol trinitrate,Sus scrofa,"#9# in 50 mM Tris-HCl buffer (pH 7.6),at 37Â°C <107>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,2.27,glycerol trinitrate,Sus scrofa,"#9# in the presence of superoxidedismutase, in 50 mM Tris-HCl buffer (pH 7.6), at 37Â°C <107>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,17.82,formaldoxime,Bos taurus,"#11# in 50 mM Tris-HCl buffer (pH 7.6), at37Â°C <107>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,15.83,formaldoxime,Bos taurus,"#11# in the presence of superoxidedismutase, in 50 mM Tris-HCl buffer (pH 7.6), at 37Â°C <107>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,2.73,formaldoxime,Sus scrofa,"#9# in 50 mM Tris-HCl buffer (pH 7.6), at37Â°C <107>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,17.18,formaldoxime,Sus scrofa,"#9# in the presence of superoxide dismutase,in 50 mM Tris-HCl buffer (pH 7.6), at 37Â°C <107>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.05,"1,4-Naphthoquinone",Mycolicibacterium smegmatis,
+1.8.1.4,Dihydrolipoyl dehydrogenase,1.3,Lipoamide,Mycolicibacterium smegmatis,
+1.8.1.4,Dihydrolipoyl dehydrogenase,5.8,Lipoamide,Mycobacterium tuberculosis,#36# reaction with thio-NADH <45>
+1.8.1.4,Dihydrolipoyl dehydrogenase,16.0,Lipoamide,Mycobacterium tuberculosis,#36# reaction with NADH <45>
+1.8.1.4,Dihydrolipoyl dehydrogenase,6.4,Lipoamide,Mycobacterium tuberculosis,#36# reaction with nicotinamide hypoxanthinedinucleotide <45>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.56,Lipoamide,Mycobacterium tuberculosis,#80# wild-type <80>; #80# wild type enzyme<80>; #36# reaction with 3-acetylpyridine adenine dinucleotide <45>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.56,Lipoamide,Homo sapiens,#80# wild-type <80>; #80# wild type enzyme<80>; #36# reaction with 3-acetylpyridine adenine dinucleotide <45>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.87,Lipoamide,Plasmodium falciparum,"#45# pH 8.0, 25Â°C, mitochondrial isozyme <53>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.841,Lipoamide,Plasmodium falciparum,"#45# pH 7.0, 25Â°C, recombinant His-taggedenzyme <130>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,3.7,Lipoamide,Syntrophotalea carbinolica,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.37,Lipoamide,Streptomyces seoulensis,
+1.8.1.4,Dihydrolipoyl dehydrogenase,3.38,Lipoamide,Glycine max,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.31,Lipoamide,Homo sapiens,#7# mutant enzyme E192Q <43>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.63,Lipoamide,Homo sapiens,#7# mutant enzyme S53K/K54S <43>
+1.8.1.4,Dihydrolipoyl dehydrogenase,2.25,Lipoamide,Homo sapiens,#7# wild-type enzyme <43>
+1.8.1.4,Dihydrolipoyl dehydrogenase,5.0,Lipoamide,Trypanosoma cruzi,#7# mutant enzyme K54E <43>
+1.8.1.4,Dihydrolipoyl dehydrogenase,5.0,Lipoamide,Homo sapiens,#7# mutant enzyme K54E <43>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.42,Lipoamide,Clostridium kluyveri,
+1.8.1.4,Dihydrolipoyl dehydrogenase,1.26,Lipoamide,Acidianus ambivalens,
+1.8.1.4,Dihydrolipoyl dehydrogenase,3.3,Lipoamide,Microbacterium luteolum,"#79# in the presence of 0.2 mM NAD+, in 50 mMpotassium phosphate buffer (pH 6.0), at 25Â°C <108>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.05,Lipoamide,Homo sapiens,#80# mutant enzyme N286Q <80>; #80# mutantN286Q <80>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.07,Lipoamide,Homo sapiens,#80# mutant enzyme N286D <80>; #80# mutantN286D <80>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.46,Lipoamide,Homo sapiens,#80# mutant enzyme D320N <80>; #80# mutantD320N <80>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.01,"1,4-benzoquinone",Mycolicibacterium smegmatis,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.4,"1,4-benzoquinone",Streptomyces seoulensis,
+1.8.1.4,Dihydrolipoyl dehydrogenase,4.7,dihydrolipoate,Mycolicibacterium smegmatis,
+1.8.1.4,Dihydrolipoyl dehydrogenase,2.9,lipoate,Mycolicibacterium smegmatis,
+1.8.1.4,Dihydrolipoyl dehydrogenase,120.0,lipoate,Mycobacterium tuberculosis,
+1.8.1.4,Dihydrolipoyl dehydrogenase,2.1,lipoic acid,Spinacia oleracea,
+1.8.1.4,Dihydrolipoyl dehydrogenase,2.15,lipoic acid,Streptomyces seoulensis,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.0215,NADH,Spinacia oleracea,
+1.8.1.4,Dihydrolipoyl dehydrogenase,6.2,NADH,Halobacterium salinarum,#23# reaction with lipoic acid <7>
+1.8.1.4,Dihydrolipoyl dehydrogenase,84.0,NADH,Halobacterium salinarum,#23# reaction with lipoamide <7>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.009,NADH,Ascaris suum,#33# NADH:NAD+ transhydrogenase activity <31>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.0085,NADH,Ascaris suum,"#33# NADH:2,6-dichlorophenol indophenol reductaseactivity <31>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.0073,NADH,Mycobacterium tuberculosis,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.161,NADH,Mycobacterium tuberculosis,"#36# reaction with 5-hydroxy-1,4-naphthoquinone<45>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.0084,NADH,Mycobacterium tuberculosis,#36# reaction with O2 <45>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.0041,NADH,Mycobacterium tuberculosis,#36# reaction with thio-NAD+ <45>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.156,NADH,Mycobacterium tuberculosis,"#36# reaction with 2,6-dimethyl-1,4-benzoquinone<45>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.27,NADH,Clostridium cylindrosporum,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.023,NADH,Trypanosoma cruzi,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.015,NADH,Plasmodium falciparum,"#45# pH 7.0, 25Â°C, recombinant His-tagged enzyme<130>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.021,NADH,Plasmodium falciparum,"#45# pH 8.0, 25Â°C, mitochondrial isozyme <53>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.09,NADH,Clostridium kluyveri,#47# native DiaA <100>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.15,NADH,Syntrophotalea carbinolica,#47# recombinant DiaA <100>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.15,NADH,Clostridium kluyveri,#47# recombinant DiaA <100>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.32,NADH,Acetivibrio thermocellus,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.047,NADH,Peptostreptococcus glycinophilus,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.058,NADH,Glycine max,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.071,NADH,Homo sapiens,#7# mutant enzyme E192Q <43>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.13,NADH,Homo sapiens,#7# mutant enzyme S53K/K54S <43>; #80# mutantenzyme N286D <80>; #80# mutant N286D <80>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.038,NADH,Clostridium kluyveri,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.25,NADH,Clostridium kluyveri,#70# in diaphorase activity <87>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.00315,NADH,Acidianus ambivalens,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.5,NADH,Moorella thermoacetica ATCC 39073,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.0061,NADH,Microbacterium luteolum,"#79# in 50 mM potassium phosphate buffer (pH 6.0),at 25Â°C <108>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.04,NADH,Homo sapiens,#80# wild-type <80>; #80# wild type enzyme <80>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.14,NADH,Homo sapiens,#80# mutant enzyme N286Q <80>; #80# mutant N286Q<80>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.24,NADH,Homo sapiens,#80# mutant enzyme D320N <80>; #80# mutant D320N<80>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.01,NADH,Sus scrofa,"#33# lipoamide dehydrogenase activity <31>; #9#nitric oxide reduction, pH 7.5 <61>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.01,NADH,Ascaris suum,"#33# lipoamide dehydrogenase activity <31>; #9#nitric oxide reduction, pH 7.5 <61>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.5,"(R,S)-lipoamide",Pisum sativum,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.027,lipoyl H-protein,Pisum sativum,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.10500000000000001,NAD+,Pisum sativum,#16# chloroplastic enzyme <34>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.63,NAD+,Pisum sativum,#16# mitochondrial enzyme <34>
+1.8.1.4,Dihydrolipoyl dehydrogenase,1.1,NAD+,Natronobacterium gregoryi,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.52,NAD+,Thermoplasma acidophilum,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.82,NAD+,Streptococcus pneumoniae,#31# recombinant DLDH expressed without without alipoyl protein domain <92>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.985,NAD+,Streptococcus pneumoniae,#31# recombinant DLDH expressed without lipoic acid<92>
+1.8.1.4,Dihydrolipoyl dehydrogenase,1.037,NAD+,Streptococcus pneumoniae,#31# recombinant DLDH <92>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.037,NAD+,Ascaris suum,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.5,NAD+,Clostridium cylindrosporum,#80# mutant R281N <93>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.5,NAD+,Clostridium kluyveri,#80# mutant R281N <93>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.5,NAD+,Homo sapiens,#80# mutant R281N <93>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.2,NAD+,Clostridium cylindrosporum,"#80# enzyme mutant C50T, pH 8.0, 37Â°C <136>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.2,NAD+,Homo sapiens,"#80# enzyme mutant C50T, pH 8.0, 37Â°C <136>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.28,NAD+,Trypanosoma cruzi,#80# mutant T148G <93>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.28,NAD+,Homo sapiens,#80# mutant T148G <93>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.045,NAD+,Plasmodium falciparum,"#45# pH 8.0, 25Â°C, mitochondrial isozyme <53>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.096,NAD+,Plasmodium falciparum,"#45# pH 8.0, 25Â°C, recombinant His-tagged enzyme<130>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.07,NAD+,Escherichia coli K-12,#56# native LPD <91>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.11,NAD+,Escherichia coli K-12,#56# mutant H322Y <91>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.08,NAD+,Escherichia coli K-12,"#84# pH 8.0, 37Â°C <123>; #56# mutant E354K <91>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.08,NAD+,Haloferax volcanii,"#84# pH 8.0, 37Â°C <123>; #56# mutant E354K <91>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,1.83,NAD+,Escherichia coli,#6# free dihydrolipoamide dehydrogenase <28>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.15,NAD+,Escherichia coli,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.15,NAD+,Saccharomyces cerevisiae,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.4,NAD+,Escherichia coli,#7# wild-type enzyme <43>; #6# complex-bounddihydrolipoamide dehydrogenase <28>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.4,NAD+,Homo sapiens,#7# wild-type enzyme <43>; #6# complex-bounddihydrolipoamide dehydrogenase <28>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.62,NAD+,Syntrophotalea carbinolica,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.06,NAD+,Homo sapiens,"#7# mutant P325A, pH 8.0, 37Â°C, presence of 1.5 mMEDTA <114>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.31,NAD+,Homo sapiens,#7# mutant enzyme E192Q <43>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.55,NAD+,Homo sapiens,#7# mutant enzyme S53K/K54S <43>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.32,NAD+,Homo sapiens,#7# native enzyme and mutant enzyme E457Q <42>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.38,NAD+,Homo sapiens,#7# mutant enzyme H452Q <42>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.25,NAD+,Homo sapiens,#7# mutant enzyme K37E <42>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.25,NAD+,Peptostreptococcus glycinophilus,#7# mutant enzyme K37E <42>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.19,NAD+,Homo sapiens,"#80# wild-type enzyme, pH 8.0, 37Â°C <131,135,136>;#7# mutant W366A, pH 8.0, 37Â°C, presence of 1.5 mM EDTA <114>; #7#wild-type, pH 8.0, 37Â°C, presence of 1.5 mM EDTA <114>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.71,NAD+,Acidianus ambivalens,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.16,NAD+,Homo sapiens,#80# mutant enzyme N286Q <80>; #80# mutant N286Q<80>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.3,NAD+,Homo sapiens,#80# mutant enzyme N286D <80>; #80# mutant N286D<80>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.22,NAD+,Homo sapiens,#80# wild-type <80>; #80# wild type enzyme <80>;#80# wild-type E3 <93>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.29,NAD+,Homo sapiens,"#80# mutant T148S <93>; #80# enzyme mutant H329A, pH8.0, 37Â°C <137>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.43,NAD+,Homo sapiens,#80# mutant R281K <93>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.34,NAD+,Homo sapiens,#80# mutant enzyme D320N <80>; #80# mutant D320N<80>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.47,NAD+,Homo sapiens,"#80# enzyme mutant C50A, pH 8.0, 37Â°C <136>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.024,NAD+,Homo sapiens,"#80# enzyme mutant, pH 8.0, 37Â°C <131>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.24,NAD+,Homo sapiens,"#80# enzyme mutant P156A, pH 8.0, 37Â°C <135>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.42,NAD+,Homo sapiens,"#80# enzyme mutant P303A, pH 8.0, 37Â°C <135>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.64,NAD+,Homo sapiens,"#80# wild-type enzyme, pH 8.0, 37Â°C <137>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.182,NAD+,Haloferax volcanii,"#84# pH 7.0, 30Â°C, mutant enzyme E423A, assay inthe absence of KCI <122>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.186,NAD+,Haloferax volcanii,"#84# pH 7.0, 30Â°C, wild-type enzyme, assay in theabsence of KCI <122>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.312,NAD+,Haloferax volcanii,"#84# pH 7.0, 30Â°C, mutant enzyme E423S, assay inthe absence of KCI <122>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.211,NAD+,Haloferax volcanii,"#84# pH 7.0, 30Â°C, mutant enzyme E423S <122>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.215,NAD+,Haloferax volcanii,"#84# pH 7.0, 30Â°C, mutant enzyme E423A <122>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.156,NAD+,Haloferax volcanii,"#84# 37Â°C, pH 8.0 <121>; #84# pH 7.0, 30Â°C,wild-type enzyme <122>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.288,NAD+,Haloferax volcanii,"#84# pH 7.0, 30Â°C, mutant enzyme E423Q, assay inthe absence of KCI <122>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.292,NAD+,Haloferax volcanii,"#84# pH 7.0, 30Â°C, mutant enzyme E423D, assay inthe absence of KCI <122>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.203,NAD+,Haloferax volcanii,"#84# pH 7.0, 30Â°C, mutant enzyme E423Q <122>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.199,NAD+,Haloferax volcanii,"#84# pH 7.0, 30Â°C, mutant enzyme E423D <122>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.89,NAD+,Homo sapiens,"#80# enzyme mutant C50A, pH 8.0, 37Â°C <136>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,2.3,NAD+,Homo sapiens,"#80# enzyme mutant C50T, pH 8.0, 37Â°C <136>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,4731.6,NAD+,Homo sapiens,"#80# wild-type enzyme, pH 8.0, 37Â°C <135,136>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,4731.6,NAD+,Homo sapiens,"#80# wild-type enzyme, pH 8.0, 37Â°C <135,136>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,3404.2,NAD+,Homo sapiens,"#80# enzyme mutant P156A, pH 8.0, 37Â°C <135>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,1497.6,NAD+,Homo sapiens,"#80# enzyme mutant P303A, pH 8.0, 37Â°C <135>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.11,thio-NADH,Mycobacterium tuberculosis,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.29,"5-hydroxy-1,4-naphthoquinone",Mycobacterium tuberculosis,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.39,3-acetylpyridine adenine dinucleotide,Mycobacterium tuberculosis,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.86,"2,6-dimethyl-1,4-benzoquinone",Mycobacterium tuberculosis,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.036,thio-NAD+,Mycobacterium tuberculosis,#36# reaction with NADH <45>
+1.8.1.4,Dihydrolipoyl dehydrogenase,2.6,nicotinamide hypoxanthine dinucleotide,Mycobacterium tuberculosis,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.83,NADP+,Clostridium cylindrosporum,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.5,nitrotetrazolium blue,Clostridium kluyveri,#47# recombinant DiaA <100>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.35,NADPH,Clostridium kluyveri,#47# recombinant DiaA <100>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.015,"2,6-dichlorophenolindophenol",Acetivibrio thermocellus,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.12,"2,6-dichlorophenolindophenol",Clostridium kluyveri,#70# in diaphorase activity<87>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.03,"2,6-dichlorophenolindophenol",Moorella thermoacetica ATCC 39073,
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.3,pyruvate,Escherichia coli K-12,#56# mutant E354K <91>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.4,pyruvate,Escherichia coli K-12,#56# native LPD <91>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.48,pyruvate,Escherichia coli K-12,#56# mutant H322Y <91>
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.029,ferrileghemoglobin,Glycine max,
+1.8.1.4,Dihydrolipoyl dehydrogenase,3.63,alpha-lipoamide,Starkeyomyces koorchalomoides,"#78# in 0.1 mM Tris-HCl (pH 7.0), 0.0005mM EDTA, 0.01 mM beta2-mercaptoethanol, at 37Â°C <105>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.0005,NO,Sus scrofa,"#9# nitric oxide reduction, pH 7.5 <61>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.12,S-nitrosoglutathione,Sus scrofa,"#9# in 50 mM Tris-HCl buffer (pH7.6), at 37Â°C <107>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.44,S-nitrosoglutathione,Sus scrofa,"#9# in the presence of superoxidedismutase, in 50 mM Tris-HCl buffer (pH 7.6), at 37Â°C <107>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.84,sodium nitroprusside,Sus scrofa,"#9# in 50 mM Tris-HCl buffer (pH7.6), at 37Â°C <107>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,2.26,sodium nitroprusside,Sus scrofa,"#9# in the presence of superoxidedismutase, in 50 mM Tris-HCl buffer (pH 7.6), at 37Â°C <107>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.42,S-nitroso-N-acetylpenicillamine,Sus scrofa,"#9# in 50 mM Tris-HClbuffer (pH 7.6), at 37Â°C <107>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,5.48,S-nitroso-N-acetylpenicillamine,Sus scrofa,"#9# in the presence ofsuperoxide dismutase, in 50 mM Tris-HCl buffer (pH 7.6), at 37Â°C <107>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,0.96,acetaldoxime,Sus scrofa,"#9# in 50 mM Tris-HCl buffer (pH 7.6), at37Â°C <107>"
+1.8.1.4,Dihydrolipoyl dehydrogenase,3.24,Hydroxylamine hydrochloride,Sus scrofa,"#9# in 50 mM Tris-HCl buffer(pH 7.6), at 37Â°C <107>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.017,ATP,Rattus norvegicus,
+6.2.1.5,Succinate-coa ligase (adp-forming),1.6,ATP,Glycine max,"#10# succinate <24>; #15# soluble enzyme <11,20>"
+6.2.1.5,Succinate-coa ligase (adp-forming),1.6,ATP,Rattus norvegicus,"#10# succinate <24>; #15# soluble enzyme <11,20>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.5,ATP,Spinacia oleracea,
+6.2.1.5,Succinate-coa ligase (adp-forming),0.08,ATP,Glycine max,#15# immobilized enzyme <20>
+6.2.1.5,Succinate-coa ligase (adp-forming),0.29,ATP,Calliphoridae,
+6.2.1.5,Succinate-coa ligase (adp-forming),0.4,ATP,Nitrosomonas europaea,
+6.2.1.5,Succinate-coa ligase (adp-forming),0.055,ATP,Escherichia coli K-12,"#41# pH 8.0, 30Â°C <36>; #55,59# recombinantenzyme, pH 7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.055,ATP,Columba livia,"#41# pH 8.0, 30Â°C <36>; #55,59# recombinantenzyme, pH 7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.005,ATP,Thermococcus kodakarensis,#45# at 55Â°C <43>
+6.2.1.5,Succinate-coa ligase (adp-forming),0.083,ATP,Advenella mimigardefordensis,"#51,52# pH 7.4, 30Â°C, recombinant sucCD <52>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.201,ATP,Advenella mimigardefordensis,"#57,60# recombinant enzyme, pH 7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.241,ATP,Alcanivorax borkumensis,"#58,61# recombinant enzyme, pH 7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.1,ATP,Escherichia coli,"#8# mutant enzyme C123ALPHAS, apparent value <40>; #8#mutant enzyme C123ALPHAT, apparent value <40>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.18,ATP,Escherichia coli,"#8# mutant enzyme C123ALPHAA, apparent value <40>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.09,ATP,Escherichia coli,"#8# mutant enzyme C123ALPHAV, apparent value <40>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.07,ATP,Escherichia coli,"#8# wild type enzyme, apparent value <40>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.137,ATP,Escherichia coli,"#8# pH 7.4, 22Â°C, mutant enzyme E197betaD <34>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.041,ATP,Escherichia coli,"#8# pH 7.4, 22Â°C, mutant enzyme E208alphaQ <34>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.0145,ATP,Escherichia coli,#8# adenosine 5Â´-tetraphosphate formation <29>
+6.2.1.5,Succinate-coa ligase (adp-forming),0.116,ATP,Escherichia coli,"#8# pH 7.4, 22Â°C, mutant enzyme E208alphaD <34>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.106,ATP,Escherichia coli,"#8# pH 7.4, 22Â°C, mutant enzyme E197betaQ <34>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.25,ATP,Homo sapiens,#9# at pH 8.0 and 37Â°C <58>
+6.2.1.5,Succinate-coa ligase (adp-forming),354.4,ATP,Escherichia coli K-12,"#55,59# recombinant enzyme, pH 7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),292.5,ATP,Advenella mimigardefordensis,"#57,60# recombinant enzyme, pH 7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),14.8,ATP,Alcanivorax borkumensis,"#58,61# recombinant enzyme, pH 7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.056,CoA,Rattus norvegicus,
+6.2.1.5,Succinate-coa ligase (adp-forming),0.1,CoA,Spinacia oleracea,
+6.2.1.5,Succinate-coa ligase (adp-forming),0.1,CoA,Nitrosomonas europaea,
+6.2.1.5,Succinate-coa ligase (adp-forming),0.032,CoA,Columba livia,"#41# pH 8.0, 30Â°C <36>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.06,CoA,Thermococcus kodakarensis,#45# at 55Â°C <43>
+6.2.1.5,Succinate-coa ligase (adp-forming),0.045,CoA,Advenella mimigardefordensis,"#51,52# pH 7.4, 30Â°C, recombinant sucCD <52>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.058,CoA,Escherichia coli K-12,"#55,59# recombinant enzyme, pH 7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.037,CoA,Advenella mimigardefordensis,"#57,60# recombinant enzyme, pH 7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.004,CoA,Alcanivorax borkumensis,"#58,61# recombinant enzyme, pH 7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.002,CoA,Escherichia coli,"#8# pH 7.4, 22Â°C, mutant enzyme E208alphaD <34>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.0018,CoA,Escherichia coli,"#8# pH 7.4, 22Â°C, mutant enzyme E197betaQ <34>"
+6.2.1.5,Succinate-coa ligase (adp-forming),20.0,CoA,Escherichia coli,"#8# mutant enzyme C123ALPHAV, apparent value <40>"
+6.2.1.5,Succinate-coa ligase (adp-forming),4.0,CoA,Escherichia coli,"#8# wild type enzyme, apparent value <40>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.0013,CoA,Escherichia coli,"#8# pH 7.4, 22Â°C, mutant enzyme E208alphaQ <34>"
+6.2.1.5,Succinate-coa ligase (adp-forming),17.0,CoA,Escherichia coli,"#8# mutant enzyme C123ALPHAA, apparent value <40>"
+6.2.1.5,Succinate-coa ligase (adp-forming),11.0,CoA,Escherichia coli,"#8# mutant enzyme C123ALPHAS, apparent value <40>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.0027,CoA,Escherichia coli,"#8# pH 7.4, 22Â°C, mutant enzyme E197betaD <34>"
+6.2.1.5,Succinate-coa ligase (adp-forming),29.0,CoA,Escherichia coli,"#8# mutant enzyme C123ALPHAT, apparent value <40>"
+6.2.1.5,Succinate-coa ligase (adp-forming),461.3,CoA,Escherichia coli K-12,"#55,59# recombinant enzyme, pH 7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),1100.0,CoA,Advenella mimigardefordensis,"#57,60# recombinant enzyme, pH 7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),372.3,CoA,Alcanivorax borkumensis,"#58,61# recombinant enzyme, pH 7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),1.5,succinate,Spinacia oleracea,
+6.2.1.5,Succinate-coa ligase (adp-forming),14.0,succinate,Glycine max,"#15# soluble enzyme <11,20>"
+6.2.1.5,Succinate-coa ligase (adp-forming),5.0,succinate,Glycine max,#15# immobilized enzyme <20>; #32# succinate<22>
+6.2.1.5,Succinate-coa ligase (adp-forming),5.0,succinate,Nitrosomonas europaea,#15# immobilized enzyme <20>; #32# succinate<22>
+6.2.1.5,Succinate-coa ligase (adp-forming),5.1,succinate,Columba livia,"#41# pH 8.0, 30Â°C <36>"
+6.2.1.5,Succinate-coa ligase (adp-forming),2.8,succinate,Thermococcus kodakarensis,#45# at 55Â°C <43>
+6.2.1.5,Succinate-coa ligase (adp-forming),0.9,succinate,Acetobacter aceti,"#49# pH 8.0, 25Â°C <46>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.143,succinate,Advenella mimigardefordensis,"#51,52# pH 7.4, 30Â°C, recombinant sucCD<52>"
+6.2.1.5,Succinate-coa ligase (adp-forming),1.33,succinate,Homo sapiens,#54# at pH 8.0 and 37Â°C <60>
+6.2.1.5,Succinate-coa ligase (adp-forming),0.141,succinate,Escherichia coli K-12,"#55,59# recombinant enzyme, pH 7.4, 30Â°C<53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.182,succinate,Advenella mimigardefordensis,"#57,60# recombinant enzyme, pH 7.4, 30Â°C<53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.157,succinate,Alcanivorax borkumensis,"#58,61# recombinant enzyme, pH 7.4, 30Â°C<53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.26,succinate,Escherichia coli,"#8# pH 7.4, 22Â°C, mutant enzyme E208alphaD <34>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.87,succinate,Escherichia coli,"#8# pH 7.4, 22Â°C, mutant enzyme E197betaD <34>"
+6.2.1.5,Succinate-coa ligase (adp-forming),1.3,succinate,Escherichia coli,"#8# mutant enzyme C123ALPHAV, apparent value<40>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.4,succinate,Escherichia coli,"#8# pH 7.4, 22Â°C, mutant enzyme E197betaQ <34>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.25,succinate,Escherichia coli,"#8# wild type enzyme, apparent value <40>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.8,succinate,Escherichia coli,"#8# mutant enzyme C123ALPHAS, apparent value<40>"
+6.2.1.5,Succinate-coa ligase (adp-forming),3.3,succinate,Escherichia coli,"#8# mutant enzyme C123ALPHAT, apparent value<40>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.71,succinate,Escherichia coli,"#8# mutant enzyme C123ALPHAA, apparent value<40>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.27,succinate,Escherichia coli,"#8# pH 7.4, 22Â°C, mutant enzyme E208alphaQ <34>"
+6.2.1.5,Succinate-coa ligase (adp-forming),101.4,succinate,Escherichia coli K-12,"#55,59# recombinant enzyme, pH 7.4, 30Â°C<53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),171.1,succinate,Advenella mimigardefordensis,"#57,60# recombinant enzyme, pH 7.4, 30Â°C<53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),17.2,succinate,Alcanivorax borkumensis,"#58,61# recombinant enzyme, pH 7.4, 30Â°C<53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.12,ADP,Calliphoridae,
+6.2.1.5,Succinate-coa ligase (adp-forming),0.25,ADP,Columba livia,"#41# pH 8.0, 30Â°C <36>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.0077,ADP,Thermococcus kodakarensis,#45# at 55Â°C <43>
+6.2.1.5,Succinate-coa ligase (adp-forming),0.01,coenzyme A,Calliphoridae,
+6.2.1.5,Succinate-coa ligase (adp-forming),0.024,succinyl-CoA,Calliphoridae,
+6.2.1.5,Succinate-coa ligase (adp-forming),0.041,succinyl-CoA,Columba livia,"#41# pH 8.0, 30Â°C <36>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.0221,succinyl-CoA,Acetobacter aceti,"#49# pH 8.0, 25Â°C <46>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.72,phosphate,Columba livia,"#41# pH 8.0, 30Â°C <36>"
+6.2.1.5,Succinate-coa ligase (adp-forming),1.4,phosphate,Thermococcus kodakarensis,#45# at 55Â°C <43>
+6.2.1.5,Succinate-coa ligase (adp-forming),70.0,acetate,Acetobacter aceti,"#49# pH 8.0, 25Â°C <46>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.0223,acetyl-CoA,Acetobacter aceti,"#49# pH 8.0, 25Â°C <46>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.448,Itaconate,Advenella mimigardefordensis,"#51,52# pH 7.4, 30Â°C, recombinant sucCD<52>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.818,Itaconate,Advenella mimigardefordensis,"#51,52# pH 7.4, 30Â°C, recombinant sucCD<52>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.475,Itaconate,Escherichia coli K-12,"#55,59# recombinant enzyme, pH 7.4, 30Â°C<53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.351,Itaconate,Advenella mimigardefordensis,"#57,60# recombinant enzyme, pH 7.4, 30Â°C<53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),1.509,Itaconate,Alcanivorax borkumensis,"#58,61# recombinant enzyme, pH 7.4, 30Â°C<53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),3.3,Itaconate,Escherichia coli K-12,"#55,59# recombinant enzyme, pH 7.4, 30Â°C<53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),15.1,Itaconate,Advenella mimigardefordensis,"#57,60# recombinant enzyme, pH 7.4, 30Â°C<53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),3.1,Itaconate,Alcanivorax borkumensis,"#58,61# recombinant enzyme, pH 7.4, 30Â°C<53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),1.75,3-sulfinopropionate,Escherichia coli K-12,"#55,59# recombinant enzyme, pH7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),2.964,3-sulfinopropionate,Advenella mimigardefordensis,"#57,60# recombinant enzyme, pH7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.1,3-sulfinopropionate,Escherichia coli K-12,"#55,59# recombinant enzyme, pH 7.4,30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),1.0,3-sulfinopropionate,Advenella mimigardefordensis,"#57,60# recombinant enzyme, pH 7.4,30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),2.558,L-malate,Escherichia coli K-12,"#55,59# recombinant enzyme, pH 7.4, 30Â°C<53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),3.095,L-malate,Advenella mimigardefordensis,"#57,60# recombinant enzyme, pH 7.4, 30Â°C<53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),3.27,L-malate,Alcanivorax borkumensis,"#58,61# recombinant enzyme, pH 7.4, 30Â°C<53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.7,L-malate,Escherichia coli K-12,"#55,59# recombinant enzyme, pH 7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.8,L-malate,Advenella mimigardefordensis,"#57,60# recombinant enzyme, pH 7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.3,L-malate,Alcanivorax borkumensis,"#58,61# recombinant enzyme, pH 7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),3.635,D-malate,Escherichia coli K-12,"#55,59# recombinant enzyme, pH 7.4, 30Â°C<53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),3.588,D-malate,Advenella mimigardefordensis,"#57,60# recombinant enzyme, pH 7.4, 30Â°C<53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),4.243,D-malate,Alcanivorax borkumensis,"#58,61# recombinant enzyme, pH 7.4, 30Â°C<53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.3,D-malate,Escherichia coli K-12,"#55,59# recombinant enzyme, pH 7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.6,D-malate,Advenella mimigardefordensis,"#57,60# recombinant enzyme, pH 7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.4,D-malate,Alcanivorax borkumensis,"#58,61# recombinant enzyme, pH 7.4, 30Â°C <53>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.063,GTP,Escherichia coli,"#8# pH 7.4, 22Â°C, mutant enzyme E208alphaD <34>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.02,GTP,Escherichia coli,"#8# pH 7.4, 22Â°C, mutant enzyme E197betaQ <34>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.011,GTP,Escherichia coli,"#8# pH 7.4, 22Â°C, mutant enzyme E208alphaQ <34>"
+6.2.1.5,Succinate-coa ligase (adp-forming),0.311,GTP,Escherichia coli,"#8# pH 7.4, 22Â°C, mutant enzyme E197betaD <34>"
+1.3.5.1,Succinate dehydrogenase,-999.0,fumarate,Escherichia coli,"#10# with menaquinone EC 1.3.5.4, succinateoxidation: 0.003 mM, pH 7.8, 30Â°C <87>"
+1.3.5.1,Succinate dehydrogenase,0.005,fumarate,Escherichia coli,"#10# succinate oxidation, pH 7.8, 30Â°C <87>"
+1.3.5.1,Succinate dehydrogenase,0.55,fumarate,Escherichia coli,
+1.3.5.1,Succinate dehydrogenase,0.025,fumarate,Bos taurus,"#15# fumarate reduction, Km of fumarate doesnot depend on concentration of quinol <34>"
+1.3.5.1,Succinate dehydrogenase,0.15,fumarate,Bos taurus,#15# succinate oxidation <34>
+1.3.5.1,Succinate dehydrogenase,0.143,fumarate,Ascaris suum,#30# complex II from adult nematode <35>
+1.3.5.1,Succinate dehydrogenase,0.455,fumarate,Ascaris suum,#30# complex II from larvae <35>
+1.3.5.1,Succinate dehydrogenase,0.1,fumarate,Rhodothermus marinus,"#37# 65Â°C, pH 6.5 <187>"
+1.3.5.1,Succinate dehydrogenase,0.35,fumarate,Wolinella succinogenes,#48# donor menadiol <9>
+1.3.5.1,Succinate dehydrogenase,0.0149,fumarate,Desulfobulbus elongatus,
+1.3.5.1,Succinate dehydrogenase,0.08,fumarate,Acidianus ambivalens,"#51# pH 6.5, 70Â°C, detergent treated membranesfrom anaerobic growth <201>"
+1.3.5.1,Succinate dehydrogenase,0.06,fumarate,Acidianus ambivalens,"#51# pH 6.5, 70Â°C, detergent treatedmembranes from aerobic growth <201>; #84# pH 6.5, 70Â°C, determined foractivity in membranes from aerobic growth <201>"
+1.3.5.1,Succinate dehydrogenase,0.06,ubiquinone,Escherichia coli,"#10# pH 8.0, 25Â°C, recombinant subunit SDHDmutant Q78L <122>"
+1.3.5.1,Succinate dehydrogenase,0.1,ubiquinone,Escherichia coli,"#10# pH 8.0, 25Â°C, recombinant subunit SDHCmutant E101D <122>"
+1.3.5.1,Succinate dehydrogenase,0.16,ubiquinone,Escherichia coli,"#10# pH 7.0, 25Â°C, recombinant subunit SDHB/Cmutant G227L/D95L <122>"
+1.3.5.1,Succinate dehydrogenase,0.012,ubiquinone,Escherichia coli,#10# mutant H71Y <160>
+1.3.5.1,Succinate dehydrogenase,0.013,ubiquinone,Escherichia coli,#10# mutant H71Y/A72C <160>
+1.3.5.1,Succinate dehydrogenase,0.027,ubiquinone,Escherichia coli,"#10# mutant E29L, pH 7.9, 30Â°C <112>"
+1.3.5.1,Succinate dehydrogenase,0.09,ubiquinone,Escherichia coli,"#10# pH 8.0, 25Â°C, recombinant subunit SDHBmutant G227L <122>; #10# pH 8.0, 25Â°C, recombinant subunit SDHC mutantE101L <122>"
+1.3.5.1,Succinate dehydrogenase,0.07,ubiquinone,Escherichia coli,"#10# wild-type, pH 7.9, 30Â°C <112>; #10# pH8.0, 25Â°C, recombinant subunit SDHC mutant D95L <122>"
+1.3.5.1,Succinate dehydrogenase,0.2,ubiquinone,Escherichia coli,"#10# pH 7.0, 25Â°C, recombinant subunit SDHB/Cmutant G227L/D95E <122>"
+1.3.5.1,Succinate dehydrogenase,0.0025,ubiquinone,Escherichia coli,#10# wild-type SQR <160>
+1.3.5.1,Succinate dehydrogenase,0.01,ubiquinone,Escherichia coli,"#10# mutant H71Y <160>; #10# mutant E29F, pH7.9, 30Â°C <112>"
+1.3.5.1,Succinate dehydrogenase,0.15,ubiquinone,Escherichia coli,"#10# pH 8.0, 25Â°C, recombinant wild-typeenzyme <122>"
+1.3.5.1,Succinate dehydrogenase,0.13,ubiquinone,Escherichia coli,"#10# pH 8.0, 25Â°C, recombinant subunit SDHCmutant D95E <122>"
+1.3.5.1,Succinate dehydrogenase,0.014,ubiquinone,Paracoccus denitrificans,#4# mutant enzyme <41>
+1.3.5.1,Succinate dehydrogenase,0.017,ubiquinone,Paracoccus denitrificans,#4# wild-type enzyme <41>
+1.3.5.1,Succinate dehydrogenase,0.16,reduced plumbagin,Escherichia coli,"#10# pH 8.0, 25Â°C, recombinant subunitSDHC mutant D95L <122>"
+1.3.5.1,Succinate dehydrogenase,0.17,reduced plumbagin,Escherichia coli,"#10# pH 8.0, 25Â°C, recombinantwild-type enzyme <122>"
+1.3.5.1,Succinate dehydrogenase,0.11,reduced plumbagin,Escherichia coli,"#10# pH 8.0, 25Â°C, recombinant subunitSDHC mutant E101L <122>; #10# pH 8.0, 25Â°C, recombinant subunit SDHDmutant Q78L <122>"
+1.3.5.1,Succinate dehydrogenase,0.14,reduced plumbagin,Escherichia coli,"#10# pH 8.0, 25Â°C, recombinant subunitSDHC mutant E101D <122>"
+1.3.5.1,Succinate dehydrogenase,0.19,reduced plumbagin,Escherichia coli,"#10# pH 8.0, 25Â°C, recombinant subunitSDHC mutant D95E <122>"
+1.3.5.1,Succinate dehydrogenase,0.13,reduced plumbagin,Escherichia coli,"#10# pH 8.0, 25Â°C, recombinant subunitSDHB mutant G227L <122>"
+1.3.5.1,Succinate dehydrogenase,0.128,reduced plumbagin,Escherichia coli,"#10# pH 7.0, 25Â°C, recombinant subunitSDHB/C mutant G227L/D95E <122>"
+1.3.5.1,Succinate dehydrogenase,0.124,reduced plumbagin,Escherichia coli,"#10# pH 7.0, 25Â°C, recombinant subunitSDHB/C mutant G227L/D95L <122>"
+1.3.5.1,Succinate dehydrogenase,0.003,"2,3-dimethoxy-5-methyl-1,4-benzoquinone",Escherichia coli,#10# value below<18>
+1.3.5.1,Succinate dehydrogenase,0.002,succinate,Escherichia coli,"#10# fumarate reduction, pH 7.8, 30Â°C <87>"
+1.3.5.1,Succinate dehydrogenase,0.04,succinate,Escherichia coli,"#10# 30Â°C, pH 7.8, H84L mutant <91>"
+1.3.5.1,Succinate dehydrogenase,0.0025,succinate,Escherichia coli,"#10# 30Â°C, pH 7.8 <91>"
+1.3.5.1,Succinate dehydrogenase,0.02,succinate,Escherichia coli,
+1.3.5.1,Succinate dehydrogenase,0.02,succinate,Bos taurus,
+1.3.5.1,Succinate dehydrogenase,0.167,succinate,Rattus norvegicus,"#12# succinate with papyriferic acid 0.08 mM,pH 7.4, 25Â°C <177>"
+1.3.5.1,Succinate dehydrogenase,0.414,succinate,Rattus norvegicus,"#12# succinate alone, pH 7.4, 25Â°C <177>"
+1.3.5.1,Succinate dehydrogenase,0.03,succinate,Bos taurus,#15# fumarate reduction <34>
+1.3.5.1,Succinate dehydrogenase,0.1,succinate,Bos taurus,
+1.3.5.1,Succinate dehydrogenase,1.5,succinate,Bos taurus,
+1.3.5.1,Succinate dehydrogenase,0.13,succinate,Bos taurus,"#15# succinate oxidation, determined at 0.01 mMubiquinone-2 <34>"
+1.3.5.1,Succinate dehydrogenase,0.303,succinate,Bos taurus,"#15# succinate alone, pH 7.4, 25Â°C <177>"
+1.3.5.1,Succinate dehydrogenase,0.165,succinate,Rhodothermus marinus,"#15# succinate with papyriferic acid 0.04mM, pH 7.4, 25Â°C <177>; #37# 65Â°C, pH 6.5 <187>"
+1.3.5.1,Succinate dehydrogenase,0.165,succinate,Bos taurus,"#15# succinate with papyriferic acid 0.04mM, pH 7.4, 25Â°C <177>; #37# 65Â°C, pH 6.5 <187>"
+1.3.5.1,Succinate dehydrogenase,0.3,succinate,Acidianus ambivalens,"#51# pH 6.5, 70Â°C, detergent treatedmembranes from anaerobic growth <201>"
+1.3.5.1,Succinate dehydrogenase,0.3,succinate,Bos taurus,"#51# pH 6.5, 70Â°C, detergent treatedmembranes from anaerobic growth <201>"
+1.3.5.1,Succinate dehydrogenase,0.7,succinate,Halobacterium salinarum,#25# membrane bound enzyme <60>
+1.3.5.1,Succinate dehydrogenase,2.3,succinate,Halobacterium salinarum,#25# soluble enzyme <60>
+1.3.5.1,Succinate dehydrogenase,0.12,succinate,Mycolicibacterium phlei,
+1.3.5.1,Succinate dehydrogenase,0.608,succinate,Ascaris suum,#30# complex II from adult nematode <35>
+1.3.5.1,Succinate dehydrogenase,0.153,succinate,Ascaris suum,#30# complex II from larvae <35>
+1.3.5.1,Succinate dehydrogenase,0.25,succinate,Corynebacterium glutamicum,"#32# 30Â°C, pH 7.0 <101>"
+1.3.5.1,Succinate dehydrogenase,0.27,succinate,Paracoccus denitrificans,#4# for both membrane fragments andmitochondrial enzyme <7>
+1.3.5.1,Succinate dehydrogenase,0.28,succinate,Sulfolobus sp.,"#41# pH 6.8, 50Â°C <120>"
+1.3.5.1,Succinate dehydrogenase,0.29,succinate,Ipomoea batatas,
+1.3.5.1,Succinate dehydrogenase,20.0,succinate,Wolinella succinogenes,
+1.3.5.1,Succinate dehydrogenase,0.023,succinate,Desulfobulbus elongatus,
+1.3.5.1,Succinate dehydrogenase,0.5,succinate,Acidianus ambivalens,"#51# pH 6.5, 70Â°C, detergent treatedmembranes from aerobic growth <201>; #84# pH 6.5, 70Â°C, determined foractivity in membranes from aerobic growth <201>"
+1.3.5.1,Succinate dehydrogenase,0.138,succinate,Oryctolagus sp.,"#70# succinate with papyriferic acid 0.04 mM,pH 7.4, 25Â°C <177>"
+1.3.5.1,Succinate dehydrogenase,0.339,succinate,Oryctolagus sp.,"#70# succinate alone, pH 7.4, 25Â°C <177>"
+1.3.5.1,Succinate dehydrogenase,0.049,succinate,Plasmodium yoelii yoelii,
+1.3.5.1,Succinate dehydrogenase,1.42,succinate,Sulfolobus acidocaldarius,"#80# pH 6.5, 55Â°C <119>"
+1.3.5.1,Succinate dehydrogenase,0.21,succinate,Thermus thermophilus,"#9# pH 7.6, 30Â°C <202>"
+1.3.5.1,Succinate dehydrogenase,0.0658,succinate,Mycolicibacterium smegmatis,"#91# pH 7.4, 37Â°C, recombinant Sdh2 <222>"
+1.3.5.1,Succinate dehydrogenase,0.009,ubiquinone-2,Escherichia coli,#10# R19A and F20L mutants <40>
+1.3.5.1,Succinate dehydrogenase,0.01,ubiquinone-2,Escherichia coli,#10# S33T mutant <40>
+1.3.5.1,Succinate dehydrogenase,0.0089,ubiquinone-2,Escherichia coli,#10# S33C mutant <40>
+1.3.5.1,Succinate dehydrogenase,0.0102,ubiquinone-2,Escherichia coli,#10# T17A mutant <40>
+1.3.5.1,Succinate dehydrogenase,0.0114,ubiquinone-2,Escherichia coli,#10# S33A mutant <40>
+1.3.5.1,Succinate dehydrogenase,0.0108,ubiquinone-2,Escherichia coli,#10# wild-type and T23A mutant <40>
+1.3.5.1,Succinate dehydrogenase,0.0106,ubiquinone-2,Escherichia coli,#10# H30A mutant <40>
+1.3.5.1,Succinate dehydrogenase,0.0005,ubiquinone-2,Bos taurus,
+1.3.5.1,Succinate dehydrogenase,0.00017,ubiquinone-2,Plasmodium yoelii yoelii,#73# differences in Km value (9fold) andVmax/Km ratio (19fold) between Q1 and Q2 indicate that the 6-polyprenyltail of the ubiquinone ring contributes to the binding affinity andthat Q2 is better substrate than Q1 <171>
+1.3.5.1,Succinate dehydrogenase,0.3,ferricyanide,Escherichia coli,
+1.3.5.1,Succinate dehydrogenase,0.3,ferricyanide,Bos taurus,
+1.3.5.1,Succinate dehydrogenase,0.003,"2,6-dichlorophenol indophenol",Saccharomyces cerevisiae,"#14# 22Â°C, wild-typestrain YPH499 <124>"
+1.3.5.1,Succinate dehydrogenase,0.007,"2,6-dichlorophenol indophenol",Saccharomyces cerevisiae,"#14# 22Â°C, Sdh3p/Sdh4pdouble mutant strain H106A/C78A <124>"
+1.3.5.1,Succinate dehydrogenase,0.015,"2,3-Dimethoxy-5-methyl-6-decyl-1,4-benzoquinone",Saccharomyces cerevisiae,#14#H113Q mutant <51>
+1.3.5.1,Succinate dehydrogenase,0.018,"2,3-Dimethoxy-5-methyl-6-decyl-1,4-benzoquinone",Saccharomyces cerevisiae,#14#W116R mutant <51>
+1.3.5.1,Succinate dehydrogenase,0.01,"2,3-Dimethoxy-5-methyl-6-decyl-1,4-benzoquinone",Saccharomyces cerevisiae,#14#F103V mutant <51>
+1.3.5.1,Succinate dehydrogenase,0.011,"2,3-Dimethoxy-5-methyl-6-decyl-1,4-benzoquinone",Saccharomyces cerevisiae,#14#L122stop mutant <51>
+1.3.5.1,Succinate dehydrogenase,0.007,"2,3-Dimethoxy-5-methyl-6-decyl-1,4-benzoquinone",Saccharomyces cerevisiae,#14#H106Y mutant <51>
+1.3.5.1,Succinate dehydrogenase,0.0037,"2,3-Dimethoxy-5-methyl-6-decyl-1,4-benzoquinone",Saccharomyces cerevisiae,#14#22Â°C <90>
+1.3.5.1,Succinate dehydrogenase,0.0034,"2,3-Dimethoxy-5-methyl-6-decyl-1,4-benzoquinone",Saccharomyces cerevisiae,#14#22Â°C <95>
+1.3.5.1,Succinate dehydrogenase,0.0073,"2,3-Dimethoxy-5-methyl-6-decyl-1,4-benzoquinone",Saccharomyces cerevisiae,#14#H106L/D117V mutant <51>
+1.3.5.1,Succinate dehydrogenase,0.0048,"2,3-Dimethoxy-5-methyl-6-decyl-1,4-benzoquinone",Saccharomyces cerevisiae,#14#wild-type <51>
+1.3.5.1,Succinate dehydrogenase,2.2,L-malate,Bos taurus,
+1.3.5.1,Succinate dehydrogenase,1.5,D-malate,Bos taurus,
+1.3.5.1,Succinate dehydrogenase,0.011,decylubiquinone,Bacillus cereus,"#28# pH 7.6, 30Â°C <186>"
+1.3.5.1,Succinate dehydrogenase,0.003,ubiquinone-1,Ascaris suum,#30# larval and adult complex II <35>
+1.3.5.1,Succinate dehydrogenase,0.02,ubiquinone-1,Sulfolobus sp.,"#41# pH 6.8, 50Â°C <120>"
+1.3.5.1,Succinate dehydrogenase,0.0016,ubiquinone-1,Plasmodium yoelii yoelii,
+1.3.5.1,Succinate dehydrogenase,0.11,phenazine methosulfate,Rhodospirillum rubrum,
+1.3.5.1,Succinate dehydrogenase,0.48,phenazine methosulfate,Mammalia,
+1.3.5.1,Succinate dehydrogenase,0.48,phenazine methosulfate,Bos taurus,
+1.3.5.1,Succinate dehydrogenase,0.06,caldariellaquinone,Sulfolobus sp.,"#41# pH 6.8, 50Â°C <120>"
+1.3.5.1,Succinate dehydrogenase,0.18,caldariellaquinone,Sulfolobus acidocaldarius,"#80# pH 6.5, 55Â°C <119>"
+1.3.5.1,Succinate dehydrogenase,0.089,"oxidized 2,6-dichlorophenolindophenol",Sulfolobus sp.,"#41# pH 6.8, 50Â°C<120>"
+1.3.5.1,Succinate dehydrogenase,0.0654,"oxidized 2,6-dichlorophenolindophenol",Sulfolobus acidocaldarius,"#80# pH 6.5, 55Â°C<119>"
+1.3.5.1,Succinate dehydrogenase,1.14,ferrocyanide,Sulfolobus acidocaldarius,"#80# pH 6.5, 55Â°C <119>"
+1.3.5.1,Succinate dehydrogenase,0.295,oxidized phenazine methosulfate,Sulfolobus acidocaldarius,"#80# pH 6.5, 55Â°C <119>"
+1.3.5.1,Succinate dehydrogenase,0.0991,"oxidized N,N,N',N'-tetramethyl-4-phenylenediamine",Sulfolobus acidocaldarius,"#80#pH 6.5, 55Â°C <119>"
+4.2.1.2,Fumarate hydratase,0.25,fumarate,Bacteria,
+4.2.1.2,Fumarate hydratase,0.125,fumarate,Saccharolobus solfataricus,"#22# pH 7.5, 70Â°C <23>"
+4.2.1.2,Fumarate hydratase,1.3,fumarate,Leishmania major,"#29# pH 8.7, temperature not specified in thepublication, aerobic condition, Vmax: 1.8 micromol/min/mg <85>"
+4.2.1.2,Fumarate hydratase,1.9,fumarate,Leishmania major,"#29# pH 9, temperature not specified in thepublication, aerobic condition, Vmax: 44.3 micromol/min/mg <85>"
+4.2.1.2,Fumarate hydratase,2.5,fumarate,Leishmania major,"#29# pH 8.7, temperature not specified in thepublication, anaerobic condition, Vmax: 26.4 micromol/min/mg <85>"
+4.2.1.2,Fumarate hydratase,5.7,fumarate,Leishmania major,"#29# pH 9, temperature not specified in thepublication, anaerobic condition, Vmax: 186 micromol/min/mg <85>"
+4.2.1.2,Fumarate hydratase,8.8,fumarate,Campylobacter jejuni,"#31# pH 7.4, 37Â°C <32>"
+4.2.1.2,Fumarate hydratase,0.43,fumarate,Pelotomaculum thermopropionicum,"#39# pH 7.0, 55Â°C <55>"
+4.2.1.2,Fumarate hydratase,0.6,fumarate,Escherichia coli,#4# fumarase A <27>
+4.2.1.2,Fumarate hydratase,1.7,fumarate,Escherichia coli,#4# enzyme form FUMB <4>
+4.2.1.2,Fumarate hydratase,0.32,fumarate,Escherichia coli,"#4# pH 8, 37Â°C, Vmax: 1430 micromol/minute/mg/<88>"
+4.2.1.2,Fumarate hydratase,0.15,fumarate,Escherichia coli,#4# enzyme form FUMA <4>
+4.2.1.2,Fumarate hydratase,0.39,fumarate,Escherichia coli,#4# enzyme form FUMC <4>
+4.2.1.2,Fumarate hydratase,0.46,fumarate,Escherichia coli,"#4# pH 8, 37Â°C, Vmax: 1900 micromol/minute/mg/<88>"
+4.2.1.2,Fumarate hydratase,0.67,fumarate,Corynebacterium glutamicum,"#40# MES-NaOH buffer, pH 7.0 <53>"
+4.2.1.2,Fumarate hydratase,3.1,fumarate,Corynebacterium glutamicum,"#40# phosphate buffer, pH 6.0 <53>"
+4.2.1.2,Fumarate hydratase,0.81,fumarate,Corynebacterium glutamicum,"#40# MES-NaOH buffer, pH 6.0 <53>"
+4.2.1.2,Fumarate hydratase,0.38,fumarate,Corynebacterium glutamicum,"#40# MES-NaOH buffer, pH 7.0 <53>"
+4.2.1.2,Fumarate hydratase,4.2,fumarate,Corynebacterium glutamicum,"#40# phosphate buffer, pH 6.0 <53>"
+4.2.1.2,Fumarate hydratase,3.8,fumarate,Corynebacterium glutamicum,"#40# phosphate buffer, pH 7.0 <53>"
+4.2.1.2,Fumarate hydratase,0.7,fumarate,Arabidopsis thaliana,"#41# pH 8.0, 30Â°C <95>"
+4.2.1.2,Fumarate hydratase,0.5,fumarate,Arabidopsis thaliana,"#42# pH 7.7, 30Â°C <95>; #41# presence of 3 mMoxalacetate, pH 8.0, 30Â°C <95>; #42# presence of 3 mM oxaloacetate, pH8.0, 30Â°C <95>"
+4.2.1.2,Fumarate hydratase,0.4,fumarate,Arabidopsis thaliana,"#42# pH 7.7, 30Â°C <95>"
+4.2.1.2,Fumarate hydratase,3.07,fumarate,Rhizopus arrhizus,"#43# pH 7.4, 30Â°C, recombinant enzyme <78>"
+4.2.1.2,Fumarate hydratase,0.28,fumarate,Escherichia coli,"#45# pH 6.9, 37Â°C <101>; #45# 37Â°C, pH 6.9<101>"
+4.2.1.2,Fumarate hydratase,0.34,fumarate,Pyrococcus furiosus,"#50# pH 8, 75Â°C <89>"
+4.2.1.2,Fumarate hydratase,0.1,fumarate,Paraburkholderia xenovorans,"#51# pH 8.0, 30Â°C <92>; #51# pH 6.9, 30Â°C <92>"
+4.2.1.2,Fumarate hydratase,0.138,fumarate,Paraburkholderia xenovorans,"#52# pH 8.0, 30Â°C <92>; #52# pH 6.9, 30Â°C <92>"
+4.2.1.2,Fumarate hydratase,0.21,fumarate,Escherichia coli K-12,"#53# pH 6.9, 37Â°C <101>; #60# 37Â°C, pH 6.9<101>"
+4.2.1.2,Fumarate hydratase,0.21,fumarate,Escherichia coli,"#53# pH 6.9, 37Â°C <101>; #60# 37Â°C, pH 6.9<101>"
+4.2.1.2,Fumarate hydratase,0.9,fumarate,Escherichia coli,"#61# pH 6.9, 37Â°C <101>; #54# 37Â°C, pH 6.9<101>"
+4.2.1.2,Fumarate hydratase,0.094,fumarate,Escherichia coli,"#55# pH 6.9, 37Â°C <101>; #55# 37Â°C, pH 6.9<101>"
+4.2.1.2,Fumarate hydratase,0.013,fumarate,Rattus norvegicus,#6# cytosolic enzyme <10>
+4.2.1.2,Fumarate hydratase,0.005,fumarate,Sus scrofa,
+4.2.1.2,Fumarate hydratase,0.031,fumarate,Euglena gracilis,
+4.2.1.2,Fumarate hydratase,4200.0,fumarate,Escherichia coli,"#4# pH 8, 37Â°C <88>"
+4.2.1.2,Fumarate hydratase,4500.0,fumarate,Escherichia coli,"#4# pH 8, 37Â°C <88>"
+4.2.1.2,Fumarate hydratase,30.0,fumarate,Arabidopsis thaliana,"#41# pH 8.0, 30Â°C <95>"
+4.2.1.2,Fumarate hydratase,8.5,fumarate,Arabidopsis thaliana,"#41# presence of 3 mM oxalacetate, pH 8.0, 30Â°C<95>"
+4.2.1.2,Fumarate hydratase,57.6,fumarate,Arabidopsis thaliana,"#42# pH 7.7, 30Â°C <95>"
+4.2.1.2,Fumarate hydratase,9.7,fumarate,Arabidopsis thaliana,"#42# presence of 3 mM oxaloacetate, pH 8.0, 30Â°C<95>"
+4.2.1.2,Fumarate hydratase,36.6,fumarate,Arabidopsis thaliana,"#42# pH 7.7, 30Â°C <95>"
+4.2.1.2,Fumarate hydratase,3500.0,fumarate,Escherichia coli,"#45# 37Â°C, pH 6.9 <101>; #45# pH 6.9, 37Â°C<101>"
+4.2.1.2,Fumarate hydratase,3200.0,fumarate,Pyrococcus furiosus,"#50# pH 8, 75Â°C <89>"
+4.2.1.2,Fumarate hydratase,2800.0,fumarate,Paraburkholderia xenovorans,"#51# pH 8.0, 30Â°C <92>; #51# pH 6.9, 30Â°C <92>"
+4.2.1.2,Fumarate hydratase,2200.0,fumarate,Paraburkholderia xenovorans,"#52# pH 8.0, 30Â°C <92>; #52# pH 6.9, 30Â°C <92>"
+4.2.1.2,Fumarate hydratase,3120.0,fumarate,Escherichia coli K-12,"#60# 37Â°C, pH 6.9 <101>; #53# pH 6.9, 37Â°C<101>"
+4.2.1.2,Fumarate hydratase,3120.0,fumarate,Escherichia coli,"#60# 37Â°C, pH 6.9 <101>; #53# pH 6.9, 37Â°C<101>"
+4.2.1.2,Fumarate hydratase,750.0,fumarate,Escherichia coli,"#54# 37Â°C, pH 6.9 <101>; #61# pH 6.9, 37Â°C<101>"
+4.2.1.2,Fumarate hydratase,6600.0,fumarate,Escherichia coli,"#55# 37Â°C, pH 6.9 <101>; #55# pH 6.9, 37Â°C<101>"
+4.2.1.2,Fumarate hydratase,2.38,L-malate,Bacteria,
+4.2.1.2,Fumarate hydratase,15.0,L-malate,Streptomyces lividans,"#28# pH 7.3, 40Â°C <86>"
+4.2.1.2,Fumarate hydratase,6.7,L-malate,Streptomyces lividans,"#28# pH 6.5, 40Â°C <86>"
+4.2.1.2,Fumarate hydratase,57.0,L-malate,Streptomyces lividans,"#28# pH 8, 40Â°C <86>"
+4.2.1.2,Fumarate hydratase,2.0,L-malate,Homo sapiens,"#37# mutant H318Y, pH 7.4, 23Â°C <96>"
+4.2.1.2,Fumarate hydratase,1.1,L-malate,Homo sapiens,"#37# mutant A308T, pH 7.4, 23Â°C <96>"
+4.2.1.2,Fumarate hydratase,1.9,L-malate,Homo sapiens,"#42# pH 8.2, 30Â°C <95>; #37# wild-type, pH7.4, 23Â°C <96>"
+4.2.1.2,Fumarate hydratase,1.9,L-malate,Arabidopsis thaliana,"#42# pH 8.2, 30Â°C <95>; #37# wild-type, pH7.4, 23Â°C <96>"
+4.2.1.2,Fumarate hydratase,0.05,L-malate,Escherichia coli,#4# enzyme form FUMC <24>
+4.2.1.2,Fumarate hydratase,0.3,L-malate,Escherichia coli,"#4# pH 8, 37Â°C, Vmax: 490 micromol/minute/mg/<88>"
+4.2.1.2,Fumarate hydratase,0.049,L-malate,Escherichia coli,#4# enzyme form FUMA <24>
+4.2.1.2,Fumarate hydratase,0.7,L-malate,Escherichia coli,"#4# pH 8, 37Â°C, Vmax: 720 micromol/minute/mg/<88>"
+4.2.1.2,Fumarate hydratase,2.94,L-malate,Escherichia coli,#4# enzyme form FUMC <4>
+4.2.1.2,Fumarate hydratase,0.5,L-malate,Arabidopsis thaliana,"#41# presence of 3 mM oxalacetate, pH 8.0, 30Â°C<95>"
+4.2.1.2,Fumarate hydratase,1.8,L-malate,Arabidopsis thaliana,"#41# pH 8.0, 30Â°C <95>"
+4.2.1.2,Fumarate hydratase,0.6,L-malate,Arabidopsis thaliana,"#42# pH 8.2, 30Â°C <95>; #42# presence of 3 mMoxaloacetate, pH 8.0, 30Â°C <95>"
+4.2.1.2,Fumarate hydratase,0.35,L-malate,Rhizopus arrhizus,"#43# mutant P160T, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,1.08,L-malate,Rhizopus arrhizus,"#43# mutant D162K, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,0.268,L-malate,Rhizopus arrhizus,"#43# mutant P160A, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,0.909,L-malate,Rhizopus arrhizus,"#43# mutant N161F, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,0.156,L-malate,Rhizopus arrhizus,"#43# mutant N161E, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,0.216,L-malate,Rhizopus arrhizus,"#43# mutant D162W, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,0.783,L-malate,Rhizopus arrhizus,"#43# mutant H159S, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,1.282,L-malate,Rhizopus arrhizus,"#43# mutant H159Y, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,0.797,L-malate,Rhizopus arrhizus,"#43# mutant N161R, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,0.835,L-malate,Rhizopus arrhizus,"#43# mutant D162M, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,1.267,L-malate,Rhizopus arrhizus,"#43# mutant H159V, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,0.559,L-malate,Rhizopus arrhizus,"#43# mutant P160H, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,0.574,L-malate,Rhizopus arrhizus,"#43# wild-type, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,0.93,L-malate,Escherichia coli,"#45# 37Â°C, pH 6.9 <101>"
+4.2.1.2,Fumarate hydratase,0.28,L-malate,Paraburkholderia xenovorans,"#51# pH 6.9, 30Â°C <92>"
+4.2.1.2,Fumarate hydratase,0.42,L-malate,Paraburkholderia xenovorans,"#52# pH 6.9, 30Â°C <92>"
+4.2.1.2,Fumarate hydratase,0.2,L-malate,Escherichia coli,"#54# 37Â°C, pH 6.9 <101>"
+4.2.1.2,Fumarate hydratase,0.4,L-malate,Escherichia coli,"#55# 37Â°C, pH 6.9 <101>"
+4.2.1.2,Fumarate hydratase,0.0125,L-malate,Helianthus annuus,"#57# isoform Fum1, pH 7.5, temperature notspecified in the publication <100>"
+4.2.1.2,Fumarate hydratase,0.0025,L-malate,Helianthus annuus,"#58# isoform Fum2, pH 7.5, temperature notspecified in the publication <100>"
+4.2.1.2,Fumarate hydratase,0.78,L-malate,Escherichia coli,"#60# 37Â°C, pH 6.9 <101>"
+4.2.1.2,Fumarate hydratase,0.025,L-malate,Sus scrofa,
+4.2.1.2,Fumarate hydratase,9.7,L-malate,Streptomyces lividans,"#28# pH 6.5, 40Â°C <86>"
+4.2.1.2,Fumarate hydratase,17.8,L-malate,Streptomyces lividans,"#28# pH 7.3, 40Â°C <86>"
+4.2.1.2,Fumarate hydratase,10.88,L-malate,Streptomyces lividans,"#28# pH 8, 40Â°C <86>"
+4.2.1.2,Fumarate hydratase,0.021,L-malate,Homo sapiens,"#37# mutant H318Y, pH 7.4, 23Â°C <96>"
+4.2.1.2,Fumarate hydratase,80.0,L-malate,Homo sapiens,"#37# wild-type, pH 7.4, 23Â°C <96>"
+4.2.1.2,Fumarate hydratase,0.15,L-malate,Homo sapiens,"#37# mutant A308T, pH 7.4, 23Â°C <96>"
+4.2.1.2,Fumarate hydratase,1000.0,L-malate,Escherichia coli,"#4# pH 8, 37Â°C/ <88>"
+4.2.1.2,Fumarate hydratase,1600.0,L-malate,Escherichia coli,"#4# pH 8, 37Â°C <88>"
+4.2.1.2,Fumarate hydratase,37.0,L-malate,Arabidopsis thaliana,"#41# presence of 3 mM oxalacetate, pH 8.0, 30Â°C<95>"
+4.2.1.2,Fumarate hydratase,8.5,L-malate,Arabidopsis thaliana,"#41# pH 8.0, 30Â°C <95>"
+4.2.1.2,Fumarate hydratase,9.0,L-malate,Arabidopsis thaliana,"#42# pH 8.2, 30Â°C <95>"
+4.2.1.2,Fumarate hydratase,37.8,L-malate,Arabidopsis thaliana,"#42# presence of 3 mM oxaloacetate, pH 8.0, 30Â°C<95>"
+4.2.1.2,Fumarate hydratase,8.7,L-malate,Arabidopsis thaliana,"#42# pH 8.2, 30Â°C <95>"
+4.2.1.2,Fumarate hydratase,0.05,L-malate,Rhizopus arrhizus,"#43# mutant D162W, pH 7.3, 30Â°C <102>; #43#mutant H159S, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,0.08,L-malate,Rhizopus arrhizus,"#43# mutant P160T, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,0.055,L-malate,Rhizopus arrhizus,"#43# mutant N161R, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,0.065,L-malate,Rhizopus arrhizus,"#43# mutant D162M, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,0.0075,L-malate,Rhizopus arrhizus,"#43# mutant H159Y, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,0.0433,L-malate,Rhizopus arrhizus,"#43# mutant N161E, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,0.0583,L-malate,Rhizopus arrhizus,"#43# mutant D162K, pH 7.3, 30Â°C <102>; #43#mutant P160H, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,0.0967,L-malate,Rhizopus arrhizus,"#43# wild-type, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,0.0367,L-malate,Rhizopus arrhizus,"#43# mutant H159V, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,0.1283,L-malate,Rhizopus arrhizus,"#43# mutant P160A, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,0.0317,L-malate,Rhizopus arrhizus,"#43# mutant N161F, pH 7.3, 30Â°C <102>"
+4.2.1.2,Fumarate hydratase,390.0,L-malate,Escherichia coli,"#45# 37Â°C, pH 6.9 <101>"
+4.2.1.2,Fumarate hydratase,398.0,L-malate,Paraburkholderia xenovorans,"#51# pH 6.9, 30Â°C <92>"
+4.2.1.2,Fumarate hydratase,320.0,L-malate,Paraburkholderia xenovorans,"#52# pH 6.9, 30Â°C <92>"
+4.2.1.2,Fumarate hydratase,260.0,L-malate,Escherichia coli,"#54# 37Â°C, pH 6.9 <101>"
+4.2.1.2,Fumarate hydratase,870.0,L-malate,Escherichia coli,"#55# 37Â°C, pH 6.9 <101>"
+4.2.1.2,Fumarate hydratase,370.0,L-malate,Escherichia coli,"#60# 37Â°C, pH 6.9 <101>"
+4.2.1.2,Fumarate hydratase,0.05,S-malate,Zea mays,"#12# pH 7 mitochondrial, Vmax: 0.3micromol/min/mg, temperature not specified in the publication <87>"
+4.2.1.2,Fumarate hydratase,0.005,S-malate,Zea mays,"#12# pH 6.5 cytosolic form, Vmax: 4.5micromol/min/mg, temperature not specified in the publication <87>"
+4.2.1.2,Fumarate hydratase,1.2,S-malate,Leishmania major,"#29# pH 8.7, temperature not specified in thepublication, aerobic condition, Vmax: 0.5 micromol/min/mg <85>"
+4.2.1.2,Fumarate hydratase,2.3,S-malate,Leishmania major,"#29# pH 8.7, temperature not specified in thepublication, anaerobic condition, Vmax: 11.8 micromol/min/mg <85>"
+4.2.1.2,Fumarate hydratase,5.7,S-malate,Leishmania major,"#29# pH 9, temperature not specified in thepublication, aerobic condition, Vmax: 22.7 micromol/min/mg <85>"
+4.2.1.2,Fumarate hydratase,12.6,S-malate,Leishmania major,"#29# pH 9, temperature not specified in thepublication, anaerobic condition, Vmax: 138 micromol/min/mg <85>"
+4.2.1.2,Fumarate hydratase,0.3,(S)-malate,Saccharolobus solfataricus,"#22# pH 7.5, 70Â°C <23>"
+4.2.1.2,Fumarate hydratase,1.0,(S)-malate,Thermus thermophilus,"#3# pH 7.5, 50 mM MOPS-NaOH buffer <28>"
+4.2.1.2,Fumarate hydratase,2.0,(S)-malate,Thermus thermophilus,"#3# pH 6.5, 50 mM potassium phosphate buffer <28>"
+4.2.1.2,Fumarate hydratase,0.12,(S)-malate,Thermus thermophilus,"#3# pH 6.5, 50 mM MOPS-NaOH buffer <28>"
+4.2.1.2,Fumarate hydratase,0.33,(S)-malate,Thermus thermophilus,"#3# pH 7.0, 50 mM MOPS-NaOH buffer <28>"
+4.2.1.2,Fumarate hydratase,14.0,(S)-malate,Thermus thermophilus,"#3# pH 7.5, 50 mM potassium phosphate buffer<28>"
+4.2.1.2,Fumarate hydratase,32.0,(S)-malate,Campylobacter jejuni,"#31# pH 7.4, 37Â°C <32>"
+4.2.1.2,Fumarate hydratase,0.59,(S)-malate,Pelotomaculum thermopropionicum,"#39# pH 7.0, 55Â°C <55>"
+4.2.1.2,Fumarate hydratase,0.7,(S)-malate,Escherichia coli,#4# fumarase A <27>
+4.2.1.2,Fumarate hydratase,1.1,(S)-malate,Escherichia coli,#4# enzyme form FUMA <4>
+4.2.1.2,Fumarate hydratase,0.63,(S)-malate,Escherichia coli,#4# enzyme form FUMB <4>
+4.2.1.2,Fumarate hydratase,1.8,(S)-malate,Corynebacterium glutamicum,"#40# MES-NaOH buffer, pH 7.0 <53>; #40#phosphate buffer, pH 6.0 <53>"
+4.2.1.2,Fumarate hydratase,5.0,(S)-malate,Corynebacterium glutamicum,"#40# MES-NaOH buffer, pH 7.0 <53>"
+4.2.1.2,Fumarate hydratase,6.3,(S)-malate,Corynebacterium glutamicum,"#40# phosphate buffer, pH 7.0 <53>"
+4.2.1.2,Fumarate hydratase,13.0,(S)-malate,Corynebacterium glutamicum,"#40# phosphate buffer, pH 6.0 <53>"
+4.2.1.2,Fumarate hydratase,0.45,(S)-malate,Arabidopsis thaliana,
+4.2.1.2,Fumarate hydratase,0.46,(S)-malate,Rhizopus arrhizus,"#43# pH 7.4, 30Â°C, recombinant enzyme <78>"
+4.2.1.2,Fumarate hydratase,0.93,(S)-malate,Escherichia coli,"#45# pH 6.9, 37Â°C <101>"
+4.2.1.2,Fumarate hydratase,1.43,(S)-malate,Ascaris suum,"#46# pH 7.3, 30Â°C, worm enzyme <39>"
+4.2.1.2,Fumarate hydratase,1.22,(S)-malate,Ascaris suum,"#46# pH 7.3, 30Â°C, recombinant enzyme <39>"
+4.2.1.2,Fumarate hydratase,0.41,(S)-malate,Pyrococcus furiosus,"#50# pH 8, 75Â°C <89>"
+4.2.1.2,Fumarate hydratase,0.28,(S)-malate,Paraburkholderia xenovorans,"#51# pH 8.0, 30Â°C <92>"
+4.2.1.2,Fumarate hydratase,0.42,(S)-malate,Paraburkholderia xenovorans,"#52# pH 8.0, 30Â°C <92>"
+4.2.1.2,Fumarate hydratase,0.78,(S)-malate,Escherichia coli K-12,"#53# pH 6.9, 37Â°C <101>"
+4.2.1.2,Fumarate hydratase,0.4,(S)-malate,Escherichia coli,"#55# pH 6.9, 37Â°C <101>"
+4.2.1.2,Fumarate hydratase,0.14,(S)-malate,Rattus norvegicus,#6# mitochondrial enzyme <10>
+4.2.1.2,Fumarate hydratase,0.2,(S)-malate,Escherichia coli,"#61# pH 6.9, 37Â°C <101>"
+4.2.1.2,Fumarate hydratase,1.4,(S)-malate,Euglena gracilis,"#40# MES-NaOH buffer, pH 6.0 <53>"
+4.2.1.2,Fumarate hydratase,1.4,(S)-malate,Corynebacterium glutamicum,"#40# MES-NaOH buffer, pH 6.0 <53>"
+4.2.1.2,Fumarate hydratase,390.0,(S)-malate,Escherichia coli,"#45# pH 6.9, 37Â°C <101>"
+4.2.1.2,Fumarate hydratase,3700.0,(S)-malate,Pyrococcus furiosus,"#50# pH 8, 75Â°C <89>"
+4.2.1.2,Fumarate hydratase,398.0,(S)-malate,Paraburkholderia xenovorans,"#51# pH 8.0, 30Â°C <92>"
+4.2.1.2,Fumarate hydratase,320.0,(S)-malate,Paraburkholderia xenovorans,"#52# pH 8.0, 30Â°C <92>"
+4.2.1.2,Fumarate hydratase,370.0,(S)-malate,Escherichia coli K-12,"#53# pH 6.9, 37Â°C <101>"
+4.2.1.2,Fumarate hydratase,870.0,(S)-malate,Escherichia coli,"#55# pH 6.9, 37Â°C <101>"
+4.2.1.2,Fumarate hydratase,260.0,(S)-malate,Escherichia coli,"#61# pH 6.9, 37Â°C <101>"
+4.2.1.2,Fumarate hydratase,1.7,fluorofumarate,Escherichia coli,
+4.2.1.2,Fumarate hydratase,0.027,fluorofumarate,Sus scrofa,
+4.2.1.2,Fumarate hydratase,0.9,acetylene dicarboxylate,Escherichia coli,
+4.2.1.2,Fumarate hydratase,0.145,acetylene dicarboxylate,Sus scrofa,
+4.2.1.2,Fumarate hydratase,0.8,D-Tartrate,Escherichia coli,"#4# pH 8, 37Â°C, Vmax: 9.2 micromol/minute/mg/<88>"
+4.2.1.2,Fumarate hydratase,0.7,D-Tartrate,Escherichia coli,"#4# pH 8, 37Â°C, Vmax: 2.3 micromol/minute/mg/<88>"
+4.2.1.2,Fumarate hydratase,0.51,D-Tartrate,Pyrococcus furiosus,"#50# pH 8, 75Â°C <89>"
+4.2.1.2,Fumarate hydratase,12.0,D-Tartrate,Escherichia coli,"#4# pH 8, 37Â°C <88>"
+4.2.1.2,Fumarate hydratase,3.0,D-Tartrate,Escherichia coli,"#4# pH 8, 37Â°C <88>"
+4.2.1.2,Fumarate hydratase,930.0,D-Tartrate,Pyrococcus furiosus,"#50# pH 8, 75Â°C <89>"
+4.2.1.2,Fumarate hydratase,6.2,"(S,S)-Tartrate",Escherichia coli,"#45# 37Â°C, pH 6.9 <101>"
+4.2.1.2,Fumarate hydratase,2.6,"(S,S)-Tartrate",Escherichia coli,"#54# 37Â°C, pH 6.9 <101>"
+4.2.1.2,Fumarate hydratase,2.0,"(S,S)-Tartrate",Escherichia coli,"#55# 37Â°C, pH 6.9 <101>"
+4.2.1.2,Fumarate hydratase,0.8,"(S,S)-Tartrate",Escherichia coli,"#60# 37Â°C, pH 6.9 <101>"
+4.2.1.2,Fumarate hydratase,0.065,"(S,S)-Tartrate",Escherichia coli,"#45# 37Â°C, pH 6.9 <101>"
+4.2.1.2,Fumarate hydratase,0.05,"(S,S)-Tartrate",Escherichia coli,"#54# 37Â°C, pH 6.9 <101>"
+4.2.1.2,Fumarate hydratase,0.635,"(S,S)-Tartrate",Escherichia coli,"#55# 37Â°C, pH 6.9 <101>"
+4.2.1.2,Fumarate hydratase,2.13,"(S,S)-Tartrate",Escherichia coli,"#60# 37Â°C, pH 6.9 <101>"
+4.2.1.2,Fumarate hydratase,6.2,"(2S,3S)-tartrate",Escherichia coli,"#45# pH 6.9, 37Â°C <101>"
+4.2.1.2,Fumarate hydratase,0.8,"(2S,3S)-tartrate",Escherichia coli K-12,"#53# pH 6.9, 37Â°C <101>"
+4.2.1.2,Fumarate hydratase,2.0,"(2S,3S)-tartrate",Escherichia coli,"#55# pH 6.9, 37Â°C <101>"
+4.2.1.2,Fumarate hydratase,2.6,"(2S,3S)-tartrate",Escherichia coli,"#61# pH 6.9, 37Â°C <101>"
+4.2.1.2,Fumarate hydratase,0.065,"(2S,3S)-tartrate",Escherichia coli,"#45# pH 6.9, 37Â°C <101>"
+4.2.1.2,Fumarate hydratase,2.13,"(2S,3S)-tartrate",Escherichia coli K-12,"#53# pH 6.9, 37Â°C <101>"
+4.2.1.2,Fumarate hydratase,0.635,"(2S,3S)-tartrate",Escherichia coli,"#55# pH 6.9, 37Â°C <101>"
+4.2.1.2,Fumarate hydratase,0.05,"(2S,3S)-tartrate",Escherichia coli,"#61# pH 6.9, 37Â°C <101>"
+4.2.1.2,Fumarate hydratase,0.03,mesaconate,Paraburkholderia xenovorans,"#51# pH 8.0, 30Â°C <92>; #51# pH 6.9, 30Â°C<92>"
+4.2.1.2,Fumarate hydratase,0.1,mesaconate,Escherichia coli K-12,"#53# pH 6.9, 37Â°C <101>; #60# 37Â°C, pH 6.9<101>"
+4.2.1.2,Fumarate hydratase,0.1,mesaconate,Escherichia coli,"#53# pH 6.9, 37Â°C <101>; #60# 37Â°C, pH 6.9<101>"
+4.2.1.2,Fumarate hydratase,0.15,mesaconate,Escherichia coli,"#61# pH 6.9, 37Â°C <101>; #54# 37Â°C, pH 6.9<101>"
+4.2.1.2,Fumarate hydratase,0.22,mesaconate,Escherichia coli,"#55# pH 6.9, 37Â°C <101>; #55# 37Â°C, pH 6.9<101>"
+4.2.1.2,Fumarate hydratase,0.51,mesaconate,Sus scrofa,
+4.2.1.2,Fumarate hydratase,3600.0,mesaconate,Paraburkholderia xenovorans,"#51# pH 8.0, 30Â°C <92>; #51# pH 6.9, 30Â°C<92>"
+4.2.1.2,Fumarate hydratase,580.0,mesaconate,Escherichia coli K-12,"#60# 37Â°C, pH 6.9 <101>; #53# pH 6.9, 37Â°C<101>"
+4.2.1.2,Fumarate hydratase,580.0,mesaconate,Escherichia coli,"#60# 37Â°C, pH 6.9 <101>; #53# pH 6.9, 37Â°C<101>"
+4.2.1.2,Fumarate hydratase,2000.0,mesaconate,Escherichia coli,"#54# 37Â°C, pH 6.9 <101>; #61# pH 6.9, 37Â°C<101>"
+4.2.1.2,Fumarate hydratase,250.0,mesaconate,Escherichia coli,"#55# 37Â°C, pH 6.9 <101>; #55# pH 6.9, 37Â°C<101>"
+4.2.1.2,Fumarate hydratase,0.52,(S)-citramalate,Paraburkholderia xenovorans,"#51# pH 8.0, 30Â°C <92>; #51# pH 6.9, 30Â°C<92>"
+4.2.1.2,Fumarate hydratase,1.04,(S)-citramalate,Escherichia coli K-12,"#53# pH 6.9, 37Â°C <101>; #60# 37Â°C, pH6.9 <101>"
+4.2.1.2,Fumarate hydratase,1.04,(S)-citramalate,Escherichia coli,"#53# pH 6.9, 37Â°C <101>; #60# 37Â°C, pH6.9 <101>"
+4.2.1.2,Fumarate hydratase,0.92,(S)-citramalate,Escherichia coli,"#61# pH 6.9, 37Â°C <101>; #54# 37Â°C, pH6.9 <101>"
+4.2.1.2,Fumarate hydratase,1.08,(S)-citramalate,Escherichia coli,"#55# pH 6.9, 37Â°C <101>; #55# 37Â°C, pH6.9 <101>"
+4.2.1.2,Fumarate hydratase,131.0,(S)-citramalate,Paraburkholderia xenovorans,"#51# pH 8.0, 30Â°C <92>; #51# pH 6.9, 30Â°C<92>"
+4.2.1.2,Fumarate hydratase,38.0,(S)-citramalate,Escherichia coli K-12,"#60# 37Â°C, pH 6.9 <101>; #53# pH 6.9,37Â°C <101>"
+4.2.1.2,Fumarate hydratase,38.0,(S)-citramalate,Escherichia coli,"#60# 37Â°C, pH 6.9 <101>; #53# pH 6.9,37Â°C <101>"
+4.2.1.2,Fumarate hydratase,110.0,(S)-citramalate,Escherichia coli,"#54# 37Â°C, pH 6.9 <101>; #61# pH 6.9,37Â°C <101>"
+4.2.1.2,Fumarate hydratase,35.0,(S)-citramalate,Escherichia coli,"#55# 37Â°C, pH 6.9 <101>; #55# pH 6.9, 37Â°C<101>"
+4.2.1.2,Fumarate hydratase,1.3,L-Tartrate,Sus scrofa,
+4.2.1.2,Fumarate hydratase,0.11,chlorofumarate,Sus scrofa,
+4.2.1.2,Fumarate hydratase,0.11,bromofumarate,Sus scrofa,
+4.2.1.2,Fumarate hydratase,0.12,iodofumarate,Sus scrofa,
+4.2.1.2,Fumarate hydratase,0.08,L-threo-chloromalate,Sus scrofa,
+4.2.1.2,Fumarate hydratase,8.75,L-threo-hydroxyaspartate,Sus scrofa,
+1.1.1.37,Malate dehydrogenase,0.00012,(S)-malate,Escherichia coli,#10# pH and temperature not specified inthe publication <139>
+1.1.1.37,Malate dehydrogenase,0.55,(S)-malate,Glaesserella parasuis,#108# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,1.6,(S)-malate,Homo sapiens,"#11# enzyme from cancerous breast tissue, at pH8.0, temperature not specified in the publication <150>"
+1.1.1.37,Malate dehydrogenase,3.13,(S)-malate,Homo sapiens,"#11# enzyme from normal breast tissue, at pH8.0, temperature not specified in the publication <150>"
+1.1.1.37,Malate dehydrogenase,0.3,(S)-malate,Sus scrofa,"#13# pH 8.1, 22Â°C <112>"
+1.1.1.37,Malate dehydrogenase,2.6,(S)-malate,Synechocystis sp. PCC 6803,#134# at pH 8.0 and 50Â°C <154>
+1.1.1.37,Malate dehydrogenase,0.12,(S)-malate,Aeropyrum pernix,#135# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,0.215,(S)-malate,Taenia solium,
+1.1.1.37,Malate dehydrogenase,0.056,(S)-malate,Clonorchis sinensis,"#153# pH 9.6, 25Â°C <75>"
+1.1.1.37,Malate dehydrogenase,0.645,(S)-malate,Macromonas bipunctata,"#157# pH 9.0, 25Â°C <68>"
+1.1.1.37,Malate dehydrogenase,1.67,(S)-malate,Vulcanithermus mediatlanticus,"#158# pH 9.0, 25Â°C <68>"
+1.1.1.37,Malate dehydrogenase,0.74,(S)-malate,Flavobacterium frigidimaris,"#159# 40Â°C, pH 10.0 <73>"
+1.1.1.37,Malate dehydrogenase,0.269,(S)-malate,Flavobacterium frigidimaris,"#159# 20Â°C, pH 10.0 <73>"
+1.1.1.37,Malate dehydrogenase,0.288,(S)-malate,Flavobacterium frigidimaris,"#159# 30Â°C, pH 10.0 <73>"
+1.1.1.37,Malate dehydrogenase,0.543,(S)-malate,Flavobacterium frigidimaris,"#159# 10Â°C, pH 10.0 <73>"
+1.1.1.37,Malate dehydrogenase,0.447,(S)-malate,Fasciola gigantica,#160# at pH 8.0 and 25Â°C <164>
+1.1.1.37,Malate dehydrogenase,0.19,(S)-malate,Malus domestica,"#170# pH 7.5, 30Â°C <111>; #170# pH 7.9, 25Â°C<111>"
+1.1.1.37,Malate dehydrogenase,0.56,(S)-malate,Trypanosoma brucei,"#176# pH 7.5, 37Â°C, mitochondrial enzyme<76>"
+1.1.1.37,Malate dehydrogenase,2.72,(S)-malate,Trypanosoma brucei,"#176# pH 7.5, 37Â°C, glycosomal enzyme <76>"
+1.1.1.37,Malate dehydrogenase,0.494,(S)-malate,Streptomyces coelicolor,"#187# pH 8.5, 30Â°C <108>"
+1.1.1.37,Malate dehydrogenase,0.1,(S)-malate,Taenia solium,"#193# pH 8.0, temperature not specified in thepublication <118>; #193# pH 9.6, 22Â°C, recombinant enzyme <118>"
+1.1.1.37,Malate dehydrogenase,0.11,(S)-malate,Methylotuvimicrobium alcaliphilum,"#195# recombinant enzyme, pH 10.0, 30Â°C<140>"
+1.1.1.37,Malate dehydrogenase,1.04,(S)-malate,Mycobacterium tuberculosis,"#196# recombinant enzyme, pH and temperaturenot specified in the publication <142>"
+1.1.1.37,Malate dehydrogenase,2.2,(S)-malate,Rhodovulum steppense,"#206# isoform MDH2, at pH 8.5 and 25Â°C <152>"
+1.1.1.37,Malate dehydrogenase,0.95,(S)-malate,Rhodovulum steppense,"#206# isoform MDH1, at pH 8.5 and 25Â°C <152>"
+1.1.1.37,Malate dehydrogenase,1.75,(S)-malate,Rhodovulum steppense,"#206# isoform MDH3, at pH 8.5 and 25Â°C <152>"
+1.1.1.37,Malate dehydrogenase,0.4,(S)-malate,Methanothermobacter thermautotrophicus,#21# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,11.6,(S)-malate,Zea mays,#28# at pH 8.0 and 25Â°C <147>
+1.1.1.37,Malate dehydrogenase,0.53,(S)-malate,Rhodopseudomonas palustris,"#33# pH 9.0, 25Â°C, dimeric enzyme form <72>"
+1.1.1.37,Malate dehydrogenase,0.555,(S)-malate,Rhodopseudomonas palustris,"#33# pH 9.0, 25Â°C, tetrameric enzyme form<72>"
+1.1.1.37,Malate dehydrogenase,0.063,(S)-malate,Pseudomonas stutzeri,"#35# at 0.08-0.18 mM, pH and temperature notspecified in the publication <139>"
+1.1.1.37,Malate dehydrogenase,0.67,(S)-malate,Pseudomonas stutzeri,"#35# at 0.18-10.0 mM, pH and temperature notspecified in the publication <139>"
+1.1.1.37,Malate dehydrogenase,5.0,(S)-malate,Nitrosomonas europaea,#40# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,0.49,(S)-malate,Streptomyces coelicolor,#55# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,0.177,(S)-malate,Helicobacter pylori,#59# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,0.26,(S)-malate,Bacillus subtilis,#7# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,9.0,(S)-malate,Kitasatospora aureofaciens,#71# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,3.3,(S)-malate,Leishmania major,#86# cytosolic isoenzyme <79>
+1.1.1.37,Malate dehydrogenase,15.0,(S)-malate,Leishmania major,#86# mitochondrial isoenzyme <79>
+1.1.1.37,Malate dehydrogenase,1.007,(S)-malate,Leishmania major,#86# glycosomal isoenzyme <79>
+1.1.1.37,Malate dehydrogenase,1.28,(S)-malate,Methylosinus trichosporium,"#88# recombinant enzyme, pH 9.5, 30Â°C <140>"
+1.1.1.37,Malate dehydrogenase,0.94,(S)-malate,Phytophthora infestans,"#95# native wild type mitochondrial MDH, at25Â°C <103>"
+1.1.1.37,Malate dehydrogenase,0.64,(S)-malate,Phytophthora infestans,"#95# recombinant wild type mitochondrial MDH,at 25Â°C <103>"
+1.1.1.37,Malate dehydrogenase,1.72,(S)-malate,Phytophthora infestans,"#95# recombinant wild type cytosolic MDH, at25Â°C <103>"
+1.1.1.37,Malate dehydrogenase,4.0,(S)-malate,uncultured bacterium,#98# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,0.165,(S)-malate,Synechocystis sp. PCC 6803,#134# at pH 8.0 and 50Â°C <154>
+1.1.1.37,Malate dehydrogenase,44.26,(S)-malate,Malus domestica,"#170# pH 7.5, 30Â°C <111>; #170# pH 7.9, 25Â°C<111>"
+1.1.1.37,Malate dehydrogenase,9.53,(S)-malate,Streptomyces coelicolor,"#187# pH 8.5, 30Â°C <108>"
+1.1.1.37,Malate dehydrogenase,474.0,(S)-malate,Taenia solium,"#193# pH 8.0, temperature not specified in thepublication <118>; #193# pH 9.6, 22Â°C, recombinant enzyme <118>"
+1.1.1.37,Malate dehydrogenase,5648.0,(S)-malate,Methylotuvimicrobium alcaliphilum,"#195# recombinant enzyme, pH 9.5, 30Â°C <140>"
+1.1.1.37,Malate dehydrogenase,0.29,(S)-malate,Mycobacterium tuberculosis,"#196# recombinant enzyme, pH and temperaturenot specified in the publication <142>"
+1.1.1.37,Malate dehydrogenase,403.0,(S)-malate,Methylosinus trichosporium,"#88# recombinant enzyme, pH 9.5, 30Â°C <140>"
+1.1.1.37,Malate dehydrogenase,0.026,oxaloacetate,Escherichia coli,#10# 10Â°C <48>
+1.1.1.37,Malate dehydrogenase,0.023,oxaloacetate,Escherichia coli,#10# 4Â°C <48>; #17# m-MDH <29>
+1.1.1.37,Malate dehydrogenase,0.023,oxaloacetate,Saccharomyces cerevisiae,#10# 4Â°C <48>; #17# m-MDH <29>
+1.1.1.37,Malate dehydrogenase,0.023,oxaloacetate,Euglena gracilis,#10# 4Â°C <48>; #17# m-MDH <29>
+1.1.1.37,Malate dehydrogenase,0.056,oxaloacetate,Escherichia coli,#10# 37Â°C <48>; #86# mitochondrialisoenzyme <79>
+1.1.1.37,Malate dehydrogenase,0.056,oxaloacetate,Leishmania major,#10# 37Â°C <48>; #86# mitochondrialisoenzyme <79>
+1.1.1.37,Malate dehydrogenase,0.112,oxaloacetate,Vigna mungo,
+1.1.1.37,Malate dehydrogenase,0.0175,oxaloacetate,Tritrichomonas suis,
+1.1.1.37,Malate dehydrogenase,0.038,oxaloacetate,Gallus sp.,
+1.1.1.37,Malate dehydrogenase,0.047,oxaloacetate,Drosophila virilis,#106# mitochondrial enzyme <1>
+1.1.1.37,Malate dehydrogenase,0.072,oxaloacetate,Glaesserella parasuis,#108# pH and temperature not specified inthe publication <139>
+1.1.1.37,Malate dehydrogenase,0.04,oxaloacetate,Drosophila virilis,"#106# cytoplasmic enzyme <1>;#12# normal rats <74>; #167# pH 7.5, 30Â°C,recombinant wild-type enzyme<92>"
+1.1.1.37,Malate dehydrogenase,0.04,oxaloacetate,Sus scrofa,"#106# cytoplasmic enzyme <1>;#12# normal rats <74>; #167# pH 7.5, 30Â°C,recombinant wild-type enzyme<92>"
+1.1.1.37,Malate dehydrogenase,0.04,oxaloacetate,Escherichia coli,"#106# cytoplasmic enzyme <1>;#12# normal rats <74>; #167# pH 7.5, 30Â°C,recombinant wild-type enzyme<92>"
+1.1.1.37,Malate dehydrogenase,0.04,oxaloacetate,Rattus norvegicus,"#106# cytoplasmic enzyme <1>;#12# normal rats <74>; #167# pH 7.5, 30Â°C,recombinant wild-type enzyme<92>"
+1.1.1.37,Malate dehydrogenase,0.05,oxaloacetate,uncultured bacterium,#12# ischemic rats <74>; #98# pH andtemperature not specified in the publication <139>
+1.1.1.37,Malate dehydrogenase,0.05,oxaloacetate,Rattus norvegicus,#12# ischemic rats <74>; #98# pH andtemperature not specified in the publication <139>
+1.1.1.37,Malate dehydrogenase,0.05,oxaloacetate,Syntrophobacter fumaroxidans,#12# ischemic rats <74>; #98# pH andtemperature not specified in the publication <139>
+1.1.1.37,Malate dehydrogenase,0.016,oxaloacetate,Trichomonas gallinae,
+1.1.1.37,Malate dehydrogenase,0.0083,oxaloacetate,Sus scrofa,"#13# pH 7.5, 20Â°C, cytosolic isoenzymecMDH <62>"
+1.1.1.37,Malate dehydrogenase,0.0348,oxaloacetate,Sus scrofa,"#13# pH 7.5, 20Â°C, mitochondrial isoenzymemMDH <62>"
+1.1.1.37,Malate dehydrogenase,0.036,oxaloacetate,Malassezia pachydermatis,"#137# in 50 mM Tris-HCl buffer (pH7.6), 1 mM MgCl2 <93>"
+1.1.1.37,Malate dehydrogenase,0.036,oxaloacetate,Sus scrofa,"#137# in 50 mM Tris-HCl buffer (pH7.6), 1 mM MgCl2 <93>"
+1.1.1.37,Malate dehydrogenase,0.036,oxaloacetate,Euglena gracilis,"#137# in 50 mM Tris-HCl buffer (pH7.6), 1 mM MgCl2 <93>"
+1.1.1.37,Malate dehydrogenase,0.03,oxaloacetate,Sus scrofa,"#140# pH 7.5 <57>; #13#cytoplasmic isoenzyme <12>; #33# pH 8.0, 25Â°C, dimeric enzyme form<72>; #21# pH and temperature not specified in the publication <139>"
+1.1.1.37,Malate dehydrogenase,0.03,oxaloacetate,Phycomyces blakesleeanus,"#140# pH 7.5 <57>; #13#cytoplasmic isoenzyme <12>; #33# pH 8.0, 25Â°C, dimeric enzyme form<72>; #21# pH and temperature not specified in the publication <139>"
+1.1.1.37,Malate dehydrogenase,0.03,oxaloacetate,Rhodopseudomonas palustris,"#140# pH 7.5 <57>; #13#cytoplasmic isoenzyme <12>; #33# pH 8.0, 25Â°C, dimeric enzyme form<72>; #21# pH and temperature not specified in the publication <139>"
+1.1.1.37,Malate dehydrogenase,0.03,oxaloacetate,Plasmodium falciparum,"#140# pH 7.5 <57>; #13#cytoplasmic isoenzyme <12>; #33# pH 8.0, 25Â°C, dimeric enzyme form<72>; #21# pH and temperature not specified in the publication <139>"
+1.1.1.37,Malate dehydrogenase,0.03,oxaloacetate,Methanothermobacter thermautotrophicus,"#140# pH 7.5 <57>; #13#cytoplasmic isoenzyme <12>; #33# pH 8.0, 25Â°C, dimeric enzyme form<72>; #21# pH and temperature not specified in the publication <139>"
+1.1.1.37,Malate dehydrogenase,0.012,oxaloacetate,Synechocystis sp. PCC 6803,#134# at pH 6.5 and 50Â°C <154>
+1.1.1.37,Malate dehydrogenase,0.015,oxaloacetate,Trypanosoma brucei,"#136# pH 8.0, 80Â°C <87>; #176#glycosomal enzyme <76>; #136# recombinant enzyme, pH 8.0, 80Â°C <87>"
+1.1.1.37,Malate dehydrogenase,0.015,oxaloacetate,Pyrobaculum islandicum,"#136# pH 8.0, 80Â°C <87>; #176#glycosomal enzyme <76>; #136# recombinant enzyme, pH 8.0, 80Â°C <87>"
+1.1.1.37,Malate dehydrogenase,0.0094,oxaloacetate,Saccharomyces cerevisiae,#14# fusion protein of MDH withmitochondrial citrate synthase <42>
+1.1.1.37,Malate dehydrogenase,0.081,oxaloacetate,Saccharomyces cerevisiae,"#14# in 50 mM Tris-HCl buffer (pH 7.6), 1mM MgCl2 <93>"
+1.1.1.37,Malate dehydrogenase,0.024,oxaloacetate,Geophagus brasiliensis,"#141# 20Â°C, isoenzyme B <55>; #169#isoform B1, at 20Â°C <98>"
+1.1.1.37,Malate dehydrogenase,0.024,oxaloacetate,Hoplias malabaricus,"#141# 20Â°C, isoenzyme B <55>; #169#isoform B1, at 20Â°C <98>"
+1.1.1.37,Malate dehydrogenase,0.111,oxaloacetate,Mesembryanthemum cordifolium,"#142# pH 7.5, 30Â°C <67>"
+1.1.1.37,Malate dehydrogenase,0.0391,oxaloacetate,Mesembryanthemum cordifolium,"#142# pH 6.9, 30Â°C <67>"
+1.1.1.37,Malate dehydrogenase,0.55,oxaloacetate,Corynebacterium glutamicum,"#143# pH 6.5, 20.23Â°C <59>"
+1.1.1.37,Malate dehydrogenase,0.025,oxaloacetate,Corynebacterium glutamicum,"#143# pH 6.5, 20-23Â°C <59>"
+1.1.1.37,Malate dehydrogenase,0.2,oxaloacetate,Rhodovulum steppense,"#143# pH 9.5, 20-23Â°C <59>; #206#isoform MDH1, at pH 8.5 and 25Â°C <152>"
+1.1.1.37,Malate dehydrogenase,0.2,oxaloacetate,Corynebacterium glutamicum,"#143# pH 9.5, 20-23Â°C <59>; #206#isoform MDH1, at pH 8.5 and 25Â°C <152>"
+1.1.1.37,Malate dehydrogenase,0.039,oxaloacetate,Sphyraena idiastes,"#146# pH 7.5, 20Â°C, recombinant cytosolicisoenzyme cMDH-S <62>; #146# isoform r-cMDH-S, at pH 7.5 and 20Â°C <62>"
+1.1.1.37,Malate dehydrogenase,0.0135,oxaloacetate,Sphyraena idiastes,"#146# pH 7.5, 20Â°C, mitochondrialisoenzyme mMDH <62>; #146# isoform r-cMDH-L, at pH 7.5 and 20Â°C <62>"
+1.1.1.37,Malate dehydrogenase,0.0113,oxaloacetate,Sphyraena idiastes,"#146# pH 7.5, 20Â°C, recombinant cytosolicisoenzyme cMDH-L <62>; #146# isoform cMDH-S, at pH 7.5 and 20Â°C <62>"
+1.1.1.37,Malate dehydrogenase,0.0302,oxaloacetate,Sphyraena idiastes,"#146# pH 7.5, 20Â°C, cytosolic isoenzymecMDH-S <62>; #146# isoform r-mMDH, at pH 7.5 and 20Â°C <62>"
+1.1.1.37,Malate dehydrogenase,3.23,oxaloacetate,Triticum aestivum,#151# pH 7.5 <53>
+1.1.1.37,Malate dehydrogenase,0.0024,oxaloacetate,Taenia solium,
+1.1.1.37,Malate dehydrogenase,0.0096,oxaloacetate,Clonorchis sinensis,"#153# pH 8.5, 25Â°C <75>"
+1.1.1.37,Malate dehydrogenase,0.053,oxaloacetate,Macromonas bipunctata,"#157# pH 7.8, 25Â°C <68>"
+1.1.1.37,Malate dehydrogenase,0.048,oxaloacetate,Vulcanithermus mediatlanticus,
+1.1.1.37,Malate dehydrogenase,0.0476,oxaloacetate,Vulcanithermus mediatlanticus,"#158# pH 7.8, 25Â°C <68>"
+1.1.1.37,Malate dehydrogenase,0.276,oxaloacetate,Fasciola gigantica,#160# at pH 8.0 and 25Â°C <164>
+1.1.1.37,Malate dehydrogenase,0.9,oxaloacetate,Haloarcula marismortui,"#165# pH 7.0, temperature not specified inthe publication, 2 M NaCl, wild-type enzyme <124>"
+1.1.1.37,Malate dehydrogenase,0.7,oxaloacetate,Haloarcula marismortui,"#165# pH 7.0, temperature not specified inthe publication, 4 M NaCl, wild-type enzyme <124>"
+1.1.1.37,Malate dehydrogenase,0.13,oxaloacetate,Haloarcula marismortui,"#165# pH 8.0, 25Â°C, recombinant wild-typeenzyme and mutant K205A <85>"
+1.1.1.37,Malate dehydrogenase,21.8,oxaloacetate,Haloarcula marismortui,"#165# pH 7.0, temperature not specified inthe publication, 4 M NaCl, mutant enzyme R100Q <124>"
+1.1.1.37,Malate dehydrogenase,29.4,oxaloacetate,Haloarcula marismortui,"#165# pH 7.0, temperature not specified inthe publication, 2 M NaCl, mutant enzyme R100Q <124>"
+1.1.1.37,Malate dehydrogenase,0.049,oxaloacetate,Escherichia coli,#167# wild-type <43>
+1.1.1.37,Malate dehydrogenase,3.0,oxaloacetate,Escherichia coli,"#167# pH 7.5, 30Â°C, recombinant mutant R81Q<92>"
+1.1.1.37,Malate dehydrogenase,0.58,oxaloacetate,Escherichia coli,#167# mutant N122C-L305C(diamide) <43>
+1.1.1.37,Malate dehydrogenase,0.044,oxaloacetate,Escherichia coli,"#167# mutant L305C <43>; #193# pH 8.0,temperature not specified in the publication <118>; #193# pH 8.0, 22Â°C,recombinant enzyme <118>"
+1.1.1.37,Malate dehydrogenase,0.044,oxaloacetate,Taenia solium,"#167# mutant L305C <43>; #193# pH 8.0,temperature not specified in the publication <118>; #193# pH 8.0, 22Â°C,recombinant enzyme <118>"
+1.1.1.37,Malate dehydrogenase,0.34,oxaloacetate,Escherichia coli,"#167# mutant N122C-L305C(DTT) <43>;#195# recombinant enzyme, pH 10.0, 30Â°C <140>"
+1.1.1.37,Malate dehydrogenase,0.34,oxaloacetate,Methylotuvimicrobium alcaliphilum,"#167# mutant N122C-L305C(DTT) <43>;#195# recombinant enzyme, pH 10.0, 30Â°C <140>"
+1.1.1.37,Malate dehydrogenase,0.0151,oxaloacetate,Geophagus brasiliensis,"#169# isoform B2, at 20Â°C <98>"
+1.1.1.37,Malate dehydrogenase,0.034,oxaloacetate,Euglena gracilis,#17# s-MDH <29>
+1.1.1.37,Malate dehydrogenase,0.405,oxaloacetate,Malus domestica,"#170# pH 7.8, 30Â°C <111>"
+1.1.1.37,Malate dehydrogenase,0.0088,oxaloacetate,Mesembryanthemum crystallinum,"#174# pH 6.8, 30Â°C <65>"
+1.1.1.37,Malate dehydrogenase,0.0449,oxaloacetate,Mesembryanthemum crystallinum,"#174# pH 8.2, 30Â°C <65>"
+1.1.1.37,Malate dehydrogenase,0.069,oxaloacetate,Trypanosoma brucei,#176# glycosomal enzyme <76>
+1.1.1.37,Malate dehydrogenase,0.031,oxaloacetate,Leishmania mexicana,#177# cytosolic isoenzyme <79>
+1.1.1.37,Malate dehydrogenase,0.003,oxaloacetate,Thermus thermophilus,"#178# 30Â°C, pH 7.0, wild-type enzyme,cofactor NADH <70>"
+1.1.1.37,Malate dehydrogenase,0.74,oxaloacetate,Thermus thermophilus,"#178# 30Â°C, pH 7.0, wild-type enzyme,cofactor NADPH <70>"
+1.1.1.37,Malate dehydrogenase,0.004,oxaloacetate,Echinococcus granulosus,"#186# pH 8.0, native enzyme <63>"
+1.1.1.37,Malate dehydrogenase,0.013,oxaloacetate,Echinococcus granulosus,"#186# pH 8.0, recombinant protein fusionswith glutathione S-transferase <63>"
+1.1.1.37,Malate dehydrogenase,0.018,oxaloacetate,Echinococcus granulosus,"#186# pH 8.0, recombinant enzyme with apoly-His tail <63>"
+1.1.1.37,Malate dehydrogenase,0.189,oxaloacetate,Streptomyces coelicolor,"#187# pH 8.5, 30Â°C <108>"
+1.1.1.37,Malate dehydrogenase,0.23,oxaloacetate,Pyrobaculum calidifontis,"#194# pH 10, 55Â°C <133>"
+1.1.1.37,Malate dehydrogenase,0.14,oxaloacetate,Mycobacterium tuberculosis,"#196# recombinant enzyme, pH andtemperature not specified in the publication <142>"
+1.1.1.37,Malate dehydrogenase,0.324,oxaloacetate,Arabidopsis thaliana,"#199# pH 7.5, 30Â°C, recombinant enzyme<137>"
+1.1.1.37,Malate dehydrogenase,0.238,oxaloacetate,Arabidopsis thaliana,"#203# reduced isoform cytMDH1, at pH 7.5and 25Â°C <157>"
+1.1.1.37,Malate dehydrogenase,0.143,oxaloacetate,Arabidopsis thaliana,"#203# oxidized isoform cytMDH1, at pH 7.5and 25Â°C <157>"
+1.1.1.37,Malate dehydrogenase,0.0368,oxaloacetate,Methylorubrum extorquens,#204# at pH 8.1 and 30Â°C <145>
+1.1.1.37,Malate dehydrogenase,0.38,oxaloacetate,Ignicoccus islandicus,"#207# pH 7.0, 70Â°C <158>"
+1.1.1.37,Malate dehydrogenase,29.5,oxaloacetate,Leuconostoc mesenteroides subsp. mesenteroides,"#208# pH 6.0, 25Â°C <144>"
+1.1.1.37,Malate dehydrogenase,0.083,oxaloacetate,Aspergillus niger,#23# mitochondrial MDH <19>
+1.1.1.37,Malate dehydrogenase,0.09,oxaloacetate,Aspergillus niger,#23# cyt MDH <19>
+1.1.1.37,Malate dehydrogenase,0.0081,oxaloacetate,Spinacia oleracea,#26# plasma membrane-bound enzyme fraction<107>
+1.1.1.37,Malate dehydrogenase,0.0076,oxaloacetate,Spinacia oleracea,#26# chloroplast envelope enzyme fraction<107>
+1.1.1.37,Malate dehydrogenase,0.0133,oxaloacetate,Spinacia oleracea,#26# intact chloroplast enzyme fraction<107>
+1.1.1.37,Malate dehydrogenase,0.0121,oxaloacetate,Spinacia oleracea,#26# chloroplast stroma enzyme fraction<107>
+1.1.1.37,Malate dehydrogenase,0.0459,oxaloacetate,Spinacia oleracea,#26# broken chloroplast enzyme fraction<107>
+1.1.1.37,Malate dehydrogenase,0.0502,oxaloacetate,Spinacia oleracea,#26# soluble enzyme fraction <107>
+1.1.1.37,Malate dehydrogenase,0.26,oxaloacetate,Zea mays,#28# at pH 8.0 and 25Â°C <147>
+1.1.1.37,Malate dehydrogenase,0.126,oxaloacetate,Zea mays,"#28# pH 7.5, temperature not specified inthe publication, native enzyme <119>"
+1.1.1.37,Malate dehydrogenase,0.289,oxaloacetate,Zea mays,"#28# pH 7.5, temperature not specified inthe publication, recombinant enzyme <119>"
+1.1.1.37,Malate dehydrogenase,0.032,oxaloacetate,Pseudomonas stutzeri,#35# pH and temperature not specified inthe publication <139>
+1.1.1.37,Malate dehydrogenase,0.17,oxaloacetate,Dictyostelium discoideum,
+1.1.1.37,Malate dehydrogenase,0.27,oxaloacetate,Dictyostelium discoideum,#36# mitochondrial MDH <21>
+1.1.1.37,Malate dehydrogenase,0.052,oxaloacetate,Rhodovulum steppense,"#38# 40Â°C, pH 5.8 <35>; #206# isoformMDH3, at pH 8.5 and 25Â°C <152>"
+1.1.1.37,Malate dehydrogenase,0.052,oxaloacetate,Sulfolobus acidocaldarius,"#38# 40Â°C, pH 5.8 <35>; #206# isoformMDH3, at pH 8.5 and 25Â°C <152>"
+1.1.1.37,Malate dehydrogenase,0.0056,oxaloacetate,Thermoplasma acidophilum,
+1.1.1.37,Malate dehydrogenase,0.0162,oxaloacetate,Trichomonas vaginalis,#41# Tv 10-02 <45>
+1.1.1.37,Malate dehydrogenase,0.043,oxaloacetate,Archaeoglobus fulgidus,"#41# Tv-1973 <45>; #83# pH andtemperature not specified in the publication <139>; #191# pH 8.0, 65Â°C,at 0.4 mM NADH <117>"
+1.1.1.37,Malate dehydrogenase,0.043,oxaloacetate,Trichomonas vaginalis,"#41# Tv-1973 <45>; #83# pH andtemperature not specified in the publication <139>; #191# pH 8.0, 65Â°C,at 0.4 mM NADH <117>"
+1.1.1.37,Malate dehydrogenase,0.085,oxaloacetate,Rhodobacter capsulatus,
+1.1.1.37,Malate dehydrogenase,0.0443,oxaloacetate,Mycolicibacterium phlei,
+1.1.1.37,Malate dehydrogenase,0.0189,oxaloacetate,Streptomyces coelicolor,#55# pH and temperature not specified inthe publication <139>
+1.1.1.37,Malate dehydrogenase,0.041,oxaloacetate,Candida albicans,"#58# in 50 mM Tris-HCl buffer (pH 7.6), 1mM MgCl2 <93>"
+1.1.1.37,Malate dehydrogenase,0.128,oxaloacetate,Helicobacter pylori,#59# pH and temperature not specified inthe publication <139>
+1.1.1.37,Malate dehydrogenase,0.06,oxaloacetate,Physarum polycephalum,#60# s-MDH <2>
+1.1.1.37,Malate dehydrogenase,0.074,oxaloacetate,Physarum polycephalum,#60# m-MDH <2>
+1.1.1.37,Malate dehydrogenase,0.057,oxaloacetate,Leishmania major,"#143# pH 8.0, 20-23Â°C <59>; #86#glycosomal isoenzyme <79>"
+1.1.1.37,Malate dehydrogenase,0.057,oxaloacetate,Comamonas testosteroni,"#143# pH 8.0, 20-23Â°C <59>; #86#glycosomal isoenzyme <79>"
+1.1.1.37,Malate dehydrogenase,0.057,oxaloacetate,Corynebacterium glutamicum,"#143# pH 8.0, 20-23Â°C <59>; #86#glycosomal isoenzyme <79>"
+1.1.1.37,Malate dehydrogenase,0.04954,oxaloacetate,Plasmodium falciparum,#63# wild type enzyme <102>
+1.1.1.37,Malate dehydrogenase,0.08074,oxaloacetate,Plasmodium falciparum,#63# mutant enzyme R183A <102>
+1.1.1.37,Malate dehydrogenase,0.06186,oxaloacetate,Plasmodium falciparum,#63# mutant enzyme R214G <102>
+1.1.1.37,Malate dehydrogenase,0.061,oxaloacetate,Bacillus subtilis,
+1.1.1.37,Malate dehydrogenase,0.022,oxaloacetate,Rasamsonia emersonii,"#144# pH 7.4, 30Â°C, recombinantenzyme <56>; #33# pH 8.0, 25Â°C, tetrameric enzyme form <72>; #95#recombinant wild type mitochondrial MDH, at 25Â°C <103>; #7# pH andtemperature not specified in the publication <139>; #144# recombinantenzyme, at pH 7.4 and 30Â°C <56>"
+1.1.1.37,Malate dehydrogenase,0.022,oxaloacetate,Rhodopseudomonas palustris,"#144# pH 7.4, 30Â°C, recombinantenzyme <56>; #33# pH 8.0, 25Â°C, tetrameric enzyme form <72>; #95#recombinant wild type mitochondrial MDH, at 25Â°C <103>; #7# pH andtemperature not specified in the publication <139>; #144# recombinantenzyme, at pH 7.4 and 30Â°C <56>"
+1.1.1.37,Malate dehydrogenase,0.022,oxaloacetate,Bacillus subtilis,"#144# pH 7.4, 30Â°C, recombinantenzyme <56>; #33# pH 8.0, 25Â°C, tetrameric enzyme form <72>; #95#recombinant wild type mitochondrial MDH, at 25Â°C <103>; #7# pH andtemperature not specified in the publication <139>; #144# recombinantenzyme, at pH 7.4 and 30Â°C <56>"
+1.1.1.37,Malate dehydrogenase,0.022,oxaloacetate,Phytophthora infestans,"#144# pH 7.4, 30Â°C, recombinantenzyme <56>; #33# pH 8.0, 25Â°C, tetrameric enzyme form <72>; #95#recombinant wild type mitochondrial MDH, at 25Â°C <103>; #7# pH andtemperature not specified in the publication <139>; #144# recombinantenzyme, at pH 7.4 and 30Â°C <56>"
+1.1.1.37,Malate dehydrogenase,0.0001,oxaloacetate,Kitasatospora aureofaciens,#71# pH and temperature not specified inthe publication with NAD+ <139>
+1.1.1.37,Malate dehydrogenase,0.027,oxaloacetate,Leishmania major,#86# cytosolic isoenzyme <79>
+1.1.1.37,Malate dehydrogenase,0.027,oxaloacetate,Methanospirillum hungatei,#86# cytosolic isoenzyme <79>
+1.1.1.37,Malate dehydrogenase,0.287,oxaloacetate,Ananas comosus,#85# pH 7.5 <51>
+1.1.1.37,Malate dehydrogenase,0.0643,oxaloacetate,Ananas comosus,#85# pH 6.8 <51>
+1.1.1.37,Malate dehydrogenase,0.059,oxaloacetate,Methylosinus trichosporium,"#88# recombinant enzyme, pH 9.5, 30Â°C<140>"
+1.1.1.37,Malate dehydrogenase,0.014,oxaloacetate,Thermus thermophilus,#9# 37Â°C <48>
+1.1.1.37,Malate dehydrogenase,0.006,oxaloacetate,Thermus thermophilus,#9# 30Â°C <15>
+1.1.1.37,Malate dehydrogenase,0.02,oxaloacetate,Sus scrofa,"#9# 60Â°C <15>; #138# 25Â°C<54>; #41# Tv-1961 <45>; #144# pH 7.4, 30Â°C, native enzyme <56>; #40#pH and temperature not specified in the publication <139>; #13# pH 8.1,22Â°C <112>; #144# native enzyme, at pH 7.4 and 30Â°C <56>"
+1.1.1.37,Malate dehydrogenase,0.02,oxaloacetate,Rasamsonia emersonii,"#9# 60Â°C <15>; #138# 25Â°C<54>; #41# Tv-1961 <45>; #144# pH 7.4, 30Â°C, native enzyme <56>; #40#pH and temperature not specified in the publication <139>; #13# pH 8.1,22Â°C <112>; #144# native enzyme, at pH 7.4 and 30Â°C <56>"
+1.1.1.37,Malate dehydrogenase,0.02,oxaloacetate,Beggiatoa leptomitoformis,"#9# 60Â°C <15>; #138# 25Â°C<54>; #41# Tv-1961 <45>; #144# pH 7.4, 30Â°C, native enzyme <56>; #40#pH and temperature not specified in the publication <139>; #13# pH 8.1,22Â°C <112>; #144# native enzyme, at pH 7.4 and 30Â°C <56>"
+1.1.1.37,Malate dehydrogenase,0.02,oxaloacetate,Trichomonas vaginalis,"#9# 60Â°C <15>; #138# 25Â°C<54>; #41# Tv-1961 <45>; #144# pH 7.4, 30Â°C, native enzyme <56>; #40#pH and temperature not specified in the publication <139>; #13# pH 8.1,22Â°C <112>; #144# native enzyme, at pH 7.4 and 30Â°C <56>"
+1.1.1.37,Malate dehydrogenase,0.02,oxaloacetate,Nitrosomonas europaea,"#9# 60Â°C <15>; #138# 25Â°C<54>; #41# Tv-1961 <45>; #144# pH 7.4, 30Â°C, native enzyme <56>; #40#pH and temperature not specified in the publication <139>; #13# pH 8.1,22Â°C <112>; #144# native enzyme, at pH 7.4 and 30Â°C <56>"
+1.1.1.37,Malate dehydrogenase,0.02,oxaloacetate,Thermus thermophilus,"#9# 60Â°C <15>; #138# 25Â°C<54>; #41# Tv-1961 <45>; #144# pH 7.4, 30Â°C, native enzyme <56>; #40#pH and temperature not specified in the publication <139>; #13# pH 8.1,22Â°C <112>; #144# native enzyme, at pH 7.4 and 30Â°C <56>"
+1.1.1.37,Malate dehydrogenase,0.176,oxaloacetate,Phytophthora infestans,"#95# recombinant wild type cytosolic MDH,at 25Â°C <103>"
+1.1.1.37,Malate dehydrogenase,0.035,oxaloacetate,Rhodovulum steppense,"#95# native wild type mitochondrialMDH, at 25Â°C <103>; #206# isoform MDH2, at pH 8.5 and 25Â°C <152>"
+1.1.1.37,Malate dehydrogenase,0.035,oxaloacetate,Phytophthora infestans,"#95# native wild type mitochondrialMDH, at 25Â°C <103>; #206# isoform MDH2, at pH 8.5 and 25Â°C <152>"
+1.1.1.37,Malate dehydrogenase,0.0387,oxaloacetate,Acinetobacter lwoffii,
+1.1.1.37,Malate dehydrogenase,59.5,oxaloacetate,Synechocystis sp. PCC 6803,#134# at pH 6.5 and 50Â°C <154>
+1.1.1.37,Malate dehydrogenase,200.0,oxaloacetate,Haloarcula marismortui,"#165# pH 7.0, temperature not specified inthe publication, 2 M NaCl, wild-type enzyme <124>"
+1.1.1.37,Malate dehydrogenase,100.0,oxaloacetate,Haloarcula marismortui,"#165# pH 7.0, temperature not specified inthe publication, 4 M NaCl, wild-type enzyme <124>"
+1.1.1.37,Malate dehydrogenase,0.0014,oxaloacetate,Haloarcula marismortui,"#165# pH 7.0, temperature not specifiedin the publication, 4 M NaCl, mutant enzyme R100Q <124>"
+1.1.1.37,Malate dehydrogenase,0.007,oxaloacetate,Haloarcula marismortui,"#165# pH 7.0, temperature not specified inthe publication, 2 M NaCl, mutant enzyme R100Q <124>"
+1.1.1.37,Malate dehydrogenase,11240.0,oxaloacetate,Malus domestica,"#170# pH 7.8, 30Â°C <111>"
+1.1.1.37,Malate dehydrogenase,10000.0,oxaloacetate,Streptomyces coelicolor,"#187# pH 8.5, 30Â°C <108>"
+1.1.1.37,Malate dehydrogenase,1510.0,oxaloacetate,Taenia solium,"#193# pH 8.0, temperature not specified inthe publication <118>"
+1.1.1.37,Malate dehydrogenase,15100.0,oxaloacetate,Taenia solium,"#193# pH 8.0, 22Â°C, recombinant enzyme<118>"
+1.1.1.37,Malate dehydrogenase,2558.0,oxaloacetate,Methylotuvimicrobium alcaliphilum,"#195# recombinant enzyme, pH 9.5, 30Â°C<140>"
+1.1.1.37,Malate dehydrogenase,17.4,oxaloacetate,Mycobacterium tuberculosis,"#196# recombinant enzyme, pH andtemperature not specified in the publication <142>"
+1.1.1.37,Malate dehydrogenase,2600.0,oxaloacetate,Arabidopsis thaliana,"#203# reduced isoform cytMDH1, at pH 7.5and 25Â°C <157>"
+1.1.1.37,Malate dehydrogenase,2500.0,oxaloacetate,Arabidopsis thaliana,"#203# oxidized isoform cytMDH1, at pH 7.5and 25Â°C <157>"
+1.1.1.37,Malate dehydrogenase,13000.0,oxaloacetate,Methylorubrum extorquens,#204# at pH 8.1 and 30Â°C <145>
+1.1.1.37,Malate dehydrogenase,1168.4,oxaloacetate,Ignicoccus islandicus,"#207# pH 7.0, 70Â°C <158>"
+1.1.1.37,Malate dehydrogenase,19340.0,oxaloacetate,Methylosinus trichosporium,"#88# recombinant enzyme, pH 9.5, 30Â°C<140>"
+1.1.1.37,Malate dehydrogenase,0.00087,NAD+,Escherichia coli,#10# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,0.117,NAD+,Glaesserella parasuis,#108# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,0.43,NAD+,Homo sapiens,"#11# enzyme from normal breast tissue, at pH 8.0,temperature not specified in the publication <150>"
+1.1.1.37,Malate dehydrogenase,0.93,NAD+,Homo sapiens,"#11# enzyme from cancerous breast tissue, at pH 8.0,temperature not specified in the publication <150>"
+1.1.1.37,Malate dehydrogenase,0.07,NAD+,Trichomonas gallinae,
+1.1.1.37,Malate dehydrogenase,0.58,NAD+,Synechocystis sp. PCC 6803,#134# at pH 8.0 and 45Â°C <154>
+1.1.1.37,Malate dehydrogenase,0.87,NAD+,Aeropyrum pernix,#135# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,0.028,NAD+,Pyrobaculum islandicum,"#136# recombinant enzyme, pH 8.0, 80Â°C <87>"
+1.1.1.37,Malate dehydrogenase,0.53,NAD+,Beggiatoa leptomitoformis,#138# 25Â°C <54>
+1.1.1.37,Malate dehydrogenase,0.3,NAD+,Euglena gracilis,#17# s-MDH <29>
+1.1.1.37,Malate dehydrogenase,0.3,NAD+,Saccharomyces cerevisiae,#17# s-MDH <29>
+1.1.1.37,Malate dehydrogenase,0.11,NAD+,Rhodovulum steppense,"#14# fusion protein of MDH with mitochondrialcitrate synthase <42>; #206# isoform MDH2, at pH 8.5 and 25Â°C <152>"
+1.1.1.37,Malate dehydrogenase,0.11,NAD+,Saccharomyces cerevisiae,"#14# fusion protein of MDH with mitochondrialcitrate synthase <42>; #206# isoform MDH2, at pH 8.5 and 25Â°C <152>"
+1.1.1.37,Malate dehydrogenase,0.152,NAD+,Plasmodium falciparum,#140# pH 10.2 <57>
+1.1.1.37,Malate dehydrogenase,0.1397,NAD+,Mesembryanthemum cordifolium,"#142# pH 6.9, 30Â°C <67>"
+1.1.1.37,Malate dehydrogenase,0.1338,NAD+,Mesembryanthemum cordifolium,"#142# pH 7.5, 30Â°C <67>"
+1.1.1.37,Malate dehydrogenase,0.4,NAD+,Corynebacterium glutamicum,"#158# pH 9.0, 25Â°C <68>; #143# pH 10.5, 20-23Â°C<59>"
+1.1.1.37,Malate dehydrogenase,0.4,NAD+,Vulcanithermus mediatlanticus,"#158# pH 9.0, 25Â°C <68>; #143# pH 10.5, 20-23Â°C<59>"
+1.1.1.37,Malate dehydrogenase,0.12,NAD+,Rasamsonia emersonii,"#144# pH 7.4, 30Â°C, native enzyme <56>; #144#native enzyme, at pH 7.4 and 30Â°C <56>"
+1.1.1.37,Malate dehydrogenase,0.13,NAD+,Mycobacterium tuberculosis,"#144# pH 7.4, 30Â°C, recombinant enzyme <56>;#196# recombinant enzyme, pH and temperature not specified in thepublication <142>; #144# recombinant enzyme, at pH 7.4 and 30Â°C <56>"
+1.1.1.37,Malate dehydrogenase,0.13,NAD+,Rasamsonia emersonii,"#144# pH 7.4, 30Â°C, recombinant enzyme <56>;#196# recombinant enzyme, pH and temperature not specified in thepublication <142>; #144# recombinant enzyme, at pH 7.4 and 30Â°C <56>"
+1.1.1.37,Malate dehydrogenase,0.69,NAD+,Triticum aestivum,#151# pH 7.5 <53>
+1.1.1.37,Malate dehydrogenase,0.05,NAD+,Taenia solium,
+1.1.1.37,Malate dehydrogenase,0.094,NAD+,Clonorchis sinensis,"#153# pH 9.6, 25Â°C <75>"
+1.1.1.37,Malate dehydrogenase,0.263,NAD+,Macromonas bipunctata,"#157# pH 9.0, 25Â°C <68>"
+1.1.1.37,Malate dehydrogenase,0.0286,NAD+,Flavobacterium frigidimaris,"#159# 20Â°C, pH 10.0 <73>"
+1.1.1.37,Malate dehydrogenase,0.0279,NAD+,Flavobacterium frigidimaris,"#159# 10Â°C, pH 10.0 <73>"
+1.1.1.37,Malate dehydrogenase,0.0382,NAD+,Flavobacterium frigidimaris,"#159# 40Â°C, pH 10.0 <73>"
+1.1.1.37,Malate dehydrogenase,0.0299,NAD+,Flavobacterium frigidimaris,"#159# 30Â°C, pH 10.0 <73>"
+1.1.1.37,Malate dehydrogenase,0.309,NAD+,Fasciola gigantica,#160# at pH 8.0 and 25Â°C <164>
+1.1.1.37,Malate dehydrogenase,0.26,NAD+,Escherichia coli,#167# wild-type <43>
+1.1.1.37,Malate dehydrogenase,0.5,NAD+,Escherichia coli,#167# mutant N122C-L305C(diamide) <43>
+1.1.1.37,Malate dehydrogenase,0.38,NAD+,Escherichia coli,#167# mutant N122C-L305C(DTT) <43>
+1.1.1.37,Malate dehydrogenase,0.71,NAD+,Euglena gracilis,#17# m-MDH <29>
+1.1.1.37,Malate dehydrogenase,3.32,NAD+,Malus domestica,"#170# pH 7.5, 30Â°C <111>; #170# pH 7.9, 25Â°C <111>"
+1.1.1.37,Malate dehydrogenase,0.319,NAD+,Mesembryanthemum crystallinum,"#174# pH 8.2, 30Â°C <65>"
+1.1.1.37,Malate dehydrogenase,0.027,NAD+,Echinococcus granulosus,"#186# pH 7.6, native enzyme <63>"
+1.1.1.37,Malate dehydrogenase,0.033,NAD+,Echinococcus granulosus,"#186# pH 7.6, recombinant enzyme with a poly-Histail <63>"
+1.1.1.37,Malate dehydrogenase,0.036,NAD+,Echinococcus granulosus,"#186# pH 7.6, recombinant protein fusions withglutathione S-transferase <63>"
+1.1.1.37,Malate dehydrogenase,0.042,NAD+,Taenia solium,"#193# pH 8.0, temperature not specified in thepublication <118>; #193# pH 9.6, 22Â°C, recombinant enzyme <118>"
+1.1.1.37,Malate dehydrogenase,0.45,NAD+,Methylotuvimicrobium alcaliphilum,"#195# recombinant enzyme, pH 10.0, 30Â°C <140>"
+1.1.1.37,Malate dehydrogenase,0.06,NAD+,Rhodovulum steppense,"#206# isoform MDH1, at pH 8.5 and 25Â°C <152>"
+1.1.1.37,Malate dehydrogenase,0.075,NAD+,Rhodovulum steppense,"#206# isoform MDH3, at pH 8.5 and 25Â°C <152>"
+1.1.1.37,Malate dehydrogenase,0.09,NAD+,Methanothermobacter thermautotrophicus,#21# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,129.0,NAD+,Zea mays,#28# at pH 8.0 and 25Â°C <147>
+1.1.1.37,Malate dehydrogenase,0.085,NAD+,Rhodopseudomonas palustris,"#33# pH 9.0, 25Â°C, dimeric enzyme form <72>"
+1.1.1.37,Malate dehydrogenase,0.27,NAD+,Kitasatospora aureofaciens,"#33# pH 9.0, 25Â°C, tetrameric enzyme form <72>;#71# pH and temperature not specified in the publication <139>"
+1.1.1.37,Malate dehydrogenase,0.27,NAD+,Rhodopseudomonas palustris,"#33# pH 9.0, 25Â°C, tetrameric enzyme form <72>;#71# pH and temperature not specified in the publication <139>"
+1.1.1.37,Malate dehydrogenase,0.34,NAD+,Pseudomonas stutzeri,#35# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,0.024,NAD+,Nitrosomonas europaea,#40# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,0.024,NAD+,Coccochloris peniocystis,#40# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,0.022,NAD+,Trichomonas vaginalis,#41# Tv-1973 <45>
+1.1.1.37,Malate dehydrogenase,0.0699,NAD+,Trichomonas vaginalis,#41# Tv 10-02 <45>
+1.1.1.37,Malate dehydrogenase,0.048,NAD+,Rhodobacter capsulatus,
+1.1.1.37,Malate dehydrogenase,0.459,NAD+,Mycolicibacterium phlei,
+1.1.1.37,Malate dehydrogenase,0.15,NAD+,Streptomyces coelicolor,"#187# pH 8.5, 30Â°C <108>; #55# pH andtemperature not specified in the publication <139>"
+1.1.1.37,Malate dehydrogenase,0.161,NAD+,Helicobacter pylori,#59# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,0.19,NAD+,Physarum polycephalum,#60# m-MDH <2>
+1.1.1.37,Malate dehydrogenase,0.75,NAD+,Physarum polycephalum,#60# s-MDH <2>
+1.1.1.37,Malate dehydrogenase,0.109,NAD+,Comamonas testosteroni,
+1.1.1.37,Malate dehydrogenase,0.1,NAD+,Dictyostelium discoideum,#36# mitochondrial MDH <21>; #7# pH and temperaturenot specified in the publication <139>
+1.1.1.37,Malate dehydrogenase,0.1,NAD+,Bacillus subtilis,#36# mitochondrial MDH <21>; #7# pH and temperaturenot specified in the publication <139>
+1.1.1.37,Malate dehydrogenase,0.14,NAD+,Sus scrofa,#9# 60Â°C <15>
+1.1.1.37,Malate dehydrogenase,0.14,NAD+,Thermus thermophilus,#9# 60Â°C <15>
+1.1.1.37,Malate dehydrogenase,0.14,NAD+,Dictyostelium discoideum,#9# 60Â°C <15>
+1.1.1.37,Malate dehydrogenase,0.14,NAD+,Bacillus subtilis,#9# 60Â°C <15>
+1.1.1.37,Malate dehydrogenase,0.28,NAD+,Ananas comosus,#85# pH 6.8 <51>
+1.1.1.37,Malate dehydrogenase,0.22,NAD+,Ananas comosus,#85# pH 7.5 <51>
+1.1.1.37,Malate dehydrogenase,0.252,NAD+,Leishmania major,#86# glycosomal isoenzyme <79>
+1.1.1.37,Malate dehydrogenase,0.121,NAD+,Leishmania major,#86# mitochondrial isoenzyme <79>
+1.1.1.37,Malate dehydrogenase,0.069,NAD+,Leishmania major,#86# cytosolic isoenzyme <79>
+1.1.1.37,Malate dehydrogenase,0.33,NAD+,Methylosinus trichosporium,"#88# recombinant enzyme, pH 9.5, 30Â°C <140>"
+1.1.1.37,Malate dehydrogenase,0.026,NAD+,Thermus thermophilus,#9# 30Â°C <15>
+1.1.1.37,Malate dehydrogenase,0.6,NAD+,Heliocidaris crassispina,
+1.1.1.37,Malate dehydrogenase,0.21,NAD+,Phytophthora infestans,"#95# native wild type mitochondrial MDH, at 25Â°C<103>; #95# recombinant wild type cytosolic MDH, at 25Â°C <103>"
+1.1.1.37,Malate dehydrogenase,0.37,NAD+,Phytophthora infestans,"#95# recombinant wild type mitochondrial MDH, at25Â°C <103>"
+1.1.1.37,Malate dehydrogenase,0.435,NAD+,Acinetobacter lwoffii,
+1.1.1.37,Malate dehydrogenase,1.1,NAD+,uncultured bacterium,#98# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,1.1,NAD+,Syntrophobacter fumaroxidans,#98# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,0.357,NAD+,Synechocystis sp. PCC 6803,#134# at pH 8.0 and 45Â°C <154>
+1.1.1.37,Malate dehydrogenase,0.77,NAD+,Malus domestica,"#170# pH 7.5, 30Â°C <111>"
+1.1.1.37,Malate dehydrogenase,0.765,NAD+,Malus domestica,"#170# pH 7.9, 25Â°C <111>"
+1.1.1.37,Malate dehydrogenase,24.4,NAD+,Streptomyces coelicolor,"#187# pH 8.5, 30Â°C <108>"
+1.1.1.37,Malate dehydrogenase,1880.0,NAD+,Taenia solium,"#193# pH 8.0, temperature not specified in thepublication <118>; #193# pH 9.6, 22Â°C, recombinant enzyme <118>"
+1.1.1.37,Malate dehydrogenase,2.46,NAD+,Mycobacterium tuberculosis,"#196# recombinant enzyme, pH and temperature notspecified in the publication <142>"
+1.1.1.37,Malate dehydrogenase,0.013,NADH,Tritrichomonas suis,
+1.1.1.37,Malate dehydrogenase,0.0165,NADH,Glaesserella parasuis,#108# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,0.075,NADH,Rattus norvegicus,#12# ischemic rats <74>
+1.1.1.37,Malate dehydrogenase,0.05,NADH,Rattus norvegicus,"#12# normal rats <74>; #203# oxidized isoformcytMDH1, at pH 7.5 and 25Â°C <157>"
+1.1.1.37,Malate dehydrogenase,0.05,NADH,Arabidopsis thaliana,"#12# normal rats <74>; #203# oxidized isoformcytMDH1, at pH 7.5 and 25Â°C <157>"
+1.1.1.37,Malate dehydrogenase,0.011,NADH,Trichomonas gallinae,
+1.1.1.37,Malate dehydrogenase,0.0145,NADH,Sus scrofa,"#13# pH 7.5, 20Â°C, mitochondrial isoenzyme mMDH<62>"
+1.1.1.37,Malate dehydrogenase,0.0205,NADH,Sus scrofa,"#13# pH 7.5, 20Â°C, cytosolic isoenzyme cMDH <62>"
+1.1.1.37,Malate dehydrogenase,0.028,NADH,Salinibacter ruber,"#139# 60Â°C, pH 8.0 <52>"
+1.1.1.37,Malate dehydrogenase,0.0136,NADH,Mesembryanthemum crystallinum,"#14# fusion protein of MDH with mitochondrialcitrate synthase <42>; #174# pH 8.2, 30Â°C <65>"
+1.1.1.37,Malate dehydrogenase,0.0136,NADH,Saccharomyces cerevisiae,"#14# fusion protein of MDH with mitochondrialcitrate synthase <42>; #174# pH 8.2, 30Â°C <65>"
+1.1.1.37,Malate dehydrogenase,0.0104,NADH,Mesembryanthemum cordifolium,"#142# pH 6.9, 30Â°C <67>"
+1.1.1.37,Malate dehydrogenase,0.1,NADH,Corynebacterium glutamicum,"#143# pH 9.5, 20-23Â°C <59>"
+1.1.1.37,Malate dehydrogenase,0.07,NADH,Corynebacterium glutamicum,"#143# pH 6.5, 20-23Â°C <59>"
+1.1.1.37,Malate dehydrogenase,0.0207,NADH,Sphyraena idiastes,"#146# pH 7.5, 20Â°C, recombinant cytosolicisoenzyme cMDH-S <62>; #146# isoform r-cMDH-S, at pH 7.5 and 20Â°C <62>"
+1.1.1.37,Malate dehydrogenase,0.0134,NADH,Sphyraena idiastes,"#146# pH 7.5, 20Â°C, recombinant cytosolicisoenzyme cMDH-L <62>; #146# isoform r-cMDH-L, at pH 7.5 and 20Â°C <62>"
+1.1.1.37,Malate dehydrogenase,0.0214,NADH,Sphyraena idiastes,"#146# pH 7.5, 20Â°C, cytosolic isoenzyme cMDH-S<62>; #146# isoform cMDH-S, at pH 7.5 and 20Â°C <62>"
+1.1.1.37,Malate dehydrogenase,0.0244,NADH,Sphyraena idiastes,"#146# pH 7.5, 20Â°C, mitochondrial isoenzyme mMDH<62>; #146# isoform r-mMDH, at pH 7.5 and 20Â°C <62>"
+1.1.1.37,Malate dehydrogenase,0.0172,NADH,Moritella sp.,"#149# pH 7.0, 30Â°C <58>; #149# enzyme from strain2D2, at pH 7.5 and  30Â°C <58>"
+1.1.1.37,Malate dehydrogenase,0.39,NADH,Triticum aestivum,#151# pH 7.5 <53>
+1.1.1.37,Malate dehydrogenase,0.007,NADH,Clonorchis sinensis,"#153# pH 8.5, 25Â°C <75>; #186# pH 8.0, nativeenzyme <63>"
+1.1.1.37,Malate dehydrogenase,0.007,NADH,Echinococcus granulosus,"#153# pH 8.5, 25Â°C <75>; #186# pH 8.0, nativeenzyme <63>"
+1.1.1.37,Malate dehydrogenase,0.0266,NADH,Macromonas bipunctata,"#157# pH 7.8, 25Â°C <68>"
+1.1.1.37,Malate dehydrogenase,0.0014,NADH,Vulcanithermus mediatlanticus,
+1.1.1.37,Malate dehydrogenase,0.042,NADH,Vulcanithermus mediatlanticus,"#158# pH 7.8, 25Â°C <68>"
+1.1.1.37,Malate dehydrogenase,0.141,NADH,Fasciola gigantica,#160# at pH 8.0 and 25Â°C <164>
+1.1.1.37,Malate dehydrogenase,0.012,NADH,Haloarcula marismortui,"#165# pH 8.0, 25Â°C, recombinant wild-type enzymeand mutant K205A <85>"
+1.1.1.37,Malate dehydrogenase,0.056,NADH,Escherichia coli,#167# mutant N122C-L305C(DTT) <43>
+1.1.1.37,Malate dehydrogenase,0.087,NADH,Escherichia coli,#167# mutant L305C <43>
+1.1.1.37,Malate dehydrogenase,0.052,NADH,Euglena gracilis,#17# s-MDH <29>; #167# mutantN122C-L305C(diamide) <43>
+1.1.1.37,Malate dehydrogenase,0.052,NADH,Escherichia coli,#17# s-MDH <29>; #167# mutantN122C-L305C(diamide) <43>
+1.1.1.37,Malate dehydrogenase,0.029,NADH,Euglena gracilis,"#17# m-MDH <29>; #144# pH 7.4, 30Â°C,recombinant enzyme <56>; #28# pH 7.5, temperature not specified in thepublication, recombinant enzyme <119>; #144# recombinant enzyme, at pH7.4 and 30Â°C <56>"
+1.1.1.37,Malate dehydrogenase,0.029,NADH,Zea mays,"#17# m-MDH <29>; #144# pH 7.4, 30Â°C,recombinant enzyme <56>; #28# pH 7.5, temperature not specified in thepublication, recombinant enzyme <119>; #144# recombinant enzyme, at pH7.4 and 30Â°C <56>"
+1.1.1.37,Malate dehydrogenase,0.029,NADH,Rasamsonia emersonii,"#17# m-MDH <29>; #144# pH 7.4, 30Â°C,recombinant enzyme <56>; #28# pH 7.5, temperature not specified in thepublication, recombinant enzyme <119>; #144# recombinant enzyme, at pH7.4 and 30Â°C <56>"
+1.1.1.37,Malate dehydrogenase,1.4,NADH,Malus domestica,"#170# pH 7.8, 30Â°C <111>"
+1.1.1.37,Malate dehydrogenase,0.0366,NADH,Mesembryanthemum crystallinum,"#174# pH 6.8, 30Â°C <65>"
+1.1.1.37,Malate dehydrogenase,0.32,NADH,Trypanosoma brucei,#176# glacosomal enzyme <76>
+1.1.1.37,Malate dehydrogenase,0.054,NADH,Trypanosoma brucei,"#176# pH 7.5, 37Â°C, glycosomal enzyme <76>"
+1.1.1.37,Malate dehydrogenase,0.057,NADH,Leishmania mexicana,#177# cytosolic isoenzyme <79>
+1.1.1.37,Malate dehydrogenase,0.0024,NADH,Thermus thermophilus,"#178# 30Â°C, pH 7.0, wild-type enzyme <70>"
+1.1.1.37,Malate dehydrogenase,0.019,NADH,Echinococcus granulosus,"#186# pH 8.0, recombinant protein fusions withglutathione S-transferase <63>"
+1.1.1.37,Malate dehydrogenase,0.0127,NADH,Echinococcus granulosus,"#186# pH 8.0, recombinant enzyme with a poly-Histai <63>"
+1.1.1.37,Malate dehydrogenase,0.83,NADH,Streptomyces coelicolor,"#187# pH 8.5, 30Â°C <108>"
+1.1.1.37,Malate dehydrogenase,0.167,NADH,Taenia solium,"#193# pH 8.0, temperature not specified in thepublication <118>; #193# pH 8.0, 22Â°C, recombinant enzyme <118>"
+1.1.1.37,Malate dehydrogenase,0.0252,NADH,Methylotuvimicrobium alcaliphilum,"#195# recombinant enzyme, pH 10.0, 30Â°C <140>"
+1.1.1.37,Malate dehydrogenase,0.431,NADH,Arabidopsis thaliana,"#199# pH 7.5, 30Â°C, recombinant enzyme <137>"
+1.1.1.37,Malate dehydrogenase,0.024,NADH,Haloarcula marismortui,"#2# 60Â°C, pH 8.0 <52>; #83# pH andtemperature not specified in the publication <139>; #191# pH 8.0, 65Â°C,at 0.4 mM oxaloacetate <117>"
+1.1.1.37,Malate dehydrogenase,0.024,NADH,Archaeoglobus fulgidus,"#2# 60Â°C, pH 8.0 <52>; #83# pH andtemperature not specified in the publication <139>; #191# pH 8.0, 65Â°C,at 0.4 mM oxaloacetate <117>"
+1.1.1.37,Malate dehydrogenase,0.072,NADH,Arabidopsis thaliana,"#203# reduced isoform cytMDH1, at pH 7.5 and 25Â°C<157>"
+1.1.1.37,Malate dehydrogenase,0.123,NADH,Metallosphaera sedula,"#205# at pH 7.0, temperature not specified in thepublication <148>"
+1.1.1.37,Malate dehydrogenase,0.25,NADH,Rhodovulum steppense,"#206# isoform MDH1, at pH 8.5 and 25Â°C <152>"
+1.1.1.37,Malate dehydrogenase,0.09,NADH,Methanothermobacter thermautotrophicus,#21# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,0.14,NADH,Aspergillus niger,#23# mit MDH <19>
+1.1.1.37,Malate dehydrogenase,0.192,NADH,Aspergillus niger,#23# cytosolic MDH <19>
+1.1.1.37,Malate dehydrogenase,0.078,NADH,Spinacia oleracea,#26# soluble enzyme fraction <107>
+1.1.1.37,Malate dehydrogenase,0.0739,NADH,Spinacia oleracea,#26# plasma membrane-bound enzyme fraction <107>
+1.1.1.37,Malate dehydrogenase,0.0434,NADH,Spinacia oleracea,#26# chloroplast envelope enzyme fraction <107>
+1.1.1.37,Malate dehydrogenase,0.0381,NADH,Spinacia oleracea,#26# intact chloroplast enzyme fraction <107>
+1.1.1.37,Malate dehydrogenase,0.0729,NADH,Spinacia oleracea,#26# broken chloroplast enzyme fraction <107>
+1.1.1.37,Malate dehydrogenase,0.1172,NADH,Spinacia oleracea,#26# chloroplast stroma enzyme fraction <107>
+1.1.1.37,Malate dehydrogenase,0.33,NADH,Zea mays,#28# at pH 8.0 and 25Â°C <147>
+1.1.1.37,Malate dehydrogenase,0.025,NADH,Zea mays,"#144# pH 7.4, 30Â°C, native enzyme <56>; #28#pH 7.5, temperature not specified in the publication, native enzyme<119>; #144# native enzyme, at pH 7.4 and 30Â°C <56>"
+1.1.1.37,Malate dehydrogenase,0.025,NADH,Rasamsonia emersonii,"#144# pH 7.4, 30Â°C, native enzyme <56>; #28#pH 7.5, temperature not specified in the publication, native enzyme<119>; #144# native enzyme, at pH 7.4 and 30Â°C <56>"
+1.1.1.37,Malate dehydrogenase,0.025,NADH,Rhodobacter capsulatus,"#144# pH 7.4, 30Â°C, native enzyme <56>; #28#pH 7.5, temperature not specified in the publication, native enzyme<119>; #144# native enzyme, at pH 7.4 and 30Â°C <56>"
+1.1.1.37,Malate dehydrogenase,0.023,NADH,Rhodopseudomonas palustris,"#33# pH 8.0, 25Â°C, dimeric enzyme form <72>"
+1.1.1.37,Malate dehydrogenase,0.017,NADH,Mesembryanthemum cordifolium,"#138# 25Â°C <54>; #142# pH 7.5, 30Â°C <67>;#33# pH 8.0, 25Â°C, tetrameric enzyme form <72>"
+1.1.1.37,Malate dehydrogenase,0.017,NADH,Beggiatoa leptomitoformis,"#138# 25Â°C <54>; #142# pH 7.5, 30Â°C <67>;#33# pH 8.0, 25Â°C, tetrameric enzyme form <72>"
+1.1.1.37,Malate dehydrogenase,0.017,NADH,Rhodopseudomonas palustris,"#138# 25Â°C <54>; #142# pH 7.5, 30Â°C <67>;#33# pH 8.0, 25Â°C, tetrameric enzyme form <72>"
+1.1.1.37,Malate dehydrogenase,0.036,NADH,Pseudomonas stutzeri,#140# pH 7.5 <57>; #176# glycosomal enzyme<76>; #35# pH and temperature not specified in the publication <139>
+1.1.1.37,Malate dehydrogenase,0.036,NADH,Plasmodium falciparum,#140# pH 7.5 <57>; #176# glycosomal enzyme<76>; #35# pH and temperature not specified in the publication <139>
+1.1.1.37,Malate dehydrogenase,0.036,NADH,Trypanosoma brucei,#140# pH 7.5 <57>; #176# glycosomal enzyme<76>; #35# pH and temperature not specified in the publication <139>
+1.1.1.37,Malate dehydrogenase,0.04,NADH,Dictyostelium discoideum,#36# mitochondrial MDH <21>
+1.1.1.37,Malate dehydrogenase,0.0041,NADH,Sulfolobus acidocaldarius,"#38# 40Â°C, pH 5.8 <35>"
+1.1.1.37,Malate dehydrogenase,0.0117,NADH,Thermoplasma acidophilum,
+1.1.1.37,Malate dehydrogenase,0.022,NADH,Nitrosomonas europaea,#40# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,0.02,NADH,Trichomonas vaginalis,#41# Tv-1961 <45>; #41# Tv-1973 <45>
+1.1.1.37,Malate dehydrogenase,0.0106,NADH,Trichomonas vaginalis,#41# Tv 10-02 <45>
+1.1.1.37,Malate dehydrogenase,0.0286,NADH,Mycolicibacterium phlei,
+1.1.1.37,Malate dehydrogenase,0.083,NADH,Streptomyces coelicolor,#55# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,0.065,NADH,Rhodovulum steppense,"#59# pH and temperature not specified in thepublication <139>; #206# isoform MDH2, at pH 8.5 and 25Â°C <152>"
+1.1.1.37,Malate dehydrogenase,0.065,NADH,Helicobacter pylori,"#59# pH and temperature not specified in thepublication <139>; #206# isoform MDH2, at pH 8.5 and 25Â°C <152>"
+1.1.1.37,Malate dehydrogenase,0.2,NADH,Physarum polycephalum,#60# m-MDH <2>
+1.1.1.37,Malate dehydrogenase,0.048,NADH,Physarum polycephalum,#60# s-MDH <2>
+1.1.1.37,Malate dehydrogenase,0.048,NADH,Taenia solium,#60# s-MDH <2>
+1.1.1.37,Malate dehydrogenase,0.038,NADH,Comamonas testosteroni,
+1.1.1.37,Malate dehydrogenase,0.07238,NADH,Plasmodium falciparum,#63# wild type enzyme <102>
+1.1.1.37,Malate dehydrogenase,0.1231,NADH,Plasmodium falciparum,#63# mutant enzyme R183A <102>
+1.1.1.37,Malate dehydrogenase,0.1197,NADH,Plasmodium falciparum,#63# mutant enzyme R214G <102>
+1.1.1.37,Malate dehydrogenase,0.063,NADH,Bacillus subtilis,
+1.1.1.37,Malate dehydrogenase,0.027,NADH,Bacillus subtilis,
+1.1.1.37,Malate dehydrogenase,0.014,NADH,Bacillus subtilis,#7# pH and temperature not specified in thepublication <139>
+1.1.1.37,Malate dehydrogenase,0.085,NADH,Rhodovulum steppense,"#176# pH 7.5, 37Â°C, glycosomal enzyme <76>;#71# pH and temperature not specified in the publication <139>; #206#isoform MDH3, at pH 8.5 and 25Â°C <152>"
+1.1.1.37,Malate dehydrogenase,0.085,NADH,Trypanosoma brucei,"#176# pH 7.5, 37Â°C, glycosomal enzyme <76>;#71# pH and temperature not specified in the publication <139>; #206#isoform MDH3, at pH 8.5 and 25Â°C <152>"
+1.1.1.37,Malate dehydrogenase,0.085,NADH,Kitasatospora aureofaciens,"#176# pH 7.5, 37Â°C, glycosomal enzyme <76>;#71# pH and temperature not specified in the publication <139>; #206#isoform MDH3, at pH 8.5 and 25Â°C <152>"
+1.1.1.37,Malate dehydrogenase,0.081,NADH,Methanospirillum hungatei,
+1.1.1.37,Malate dehydrogenase,0.08,NADH,Mycobacterium tuberculosis,"#196# recombinant enzyme, pH and temperature notspecified in the publication <142>"
+1.1.1.37,Malate dehydrogenase,0.08,NADH,Methanospirillum hungatei,"#196# recombinant enzyme, pH and temperature notspecified in the publication <142>"
+1.1.1.37,Malate dehydrogenase,0.0152,NADH,Ananas comosus,#85# pH 7.5 <51>
+1.1.1.37,Malate dehydrogenase,0.041,NADH,Corynebacterium glutamicum,"#85# pH 6.8 <51>; #86# mitochondrialisoenzyme <79>; #143# pH 8.0, 20-23Â°C <59>"
+1.1.1.37,Malate dehydrogenase,0.041,NADH,Leishmania major,"#85# pH 6.8 <51>; #86# mitochondrialisoenzyme <79>; #143# pH 8.0, 20-23Â°C <59>"
+1.1.1.37,Malate dehydrogenase,0.041,NADH,Ananas comosus,"#85# pH 6.8 <51>; #86# mitochondrialisoenzyme <79>; #143# pH 8.0, 20-23Â°C <59>"
+1.1.1.37,Malate dehydrogenase,0.066,NADH,Leishmania major,#86# cytosolic isoenzyme <79>
+1.1.1.37,Malate dehydrogenase,0.061,NADH,Escherichia coli,#167# wild-type <43>; #86# glycosomal isoenzyme<79>
+1.1.1.37,Malate dehydrogenase,0.061,NADH,Leishmania major,#167# wild-type <43>; #86# glycosomal isoenzyme<79>
+1.1.1.37,Malate dehydrogenase,0.0376,NADH,Methylosinus trichosporium,"#88# recombinant enzyme, pH 9.5, 30Â°C <140>"
+1.1.1.37,Malate dehydrogenase,0.0098,NADH,Thermus thermophilus,#9# 30Â°C <15>
+1.1.1.37,Malate dehydrogenase,0.03,NADH,Saccharomyces cerevisiae,#9# 60Â°C <15>; #36# whole cellMDH <21>; #98# pH and temperature not specified in the publication<139>; #134# at pH 6.5 and 45Â°C <154>
+1.1.1.37,Malate dehydrogenase,0.03,NADH,Dictyostelium discoideum,#9# 60Â°C <15>; #36# whole cellMDH <21>; #98# pH and temperature not specified in the publication<139>; #134# at pH 6.5 and 45Â°C <154>
+1.1.1.37,Malate dehydrogenase,0.03,NADH,Synechocystis sp. PCC 6803,#9# 60Â°C <15>; #36# whole cellMDH <21>; #98# pH and temperature not specified in the publication<139>; #134# at pH 6.5 and 45Â°C <154>
+1.1.1.37,Malate dehydrogenase,0.03,NADH,uncultured bacterium,#9# 60Â°C <15>; #36# whole cellMDH <21>; #98# pH and temperature not specified in the publication<139>; #134# at pH 6.5 and 45Â°C <154>
+1.1.1.37,Malate dehydrogenase,0.03,NADH,Heliocidaris crassispina,#9# 60Â°C <15>; #36# whole cellMDH <21>; #98# pH and temperature not specified in the publication<139>; #134# at pH 6.5 and 45Â°C <154>
+1.1.1.37,Malate dehydrogenase,0.03,NADH,Thermus thermophilus,#9# 60Â°C <15>; #36# whole cellMDH <21>; #98# pH and temperature not specified in the publication<139>; #134# at pH 6.5 and 45Â°C <154>
+1.1.1.37,Malate dehydrogenase,0.03,NADH,Syntrophobacter fumaroxidans,#9# 60Â°C <15>; #36# whole cellMDH <21>; #98# pH and temperature not specified in the publication<139>; #134# at pH 6.5 and 45Â°C <154>
+1.1.1.37,Malate dehydrogenase,0.21,NADH,Phytophthora infestans,"#95# native wild type mitochondrial MDH, at 25Â°C<103>"
+1.1.1.37,Malate dehydrogenase,0.026,NADH,Phytophthora infestans,"#95# recombinant wild type cytosolic MDH, at 25Â°C<103>"
+1.1.1.37,Malate dehydrogenase,0.086,NADH,Phytophthora infestans,"#136# pH 8.0, 80Â°C <87>; #136# recombinantenzyme, pH 8.0, 80Â°C <87>; #95# recombinant wild type mitochondrialMDH, at 25Â°C <103>"
+1.1.1.37,Malate dehydrogenase,0.086,NADH,Pyrobaculum islandicum,"#136# pH 8.0, 80Â°C <87>; #136# recombinantenzyme, pH 8.0, 80Â°C <87>; #95# recombinant wild type mitochondrialMDH, at 25Â°C <103>"
+1.1.1.37,Malate dehydrogenase,0.0135,NADH,Acinetobacter lwoffii,"#149# pH 7.0, 30Â°C, recombinant enzyme <58>;#149# enzyme from strain 5710, at pH 7.5 and  30Â°C <58>"
+1.1.1.37,Malate dehydrogenase,0.0135,NADH,Moritella sp.,"#149# pH 7.0, 30Â°C, recombinant enzyme <58>;#149# enzyme from strain 5710, at pH 7.5 and  30Â°C <58>"
+1.1.1.37,Malate dehydrogenase,32.3,NADH,Synechocystis sp. PCC 6803,#134# at pH 6.5 and 45Â°C <154>
+1.1.1.37,Malate dehydrogenase,435.4,NADH,Malus domestica,"#170# pH 7.8, 30Â°C <111>"
+1.1.1.37,Malate dehydrogenase,6560.0,NADH,Streptomyces coelicolor,"#187# pH 8.5, 30Â°C <108>"
+1.1.1.37,Malate dehydrogenase,5760.0,NADH,Taenia solium,"#193# pH 8.0, temperature not specified in thepublication <118>; #193# pH 8.0, 22Â°C, recombinant enzyme <118>"
+1.1.1.37,Malate dehydrogenase,41.6,NADH,Mycobacterium tuberculosis,"#196# recombinant enzyme, pH and temperature notspecified in the publication <142>"
+1.1.1.37,Malate dehydrogenase,6900.0,NADH,Arabidopsis thaliana,"#203# oxidized isoform cytMDH1, at pH 7.5 and 25Â°C<157>"
+1.1.1.37,Malate dehydrogenase,9000.0,NADH,Arabidopsis thaliana,"#203# reduced isoform cytMDH1, at pH 7.5 and 25Â°C<157>"
+1.1.1.37,Malate dehydrogenase,8.0,L-malate,Drosophila virilis,#106# cytoplasmic isoenzyme <1>
+1.1.1.37,Malate dehydrogenase,20.0,L-malate,Drosophila virilis,#106# mitochondrial isoenzyme <1>
+1.1.1.37,Malate dehydrogenase,4.0,L-malate,Syntrophobacter fumaroxidans,
+1.1.1.37,Malate dehydrogenase,0.2,L-malate,Trichomonas gallinae,
+1.1.1.37,Malate dehydrogenase,0.5,L-malate,Pyrobaculum islandicum,"#136# recombinant enzyme, pH 8.0, 80Â°C <87>"
+1.1.1.37,Malate dehydrogenase,0.67,L-malate,Beggiatoa leptomitoformis,#138# 25Â°C <54>
+1.1.1.37,Malate dehydrogenase,0.28,L-malate,Saccharomyces cerevisiae,
+1.1.1.37,Malate dehydrogenase,0.014,L-malate,Saccharomyces cerevisiae,#14# fusion protein of MDH with mitochondrialcitrate synthase <42>
+1.1.1.37,Malate dehydrogenase,0.14,L-malate,Saccharomyces cerevisiae,#14# fusion protein of MDH with mitochondrialcitrate synthase <42>
+1.1.1.37,Malate dehydrogenase,0.028,L-malate,Saccharomyces cerevisiae,
+1.1.1.37,Malate dehydrogenase,2.28,L-malate,Mesembryanthemum cordifolium,"#142# pH 7.5, 30Â°C <67>"
+1.1.1.37,Malate dehydrogenase,2.068,L-malate,Mesembryanthemum cordifolium,"#142# pH 6.9, 30Â°C <67>"
+1.1.1.37,Malate dehydrogenase,0.8,L-malate,Corynebacterium glutamicum,"#143# pH 10.5, 20-23Â°C <59>"
+1.1.1.37,Malate dehydrogenase,1.25,L-malate,Rasamsonia emersonii,"#145# pH 7.4, 30Â°C, native enzyme <56>"
+1.1.1.37,Malate dehydrogenase,5.3,L-malate,Escherichia coli,#167# mutant N122C-L305C(DTT) <43>
+1.1.1.37,Malate dehydrogenase,6.8,L-malate,Escherichia coli,#167# mutant N122C-L305C(diamide) <43>
+1.1.1.37,Malate dehydrogenase,2.6,L-malate,Escherichia coli,#167# wild-type <43>
+1.1.1.37,Malate dehydrogenase,0.71,L-malate,Euglena gracilis,#17# s-MDH <29>
+1.1.1.37,Malate dehydrogenase,0.0341,L-malate,Mesembryanthemum crystallinum,"#174# pH 8.2, 30Â°C <65>"
+1.1.1.37,Malate dehydrogenase,0.033,L-malate,Echinococcus granulosus,"#186# pH 7.6, native enzyme <63>"
+1.1.1.37,Malate dehydrogenase,0.047,L-malate,Echinococcus granulosus,"#186# pH 7.6, recombinant enzyme with apoly-His tail <63>"
+1.1.1.37,Malate dehydrogenase,0.054,L-malate,Echinococcus granulosus,"#186# pH 7.6, native enzyme, recombinantprotein fusions with glutathione S-transferase <63>"
+1.1.1.37,Malate dehydrogenase,98.4,L-malate,Leuconostoc mesenteroides subsp. mesenteroides,"#208# pH 7.0, 25Â°C <144>"
+1.1.1.37,Malate dehydrogenase,1.33,L-malate,Dictyostelium discoideum,#36# mitochondrial MDH <21>
+1.1.1.37,Malate dehydrogenase,5.0,L-malate,Dictyostelium discoideum,
+1.1.1.37,Malate dehydrogenase,1.4,L-malate,Trichomonas vaginalis,#41# Tv-1973 <45>
+1.1.1.37,Malate dehydrogenase,1.22,L-malate,Trichomonas vaginalis,#41# Tv 10-02 <45>
+1.1.1.37,Malate dehydrogenase,1.0,L-malate,Trichomonas vaginalis,"#41# Tv-1961 <45>; #145# pH 7.4, 30Â°C,recombinant enzyme <56>"
+1.1.1.37,Malate dehydrogenase,1.0,L-malate,Rasamsonia emersonii,"#41# Tv-1961 <45>; #145# pH 7.4, 30Â°C,recombinant enzyme <56>"
+1.1.1.37,Malate dehydrogenase,2.1,L-malate,Ananas comosus,#85# pH 6.8 <51>
+1.1.1.37,Malate dehydrogenase,2.1,L-malate,Rhodobacter capsulatus,#85# pH 6.8 <51>
+1.1.1.37,Malate dehydrogenase,0.833,L-malate,Mycolicibacterium phlei,
+1.1.1.37,Malate dehydrogenase,0.069,L-malate,Comamonas testosteroni,#61# 0.03-0.1 mM substrate <5>
+1.1.1.37,Malate dehydrogenase,0.263,L-malate,Comamonas testosteroni,#61# 0.2-10 mM substrate <5>
+1.1.1.37,Malate dehydrogenase,0.9,L-malate,Euglena gracilis,#17# m-MDH <29>
+1.1.1.37,Malate dehydrogenase,0.9,L-malate,Bacillus subtilis,#17# m-MDH <29>
+1.1.1.37,Malate dehydrogenase,5.6,L-malate,Coccochloris peniocystis,
+1.1.1.37,Malate dehydrogenase,0.46,L-malate,Ananas comosus,#85# pH 7.5 <51>
+1.1.1.37,Malate dehydrogenase,0.095,L-malate,Thermus thermophilus,#9# 60Â°C <15>
+1.1.1.37,Malate dehydrogenase,0.019,L-malate,Thermus thermophilus,#9# 30Â°C <15>
+1.1.1.37,Malate dehydrogenase,7.0,L-malate,Heliocidaris crassispina,
+1.1.1.37,Malate dehydrogenase,0.174,L-malate,Acinetobacter lwoffii,
+1.1.1.37,Malate dehydrogenase,0.55,malate,Glaesserella parasuis,
+1.1.1.37,Malate dehydrogenase,1.35,malate,Plasmodium falciparum,#140# pH 10.2 <57>
+1.1.1.37,Malate dehydrogenase,3.53,malate,Triticum aestivum,#151# pH 7.5 <53>
+1.1.1.37,Malate dehydrogenase,1.7,malate,Vulcanithermus mediatlanticus,
+1.1.1.37,Malate dehydrogenase,0.25,nicotinamide hypoxanthine dinucleotide,Glaesserella parasuis,
+1.1.1.37,Malate dehydrogenase,0.19,pyridine 3-aldehyde adenine dinucleotide,Glaesserella parasuis,
+1.1.1.37,Malate dehydrogenase,0.132,Thionicotinamide adenine dinucleotide,Glaesserella parasuis,
+1.1.1.37,Malate dehydrogenase,0.0667,3-acetylpyridine adenine dinucleotide,Glaesserella parasuis,
+1.1.1.37,Malate dehydrogenase,1.464,nicotinamide 1-N6-ethenoadenine dinucleotide,Glaesserella parasuis,
+1.1.1.37,Malate dehydrogenase,0.022,acetylpyridine adenine dinucleotide,Plasmodium falciparum,#140# pH 7.5 <57>
+1.1.1.37,Malate dehydrogenase,0.37,reduced acetylpyridine adenine dinucleotide,Plasmodium falciparum,#140# pH10.2 <57>
+1.1.1.37,Malate dehydrogenase,5.44,alpha-ketomalonate,Plasmodium falciparum,#140# pH 7.5 <57>
+1.1.1.37,Malate dehydrogenase,0.25,NADPH,Corynebacterium glutamicum,"#143# pH 6.5, 20-23Â°C <59>"
+1.1.1.37,Malate dehydrogenase,0.0426,NADPH,Thermus thermophilus,"#178# 30Â°C, pH 7.0, wild-type enzyme <70>"
+1.1.1.37,Malate dehydrogenase,0.165,NADPH,Metallosphaera sedula,"#205# at pH 7.0, temperature not specified in thepublication <148>"
+1.1.1.37,Malate dehydrogenase,0.2,NADPH,Sulfolobus acidocaldarius,
+1.1.1.37,Malate dehydrogenase,2.2,pyruvate,Haloarcula marismortui,"#165# pH 7.0, temperature not specified in thepublication, 0.15 M NaCl, mutant enzyme R100Q <124>; #165# pH 7.0,temperature not specified in the publication, 2 M NaCl, mutant enzymeR100Q <124>"
+1.1.1.37,Malate dehydrogenase,2.9,pyruvate,Haloarcula marismortui,"#165# pH 7.0, temperature not specified in thepublication, 4 M NaCl, mutant enzyme R100Q <124>"
+1.1.1.37,Malate dehydrogenase,5.6,pyruvate,Haloarcula marismortui,"#165# pH 7.0, temperature not specified in thepublication, 0.15 M NaCl, mutant enzyme R100Q <124>"
+1.1.1.37,Malate dehydrogenase,1.2,pyruvate,Haloarcula marismortui,"#165# pH 7.0, temperature not specified in thepublication, 4 M NaCl, mutant enzyme R100Q <124>"
+1.1.1.37,Malate dehydrogenase,1.0,pyruvate,Haloarcula marismortui,"#165# pH 7.0, temperature not specified in thepublication, 2 M NaCl, mutant enzyme R100Q <124>"
+1.1.1.37,Malate dehydrogenase,2.7,p-hydroxyphenylpyruvate,Trypanosoma brucei,
+1.1.1.37,Malate dehydrogenase,2.2,Ketomalonate,Rhodobacter capsulatus,
+1.1.1.37,Malate dehydrogenase,0.089,3-acetylnicotinamide-NAD+,Comamonas testosteroni,
+1.1.1.37,Malate dehydrogenase,0.23,thionicotinamide-NAD+,Comamonas testosteroni,
+1.1.1.37,Malate dehydrogenase,0.264,deamino-NAD+,Comamonas testosteroni,
+1.1.1.37,Malate dehydrogenase,0.0962,3-acetylpyridine-adenine dinucleotide,Plasmodium falciparum,#63# mutantenzyme R214G <102>
+1.1.1.37,Malate dehydrogenase,0.1114,3-acetylpyridine-adenine dinucleotide,Plasmodium falciparum,#63# mutantenzyme R183A <102>
+1.1.1.37,Malate dehydrogenase,0.04955,3-acetylpyridine-adenine dinucleotide,Plasmodium falciparum,#63# wild typeenzyme <102>
+1.1.1.37,Malate dehydrogenase,0.178,NADP+,Coccochloris peniocystis,

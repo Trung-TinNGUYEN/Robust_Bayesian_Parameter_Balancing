@@ -1,0 +1,25 @@
+pathway,reaction_id,reaction_name,iJO1366_reaction,orientation,condition,flux_condition,net_flux_mmol_gCDW_s,abundance_mmol_gCDW,kapp_signed_1s,concentration_source,included,exclusion_reason
+glycolysis,r_0467,glucose-6-phosphate isomerase,PGI,1,glucose,GLC_BATCH_mu=0.58_S,0.00100304,8.15207e-06,123.041,gerosa2015,true,
+glycolysis,r_0467,glucose-6-phosphate isomerase,PGI,1,fructose,FRU_BATCH_mu=0.65_S,-0.000764366,7.87469e-06,-97.0661,gerosa2015,true,
+glycolysis,r_0467,glucose-6-phosphate isomerase,PGI,1,glycerol,GLYC_BATCH_mu=0.47_S,0,8.56628e-06,,gerosa2015,false,no pFBA flux
+glycolysis,r_0886,6-phosphofructokinase,PFK,1,glucose,GLC_BATCH_mu=0.58_S,0.000940715,2.56595e-06,366.614,gerosa2015,true,
+glycolysis,r_0886,6-phosphofructokinase,PFK,1,fructose,FRU_BATCH_mu=0.65_S,0,3.37957e-06,,gerosa2015,false,no pFBA flux
+glycolysis,r_0886,6-phosphofructokinase,PFK,1,glycerol,GLYC_BATCH_mu=0.47_S,0,2.41889e-06,,gerosa2015,false,no pFBA flux
+glycolysis,r_0892,phosphoglycerate kinase,PGK,-1,glucose,GLC_BATCH_mu=0.58_S,0.00274717,7.09414e-05,38.7246,gerosa2015,true,
+glycolysis,r_0892,phosphoglycerate kinase,PGK,-1,fructose,FRU_BATCH_mu=0.65_S,0.00306817,7.83033e-05,39.1831,gerosa2015,true,
+glycolysis,r_0892,phosphoglycerate kinase,PGK,-1,glycerol,GLYC_BATCH_mu=0.47_S,0.00204408,6.54399e-05,31.236,gerosa2015,true,
+glycolysis,r_0366,enolase,ENO,1,glucose,GLC_BATCH_mu=0.58_S,0.00247036,6.40501e-05,38.5691,gerosa2015,true,
+glycolysis,r_0366,enolase,ENO,1,fructose,FRU_BATCH_mu=0.65_S,0.00275794,8.93998e-05,30.8496,gerosa2015,true,
+glycolysis,r_0366,enolase,ENO,1,glycerol,GLYC_BATCH_mu=0.47_S,0.0018196,5.05547e-05,35.9927,gerosa2015,true,
+pentose_phosphate,r_0982,ribose-5-phosphate isomerase,RPI,-1,glucose,GLC_BATCH_mu=0.58_S,0.000344393,4.88711e-06,70.4697,gerosa2015,true,
+pentose_phosphate,r_0982,ribose-5-phosphate isomerase,RPI,-1,fructose,FRU_BATCH_mu=0.65_S,0.000387718,3.87454e-06,100.068,gerosa2015,true,
+pentose_phosphate,r_0982,ribose-5-phosphate isomerase,RPI,-1,glycerol,GLYC_BATCH_mu=0.47_S,0.000152943,4.66247e-06,32.803,gerosa2015,true,
+pentose_phosphate,r_0984,ribulose-5-phosphate 3-epimerase,RPE,1,glucose,GLC_BATCH_mu=0.58_S,0.000326532,9.28569e-07,351.651,gerosa2015,true,
+pentose_phosphate,r_0984,ribulose-5-phosphate 3-epimerase,RPE,1,fructose,FRU_BATCH_mu=0.65_S,0.000369461,,,gerosa2015,false,no proteomic abundance
+pentose_phosphate,r_0984,ribulose-5-phosphate 3-epimerase,RPE,1,glycerol,GLYC_BATCH_mu=0.47_S,1.23359e-05,4.64634e-07,26.5498,gerosa2015,true,
+tca,r_0300,citrate synthase,CS,1,glucose,GLC_BATCH_mu=0.58_S,0.000780903,1.71359e-05,45.5712,bennett2009,true,
+tca,r_0300,citrate synthase,CS,1,fructose,FRU_BATCH_mu=0.65_S,0.000864589,3.41134e-05,,bennett2009,false,no oxaloacetate concentration for this condition
+tca,r_0300,citrate synthase,CS,1,glycerol,GLYC_BATCH_mu=0.47_S,0.000450559,3.35488e-05,,bennett2009,false,no oxaloacetate concentration for this condition
+tca,r_0713,malate dehydrogenase,MDH,1,glucose,GLC_BATCH_mu=0.58_S,0.000775573,9.41496e-05,8.23766,bennett2009,true,
+tca,r_0713,malate dehydrogenase,MDH,1,fructose,FRU_BATCH_mu=0.65_S,0.000858616,0.000128795,,bennett2009,false,no oxaloacetate concentration for this condition
+tca,r_0713,malate dehydrogenase,MDH,1,glycerol,GLYC_BATCH_mu=0.47_S,0.00044624,0.000125755,,bennett2009,false,no oxaloacetate concentration for this condition

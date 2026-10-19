@@ -1,0 +1,25 @@
+n_outer,n_mcmc,model,is_re,time_s,pathway,d,method
+3,150,Gaussian Fixed,false,0.0156091045,Glycolysis,60,collapsed
+3,150,Gaussian RE,true,0.021945958,Glycolysis,60,collapsed
+3,150,Student-t Fixed,false,0.047442479,Glycolysis,60,collapsed
+3,150,Student-t RE,true,0.0818790835,Glycolysis,60,collapsed
+3,150,Skew-N Fixed,false,0.0669093745,Glycolysis,60,collapsed
+3,150,Skew-N RE,true,0.0953183125,Glycolysis,60,collapsed
+5,150,Gaussian Fixed,false,0.023820584,Glycolysis,60,collapsed
+5,150,Gaussian RE,true,0.0389182915,Glycolysis,60,collapsed
+5,150,Student-t Fixed,false,0.08939374950000001,Glycolysis,60,collapsed
+5,150,Student-t RE,true,0.13479156250000002,Glycolysis,60,collapsed
+5,150,Skew-N Fixed,false,0.1068889995,Glycolysis,60,collapsed
+5,150,Skew-N RE,true,0.1596290625,Glycolysis,60,collapsed
+10,150,Gaussian Fixed,false,0.0513069375,Glycolysis,60,collapsed
+10,150,Gaussian RE,true,0.0725745005,Glycolysis,60,collapsed
+10,150,Student-t Fixed,false,0.175797625,Glycolysis,60,collapsed
+10,150,Student-t RE,true,0.2718905415,Glycolysis,60,collapsed
+10,150,Skew-N Fixed,false,0.217540104,Glycolysis,60,collapsed
+10,150,Skew-N RE,true,0.314228958,Glycolysis,60,collapsed
+15,150,Gaussian Fixed,false,0.0785802705,Glycolysis,60,collapsed
+15,150,Gaussian RE,true,0.10946175,Glycolysis,60,collapsed
+15,150,Student-t Fixed,false,0.247159146,Glycolysis,60,collapsed
+15,150,Student-t RE,true,0.4179447295,Glycolysis,60,collapsed
+15,150,Skew-N Fixed,false,0.326268354,Glycolysis,60,collapsed
+15,150,Skew-N RE,true,0.4762705625,Glycolysis,60,collapsed

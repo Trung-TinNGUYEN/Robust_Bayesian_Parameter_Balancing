@@ -1,0 +1,22 @@
+!!SBtab TableID='ParameterPrior' TableType='Quantity'
+!QuantityType	!Unit	!BiologicalElement	!MathematicalType	!PriorMedian	!PriorStd	!PriorGeometricStd	!LowerBound	!UpperBound	!DataStd	!DataGeometricStd	!Dependence	!UseAsPriorInformation	!Abbreviation	!MatrixInfo
+standard chemical potential	kJ/mol	Species	Additive	-880.0	680.0		-5000.0	5000.0	200.0		Basic	True	mu0	S
+catalytic rate constant geometric mean	1/s	Reaction	Multiplicative	10.0		10.0	1e-6	1e6		3.0	Basic	True	kcatmean	R
+Michaelis constant	M	Reaction/Species	Multiplicative	1e-4		10.0	1e-8	1e2		3.0	Basic	True	KM	RS
+activation constant	M	Reaction/Species	Multiplicative	1e-4		10.0	1e-8	1e2		3.0	Basic	True	KA	RS
+inhibitory constant	M	Reaction/Species	Multiplicative	1e-4		10.0	1e-8	1e2		3.0	Basic	True	KI	RS
+concentration	M	Species	Multiplicative	1e-4		10.0	1e-8	1e2		3.0	Basic	True	c	S
+chemical potential	kJ/mol	Species	Additive	-8.8	6.8		-5000.0	5000.0	200.0		Derived	True	mu	S
+equilibrium constant	1	Reaction	Multiplicative	1.0		10.0	1e-12	1e12		3.0	Derived	True	Keq	R
+reaction affinity	kJ/mol	Reaction	Additive	0.0	10.0		-5000.0	5000.0	10.0		Derived	True	A	R
+catalytic rate constant forward	1/s	Reaction	Multiplicative	10.0		10.0	1e-6	1e6		3.0	Derived	True	kcatf	R
+catalytic rate constant reverse	1/s	Reaction	Multiplicative	10.0		10.0	1e-6	1e6		3.0	Derived	True	kcatr	R
+substrate catalytic rate constant geometric mean	1/s	Reaction/Species	Multiplicative	10.0		10.0	1e-6	1e6		3.0	Derived	True	kcatmean_substrate	RS
+product catalytic rate constant geometric mean	1/s	Reaction/Species	Multiplicative	10.0		10.0	1e-6	1e6		3.0	Derived	True	kcatmean_product	RS
+substrate catalytic rate constant forward	1/s	Reaction/Species	Multiplicative	10.0		10.0	1e-6	1e6		3.0	Derived	True	kcatf_substrate	RS
+product catalytic rate constant reverse	1/s	Reaction/Species	Multiplicative	10.0		10.0	1e-6	1e6		3.0	Derived	True	kcatr_product	RS
+reaction velocity	M/s	Reaction	Multiplicative	1e-4		10.0	1e-12	1e2		3.0	Derived	True	v	R
+enzyme concentration	M	Reaction	Multiplicative	1e-6		10.0	1e-12	1e-2		3.0	Derived	True	e	R
+forward maximal velocity	M/s	Reaction	Multiplicative	1e-4		10.0	1e-12	1e2		3.0	Derived	True	Vf	R
+reverse maximal velocity	M/s	Reaction	Multiplicative	1e-4		10.0	1e-12	1e2		3.0	Derived	True	Vr	R
+catalytic constant ratio	1	Reaction	Multiplicative	1.0		10.0	1e-12	1e12		3.0	Derived	True	kcat_ratio	R

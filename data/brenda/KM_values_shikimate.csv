@@ -1,0 +1,830 @@
+ec_code,name,KM,substrate,species,metadata
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.015,phosphoenolpyruvate,Neisseria meningitidis,"#1# pH 7.4, 37Â°C <6>; #4#recombinant enzyme, with 2-deoxyribose 5-phosphate as cosubstrate, pH7.5, 25Â°C <36>; #49# pH 6.8, 25Â°C, wild-type enzyme <99>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.015,phosphoenolpyruvate,Escherichia coli,"#1# pH 7.4, 37Â°C <6>; #4#recombinant enzyme, with 2-deoxyribose 5-phosphate as cosubstrate, pH7.5, 25Â°C <36>; #49# pH 6.8, 25Â°C, wild-type enzyme <99>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.015,phosphoenolpyruvate,Salmonella enterica subsp. enterica serovar Typhimurium,"#1# pH 7.4, 37Â°C <6>; #4#recombinant enzyme, with 2-deoxyribose 5-phosphate as cosubstrate, pH7.5, 25Â°C <36>; #49# pH 6.8, 25Â°C, wild-type enzyme <99>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.12,phosphoenolpyruvate,Pyrococcus furiosus,"#12# 60Â°C, pH 6.8 <70>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,1.0,phosphoenolpyruvate,Pseudomonas aeruginosa,"#13# DAHP synthase-tyr, pH 7.0, 37Â°C<22>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,1.11,phosphoenolpyruvate,Pseudomonas aeruginosa,"#13# DAHP synthase-trp, pH 7.0, 37Â°C<22>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.16,phosphoenolpyruvate,Corynebacterium glutamicum,"#16# isozyme NCgl0950 DAHP synthase,in 50 mM Tris-HCl buffer, pH 7.5, at 30Â°C <78>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.0032,phosphoenolpyruvate,Corynebacterium glutamicum,"#16# wild-type, pH 7.9, 30Â°C <54>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.0043,phosphoenolpyruvate,Corynebacterium glutamicum,"#16# recombinant wild-type, 30Â°C,pH 6.5 <53>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,8.52,phosphoenolpyruvate,Corynebacterium glutamicum,"#16# isozyme NCgl2098 DAHP synthase,in 50 mM Tris-HCl buffer, pH 7.5, at 30Â°C <78>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.4,phosphoenolpyruvate,Amycolatopsis methanolica,"#20# Trp-sensitive isozyme, pH 7.2,37Â°C <31>; #32# isozyme DS II, pH 7.5, 37Â°C <40>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.4,phosphoenolpyruvate,Amycolatopsis mediterranei,"#20# Trp-sensitive isozyme, pH 7.2,37Â°C <31>; #32# isozyme DS II, pH 7.5, 37Â°C <40>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.03,phosphoenolpyruvate,Daucus carota,"#21# pH 7.0, 25Â°C <20>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.092,phosphoenolpyruvate,Streptomyces coelicolor,"#22# Trp-sensitive isozyme, pH 7.0,30Â°C <41>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.003,phosphoenolpyruvate,Helicobacter pylori,"#23# pH 7.5, 30Â°C <59>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.043,phosphoenolpyruvate,Cupriavidus necator,"#24# pH 7.8, 25Â°C <7>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.26,phosphoenolpyruvate,Delftia acidovorans,"#27# DAHP synthase-tyr, pH 7.0, 37Â°C<21>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.2,phosphoenolpyruvate,Delftia acidovorans,"#27# DAHP synthase-phe, pH 7.0, 37Â°C<21>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.139,phosphoenolpyruvate,Bacillus subtilis,"#3# pH 7.5, 37Â°C <60>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.1415,phosphoenolpyruvate,Bacillus subtilis,#3# at 37Â°C <74>
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.3,phosphoenolpyruvate,Kitasatospora aureofaciens,"#30# 30Â°C, pH 7.0 <4>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.0067,phosphoenolpyruvate,Streptomyces rimosus,"#33# pH 7.0, 37Â°C <43>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.0095,phosphoenolpyruvate,Thermotoga maritima,"#34# pH 7.5, 70Â°C <66>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.0117,phosphoenolpyruvate,Thermotoga maritima,"#34# pH 7.5, 60Â°C <66>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,2.724,phosphoenolpyruvate,Porphyromonas gingivalis,#35# at 37Â°C <74>
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.005,phosphoenolpyruvate,Escherichia coli,"#4# recombinant enzyme, withD-arabinose 5-phosphate as cosubstrate, pH 7.5, 25Â°C <36>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.009,phosphoenolpyruvate,Escherichia coli,"#4# pH 7.5 <63>; #4# Phe-sensitiveisozyme, pH 6.8, 25Â°C <49>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.01,phosphoenolpyruvate,Escherichia coli,"#4# recombinant enzyme, with ribose5-phosphate as cosubstrate, pH 7.5, 25Â°C <36>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.028,phosphoenolpyruvate,Escherichia coli,"#4# mutant N5K, 25Â°C, pH 6.4 <65>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.0058,phosphoenolpyruvate,Escherichia coli,"#4# pH 7.0, 37Â°C <9>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.08,phosphoenolpyruvate,Escherichia coli,"#4# 37Â°C, pH 7.0 <11>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.031,phosphoenolpyruvate,Escherichia coli,"#4# mutant I10A, 25Â°C, pH 6.4 <65>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.0053,phosphoenolpyruvate,Escherichia coli,"#4# recombinant enzyme, witherythrose 4-phosphate as cosubstrate, pH 7.5, 25Â°C <36>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,3.5,phosphoenolpyruvate,Escherichia coli,"#4# pH 6.4, 37Â°C <3>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,12.25,phosphoenolpyruvate,Escherichia coli,"#4# N-terminal deletion mutant, 25Â°C,pH 6.4 <65>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.013,phosphoenolpyruvate,Thermotoga maritima,"#34# pH 7.5, 50Â°C <66>; #4#Tyr-sensitive isozyme, 25Â°C <39>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.013,phosphoenolpyruvate,Escherichia coli,"#34# pH 7.5, 50Â°C <66>; #4#Tyr-sensitive isozyme, 25Â°C <39>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.035,phosphoenolpyruvate,Pyrococcus furiosus,"#43# pH 6.8, 60Â°C, cosubstrate2-deoxy-D-ribose 5-phosphate <62>; #4# wild-type, 25Â°C, pH 6.4 <65>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.035,phosphoenolpyruvate,Escherichia coli,"#43# pH 6.8, 60Â°C, cosubstrate2-deoxy-D-ribose 5-phosphate <62>; #4# wild-type, 25Â°C, pH 6.4 <65>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,2.0,phosphoenolpyruvate,Escherichia coli,"#41# Phe-sensitive isozyme, pH 6.8, 25Â°C<56>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,21.0,phosphoenolpyruvate,Escherichia coli,"#41# Phe-sensitive isozyme, pH 6.8,25Â°C <56>; #41# sensitive to metal ion <56>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.062,phosphoenolpyruvate,Pyrococcus furiosus,"#43# pH 6.8, 60Â°C, cosubstrateD-arabinose 5-phosphate <62>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.033,phosphoenolpyruvate,Pyrococcus furiosus,"#43# pH 6.8, 60Â°C, cosubstrate2-deoxy-D-erythrose 4-phosphate <62>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.066,phosphoenolpyruvate,Pyrococcus furiosus,"#43# pH 7.5, 60Â°C, mutant enzymeI181D <90>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.036,phosphoenolpyruvate,Pyrococcus furiosus,"#43# pH 6.8, 60Â°C, cosubstrateD-ribose 5-phosphate <62>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.093,phosphoenolpyruvate,Pyrococcus furiosus,"#43# pH 6.8, 60Â°C, cosubstrateD-erythrose 4-phosphate <62>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.112,phosphoenolpyruvate,Pyrococcus furiosus,"#43# pH 7.5, 60Â°C, wild-type enzyme<90>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.891,phosphoenolpyruvate,Aeropyrum pernix,"#45# pH 7.0, 60Â°C <84>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.09,phosphoenolpyruvate,Actinosynnema pretiosum subsp. auranticum,"#47# pH 7.5, 30Â°C <88>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.025,phosphoenolpyruvate,Neisseria meningitidis,"#49# pH 6.8, 25Â°C, mutant R126S<99>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.011,phosphoenolpyruvate,Neisseria meningitidis,"#49# pH 6.8, 30Â°C, wild-type enzyme<100>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.0087,phosphoenolpyruvate,Neisseria meningitidis,"#49# pH 6.8, 30Â°C, mutant S213G<100>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.018,phosphoenolpyruvate,Saccharomyces cerevisiae,"#5# Phe-sensitive isozyme, pH 6.8,30Â°C <32>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.125,phosphoenolpyruvate,Saccharomyces cerevisiae,"#5# Tyr-sensitive isozyme, pH 6.8<28>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.021,phosphoenolpyruvate,Thermotoga maritima,"#50# pH 7.3, temperature notspecified in the publication, mutant H29A <93>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.0128,phosphoenolpyruvate,Thermotoga maritima,"#50# pH 7.3, temperature notspecified in the publication, mutant S31G <93>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.039,phosphoenolpyruvate,Thermotoga maritima,"#50# pH 7.3, temperature notspecified in the publication, mutant H29S/S31H <93>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.00485,phosphoenolpyruvate,Thermotoga maritima,"#50# pH 7.3, temperature notspecified in the publication, wild-type enzyme <93>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.14,phosphoenolpyruvate,Escherichia coli,"#55# pH 7.5, 25Â°C <104>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.017,phosphoenolpyruvate,Pseudomonas aeruginosa,"#56# pH 7.5, 37Â°C, presence of Co2+<107>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.0196,phosphoenolpyruvate,uncultured bacterium,"#57# pH 8.0, 40Â°C <103>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,84.0,phosphoenolpyruvate,Mycobacterium tuberculosis,"#42# results within factor two of thisotherwise published value, 30Â°C, 50 mM BTP(1,3-bis[tris(hydroxymethyl)methylamino]propane), pH 7.5 with 100microM MnCl2, 240 microM D-erythrose-4-phosphate (saturating), lessthan 10 microM phosphoenolpyruvate, no influence of chorismate mutaseconcentration on activity <82>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,49.0,phosphoenolpyruvate,Pyrococcus furiosus,"#43# pH 7.5, 60Â°C, wild-type enzyme<90>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.22,phosphoenolpyruvate,Pyrococcus furiosus,"#43# pH 7.5, 60Â°C, mutant enzymeI181D <90>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.35,phosphoenolpyruvate,Actinosynnema pretiosum subsp. auranticum,"#47# pH 7.5, 30Â°C <88>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,1700.0,phosphoenolpyruvate,Neisseria meningitidis,"#49# pH 6.8, 30Â°C, mutant S213G<100>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,504.0,phosphoenolpyruvate,Neisseria meningitidis,"#49# pH 6.8, 25Â°C, mutant R126S <99>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,2300.0,phosphoenolpyruvate,Neisseria meningitidis,"#49# pH 6.8, 30Â°C, wild-type enzyme<100>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,1806.0,phosphoenolpyruvate,Neisseria meningitidis,"#49# pH 6.8, 25Â°C, wild-type enzyme<99>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,700.0,phosphoenolpyruvate,Thermotoga maritima,"#50# pH 7.3, temperature not specifiedin the publication, mutant H29A <93>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,1400.0,phosphoenolpyruvate,Thermotoga maritima,"#50# pH 7.3, temperature notspecified in the publication, mutant S31G <93>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,2400.0,phosphoenolpyruvate,Thermotoga maritima,"#50# pH 7.3, temperature notspecified in the publication, wild-type enzyme <93>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,360.0,phosphoenolpyruvate,Thermotoga maritima,"#50# pH 7.3, temperature not specifiedin the publication, mutant H29S/S31H <93>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,1240.0,phosphoenolpyruvate,Pseudomonas aeruginosa,"#56# pH 7.5, 37Â°C, presence of Co2+<107>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,880.0,phosphoenolpyruvate,uncultured bacterium,"#57# pH 8.0, 40Â°C <103>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.013,D-erythrose 4-phosphate,Thermotoga maritima,"#1# pH 7.4, 37Â°C <6>; #50# pH7.3, temperature not specified in the publication, wild-type enzyme<93>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.013,D-erythrose 4-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#1# pH 7.4, 37Â°C <6>; #50# pH7.3, temperature not specified in the publication, wild-type enzyme<93>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.028,D-erythrose 4-phosphate,Pyrococcus furiosus,"#12# 60Â°C, pH 6.8 <70>; #50#pH 7.3, temperature not specified in the publication, mutant H29S/S31H<93>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.028,D-erythrose 4-phosphate,Thermotoga maritima,"#12# 60Â°C, pH 6.8 <70>; #50#pH 7.3, temperature not specified in the publication, mutant H29S/S31H<93>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,1.0,D-erythrose 4-phosphate,Pseudomonas aeruginosa,"#13# DAHP synthase-tyr, pH 7.0, 37Â°C<22>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.56,D-erythrose 4-phosphate,Pseudomonas aeruginosa,"#13# DAHP synthase-trp, pH 7.0,37Â°C <22>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.018,D-erythrose 4-phosphate,Corynebacterium glutamicum,"#16# wild-type, pH 7.9, 30Â°C<54>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.29,D-erythrose 4-phosphate,Corynebacterium glutamicum,"#16# isozyme NCgl0950 DAHPsynthase, in 50 mM Tris-HCl buffer, pH 7.5, at 30Â°C <78>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,2.17,D-erythrose 4-phosphate,Corynebacterium glutamicum,"#16# isozyme NCgl2098 DAHPsynthase, in 50 mM Tris-HCl buffer, pH 7.5,at 30Â°C <78>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.07,D-erythrose 4-phosphate,Daucus carota,"#21# pH 7.0, 25Â°C <20>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,3.3,D-erythrose 4-phosphate,Daucus carota,"#21# cytosolic isozyme, pH 8.6<27>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.195,D-erythrose 4-phosphate,Streptomyces coelicolor,"#22# Trp-sensitive isozyme, pH7.0, 30Â°C <41>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.006,D-erythrose 4-phosphate,Helicobacter pylori,"#23# pH 7.5, 30Â°C <59>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.055,D-erythrose 4-phosphate,Cupriavidus necator,"#24# pH 7.8, 25Â°C <7>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.87,D-erythrose 4-phosphate,Delftia acidovorans,"#27# DAHP synthase-phe, pH 7.0,37Â°C <21>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.77,D-erythrose 4-phosphate,Delftia acidovorans,"#27# DAHP synthase-tyr, pH 7.0,37Â°C <21>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,1.4,D-erythrose 4-phosphate,Bacillus subtilis,#3# at 37Â°C <74>
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,1.76,D-erythrose 4-phosphate,Bacillus subtilis,"#3# pH 7.5, 37Â°C <60>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.16,D-erythrose 4-phosphate,Kitasatospora aureofaciens,"#30# 30Â°C, pH 7.0 <4>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,1.1,D-erythrose 4-phosphate,Amycolatopsis methanolica,"#32# DS II isozyme, pH 7.5, 37Â°C<40>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.0026,D-erythrose 4-phosphate,Streptomyces rimosus,"#33# pH 7.0, 37Â°C <43>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.138,D-erythrose 4-phosphate,Thermotoga maritima,"#34# pH 7.5, 60Â°C <66>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.0573,D-erythrose 4-phosphate,Thermotoga maritima,"#34# pH 7.5, 50Â°C <66>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.3506,D-erythrose 4-phosphate,Thermotoga maritima,"#34# pH 7.5, 70Â°C <66>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,3.638,D-erythrose 4-phosphate,Porphyromonas gingivalis,#35# at 37Â°C <74>
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.021,D-erythrose 4-phosphate,Escherichia coli,#4# pH 6.8 <72>
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.9,D-erythrose 4-phosphate,Escherichia coli,"#4# pH 7.0, 37Â°C <11>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.086,D-erythrose 4-phosphate,Escherichia coli,"#4# Phe-sensitive isozyme, pH6.8, 25Â°C <49>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,1.2,D-erythrose 4-phosphate,Escherichia coli,"#4# pH 6.4, 37Â°C <3>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.141,D-erythrose 4-phosphate,Escherichia coli,"#4# recombinant enzyme, pH 7.5,25Â°C <36>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.0814,D-erythrose 4-phosphate,Escherichia coli,"#4# Tyr-sensitive isozyme, 25Â°C<39>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.392,D-erythrose 4-phosphate,Escherichia coli,"#4# mutant N5K, 25Â°C, pH 6.4<65>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.278,D-erythrose 4-phosphate,Escherichia coli,"#4# mutant I10A, 25Â°C, pH 6.4<65>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.0965,D-erythrose 4-phosphate,Escherichia coli,"#4# pH 7.0, 37Â°C <9>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,52.36,D-erythrose 4-phosphate,Escherichia coli,"#4# N-terminal deletion mutant,25Â°C, pH 6.4 <65>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.25,D-erythrose 4-phosphate,Escherichia coli,"#20# Trp-sensitive isozyme, pH7.2, 37Â°C <31>; #4# wild-type, 25Â°C, pH 6.4 <65>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.25,D-erythrose 4-phosphate,Amycolatopsis mediterranei,"#20# Trp-sensitive isozyme, pH7.2, 37Â°C <31>; #4# wild-type, 25Â°C, pH 6.4 <65>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.009,D-erythrose 4-phosphate,Pyrococcus furiosus,"#43# pH 6.8, 60Â°C <62>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.071,D-erythrose 4-phosphate,Pyrococcus furiosus,"#43# pH 7.5, 60Â°C, mutant enzymeI181D <90>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.092,D-erythrose 4-phosphate,Pyrococcus furiosus,"#43# pH 7.5, 60Â°C, wild-typeenzyme <90>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.28,D-erythrose 4-phosphate,Aeropyrum pernix,"#45# pH 7.0, 60Â°C <84>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.43,D-erythrose 4-phosphate,Actinosynnema pretiosum subsp. auranticum,"#47# pH 7.5, 30Â°C <88>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.04,D-erythrose 4-phosphate,Neisseria meningitidis,"#49# pH 6.8, 30Â°C, mutant R126S<100>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.037,D-erythrose 4-phosphate,Neisseria meningitidis,"#49# pH 6.8, 25Â°C, wild-typeenzyme <99>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.043,D-erythrose 4-phosphate,Neisseria meningitidis,"#49# pH 6.8, 30Â°C, wild-typeenzyme <100>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.0134,D-erythrose 4-phosphate,Neisseria meningitidis,"#49# pH 6.8, 25Â°C, mutant R126S<99>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.5,D-erythrose 4-phosphate,Saccharomyces cerevisiae,"#5# Tyr-sensitive isozyme, pH 6.8<28>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.13,D-erythrose 4-phosphate,Saccharomyces cerevisiae,"#5# Phe-sensitive isozyme, pH 6.8,30Â°C <32>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.03,D-erythrose 4-phosphate,Thermotoga maritima,"#50# pH 7.3, temperature notspecified in the publication, mutant H29A <93>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.033,D-erythrose 4-phosphate,Thermotoga maritima,"#50# pH 7.3, temperature notspecified in the publication, mutant S31G <93>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.015,D-erythrose 4-phosphate,Escherichia coli,"#55# pH 7.5, 25Â°C <104>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.016,D-erythrose 4-phosphate,Pseudomonas aeruginosa,"#56# pH 7.5, 37Â°C, presence ofCo2+ <107>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,1.95,D-erythrose 4-phosphate,Spinacia oleracea,"#7# cytosolic isozyme DS-Co, pH8.6, 37Â°C <42>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.21,D-erythrose 4-phosphate,Pyrococcus furiosus,"#43# pH 7.5, 60Â°C, mutant enzymeI181D <90>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,60.0,D-erythrose 4-phosphate,Pyrococcus furiosus,"#43# pH 7.5, 60Â°C, wild-type enzyme<90>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.069,D-erythrose 4-phosphate,Actinosynnema pretiosum subsp. auranticum,"#47# pH 7.5, 30Â°C <88>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,370.0,D-erythrose 4-phosphate,Neisseria meningitidis,"#49# pH 6.8, 30Â°C, mutant R126S<100>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,590.0,D-erythrose 4-phosphate,Neisseria meningitidis,"#49# pH 6.8, 30Â°C, wild-typeenzyme <100>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,940.0,D-erythrose 4-phosphate,Neisseria meningitidis,"#49# pH 6.8, 25Â°C, mutant R126S<99>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,732.0,D-erythrose 4-phosphate,Neisseria meningitidis,"#49# pH 6.8, 25Â°C, wild-typeenzyme <99>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,500.0,D-erythrose 4-phosphate,Thermotoga maritima,"#50# pH 7.3, temperature notspecified in the publication, mutant H29S/S31H <93>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,430.0,D-erythrose 4-phosphate,Thermotoga maritima,"#50# pH 7.3, temperature notspecified in the publication, mutant S31G <93>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,580.0,D-erythrose 4-phosphate,Thermotoga maritima,"#50# pH 7.3, temperature notspecified in the publication, mutant H29A <93>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,900.0,D-erythrose 4-phosphate,Thermotoga maritima,"#50# pH 7.3, temperature notspecified in the publication, wild-type enzyme <93>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,1160.0,D-erythrose 4-phosphate,Pseudomonas aeruginosa,"#56# pH 7.5, 37Â°C, presence ofCo2+ <107>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.03,D-arabinose 5-phosphate,Escherichia coli,"#4# recombinant enzyme, pH 7.5,25Â°C <36>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,2.7,D-arabinose 5-phosphate,Pyrococcus furiosus,"#43# pH 6.8, 60Â°C <62>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.65,(3S)-2-deoxyerythrose 4-phosphate,Escherichia coli,#4# pH 6.8 <72>
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,6.8,2-deoxyribose 5-phosphate,Escherichia coli,"#4# recombinant enzyme, pH 7.5,25Â°C <36>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,6.0,ribose 5-phosphate,Escherichia coli,"#4# recombinant enzyme, pH 7.5, 25Â°C <36>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,2.5,2-deoxy-D-ribose 5-phosphate,Pyrococcus furiosus,"#43# pH 6.8, 60Â°C <62>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,0.006,2-deoxy-D-erythrose 4-phosphate,Pyrococcus furiosus,"#43# pH 6.8, 60Â°C <62>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,1.58,D-ribose 5-phosphate,Pyrococcus furiosus,"#43# pH 6.8, 60Â°C <62>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,2.5,D-erythrose,Spinacia oleracea,"#7# cytosolic isozyme DS-Co, pH 8.6, 37Â°C <42>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,3.0,DL-glyceraldehyde 3-phosphate,Spinacia oleracea,"#7# cytosolic isozyme DS-Co, pH8.6, 37Â°C <42>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,3.3,L-glyceraldehyde,Spinacia oleracea,"#7# cytosolic isozyme DS-Co, pH 8.6, 37Â°C<42>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,3.5,D-glyceraldehyde,Spinacia oleracea,"#7# cytosolic isozyme DS-Co, pH 8.6, 37Â°C<42>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,5.1,L-erythrose,Spinacia oleracea,"#7# cytosolic isozyme DS-Co, pH 8.6, 37Â°C <42>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,3.6,glyoxylate,Spinacia oleracea,"#7# cytosolic isozyme DS-Co, pH 8.6, 37Â°C <42>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,8.4,D-threose,Spinacia oleracea,"#7# cytosolic isozyme DS-Co, pH 8.6, 37Â°C <42>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,13.9,L-threose,Spinacia oleracea,"#7# cytosolic isozyme DS-Co, pH 8.6, 37Â°C <42>"
+2.5.1.54,3-deoxy-7-phosphoheptulonate synthase,8.6,glycolaldehyde,Spinacia oleracea,"#7# cytosolic isozyme DS-Co, pH 8.6, 37Â°C<42>"
+4.2.3.4,3-dehydroquinate synthase,0.055,NAD+,Bacillus subtilis,#1# cofactor NAD+ <19>
+4.2.3.4,3-dehydroquinate synthase,0.003,NAD+,Aspergillus nidulans,#5# cofactor NAD+ <24>
+4.2.3.4,3-dehydroquinate synthase,0.014,NAD+,Aspergillus nidulans,"#5# mutant R130K, cofactor NAD+ <30>"
+4.2.3.4,3-dehydroquinate synthase,0.0019,NAD+,Aspergillus nidulans,#5# cofactor NAD+ <30>
+4.2.3.4,3-dehydroquinate synthase,0.044,3-deoxy-D-arabino-hept-2-ulosonate 7-phosphate,Bacillus subtilis,
+4.2.3.4,3-dehydroquinate synthase,1.3,3-deoxy-D-arabino-hept-2-ulosonate 7-phosphate,Actinidia chinensis,"#24# pH7.5, 25Â°C <42>"
+4.2.3.4,3-dehydroquinate synthase,0.0032,3-deoxy-D-arabino-hept-2-ulosonate 7-phosphate,Actinidia chinensis,"#24# pH6.8, 25Â°C <38>"
+4.2.3.4,3-dehydroquinate synthase,0.0006,3-deoxy-D-arabino-hept-2-ulosonate 7-phosphate,Escherichia coli,#3# at20Â°C and pH 6.5 <39>
+4.2.3.4,3-dehydroquinate synthase,0.00055,3-deoxy-D-arabino-hept-2-ulosonate 7-phosphate,Escherichia coli,#3# at20Â°C and pH 8.5 <39>
+4.2.3.4,3-dehydroquinate synthase,0.0057,3-deoxy-D-arabino-hept-2-ulosonate 7-phosphate,Escherichia coli,"#3# pH6.8, 25Â°C <38>"
+4.2.3.4,3-dehydroquinate synthase,0.0022,3-deoxy-D-arabino-hept-2-ulosonate 7-phosphate,Aspergillus nidulans,
+4.2.3.4,3-dehydroquinate synthase,0.0037,3-deoxy-D-arabino-hept-2-ulosonate 7-phosphate,Pyrococcus furiosus,"#8# pH6.8, 25Â°C <38>; #33# pH 6.8, 60Â°C <41>"
+4.2.3.4,3-dehydroquinate synthase,156.0,3-deoxy-D-arabino-hept-2-ulosonate 7-phosphate,Actinidia chinensis,"#24# pH6.8, 25Â°C <38>"
+4.2.3.4,3-dehydroquinate synthase,2807.0,3-deoxy-D-arabino-hept-2-ulosonate 7-phosphate,Escherichia coli,"#3# pH 6.8,25Â°C <38>"
+4.2.3.4,3-dehydroquinate synthase,811.0,3-deoxy-D-arabino-hept-2-ulosonate 7-phosphate,Pyrococcus furiosus,"#8# pH6.8, 25Â°C <38>; #33# pH 6.8, 60Â°C <41>"
+4.2.3.4,3-dehydroquinate synthase,811.0,3-deoxy-D-arabino-hept-2-ulosonate 7-phosphate,Pyrococcus furiosus,"#8# pH6.8, 25Â°C <38>; #33# pH 6.8, 60Â°C <41>"
+4.2.3.4,3-dehydroquinate synthase,0.064,(3S)-3-fluoro-3-deoxy-D-arabino-heptulosonate 7-phosphate,Actinidia chinensis,"#24# pH 6.8, 25Â°C <38>"
+4.2.3.4,3-dehydroquinate synthase,0.021,(3S)-3-fluoro-3-deoxy-D-arabino-heptulosonate 7-phosphate,Escherichia coli,"#3# pH 6.8, 25Â°C <38>"
+4.2.3.4,3-dehydroquinate synthase,0.029,(3S)-3-fluoro-3-deoxy-D-arabino-heptulosonate 7-phosphate,Pyrococcus furiosus,"#8# pH 6.8, 25Â°C <38>"
+4.2.3.4,3-dehydroquinate synthase,14.0,(3S)-3-fluoro-3-deoxy-D-arabino-heptulosonate 7-phosphate,Actinidia chinensis,"#24# pH 6.8, 25Â°C <38>"
+4.2.3.4,3-dehydroquinate synthase,14.3,(3S)-3-fluoro-3-deoxy-D-arabino-heptulosonate 7-phosphate,Escherichia coli,"#3# pH 6.8, 25Â°C <38>"
+4.2.3.4,3-dehydroquinate synthase,44.8,(3S)-3-fluoro-3-deoxy-D-arabino-heptulosonate 7-phosphate,Pyrococcus furiosus,"#8# pH 6.8, 25Â°C <38>"
+4.2.3.4,3-dehydroquinate synthase,0.0087,(3R)-3-fluoro-3-deoxy-D-arabino-heptulosonate 7-phosphate,Actinidia chinensis,"#24# pH 6.8, 25Â°C <38>"
+4.2.3.4,3-dehydroquinate synthase,0.0016,(3R)-3-fluoro-3-deoxy-D-arabino-heptulosonate 7-phosphate,Escherichia coli,"#3# pH 6.8, 25Â°C <38>"
+4.2.3.4,3-dehydroquinate synthase,0.002,(3R)-3-fluoro-3-deoxy-D-arabino-heptulosonate 7-phosphate,Pyrococcus furiosus,"#8# pH 6.8, 25Â°C <38>"
+4.2.3.4,3-dehydroquinate synthase,34.5,(3R)-3-fluoro-3-deoxy-D-arabino-heptulosonate 7-phosphate,Actinidia chinensis,"#24# pH 6.8, 25Â°C <38>"
+4.2.3.4,3-dehydroquinate synthase,1562.0,(3R)-3-fluoro-3-deoxy-D-arabino-heptulosonate 7-phosphate,Escherichia coli,"#3# pH 6.8, 25Â°C <38>"
+4.2.3.4,3-dehydroquinate synthase,1650.0,(3R)-3-fluoro-3-deoxy-D-arabino-heptulosonate 7-phosphate,Pyrococcus furiosus,"#8# pH 6.8, 25Â°C <38>"
+4.2.3.4,3-dehydroquinate synthase,0.044,3-deoxy-D-arabino-heptulosonic acid 7-phosphate,Escherichia coli,
+4.2.3.4,3-dehydroquinate synthase,0.0014,3-deoxy-D-arabino-heptulosonic acid 7-phosphate,Neurospora crassa,
+4.2.3.4,3-dehydroquinate synthase,0.0018,7-phospho-2-dehydro-3-deoxy-D-arabino-heptonate,Trichormus variabilis,"#34# pH7.5, 29Â°C <44>"
+4.2.3.4,3-dehydroquinate synthase,0.0074,7-phospho-2-dehydro-3-deoxy-D-arabino-heptonate,Providencia alcalifaciens,"#35# pH7.4, 25Â°C <45>"
+4.2.3.4,3-dehydroquinate synthase,203.0,7-phospho-2-dehydro-3-deoxy-D-arabino-heptonate,Providencia alcalifaciens,"#35# pH7.4, 25Â°C <45>"
+4.2.3.4,3-dehydroquinate synthase,0.021,3-deoxy-D-arabino-heptulosonate 7-phosphate,Aspergillus nidulans,
+4.2.3.4,3-dehydroquinate synthase,0.228,3-deoxy-D-arabino-heptulosonate 7-phosphate,Aspergillus nidulans,#5# mutantR130K <30>
+4.2.1.10,3-dehydroquinate dehydratase,0.018,dehydroquinate,Salmonella enterica subsp. enterica serovar Typhimurium,
+4.2.1.10,3-dehydroquinate dehydratase,0.064,dehydroquinate,Mycobacterium tuberculosis,
+4.2.1.10,3-dehydroquinate dehydratase,0.65,dehydroquinate,Streptomyces coelicolor,
+4.2.1.10,3-dehydroquinate dehydratase,0.15,dehydroquinate,Aspergillus nidulans,
+4.2.1.10,3-dehydroquinate dehydratase,0.037,3-dehydroquinate,Pisum sativum,
+4.2.1.10,3-dehydroquinate dehydratase,0.052,3-dehydroquinate,Mycobacterium tuberculosis,"#12# pH 7.5, 25Â°C <61>"
+4.2.1.10,3-dehydroquinate dehydratase,0.036,3-dehydroquinate,Clostridioides difficile,"#12# pH 7.5, 25Â°C <58>; #30#wild-type enzyme, pH 7.5, 37Â°C <60>"
+4.2.1.10,3-dehydroquinate dehydratase,0.036,3-dehydroquinate,Mycobacterium tuberculosis,"#12# pH 7.5, 25Â°C <58>; #30#wild-type enzyme, pH 7.5, 37Â°C <60>"
+4.2.1.10,3-dehydroquinate dehydratase,0.1,3-dehydroquinate,Streptomyces coelicolor,"#14# pH 7, 25Â°C <31>"
+4.2.1.10,3-dehydroquinate dehydratase,0.6,3-dehydroquinate,Streptomyces coelicolor,
+4.2.1.10,3-dehydroquinate dehydratase,0.0769,3-dehydroquinate,Streptomyces coelicolor,"#14# pH 7.5, 25Â°C <61>"
+4.2.1.10,3-dehydroquinate dehydratase,0.59,3-dehydroquinate,Helicobacter pylori,
+4.2.1.10,3-dehydroquinate dehydratase,0.228,3-dehydroquinate,Helicobacter pylori,"#15# pH 7.5, 25Â°C <61>"
+4.2.1.10,3-dehydroquinate dehydratase,0.05,3-dehydroquinate,Gluconobacter oxydans,"#19# apparent Km, sDQD <48>"
+4.2.1.10,3-dehydroquinate dehydratase,0.04,3-dehydroquinate,Gluconobacter oxydans,"#19# apparent Km, pDQD <48>"
+4.2.1.10,3-dehydroquinate dehydratase,0.121,3-dehydroquinate,Amycolatopsis methanolica,
+4.2.1.10,3-dehydroquinate dehydratase,0.21,3-dehydroquinate,Streptomyces coelicolor,"#34# pH 7.5, 25Â°C <58>"
+4.2.1.10,3-dehydroquinate dehydratase,0.075,3-dehydroquinate,Helicobacter pylori,"#40# pH 7.5, 25Â°C <58>"
+4.2.1.10,3-dehydroquinate dehydratase,0.48,3-dehydroquinate,Helicobacter pylori,"#40# at pH 7.0, 25Â°C <51>"
+4.2.1.10,3-dehydroquinate dehydratase,0.024,3-dehydroquinate,Salmonella enterica subsp. enterica serovar Typhi,"#63# pH 7.2, 25Â°C <72>; #41# pH 7,25Â°C <31>"
+4.2.1.10,3-dehydroquinate dehydratase,0.024,3-dehydroquinate,Mycobacterium tuberculosis,"#63# pH 7.2, 25Â°C <72>; #41# pH 7,25Â°C <31>"
+4.2.1.10,3-dehydroquinate dehydratase,0.03,3-dehydroquinate,Salmonella enterica,"#42# mutant enzyme E86Q, at pH 7.5 and37Â°C <69>"
+4.2.1.10,3-dehydroquinate dehydratase,0.021,3-dehydroquinate,Salmonella enterica,"#42# wild-type enzyme, pH 7.5, 37Â°C<60>"
+4.2.1.10,3-dehydroquinate dehydratase,0.033,3-dehydroquinate,Salmonella enterica,"#42# mutant K170M, pH 7.5, 37Â°C <60>"
+4.2.1.10,3-dehydroquinate dehydratase,0.046,3-dehydroquinate,Salmonella enterica,"#42# mutant enzyme E86A, at pH 7.5 and37Â°C <69>"
+4.2.1.10,3-dehydroquinate dehydratase,0.053,3-dehydroquinate,Salmonella enterica,"#42# wild type enzyme, at pH 7.5 and37Â°C <69>"
+4.2.1.10,3-dehydroquinate dehydratase,0.1588,3-dehydroquinate,Xylella fastidiosa,"#44# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.4485,3-dehydroquinate,Arthrobacter crystallopoietes,"#45# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.1599,3-dehydroquinate,Micromonospora lupini,"#46# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.1415,3-dehydroquinate,Streptomyces acidiscabies,"#47# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,1.2186,3-dehydroquinate,Thermomonospora curvata,"#48# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.4008,3-dehydroquinate,Lancefieldella rimae,"#49# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.44,3-dehydroquinate,Escherichia coli,
+4.2.1.10,3-dehydroquinate dehydratase,0.015,3-dehydroquinate,Escherichia coli,"#12# pH 7.2, 25Â°C <72>; #41# at pH7.0, 25Â°C <51>"
+4.2.1.10,3-dehydroquinate dehydratase,0.015,3-dehydroquinate,Mycobacterium tuberculosis,"#12# pH 7.2, 25Â°C <72>; #41# at pH7.0, 25Â°C <51>"
+4.2.1.10,3-dehydroquinate dehydratase,0.018,3-dehydroquinate,Escherichia coli,
+4.2.1.10,3-dehydroquinate dehydratase,0.018,3-dehydroquinate,Salmonella enterica subsp. enterica serovar Typhi,
+4.2.1.10,3-dehydroquinate dehydratase,0.1071,3-dehydroquinate,Bacillus subtilis,"#50# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.134,3-dehydroquinate,Geobacillus sp.,"#51# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.6016,3-dehydroquinate,Alicyclobacillus acidocaldarius,"#52# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.0679,3-dehydroquinate,Butyrivibrio crossotus,"#53# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.1877,3-dehydroquinate,Escherichia coli,"#54# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.5261,3-dehydroquinate,Halanaerobium hydrogeniformans,"#55# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.3685,3-dehydroquinate,Acetivibrio clariflavus,"#56# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.3045,3-dehydroquinate,Natranaerobius thermophilus,"#57# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.2555,3-dehydroquinate,Ruminococcus champanellensis,"#58# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.1807,3-dehydroquinate,Thermodesulfobium narugense,"#59# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.6173,3-dehydroquinate,Pseudomonas putida,"#60# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.1316,3-dehydroquinate,Klebsiella pneumoniae EM,"#61# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,2.94,3-dehydroquinate,Pseudomonas aeruginosa,"#62# pH 7.0, 25Â°C <70>"
+4.2.1.10,3-dehydroquinate dehydratase,0.2814,3-dehydroquinate,Corynebacterium glutamicum,"#64# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.065,3-dehydroquinate,Enterococcus faecalis,"#66# pH 7.5, 25Â°C <80>"
+4.2.1.10,3-dehydroquinate dehydratase,0.2107,3-dehydroquinate,Alcanivorax borkumensis,"#67# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.8704,3-dehydroquinate,Citrobacter koseri,"#68# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.4787,3-dehydroquinate,Klebsiella aerogenes,"#69# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.15,3-dehydroquinate,Aspergillus nidulans,
+4.2.1.10,3-dehydroquinate dehydratase,0.778,3-dehydroquinate,Gluconobacter oxydans WP_011252021 GenBank,"#70# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.6245,3-dehydroquinate,Mycobacterium tuberculosis WP_003413001 GenBank,"#71# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.2032,3-dehydroquinate,Psychrobacter sp. PRwf-1,"#72# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.2026,3-dehydroquinate,Psychromonas ingrahamii,"#73# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,10270.0,3-dehydroquinate,Mycobacterium tuberculosis,"#12# pH 7.2, 25Â°C <72>"
+4.2.1.10,3-dehydroquinate dehydratase,0.0035,3-dehydroquinate,Clostridioides difficile,"#30# wild-type enzyme, pH 7.5, 37Â°C<60>"
+4.2.1.10,3-dehydroquinate dehydratase,0.001,3-dehydroquinate,Salmonella enterica,"#42# wild-type enzyme, pH 7.5, 37Â°C<60>"
+4.2.1.10,3-dehydroquinate dehydratase,2600.0,3-dehydroquinate,Salmonella enterica,"#42# mutant enzyme E86Q, at pH 7.5 and37Â°C <69>"
+4.2.1.10,3-dehydroquinate dehydratase,400.0,3-dehydroquinate,Salmonella enterica,"#42# mutant enzyme E86A, at pH 7.5 and37Â°C <69>"
+4.2.1.10,3-dehydroquinate dehydratase,5800.0,3-dehydroquinate,Salmonella enterica,"#42# wild type enzyme, at pH 7.5 and37Â°C <69>"
+4.2.1.10,3-dehydroquinate dehydratase,4.5e-07,3-dehydroquinate,Salmonella enterica,"#42# mutant K170M, pH 7.5, 37Â°C<60>"
+4.2.1.10,3-dehydroquinate dehydratase,50.0,3-dehydroquinate,Psychromonas ingrahamii,"#44,73# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,50.0,3-dehydroquinate,Xylella fastidiosa,"#44,73# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,410.0,3-dehydroquinate,Arthrobacter crystallopoietes,"#45# pH not specified in the publication,temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,30.0,3-dehydroquinate,Micromonospora lupini,"#46# pH not specified in the publication,temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,1500.0,3-dehydroquinate,Streptomyces acidiscabies,"#47# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,10.0,3-dehydroquinate,Bacillus subtilis,"#48,50,57# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,10.0,3-dehydroquinate,Thermomonospora curvata,"#48,50,57# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,10.0,3-dehydroquinate,Natranaerobius thermophilus,"#48,50,57# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,20.0,3-dehydroquinate,Lancefieldella rimae,"#49# pH not specified in the publication,temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,40.0,3-dehydroquinate,Thermodesulfobium narugense,"#51,59,71# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,40.0,3-dehydroquinate,Geobacillus sp.,"#51,59,71# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,40.0,3-dehydroquinate,Mycobacterium tuberculosis WP_003413001 GenBank,"#51,59,71# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,200.0,3-dehydroquinate,Ruminococcus champanellensis,"#52,58# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,200.0,3-dehydroquinate,Alicyclobacillus acidocaldarius,"#52,58# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,620.0,3-dehydroquinate,Butyrivibrio crossotus,"#53# pH not specified in the publication,temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,160.0,3-dehydroquinate,Acetivibrio clariflavus,"#54,56# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,160.0,3-dehydroquinate,Escherichia coli,"#54,56# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,140.0,3-dehydroquinate,Halanaerobium hydrogeniformans,"#55# pH not specified in the publication,temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,130.0,3-dehydroquinate,Pseudomonas putida,"#60# pH not specified in the publication,temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,780.0,3-dehydroquinate,Klebsiella pneumoniae EM,"#61# pH not specified in the publication,temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,190.0,3-dehydroquinate,Corynebacterium glutamicum,"#64# pH not specified in the publication,temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,1700.0,3-dehydroquinate,Enterococcus faecalis,"#66# pH 7.5, 25Â°C <80>"
+4.2.1.10,3-dehydroquinate dehydratase,60.0,3-dehydroquinate,Alcanivorax borkumensis,"#67# pH not specified in the publication,temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,240.0,3-dehydroquinate,Citrobacter koseri,"#68# pH not specified in the publication,temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,210.0,3-dehydroquinate,Klebsiella aerogenes,"#69# pH not specified in the publication,temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,100.0,3-dehydroquinate,Gluconobacter oxydans WP_011252021 GenBank,"#70,72# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,100.0,3-dehydroquinate,Psychrobacter sp. PRwf-1,"#70,72# pH not specified in thepublication, temperature not specified in the publication <71>"
+4.2.1.10,3-dehydroquinate dehydratase,0.011,(2R)-2-methyl-3-dehydroquinic acid,Mycobacterium tuberculosis,"#12# pH 7.2, 25Â°C<72>"
+4.2.1.10,3-dehydroquinate dehydratase,60.0,(2R)-2-methyl-3-dehydroquinic acid,Mycobacterium tuberculosis,"#12# pH 7.2, 25Â°C <72>"
+4.2.1.10,3-dehydroquinate dehydratase,0.0114,(2R)-2-(4-methoxybenzyl)-3-dehydroquinic acid,Mycobacterium tuberculosis,"#12#mutant enzyme N12S, in Tris/acetic acid (50 mM, pH 7.0) at 25Â°C <64>"
+4.2.1.10,3-dehydroquinate dehydratase,0.0146,(2R)-2-(4-methoxybenzyl)-3-dehydroquinic acid,Mycobacterium tuberculosis,"#12# wildtype enzyme, in Tris/acetic acid (50 mM, pH 7.0) at 25Â°C <64>"
+4.2.1.10,3-dehydroquinate dehydratase,0.1776,(2R)-2-(4-methoxybenzyl)-3-dehydroquinic acid,Mycobacterium tuberculosis,"#12#mutant enzyme D88N, in Tris/acetic acid (50 mM, pH 8.0) at 25Â°C <64>"
+4.2.1.10,3-dehydroquinate dehydratase,0.03,(2R)-2-(4-methoxybenzyl)-3-dehydroquinic acid,Mycobacterium tuberculosis,"#12# mutantenzyme D88N, in Tris/acetic acid (50 mM, pH 8.0) at 25Â°C <64>"
+4.2.1.10,3-dehydroquinate dehydratase,0.6,(2R)-2-(4-methoxybenzyl)-3-dehydroquinic acid,Mycobacterium tuberculosis,"#12# mutantenzyme N12S, in Tris/acetic acid (50 mM, pH 7.0) at 25Â°C <64>"
+4.2.1.10,3-dehydroquinate dehydratase,10.5,(2R)-2-(4-methoxybenzyl)-3-dehydroquinic acid,Mycobacterium tuberculosis,"#12# wildtype enzyme, in Tris/acetic acid (50 mM, pH 7.0) at 25Â°C <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0375,shikimate,Staphylococcus aureus,"#1# pH not specified in the publication, 25Â°C,with NADP+ <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.03746,shikimate,Staphylococcus aureus,"#1# pH not specified in the publication, 25Â°C<49>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.43,shikimate,Camellia sinensis,
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.03,shikimate,Mycobacterium tuberculosis,"#12# pH 9.0, 25Â°C, with NADP+ <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.063,shikimate,Mycobacterium tuberculosis,"#12# pH 9.0, 25Â°C <22>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0502,shikimate,Mycobacterium tuberculosis,"#12# pH 7.0, 25Â°C, with NADP+ <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.038,shikimate,Solanum lycopersicum,
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.148,shikimate,Helicobacter pylori,"#32# pH 8.0, 60Â°C, recombinant enzyme <21>;#14# with NADP+, pH 8.0, 25Â°C <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.239,shikimate,Physcomitrium patens,#20# pH and temperature not specified in thepublication <63>
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.17,shikimate,Archaeoglobus fulgidus,"#21# 87Â°C, pH 7.3 <14>; #54# with NADP+, pH7.3, 87Â°C <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.22,shikimate,Vigna mungo,#23# 2 KM-values <5>
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.91,shikimate,Vigna mungo,#23# 2 KM-values <5>
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.321,shikimate,Populus trichocarpa,"#28# with NADP+, pH 8.5, 22Â°C, recombinantHis-tagged Poptr1 <45>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.346,shikimate,Populus trichocarpa,"#28# pH 8.5, 22Â°C, with NADP+, isozyme Poptr5<43>; #28# with NAD+, pH 8.5, 22Â°C, recombinant His-tagged Poptr1 <45>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.427,shikimate,Populus trichocarpa,"#28# with NAD+, pH 8.5, 22Â°C, recombinantHis-tagged Poptr1 <45>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.223,shikimate,Populus trichocarpa,"#28# pH 8.5, 22Â°C, with NADP+, isozyme Poptr1<43>; #28# with NADP+, pH 8.5, 22Â°C, recombinant His-tagged Poptr1<45>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0527,shikimate,Toxoplasma gondii,"#29# pH 8.8, temperature not specified inthe publication <48>; #59# pH 8.8, 25Â°C, with NADP+ <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.12,shikimate,Chlamydomonas reinhardtii,#3# pH and temperature not specified in thepublication <63>
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.101,shikimate,Rhodopirellula baltica,#34# pH and temperature not specified in thepublication <63>
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.548,shikimate,Arabidopsis thaliana,"#37# pH and temperature not specified in thepublication, mutant S338G <62>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.882,shikimate,Arabidopsis thaliana,"#37# pH and temperature not specified in thepublication, mutant S338G/T381G <62>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.604,shikimate,Arabidopsis thaliana,"#37# pH and temperature not specified in thepublication, wild-type enzyme <62>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),1.539,shikimate,Arabidopsis thaliana,"#37# pH and temperature not specified in thepublication, mutant T381S <62>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),1.613,shikimate,Arabidopsis thaliana,"#37# pH and temperature not specified in thepublication, mutant T381G <62>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),2.512,shikimate,Arabidopsis thaliana,"#37# pH and temperature not specified in thepublication, mutant T381A <62>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.279,shikimate,Selaginella moellendorffii,#38# pH and temperature not specified in thepublication <63>
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0424,shikimate,Aquifex aeolicus,"#39# 25Â°C, pH 9.0 <29>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0425,shikimate,Aquifex aeolicus,"#39# with NADP+, pH 9.0, 25Â°C <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.065,shikimate,Escherichia coli,"#4# with NADP+, pH 9.0, 20Â°C <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.105,shikimate,Pseudomonas putida,"#41# pH 8.8, presence of 2 mM NADP+ <33>;#47# in the presence of 2 mM NADP+ <33>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.105,shikimate,Pseudomonas putida K,"#41# pH 8.8, presence of 2 mM NADP+ <33>;#47# in the presence of 2 mM NADP+ <33>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0786,shikimate,Pseudomonas putida,"#41# pH 8.8, presence of 2 mM NAD+ <33>;#47# in the presence of 2 mM NAD+ <33>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0786,shikimate,Pseudomonas putida K,"#41# pH 8.8, presence of 2 mM NAD+ <33>;#47# in the presence of 2 mM NAD+ <33>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0046,shikimate,Pseudomonas putida,"#42# pH 8.8, presence of 2 mM NADP+ <33>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.351,shikimate,Pseudomonas putida,"#42# pH 8.8, presence of 2 mM NAD+ <33>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.178,shikimate,Pseudomonas putida,"#42# pH 8.8, 25Â°C, with NADP+ <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),4.2,shikimate,Pseudomonas putida,"#43# pH 8.8, presence of 2 mM NAD+ <33>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.227,shikimate,Staphylococcus epidermidis R,#46# mutant Y211F <34>
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.073,shikimate,Staphylococcus epidermidis,"#46# wild-type <34>; #58# pH 7.0, 25Â°C,with NADP+ <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.073,shikimate,Staphylococcus epidermidis R,"#46# wild-type <34>; #58# pH 7.0, 25Â°C,with NADP+ <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),46.6,shikimate,Corynebacterium glutamicum,"#50# pH 10.0, 30Â°C <27>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.311,shikimate,Aspergillus nidulans,"#53# with NADP+, pH 7.0, 25Â°C <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.187,shikimate,Corynebacterium glutamicum,"#56# pH 7.0, 30Â°C <41>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.14,shikimate,Corynebacterium glutamicum,"#56# pH 9.0, 30Â°C <41>; #57# with NADP+, pH9.0, 30Â°C <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.23500000000000001,shikimate,Pisum sativum,
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.027,shikimate,Vitis vinifera,"#60# pH 9.0, 30Â°C, recombinant isozyme VvSDH3<47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.422,shikimate,Vitis vinifera,"#60# pH 7.0, 30Â°C, recombinant isozyme VvSDH3<47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.1468,shikimate,Vitis vinifera,"#61# pH 9.0, 30Â°C, recombinant isozyme VvSDH4<47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.07,shikimate,Vitis vinifera,"#62# pH 9.0, 30Â°C, recombinant isozyme VvSDH1<47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.155,shikimate,Vitis vinifera,"#62# pH 7.0, 30Â°C, recombinant isozyme VvSDH1<47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.05,shikimate,Mycobacterium tuberculosis,"#64# pH 7.0, 25Â°C, recombinant AroE <24>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),2.05,shikimate,Eucalyptus camaldulensis,"#65# pH 9.0, temperature not specified in thepublication <64>; #65# pH 9.0, 30Â°C, EcDQD/SDH2, shikimate oxidation<64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),3.64,shikimate,Eucalyptus camaldulensis,"#66# pH 9.0, temperature not specified in thepublication <64>; #66# pH 9.0, 30Â°C, EcDQD/SDH3, shikimate oxidation<64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0326,shikimate,Eucalyptus camaldulensis,"#67# pH 9.0, temperature not specified in thepublication <64>; #67# pH 9.0, 30Â°C, EcDQD/SDH1, shikimate oxidation<64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.218,shikimate,Pinus taeda,#7# pH and temperature not specified in thepublication <63>
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.2,shikimate,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinant isozymeCsDQD/SDHc, with NADP+ <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.273,shikimate,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinant isozymeCsDQD/SDHa, with NADP+ <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.611,shikimate,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinant isozymeCsDQD/SDHD, with NADP+ <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.13,shikimate,Nicotiana tabacum,"#31# pH 9.0, 25Â°C, recombinant wild-typeenzyme <65>; #8,35# 22Â°C, pH 9.0 <26>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.13,shikimate,Escherichia coli,"#31# pH 9.0, 25Â°C, recombinant wild-typeenzyme <65>; #8,35# 22Â°C, pH 9.0 <26>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.47,shikimate,Arabidopsis thaliana,"#9# pH 7.5, 22Â°C, mutant K385N <19>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),1.09,shikimate,Arabidopsis thaliana,"#9# mutant T422S, 22Â°C <30>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.131,shikimate,Arabidopsis thaliana,"#9# pH 7.5, 22Â°C, mutant K385N/D423N <19>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),1.06,shikimate,Arabidopsis thaliana,"#9# pH 7.5, 22Â°C, mutant Y550F <19>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),1.03,shikimate,Arabidopsis thaliana,"#9# pH 7.5, 22Â°C, mutant Y550A <19>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.92,shikimate,Arabidopsis thaliana,"#9# mutant Q78L, 22Â°C <30>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),6.2,shikimate,Arabidopsis thaliana,"#9# pH 7.5, 22Â°C, mutant S338A <19>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.263,shikimate,Arabidopsis thaliana,"#9# pH 7.5, 22Â°C, mutant K385A <19>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.555,shikimate,Arabidopsis thaliana,"#9# pH 7.5, 22Â°C, mutant D423N <19>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.459,shikimate,Arabidopsis thaliana,"#9# mutant T381S, 22Â°C <30>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.556,shikimate,Arabidopsis thaliana,"#9# mutant T381A, 22Â°C <30>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),1.022,shikimate,Arabidopsis thaliana,"#9# mutant T407A, 22Â°C <30>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),8.74,shikimate,Arabidopsis thaliana,"#9# pH 7.5, 22Â°C, mutant S336A <19>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.626,shikimate,Arabidopsis thaliana,"#9# mutant H335A, 22Â°C <30>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),7.12,shikimate,Arabidopsis thaliana,"#9# mutant N406A, 22Â°C <30>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),4.466,shikimate,Arabidopsis thaliana,"#9# mutant Q582L, 22Â°C <30>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.685,shikimate,Arabidopsis thaliana,"#9# pH 7.5, 22Â°C, wild-type DELTA88DHQ-SDHenzyme variant <19>; #9# wild-type, 22Â°C <30>; #37# pH 8.8, 22Â°C, withNADP+ <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),3620.0,shikimate,Staphylococcus aureus,"#1# pH not specified in the publication, 25Â°C<49>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),1461.5,shikimate,Escherichia coli,"#31# pH 9.0, 25Â°C, recombinant wild-typeenzyme <65>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),4.7,shikimate,Arabidopsis thaliana,"#37# pH and temperature not specified in thepublication, mutant T381A <62>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),14.9,shikimate,Arabidopsis thaliana,"#37# pH and temperature not specified in thepublication, mutant T381G <62>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),24.9,shikimate,Arabidopsis thaliana,"#37# pH and temperature not specified in thepublication, mutant S338G/T381G <62>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),111.8,shikimate,Arabidopsis thaliana,"#37# pH and temperature not specified in thepublication, mutant T381S <62>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),854.3,shikimate,Arabidopsis thaliana,"#37# pH and temperature not specified in thepublication, wild-type enzyme <62>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),779.2,shikimate,Arabidopsis thaliana,"#37# pH and temperature not specified in thepublication, mutant S338G <62>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),168.0,shikimate,Corynebacterium glutamicum,"#56# pH 7.0, 30Â°C <41>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),1670.0,shikimate,Corynebacterium glutamicum,"#56# pH 9.0, 30Â°C <41>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),18.0,shikimate,Vitis vinifera,"#60# pH 7.0, 30Â°C, recombinant isozyme VvSDH3<47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),189.0,shikimate,Vitis vinifera,"#60# pH 9.0, 30Â°C, recombinant isozyme VvSDH3<47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),178.0,shikimate,Vitis vinifera,"#61# pH 9.0, 30Â°C, recombinant isozyme VvSDH4<47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),76.0,shikimate,Vitis vinifera,"#62# pH 7.0, 30Â°C, recombinant isozyme VvSDH1<47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),1051.0,shikimate,Vitis vinifera,"#62# pH 9.0, 30Â°C, recombinant isozyme VvSDH1<47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),71.3,shikimate,Eucalyptus camaldulensis,"#65# pH 9.0, temperature not specified in thepublication <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),71.2,shikimate,Eucalyptus camaldulensis,"#65# pH 9.0, 30Â°C, EcDQD/SDH2, shikimateoxidation <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),22.2,shikimate,Eucalyptus camaldulensis,"#66# pH 9.0, temperature not specified in thepublication <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),22.17,shikimate,Eucalyptus camaldulensis,"#66# pH 9.0, 30Â°C, EcDQD/SDH3, shikimateoxidation <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),23200.0,shikimate,Eucalyptus camaldulensis,"#67# pH 9.0, temperature not specified in thepublication <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),23159.5,shikimate,Eucalyptus camaldulensis,"#67# pH 9.0, 30Â°C, EcDQD/SDH1, shikimateoxidation <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.56,shikimate,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinant isozymeCsDQD/SDHa, with NADP+ <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.139,shikimate,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinant isozymeCsDQD/SDHD, with NADP+ <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.535,shikimate,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinant isozymeCsDQD/SDHc, with NADP+ <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0426,NADP+,Staphylococcus aureus,"#1# pH not specified in the publication, 25Â°C,with shikimate <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.04255,NADP+,Staphylococcus aureus,"#1# pH not specified in the publication, 25Â°C<49>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.032,NADP+,Camellia sinensis,
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.063,NADP+,Mycobacterium tuberculosis,"#12# pH 9.0, 25Â°C, with shikimate <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0295,NADP+,Mycobacterium tuberculosis,"#12# pH 9.0, 25Â°C <22>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.01,NADP+,Solanum lycopersicum,
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.01,NADP+,Cucumis sativus,
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.182,NADP+,Helicobacter pylori,"#32# pH 8.0, 60Â°C, recombinant enzyme <21>;#14# with shikimate, pH 8.0, 25Â°C <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.19,NADP+,Archaeoglobus fulgidus,"#21# 87Â°C, pH 7.3 <14>; #54# with shikimate, pH7.3, 87Â°C <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.025,NADP+,Vigna mungo,
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0091,NADP+,Toxoplasma gondii,"#29# pH 8.8, temperature not specified in thepublication <48>; #59# pH 8.8, 25Â°C, with shikimate <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0424,NADP+,Aquifex aeolicus,"#39# 25Â°C, pH 9.0 <29>; #39# with shikimate, pH9.0, 25Â°C <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.056,NADP+,Escherichia coli,"#4# with shikimate, pH 9.0, 20Â°C <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.112,NADP+,Pseudomonas putida,"#41# pH 8.8, presence of 2 mM shikimate <33>;#47# in the presence of shikimate <33>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.112,NADP+,Pseudomonas putida K,"#41# pH 8.8, presence of 2 mM shikimate <33>;#47# in the presence of shikimate <33>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.055,NADP+,Pseudomonas putida,"#42# pH 8.8, 25Â°C, with shikimate <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0073,NADP+,Pseudomonas putida,"#42# pH 8.8, presence of 2 mM shikimate <33>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.279,NADP+,Staphylococcus epidermidis R,#46# mutant Y211F <34>
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.1,NADP+,Staphylococcus epidermidis,"#46# wild-type <34>; #58# pH 7.0, 25Â°C, withshikimate <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.1,NADP+,Staphylococcus epidermidis R,"#46# wild-type <34>; #58# pH 7.0, 25Â°C, withshikimate <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0135,NADP+,Aspergillus nidulans,"#53# with shikimate, pH 7.0, 25Â°C <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.007,NADP+,Pisum sativum,
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.038,NADP+,Vitis vinifera,"#60# pH 9.0, 30Â°C, recombinant isozyme VvSDH3<47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.023,NADP+,Vitis vinifera,"#60# pH 7.0, 30Â°C, recombinant isozyme VvSDH3<47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0538,NADP+,Vitis vinifera,"#61# pH 9.0, 30Â°C, recombinant isozyme VvSDH4<47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.217,NADP+,Vitis vinifera,"#62# pH 7.0, 30Â°C, recombinant isozyme VvSDH1<47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0652,NADP+,Eucalyptus camaldulensis,"#65# pH 9.0, temperature not specified in thepublication <64>; #65# pH 9.0, 30Â°C, EcDQD/SDH2, shikimate oxidation<64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0415,NADP+,Eucalyptus camaldulensis,"#66# pH 9.0, temperature not specified in thepublication <64>; #66# pH 9.0, 30Â°C, EcDQD/SDH3, shikimate oxidation<64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0565,NADP+,Eucalyptus camaldulensis,"#67# pH 9.0, temperature not specified in thepublication <64>; #67# pH 9.0, 30Â°C, EcDQD/SDH1, shikimate oxidation<64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.046,NADP+,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinant isozyme CsDQD/SDHD,with shikimate <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.115,NADP+,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinant isozyme CsDQD/SDHc,with shikimate <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.138,NADP+,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinant isozyme CsDQD/SDHa,with shikimate <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.031,NADP+,Nicotiana tabacum,"#8,35# 22Â°C, pH 9.0 <26>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.062,NADP+,Arabidopsis thaliana,"#9# mutant T381S, 22Â°C <30>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.132,NADP+,Arabidopsis thaliana,"#9# pH 7.5, 22Â°C, mutant Y550F <19>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.053,NADP+,Arabidopsis thaliana,"#9# pH 7.5, 22Â°C, mutant K385N <19>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.068,NADP+,Arabidopsis thaliana,"#9# mutant H335A, 22Â°C <30>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0928,NADP+,Arabidopsis thaliana,"#9# mutant T381A, 22Â°C <30>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.079,NADP+,Arabidopsis thaliana,"#9# pH 7.5, 22Â°C, mutant D423N <19>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.159,NADP+,Arabidopsis thaliana,"#9# mutant Q78L, 22Â°C <30>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.152,NADP+,Arabidopsis thaliana,"#9# pH 7.5, 22Â°C, mutant S336A <19>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.107,NADP+,Arabidopsis thaliana,"#9# mutant T422S, 22Â°C <30>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.157,NADP+,Arabidopsis thaliana,"#9# pH 7.5, 22Â°C, mutant Y550A <19>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.156,NADP+,Arabidopsis thaliana,"#9# mutant T407A, 22Â°C <30>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.022,NADP+,Arabidopsis thaliana,"#64# pH 7.0, 25Â°C, recombinant AroE <24>; #9#pH 7.5, 22Â°C, mutant K385N/D423N <19>; #12# pH 7.0, 25Â°C, withshikimate <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.022,NADP+,Mycobacterium tuberculosis,"#64# pH 7.0, 25Â°C, recombinant AroE <24>; #9#pH 7.5, 22Â°C, mutant K385N/D423N <19>; #12# pH 7.0, 25Â°C, withshikimate <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.017,NADP+,Arabidopsis thaliana,"#9# pH 7.5, 22Â°C, mutant K385A <19>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.017,NADP+,Capsicum annuum,"#9# pH 7.5, 22Â°C, mutant K385A <19>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.131,NADP+,Arabidopsis thaliana,"#9# pH 7.5, 22Â°C, wild-type DELTA88DHQ-SDHenzyme variant <19>; #9# wild-type, 22Â°C <30>; #37# pH 8.8, 22Â°C, withshikimate <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.114,NADP+,Arabidopsis thaliana,"#9# pH 7.5, 22Â°C, mutant S338A <19>; #62# pH9.0, 30Â°C, recombinant isozyme VvSDH1 <47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.114,NADP+,Vitis vinifera,"#9# pH 7.5, 22Â°C, mutant S338A <19>; #62# pH9.0, 30Â°C, recombinant isozyme VvSDH1 <47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),3430.0,NADP+,Staphylococcus aureus,"#1# pH not specified in the publication, 25Â°C <49>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),3200.0,NADP+,Escherichia coli,"#31# pH 9.0, 25Â°C, recombinant wild-type enzyme<65>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.457,NADP+,Escherichia coli,"#31# pH 9.0, 25Â°C, recombinant mutant N149D/V152F<65>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.322,NADP+,Escherichia coli,"#31# pH 9.0, 25Â°C, recombinant mutant N149D <65>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),2.217,NADP+,Escherichia coli,"#31# pH 9.0, 25Â°C, recombinant mutantS131A/N149D/V152F <65>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),3.133,NADP+,Escherichia coli,"#31# pH 9.0, 25Â°C, recombinant mutantS131A/L135A/N149D/V152F <65>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),680.0,NADP+,Vitis vinifera,"#60# pH 9.0, 30Â°C, recombinant isozyme VvSDH3 <47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),862.0,NADP+,Vitis vinifera,"#60# pH 7.0, 30Â°C, recombinant isozyme VvSDH3 <47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),537.0,NADP+,Vitis vinifera,"#61# pH 9.0, 30Â°C, recombinant isozyme VvSDH4 <47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),262.0,NADP+,Vitis vinifera,"#62# pH 7.0, 30Â°C, recombinant isozyme VvSDH1 <47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),1113.0,NADP+,Vitis vinifera,"#62# pH 9.0, 30Â°C, recombinant isozyme VvSDH1 <47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),2070.0,NADP+,Eucalyptus camaldulensis,"#65# pH 9.0, temperature not specified in thepublication <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),2070.6,NADP+,Eucalyptus camaldulensis,"#65# pH 9.0, 30Â°C, EcDQD/SDH2, shikimateoxidation <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),1690.0,NADP+,Eucalyptus camaldulensis,"#66# pH 9.0, temperature not specified in thepublication <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),1691.6,NADP+,Eucalyptus camaldulensis,"#66# pH 9.0, 30Â°C, EcDQD/SDH3, shikimateoxidation <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),14000.0,NADP+,Eucalyptus camaldulensis,"#67# pH 9.0, temperature not specified in thepublication <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),14017.7,NADP+,Eucalyptus camaldulensis,"#67# pH 9.0, 30Â°C, EcDQD/SDH1, shikimateoxidation <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.13,NADP+,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinant isozyme CsDQD/SDHD,with shikimate <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.374,NADP+,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinant isozyme CsDQD/SDHc,with shikimate <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.848,NADP+,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinant isozyme CsDQD/SDHa,with shikimate <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.031,NADPH,Mycobacterium tuberculosis,"#12# pH 7.0, 25Â°C, with 3-dehydroshikimate <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.011,NADPH,Mycobacterium tuberculosis,"#49# wild-type enzyme, pH 7.3, 25Â°C <38>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.03,NADPH,Mycobacterium tuberculosis,"#49# mutant K69A, pH 7.3, 25Â°C <38>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.01,NADPH,Mycobacterium tuberculosis,"#64# pH 7.0, 25Â°C, recombinant AroE <24>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.034,NADPH,Mycobacterium tuberculosis,"#64# 25Â°C, pH 7.3 <28>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.00438,NADPH,Eucalyptus camaldulensis,"#65# pH 8.5, temperature not specified in thepublication <64>; #65# pH 8.5, 30Â°C, EcDQD/SDH2, shikimate formation<64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0231,NADPH,Eucalyptus camaldulensis,"#66# pH 6.5, 30Â°C, EcDQD/SDH3, shikimateformation <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),23.1,NADPH,Eucalyptus camaldulensis,"#66# pH 6.5, temperature not specified in thepublication <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.0495,NADPH,Eucalyptus camaldulensis,"#67# pH 6.5, temperature not specified in thepublication <64>; #67# pH 6.5, 30Â°C, EcDQD/SDH1, shikimate formation<64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.27,NADPH,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinant isozyme CsDQD/SDHa,with 3-dehydroshikimate <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.249,NADPH,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinant isozyme CsDQD/SDHD,with 3-dehydroshikimate <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.267,NADPH,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinant isozyme CsDQD/SDHc,with 3-dehydroshikimate <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),24.0,NADPH,Mycobacterium tuberculosis,"#49# mutant K69A, pH 7.3, 25Â°C <38>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),4500.0,NADPH,Mycobacterium tuberculosis,"#49# wild-type enzyme, pH 7.3, 25Â°C <38>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),6300.0,NADPH,Eucalyptus camaldulensis,"#65# pH 8.5, temperature not specified in thepublication <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),6301.4,NADPH,Eucalyptus camaldulensis,"#65# pH 8.5, 30Â°C, EcDQD/SDH2, shikimateformation <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),3207.8,NADPH,Eucalyptus camaldulensis,"#66# pH 6.5, 30Â°C, EcDQD/SDH3, shikimateformation <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),3210.0,NADPH,Eucalyptus camaldulensis,"#66# pH 6.5, temperature not specified in thepublication <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),7858.6,NADPH,Eucalyptus camaldulensis,"#67# pH 6.5, 30Â°C, EcDQD/SDH1, shikimateformation <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),7860.0,NADPH,Eucalyptus camaldulensis,"#67# pH 6.5, temperature not specified in thepublication <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.197,NADPH,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinant isozyme CsDQD/SDHD,with 3-dehydroshikimate <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.195,NADPH,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinant isozyme CsDQD/SDHc,with 3-dehydroshikimate <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.748,NADPH,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinant isozyme CsDQD/SDHa,with 3-dehydroshikimate <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.029,3-dehydroshikimate,Mycobacterium tuberculosis,"#49# wild-type enzyme, pH 7.3,25Â°C <38>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.031,3-dehydroshikimate,Mycobacterium tuberculosis,"#64# pH 7.0, 25Â°C, recombinantAroE <24>; #12# pH 7.0, 25Â°C, with NADPH <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.076,3-dehydroshikimate,Mycobacterium tuberculosis,"#49# mutant K69A, pH 7.3, 25Â°C <38>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.2,3-dehydroshikimate,Corynebacterium glutamicum,"#56# pH 7.0, 30Â°C <41>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.272,3-dehydroshikimate,Corynebacterium glutamicum,"#56# pH 9.0, 30Â°C <41>; #57# withNADPH, pH 8.6, 30Â°C <43>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.046,3-dehydroshikimate,Vitis vinifera,"#60# pH 7.0, 30Â°C, recombinantisozyme VvSDH3 <47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),186.0,3-dehydroshikimate,Vitis vinifera,"#61# pH 7.0, 30Â°C, recombinant isozymeVvSDH4 <47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.157,3-dehydroshikimate,Vitis vinifera,"#62# pH 7.0, 30Â°C, recombinantisozyme VvSDH1 <47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.044,3-dehydroshikimate,Mycobacterium tuberculosis,"#64# 25Â°C, pH 7.3 <28>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.322,3-dehydroshikimate,Eucalyptus camaldulensis,"#65# pH 7.0, 30Â°C, EcDQD/SDH2, DQDactivity <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),8.83,3-dehydroshikimate,Eucalyptus camaldulensis,"#65# pH 8.5, temperature not specifiedin the publication <64>; #65# pH 8.5, 30Â°C, EcDQD/SDH2, shikimateformation <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),9.44,3-dehydroshikimate,Eucalyptus camaldulensis,"#65# pH 10.5, 30Â°C, EcDQD/SDH2,gallate formation <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.878,3-dehydroshikimate,Eucalyptus camaldulensis,"#66# pH 6.5, temperature notspecified in the publication <64>; #66# pH 6.5, 30Â°C, EcDQD/SDH3,shikimate formation <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.882,3-dehydroshikimate,Eucalyptus camaldulensis,"#66# pH 7.0, 30Â°C, EcDQD/SDH3, DQDactivity <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),30.6,3-dehydroshikimate,Eucalyptus camaldulensis,"#66# pH 10.5, 30Â°C, EcDQD/SDH2,gallate formation <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.449,3-dehydroshikimate,Eucalyptus camaldulensis,"#67# pH 7.0, 30Â°C, EcDQD/SDH1, DQDactivity <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.381,3-dehydroshikimate,Eucalyptus camaldulensis,"#67# pH 6.5, temperature notspecified in the publication <64>; #67# pH 6.5, 30Â°C, EcDQD/SDH1,shikimate formation <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.287,3-dehydroshikimate,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinantisozyme CsDQD/SDHa, with NADPH <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.331,3-dehydroshikimate,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinantisozyme CsDQD/SDHc, with NADPH <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.466,3-dehydroshikimate,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinantisozyme CsDQD/SDHd, with NADPH <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),9.6,3-dehydroshikimate,Mycobacterium tuberculosis,"#49# mutant K69A, pH 7.3, 25Â°C <38>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),1700.0,3-dehydroshikimate,Mycobacterium tuberculosis,"#49# wild-type enzyme, pH 7.3, 25Â°C<38>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),1650.0,3-dehydroshikimate,Corynebacterium glutamicum,"#56# pH 7.0, 30Â°C <41>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),435.0,3-dehydroshikimate,Corynebacterium glutamicum,"#56# pH 9.0, 30Â°C <41>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),186.0,3-dehydroshikimate,Vitis vinifera,"#60# pH 7.0, 30Â°C, recombinant isozymeVvSDH3 <47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),611.0,3-dehydroshikimate,Vitis vinifera,"#62# pH 7.0, 30Â°C, recombinant isozymeVvSDH1 <47>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.304,3-dehydroshikimate,Eucalyptus camaldulensis,"#65# pH 10.5, 30Â°C, EcDQD/SDH2,gallate formation <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),96.0,3-dehydroshikimate,Eucalyptus camaldulensis,"#65# pH 7.0, 30Â°C, EcDQD/SDH2, DQDactivity <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),5.32,3-dehydroshikimate,Eucalyptus camaldulensis,"#65# pH 8.5, temperature not specifiedin the publication <64>; #65# pH 8.5, 30Â°C, EcDQD/SDH2, shikimateformation <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.07,3-dehydroshikimate,Eucalyptus camaldulensis,"#66# pH 10.5, 30Â°C, EcDQD/SDH2,gallate formation <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),4.16,3-dehydroshikimate,Eucalyptus camaldulensis,"#66# pH 7.0, 30Â°C, EcDQD/SDH3, DQDactivity <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),65.6,3-dehydroshikimate,Eucalyptus camaldulensis,"#66# pH 6.5, 30Â°C, EcDQD/SDH3,shikimate formation <64>; #66# pH 6.5, temperature not specified in thepublication <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),805.0,3-dehydroshikimate,Eucalyptus camaldulensis,"#67# pH 6.5, temperature not specifiedin the publication <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),134.5,3-dehydroshikimate,Eucalyptus camaldulensis,"#67# pH 7.0, 30Â°C, EcDQD/SDH1, DQDactivity <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),805.8,3-dehydroshikimate,Eucalyptus camaldulensis,"#67# pH 6.5, 30Â°C, EcDQD/SDH1,shikimate formation <64>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.099,3-dehydroshikimate,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinantisozyme CsDQD/SDHd, with NADPH <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.508,3-dehydroshikimate,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinantisozyme CsDQD/SDHc, with NADPH <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),1.411,3-dehydroshikimate,Camellia sinensis,"#71# pH 7.5, 30Â°C, recombinantisozyme CsDQD/SDHa, with NADPH <55>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.05,shikimic acid,Cucumis sativus,#15# NADP+ <12>
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.087,shikimic acid,Capsicum annuum,#16# NADP+ <13>
+1.1.1.25,Shikimate dehydrogenase (nadp+),11.4,NAD+,Archaeoglobus fulgidus,"#21# 87Â°C, pH 7.3 <14>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),2.9,NAD+,Helicobacter pylori,"#32# pH 8.0, 60Â°C, recombinant enzyme <21>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),5.43,NAD+,Pseudomonas putida,"#41# pH 8.8, presence of 2 mM shikimate <33>;#47# in the presence of shikimate <33>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),5.43,NAD+,Pseudomonas putida K,"#41# pH 8.8, presence of 2 mM shikimate <33>;#47# in the presence of shikimate <33>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),5.4,NAD+,Pseudomonas putida,"#42# pH 8.8, presence of 2 mM shikimate <33>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.572,NAD+,Pseudomonas putida,"#43# pH 8.8, presence of 2 mM shikimate <33>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),1.083,NAD+,Pseudomonas putida,"#43# pH 8.8, presence of 2 mM quinate <33>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),10.6,NAD+,Staphylococcus epidermidis R,#46# wild-type <34>
+1.1.1.25,Shikimate dehydrogenase (nadp+),1.8,NAD+,Escherichia coli,"#31# pH 9.0, 25Â°C, recombinant mutant N149D <65>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),1.42,NAD+,Escherichia coli,"#31# pH 9.0, 25Â°C, recombinant wild-type enzyme<65>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),4.17,NAD+,Escherichia coli,"#31# pH 9.0, 25Â°C, recombinant mutant N149D/V152F<65>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),12.55,NAD+,Escherichia coli,"#31# pH 9.0, 25Â°C, recombinant mutantS131A/N149D/V152F <65>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),16.72,NAD+,Escherichia coli,"#31# pH 9.0, 25Â°C, recombinant mutantS131A/L135A/N149D/V152F <65>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),2.351,L-quinate,Populus trichocarpa,"#28# mutant S275G/T318G, pH and temperaturenot specified in the publication <63>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),3.33,L-quinate,Arabidopsis thaliana,"#37# pH and temperature not specified in thepublication, mutant T381G <62>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),4.485,L-quinate,Arabidopsis thaliana,"#37# pH and temperature not specified in thepublication, mutant T381S <62>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),5.135,L-quinate,Arabidopsis thaliana,"#37# pH and temperature not specified in thepublication, mutant T381A <62>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),4.075,L-quinate,Arabidopsis thaliana,"#37# pH and temperature not specified in thepublication, mutant S338G/T381G <62>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.022,L-quinate,Arabidopsis thaliana,"#37# pH and temperature not specified in thepublication, mutant T381A <62>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.014,L-quinate,Arabidopsis thaliana,"#37# pH and temperature not specified in thepublication, mutant T381S <62>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),2.64,L-quinate,Arabidopsis thaliana,"#37# pH and temperature not specified in thepublication, mutant T381G <62>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),1.64,L-quinate,Arabidopsis thaliana,"#37# pH and temperature not specified in thepublication, mutant S338G/T381G <62>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.783,quinate,Pseudomonas putida,"#43# pH 8.8, presence of 2 mM NAD+ <33>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),10.2,quinate,Corynebacterium glutamicum,"#50# pH 9.0, 30Â°C <27>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.00036,3-dehydroquinate,Corynebacterium glutamicum,"#56# pH 7.0, 30Â°C <41>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.42,3-dehydroquinate,Corynebacterium glutamicum,"#57# pH 7.0, 30Â°C <41>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),0.143,3-dehydroquinate,Corynebacterium glutamicum,"#56# pH 7.0, 30Â°C <41>"
+1.1.1.25,Shikimate dehydrogenase (nadp+),272.0,3-dehydroquinate,Corynebacterium glutamicum,"#57# pH 7.0, 30Â°C <41>"
+2.7.1.71,Shikimate kinase,0.039,shikimate,Helicobacter pylori,"#32# enzyme mutant E114A, pH 7.5, 25Â°C<42>; #11# at pH 7.7 and 25Â°C <56>"
+2.7.1.71,Shikimate kinase,0.28,shikimate,Dickeya chrysanthemi,"#14# pH 7.0, 25Â°C, mutant enzyme C162S <22>"
+2.7.1.71,Shikimate kinase,0.075,shikimate,Dickeya chrysanthemi,"#14# pH 7.0, 25Â°C, mutant enzyme C13S <22>"
+2.7.1.71,Shikimate kinase,0.414,shikimate,Methanocaldococcus jannaschii,
+2.7.1.71,Shikimate kinase,0.25,shikimate,Vigna mungo,#24# pH 8.6 <5>
+2.7.1.71,Shikimate kinase,20.0,shikimate,Escherichia coli,
+2.7.1.71,Shikimate kinase,5.0,shikimate,Escherichia coli,"#3# above, isoenzyme SK1, at 5 mM <6>"
+2.7.1.71,Shikimate kinase,0.2,shikimate,Sorghum bicolor,"#13# pH 9.0 <10>; #3# isoenzyme SK2, at 5 mMATP <6>"
+2.7.1.71,Shikimate kinase,0.2,shikimate,Escherichia coli,"#13# pH 9.0 <10>; #3# isoenzyme SK2, at 5 mMATP <6>"
+2.7.1.71,Shikimate kinase,0.1,shikimate,Colwellia psychrerythraea,#30# at pH 7.5 and 25Â°C <61>
+2.7.1.71,Shikimate kinase,0.06,shikimate,Helicobacter pylori,"#32# wild-type enzyme, pH 7.5, 25Â°C <42>; #32#in 100 mM Tris-HClÂKOH buffer, pH 7.5, 50 mM KCl, 5 mM MgCl2, 1.6 mMshikimic acid, 2.5 mM ATP, 1 mM phosphoenolpyruvate, 0.1 mM NADH, 2.5units of pyruvate kinase/ml, and 2.7 units of lactate dehydrogenase/ml,at 25Â°C <27>"
+2.7.1.71,Shikimate kinase,0.135,shikimate,Helicobacter pylori,"#32# enzyme mutant M10A, pH 7.5, 25Â°C <42>"
+2.7.1.71,Shikimate kinase,0.291,shikimate,Helicobacter pylori,"#32# enzyme mutant F48Y, pH 7.5, 25Â°C <42>"
+2.7.1.71,Shikimate kinase,0.147,shikimate,Acinetobacter baumannii,#35# at pH 7.5 and 25Â°C <44>
+2.7.1.71,Shikimate kinase,0.362,shikimate,Escherichia coli,#36# at pH 7.5 and 25Â°C <61>
+2.7.1.71,Shikimate kinase,0.000153,shikimate,Staphylococcus aureus,#37# at pH 7.6 and 25Â°C <62>
+2.7.1.71,Shikimate kinase,0.41,shikimate,Mycobacterium tuberculosis,
+2.7.1.71,Shikimate kinase,0.65,shikimate,Mycobacterium tuberculosis,#9# at pH 7.6 and 25Â°C <52>
+2.7.1.71,Shikimate kinase,0.3994,shikimate,Mycobacterium tuberculosis,#9# at pH 7.6 and 25Â°C <47>
+2.7.1.71,Shikimate kinase,0.544,shikimate,Mycobacterium tuberculosis,#9# at pH 7.7 and 25Â°C <56>
+2.7.1.71,Shikimate kinase,288.0,shikimate,Colwellia psychrerythraea,#30# at pH 7.5 and 25Â°C <61>
+2.7.1.71,Shikimate kinase,154.0,shikimate,Escherichia coli,#36# at pH 7.5 and 25Â°C <61>
+2.7.1.71,Shikimate kinase,90.0,shikimate,Mycobacterium tuberculosis,#9# at pH 7.6 and 25Â°C <52>
+2.7.1.71,Shikimate kinase,17.0,shikimate,Mycobacterium tuberculosis,#9# at pH 7.6 and 25Â°C <47>
+2.7.1.71,Shikimate kinase,0.11,ATP,Sorghum bicolor,#13# pH 9.0 <10>
+2.7.1.71,Shikimate kinase,0.67,ATP,Dickeya chrysanthemi,"#14# pH 7.0, 25Â°C, mutant enzyme C162S <22>"
+2.7.1.71,Shikimate kinase,0.62,ATP,Dickeya chrysanthemi,
+2.7.1.71,Shikimate kinase,0.048,ATP,Methanocaldococcus jannaschii,
+2.7.1.71,Shikimate kinase,0.38,ATP,Vigna mungo,#24# pH 8.6 <5>
+2.7.1.71,Shikimate kinase,0.16,ATP,Escherichia coli,"#3# isoenzyme SK2, at 1 mM shikimate <6>"
+2.7.1.71,Shikimate kinase,0.153,ATP,Colwellia psychrerythraea,#30# at pH 7.5 and 25Â°C <61>
+2.7.1.71,Shikimate kinase,0.101,ATP,Helicobacter pylori,"#32# wild-type enzyme, pH 7.5, 25Â°C <42>; #32# in100 mM Tris-HCl-KOH buffer, pH 7.5, 50 mM KCl, 5 mM MgCl2, 1.6 mMshikimic acid, 2.5 mM ATP, 1 mM phosphoenolpyruvate, 0.1 mM NADH, 2.5units of pyruvate kinase/ml, and 2.7 units of lactate dehydrogenase/ml,at 25Â°C <27>; #32# enzyme mutant M10A, pH 7.5, 25Â°C <42>"
+2.7.1.71,Shikimate kinase,0.143,ATP,Helicobacter pylori,"#32# enzyme mutant E114A, pH 7.5, 25Â°C <42>"
+2.7.1.71,Shikimate kinase,0.231,ATP,Helicobacter pylori,"#32# enzyme mutant F48Y, pH 7.5, 25Â°C <42>"
+2.7.1.71,Shikimate kinase,0.5,ATP,Escherichia coli,#36# at pH 7.5 and 25Â°C <61>
+2.7.1.71,Shikimate kinase,0.224,ATP,Staphylococcus aureus,#37# at pH 7.6 and 25Â°C <62>
+2.7.1.71,Shikimate kinase,0.112,ATP,Mycobacterium tuberculosis,#9# at pH 7.6 and 25Â°C <52>
+2.7.1.71,Shikimate kinase,0.1306,ATP,Mycobacterium tuberculosis,#9# at pH 7.6 and 25Â°C <47>
+2.7.1.71,Shikimate kinase,214.0,ATP,Colwellia psychrerythraea,#30# at pH 7.5 and 25Â°C <61>
+2.7.1.71,Shikimate kinase,245.0,ATP,Escherichia coli,#36# at pH 7.5 and 25Â°C <61>
+2.7.1.71,Shikimate kinase,54.0,ATP,Mycobacterium tuberculosis,#9# at pH 7.6 and 25Â°C <52>
+2.7.1.71,Shikimate kinase,60.0,ATP,Mycobacterium tuberculosis,#9# at pH 7.6 and 25Â°C <47>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0018,phosphoenolpyruvate,Salmonella enterica subsp. enterica serovar Typhimurium,"#1# pH 7.0, 30Â°C, mutant StaroA-T42M<42>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0436,phosphoenolpyruvate,Salmonella enterica subsp. enterica serovar Typhimurium,"#1# pH 7.0, 30Â°C, wild-type StaroA<42>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,43.6,phosphoenolpyruvate,Salmonella enterica subsp. enterica serovar Typhimurium,"#1# recombinant enzyme, in crudeextracts <31>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0027,phosphoenolpyruvate,Neurospora crassa,
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0052,phosphoenolpyruvate,Pisum sativum,#12# cosubstrate5-enolpyruvylshikimate 3-phosphate <4>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.033,phosphoenolpyruvate,Zea mays,#13# isoenzyme I <26>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.028,phosphoenolpyruvate,Zea mays,#13# isoenzyme II <26>; #101# atpH 8.0 and 30Â°C <77>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.028,phosphoenolpyruvate,Isoptericola variabilis,#13# isoenzyme II <26>; #101# atpH 8.0 and 30Â°C <77>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.055,phosphoenolpyruvate,Pseudomonas stutzeri,"#18# +/-0.0014 mM, mutant N130S inbacterial extact <59>; #18# +/-0.002 mM, bacterial extract <59>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.009,phosphoenolpyruvate,Klebsiella pneumoniae,#19# glyphosate-sensitive enzyme<11>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.14,phosphoenolpyruvate,Klebsiella pneumoniae,#19# glyphosate-resistant enzyme<11>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.017,phosphoenolpyruvate,Klebsiella pneumoniae,#19# in the presence of glyphosate<13>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0113,phosphoenolpyruvate,Bacteria,#2# expressed in Escherichia coli<62>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.008,phosphoenolpyruvate,Sorghum bicolor,
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.18,phosphoenolpyruvate,Staphylococcus aureus,"#3# pH 7.0, recombinant enzyme, inpresence of 100 mM KCl <43>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.034,phosphoenolpyruvate,Trichormus variabilis,
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.26,phosphoenolpyruvate,Thermotoga maritima,#36# at pH 8.0 and 37Â°C <89>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.37,phosphoenolpyruvate,Thermotoga maritima,#36# at pH 8.0 and 22Â°C <89>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.049,phosphoenolpyruvate,Malus domestica,"#37# mutant enzyme T101A/A187T, at28Â°C, pH not specified in the publication  <80>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.011,phosphoenolpyruvate,Malus domestica,"#37# wild type enzyme, at 28Â°C, pHnot specified in the publication  <80>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.081,phosphoenolpyruvate,Malus domestica,"#37# mutant enzyme T101A, at 28Â°C,pH not specified in the publication  <80>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.032,phosphoenolpyruvate,Pseudomonas stutzeri,"#64# wild-type <67>; #37# mutantenzyme A187T, at 28Â°C, pH not specified in the publication  <80>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.032,phosphoenolpyruvate,Malus domestica,"#64# wild-type <67>; #37# mutantenzyme A187T, at 28Â°C, pH not specified in the publication  <80>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.077,phosphoenolpyruvate,Acremonium sp.,#39# at pH 7.0 and 30Â°C <87>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.2,phosphoenolpyruvate,Bacillus subtilis,#4# R24D mutant enzyme <27>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,1.0,phosphoenolpyruvate,Bacillus subtilis,#4# H385L mutant enzyme <27>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.59,phosphoenolpyruvate,Bacillus subtilis,#4# P105S mutant enzyme <27>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.09,phosphoenolpyruvate,Bacillus subtilis,"#4# wild-type enzyme <27>; #59#+/-0.010 mM, mutant P101G <61>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.09,phosphoenolpyruvate,Escherichia coli,"#4# wild-type enzyme <27>; #59#+/-0.010 mM, mutant P101G <61>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.007,phosphoenolpyruvate,Eleusine indica,#41# glyphosate-resistant strain<38>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0038,phosphoenolpyruvate,Eleusine indica,#41# glyphosate-sensitive strain<38>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0181,phosphoenolpyruvate,plant,
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.015,phosphoenolpyruvate,Escherichia coli,#5# wild-type enzyme <6>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0024,phosphoenolpyruvate,Escherichia coli,"#5# pH 7.0, 30Â°C, mutant EcaroA-T42M<42>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,2.8,phosphoenolpyruvate,Escherichia coli,#5# G96A mutant enzyme <37>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.016,phosphoenolpyruvate,Escherichia coli,"#5# recombinant overproducing strain<4,6>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0223,phosphoenolpyruvate,Escherichia coli,"#5# pH 7.0, 30Â°C, wild-type EcaroA<42>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.106,phosphoenolpyruvate,Escherichia coli,#5# H385N mutant enzyme <28>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.088,phosphoenolpyruvate,Escherichia coli,#5# wild-type enzyme <37>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,22.5,phosphoenolpyruvate,Escherichia coli,"#5# recombinant enzyme, in crudeextracts <31>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.022,phosphoenolpyruvate,Escherichia coli,
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.1,phosphoenolpyruvate,Streptococcus pneumoniae,#5# wild-type enzyme <28>; #51#in the presence of 1 mM NH4Cl <30>; #59# in presence of 1 mM shikimate3-phosphate <57>; #59# mutant P101S/T97I <66>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.1,phosphoenolpyruvate,Escherichia coli,#5# wild-type enzyme <28>; #51#in the presence of 1 mM NH4Cl <30>; #59# in presence of 1 mM shikimate3-phosphate <57>; #59# mutant P101S/T97I <66>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.025,phosphoenolpyruvate,Escherichia coli,#64# mutant N130W <67>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.025,phosphoenolpyruvate,Pseudomonas stutzeri,#64# mutant N130W <67>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.02167,phosphoenolpyruvate,Strobilanthes cusia,#50# at pH 7.0 and 30Â°C <88>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.022,phosphoenolpyruvate,Streptococcus pneumoniae,#51# in the presence of 100 mM NH4Cl<30>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.023,phosphoenolpyruvate,Streptococcus pneumoniae,#51# in the presence of 1 mM NH4Cland 100 mM KCl <30>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.085,phosphoenolpyruvate,Streptococcus pneumoniae,#51# in the presence of 1 mM NH4Cland 10 mM KCl <30>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.091,phosphoenolpyruvate,Streptococcus pneumoniae,#51# in the presence of 10 mM NH4Cl<30>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.227,phosphoenolpyruvate,Alcanivorax sp.,"#54# mutant enzyme G100A, at pH 7.0and 28Â°C <75>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,4.762,phosphoenolpyruvate,Alcanivorax sp.,"#54# mutant enzyme L105P, at pH 7.0and 28Â°C <75>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.078,phosphoenolpyruvate,Alcanivorax sp.,"#70# wild-type, pH 7.0, 28Â°C<72>; #54# wild type enzyme, at pH 7.0 and 28Â°C <75>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.078,phosphoenolpyruvate,Rahnella aquatilis,"#70# wild-type, pH 7.0, 28Â°C<72>; #54# wild type enzyme, at pH 7.0 and 28Â°C <75>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0199,phosphoenolpyruvate,Oryza sativa,#57# wild-type enzyme <52>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0883,phosphoenolpyruvate,Oryza sativa,#57# mutant enzyme P106L <52>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,-999.0,phosphoenolpyruvate,Escherichia coli,"#59# KM/KI: 13, mutant P101S <61>;#59# KM/KI: 150 <61>; #59# KM/KI: 2.3, mutant P101L <61>; #59# KM/KI:4.2, mutant P101A <61>; #59# KM/KI: 7.5, mutant P101G <61>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.045,phosphoenolpyruvate,Escherichia coli,#59# wild-type <66>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.05,phosphoenolpyruvate,Escherichia coli,"#59# 50 mM KCl, mutant E341A <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.06,phosphoenolpyruvate,Escherichia coli,#59# +/-0.006 mM <61>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.16,phosphoenolpyruvate,Escherichia coli,"#59# wild-type AroA, 100 mM KCl <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.17,phosphoenolpyruvate,Escherichia coli,"#59# 50 mM KCl, mutant E341C <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,1.3,phosphoenolpyruvate,Escherichia coli,"#59# 50 mM KCl, mutant D313C <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.04,phosphoenolpyruvate,Escherichia coli,"#59# C-terminal His6-tagged AroA, 50mM KCl <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.07,phosphoenolpyruvate,Escherichia coli,"#59# +/-0.005 mM, mutant P101S <61>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.28,phosphoenolpyruvate,Escherichia coli,"#59# 50 mM KCl, mutant D313A <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.9,phosphoenolpyruvate,Escherichia coli,"#59# 50 mM KCl, mutant E341Q <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.19,phosphoenolpyruvate,Escherichia coli,"#59# 50 mM KCl, mutant D313N <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.8,phosphoenolpyruvate,Escherichia coli,"#59# mutant G96A/A183T, in presence of1 mM shikimate 3-phosphate <57>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,3.1,phosphoenolpyruvate,Escherichia coli,"#59# mutant G96A, in presence of 1 mMshikimate 3-phosphate <57>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.15,phosphoenolpyruvate,Escherichia coli,"#59# +/-0.020 mM, mutant P101L <61>;#59# C-terminal His6-tagged AroA, 100 mM KCl <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,1.5,phosphoenolpyruvate,Escherichia coli,"#59# 50 mM KCl, mutant H385A <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,1.9,phosphoenolpyruvate,Escherichia coli,"#59# 50 mM KCl, mutant E341M <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,2.5,phosphoenolpyruvate,Escherichia coli,"#59# 50 mM KCl, mutant K22R valueabove 0.3 <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.08,phosphoenolpyruvate,Escherichia coli,"#59# +/-0.005 mM, mutant P101A <61>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.071,phosphoenolpyruvate,Escherichia coli,#59# mutant P101S <66>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,1.6,phosphoenolpyruvate,Escherichia coli,"#59# 50 mM KCl, mutant D313L <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,3.8,phosphoenolpyruvate,Escherichia coli,"#59# mutant A183T, in presence of 1 mMshikimate 3-phosphate <57>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.38,phosphoenolpyruvate,Escherichia coli,"#59# mutant T97I <66>; #66# mutantN267S, pH 7.0, temperature not specified in the publication <69>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.38,phosphoenolpyruvate,Brucella anthropi,"#59# mutant T97I <66>; #66# mutantN267S, pH 7.0, temperature not specified in the publication <69>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0952,phosphoenolpyruvate,Pseudomonas fluorescens,"#60# +/-0.00573 mM, full-length G2EPSPS, crude lysate from overexpressing Escherichia coli ER2799,malachite green dye assay <54>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0968,phosphoenolpyruvate,Pseudomonas fluorescens,"#60# +/-0.01101 mM, reconstitutedG2-EPSPS (by intein-mediated protein complementation), crude lysatefrom transformed Escherichia coli ER2799, malachite green dye assay<54>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.035,phosphoenolpyruvate,Pseudomonas stutzeri,#64# mutant N130S <67>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.31,phosphoenolpyruvate,Brucella anthropi,"#66# mutant P318R, pH 7.0,temperature not specified in the publication <69>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.25,phosphoenolpyruvate,Brucella anthropi,"#66# mutantE145G/N163H/N267S/P318R/M377V/M425T/P438L, pH 7.0, temperature notspecified in the publication <69>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.23,phosphoenolpyruvate,Brucella anthropi,"#66# wild-type, pH 7.0, temperaturenot specified in the publication <69>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.32,phosphoenolpyruvate,Brucella anthropi,"#66# mutant M425T, pH 7.0,temperature not specified in the publication <69>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.525,phosphoenolpyruvate,Brucella anthropi,"#66# mutant N267S/P318R/M425T, pH7.0, temperature not specified in the publication <69>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.316,phosphoenolpyruvate,Halothermothrix orenii,"#67# wild-type, pH 7.0, 28Â°C <70>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.292,phosphoenolpyruvate,Halothermothrix orenii,"#67# mutant T355S, pH 7.0, 28Â°C<70>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.29,phosphoenolpyruvate,Pseudomonas fluorescens,"#68# pH 7.0, 28Â°C <71>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.195,phosphoenolpyruvate,Bacillus cereus,"#69# pH 7.0, 28Â°C <73>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.148,phosphoenolpyruvate,Rahnella aquatilis,"#70# mutant G96A, pH 7.0, 28Â°C <72>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.03,phosphoenolpyruvate,Janibacter sp.,#93# at pH 8.0 and 40Â°C <82>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,800.0,phosphoenolpyruvate,Escherichia coli,"#59# C-terminal His6-tagged AroA, 50mM KCl <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,90.0,phosphoenolpyruvate,Escherichia coli,"#59# C-terminal His6-tagged AroA, 100mM KCl <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.01,phosphoenolpyruvate,Escherichia coli,"#59# 50 mM KCl, mutant D313N <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0012,phosphoenolpyruvate,Escherichia coli,"#59# 50 mM KCl, mutant K22R <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.021,phosphoenolpyruvate,Escherichia coli,"#59# 50 mM KCl, mutant E341C <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0009,phosphoenolpyruvate,Escherichia coli,"#59# 50 mM KCl, mutant E341M <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.004,phosphoenolpyruvate,Escherichia coli,"#59# 50 mM KCl, mutant D313A <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.003,phosphoenolpyruvate,Escherichia coli,"#59# 50 mM KCl, mutant H385A <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.02,phosphoenolpyruvate,Escherichia coli,"#59# 50 mM KCl, mutant D313C <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0007,phosphoenolpyruvate,Escherichia coli,"#59# 50 mM KCl, mutant D313L <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.009,phosphoenolpyruvate,Escherichia coli,"#59# 50 mM KCl, mutant E341A <64>;#59# 50 mM KCl, mutant K22A <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,86.0,phosphoenolpyruvate,Escherichia coli,"#59# wild-type AroA, 100 mM KCl <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0013,phosphoenolpyruvate,Escherichia coli,"#59# 50 mM KCl, mutant E341Q <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,930000000.0,phosphoenolpyruvate,Escherichia coli,#59# wild-type <66>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,250000000.0,phosphoenolpyruvate,Escherichia coli,#59# mutant P101S <66>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,23000000.0,phosphoenolpyruvate,Escherichia coli,#59# mutant T97I <66>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,57000000.0,phosphoenolpyruvate,Escherichia coli,#59# mutant P101S/T97I <66>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,115.9,phosphoenolpyruvate,Brucella anthropi,"#66# wild-type, pH 7.0, temperaturenot specified in the publication <69>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,206.7,phosphoenolpyruvate,Brucella anthropi,"#66# mutantE145G/N163H/N267S/P318R/M377V/M425T/P438L, pH 7.0, temperature notspecified in the publication <69>; #66# mutant N267S/P318R/M425T, pH7.0, temperature not specified in the publication <69>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,83.3,phosphoenolpyruvate,Brucella anthropi,"#66# mutant N267S, pH 7.0,temperature not specified in the publication <69>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,109.3,phosphoenolpyruvate,Brucella anthropi,"#66# mutant M425T, pH 7.0,temperature not specified in the publication <69>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,139.8,phosphoenolpyruvate,Brucella anthropi,"#66# mutant P318R, pH 7.0,temperature not specified in the publication <69>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,163.1,phosphoenolpyruvate,Bacillus cereus,"#69# pH 7.0, 28Â°C <73>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.00025,5-enolpyruvylshikimate 3-phosphate,Neurospora crassa,
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0052,5-enolpyruvylshikimate 3-phosphate,Pisum sativum,
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.002,5-enolpyruvylshikimate 3-phosphate,Pseudomonas aeruginosa,"#15# 25Â°C, pH 7.0,wild-type enzyme <53>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,2.2,5-enolpyruvylshikimate 3-phosphate,Pseudomonas aeruginosa,#15# +/-0.5 mM <63>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0025,5-enolpyruvylshikimate 3-phosphate,Pseudomonas aeruginosa,"#15# 25Â°C, pH 7.0,mutant enzyme L104P <53>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0019,5-enolpyruvylshikimate 3-phosphate,Pseudomonas aeruginosa,"#15# 25Â°C, pH 7.0,mutant enzyme G99A <53>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,1.9,5-enolpyruvylshikimate 3-phosphate,Pseudomonas aeruginosa,"#15# +/-0.3 mM, mutantG99A <63>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,2.5,5-enolpyruvylshikimate 3-phosphate,Pseudomonas aeruginosa,"#15# +/-0.4 mM, mutantL104P <63>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.001,5-enolpyruvylshikimate 3-phosphate,Trichormus variabilis,
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.003,5-enolpyruvylshikimate 3-phosphate,Escherichia coli,"#5# recombinantoverproducing strain <4,6>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.011,5-enolpyruvylshikimate 3-phosphate,Escherichia coli,#5# wild-type enzyme<28>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.007,5-enolpyruvylshikimate 3-phosphate,Escherichia coli,#5# H385N mutantenzyme <28>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.00195,5-enolpyruvylshikimate 3-phosphate,Streptococcus pneumoniae,"#51# reversereaction, in the presence of 50 mM KCl <30>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0018,phosphate,Neurospora crassa,
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,4.0,phosphate,Pisum sativum,
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,3.7,phosphate,Pisum sativum,
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0073,phosphate,Pseudomonas aeruginosa,"#15# 25Â°C, pH 7.0, mutant enzyme G99A <53>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,5.6,phosphate,Pseudomonas aeruginosa,#15# +/-1.6 <63>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0056,phosphate,Pseudomonas aeruginosa,"#15# 25Â°C, pH 7.0, wild-type enzyme <53>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,7.3,phosphate,Pseudomonas aeruginosa,"#15# +/-0.7 mM, mutant G99A <63>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0248,phosphate,Pseudomonas aeruginosa,"#15# 25Â°C, pH 7.0, mutant enzyme L104P <53>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,24.8,phosphate,Pseudomonas aeruginosa,"#15# +/-4.8 mM, mutant L104P <63>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,4.6,phosphate,Escherichia coli,#5# wild-type enzyme <28>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,1.2,phosphate,Escherichia coli,#5# H385N mutant enzyme <28>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,2.5,phosphate,Escherichia coli,
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.343,phosphate,Streptococcus pneumoniae,"#51# reverse reaction, in the presence of 50mM KCl <30>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.00036,3-phosphoshikimate,Neurospora crassa,
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.111,3-phosphoshikimate,Isoptericola variabilis,#101# at pH 8.0 and 30Â°C <77>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0077,3-phosphoshikimate,Pisum sativum,
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.045,3-phosphoshikimate,Klebsiella pneumoniae,#19# glyphosate-sensitive enzyme<11>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.193,3-phosphoshikimate,Klebsiella pneumoniae,#19# glyphosate-resistant enzyme<11>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.007,3-phosphoshikimate,Sorghum bicolor,
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.14,3-phosphoshikimate,Staphylococcus aureus,"#3# pH 7.0, recombinant enzyme, inpresence of 100 mM KCl <43>; #59# wild-type AroA, 100 mM KCl <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.14,3-phosphoshikimate,Escherichia coli,"#3# pH 7.0, recombinant enzyme, inpresence of 100 mM KCl <43>; #59# wild-type AroA, 100 mM KCl <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.144,3-phosphoshikimate,Acremonium sp.,#39# at pH 7.0 and 30Â°C <87>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0025,3-phosphoshikimate,Escherichia coli,"#5# recombinant overproducing strain<4,6>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0034000000000000002,3-phosphoshikimate,Escherichia coli,#5# wild-type enzyme <6>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.169,3-phosphoshikimate,Alcanivorax sp.,"#54# wild type enzyme, at pH 7.0 and28Â°C <75>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.706,3-phosphoshikimate,Alcanivorax sp.,"#54# mutant enzyme G100A, at pH 7.0and 28Â°C <75>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.1,3-phosphoshikimate,Escherichia coli,"#59# 50 mM KCl, mutant E341A <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.04,3-phosphoshikimate,Escherichia coli,"#59# 50 mM KCl, mutant E341Q <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.21,3-phosphoshikimate,Escherichia coli,"#59# 50 mM KCl, mutant D313A <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.018,3-phosphoshikimate,Escherichia coli,"#59# C-terminal His6-tagged AroA, 50mM KCl <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.09,3-phosphoshikimate,Escherichia coli,"#59# 50 mM KCl, mutant H385A <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.11,3-phosphoshikimate,Escherichia coli,"#59# C-terminal His6-tagged AroA, 100mM KCl <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.2,3-phosphoshikimate,Escherichia coli,"#59# 50 mM KCl, mutant D313N <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.4,3-phosphoshikimate,Escherichia coli,"#59# 50 mM KCl, mutant D313C <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,2.0,3-phosphoshikimate,Escherichia coli,"#59# 50 mM KCl, mutant K22A value above0.3 <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.19,3-phosphoshikimate,Escherichia coli,"#59# 50 mM KCl, mutant K22R valueabove 0.3 <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.08,3-phosphoshikimate,Escherichia coli,"#59# 50 mM KCl, mutant E341C <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.7,3-phosphoshikimate,Escherichia coli,"#59# 50 mM KCl, mutant D313L <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.071,3-phosphoshikimate,Escherichia coli,#59# mutant P101S <66>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.035,3-phosphoshikimate,Escherichia coli,"#59# 50 mM KCl, mutant E341M <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.048,3-phosphoshikimate,Escherichia coli,#59# wild-type <66>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.077,3-phosphoshikimate,Escherichia coli,#59# mutant P101S/T97I <66>; #59#mutant T97I <66>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.286,3-phosphoshikimate,Halothermothrix orenii,"#67# wild-type, pH 7.0, 28Â°C <70>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.241,3-phosphoshikimate,Halothermothrix orenii,"#67# mutant T355S, pH 7.0, 28Â°C <70>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.275,3-phosphoshikimate,Pseudomonas fluorescens,"#68# pH 7.0, 28Â°C <71>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.304,3-phosphoshikimate,Bacillus cereus,"#69# pH 7.0, 28Â°C <73>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.086,3-phosphoshikimate,Rahnella aquatilis,"#70# wild-type, pH 7.0, 28Â°C <72>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.084,3-phosphoshikimate,Rahnella aquatilis,"#70# mutant G96A, pH 7.0, 28Â°C <72>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.083,3-phosphoshikimate,Janibacter sp.,#93# at pH 8.0 and 40Â°C <82>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.027,3-phosphoshikimate,Escherichia coli,"#59# 50 mM KCl, mutant E341Q <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.06,3-phosphoshikimate,Escherichia coli,"#59# 50 mM KCl, mutant D313A <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.05,3-phosphoshikimate,Escherichia coli,"#59# 50 mM KCl, mutant E341M <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.09,3-phosphoshikimate,Escherichia coli,"#59# 50 mM KCl, mutant D313N <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,1800.0,3-phosphoshikimate,Escherichia coli,"#59# C-terminal His6-tagged AroA, 50mM KCl <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.044,3-phosphoshikimate,Escherichia coli,"#59# 50 mM KCl, mutant E341C <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,4.0,3-phosphoshikimate,Escherichia coli,"#59# 50 mM KCl, mutant H385A <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,150.0,3-phosphoshikimate,Escherichia coli,"#59# C-terminal His6-tagged AroA, 100mM KCl <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.005,3-phosphoshikimate,Escherichia coli,"#59# 50 mM KCl, mutant E341A <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,96.0,3-phosphoshikimate,Escherichia coli,"#59# wild-type AroA, 100 mM KCl <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.0016,3-phosphoshikimate,Escherichia coli,"#59# 50 mM KCl, mutant D313L <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.068,3-phosphoshikimate,Escherichia coli,"#59# 50 mM KCl, mutant D313C <64>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,910000000.0,3-phosphoshikimate,Escherichia coli,#59# wild-type <66>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,240000000.0,3-phosphoshikimate,Escherichia coli,#59# mutant P101S <66>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,120000000.0,3-phosphoshikimate,Escherichia coli,#59# mutant T97I <66>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,74000000.0,3-phosphoshikimate,Escherichia coli,#59# mutant P101S/T97I <66>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.029,shikimate 3-phosphate,Zea mays,#13# isoenzyme II <26>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.033,shikimate 3-phosphate,Zea mays,#13# isoenzyme I <26>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.16,shikimate 3-phosphate,Bacillus subtilis,#4# H385 mutant enzyme <27>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.2,shikimate 3-phosphate,Bacillus subtilis,#4# R24D mutant enzyme <27>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.43,shikimate 3-phosphate,Bacillus subtilis,#4# P105S mutant enzyme <27>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.33,shikimate 3-phosphate,Bacillus subtilis,#4# wild-type enzyme <27>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.02,shikimate 3-phosphate,Escherichia coli,
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.07,shikimate 3-phosphate,Escherichia coli,#5# H385 mutant enzyme <28>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.12,shikimate 3-phosphate,Escherichia coli,#5# wild-type and G96A mutant enzyme<37>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.135,shikimate 3-phosphate,Escherichia coli,#5# wild-type enzyme <28>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.049,shikimate 3-phosphate,Streptococcus pneumoniae,#51# in the presence of 1 mM NH4Cland 10 mM KCl <30>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.031,shikimate 3-phosphate,Streptococcus pneumoniae,#51# in the presence of 100 mMNH4Cl <30>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.145,shikimate 3-phosphate,Streptococcus pneumoniae,#51# in the presence of 1 mM NH4Cl<30>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.118,shikimate 3-phosphate,Streptococcus pneumoniae,#51# in the presence of 10 mMNH4Cl <30>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.109,shikimate 3-phosphate,Streptococcus pneumoniae,#51# in the presence of 1 mM NH4Cland 100 mM KCl <30>
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.06,shikimate 3-phosphate,Escherichia coli,"#59# +/-0.004 mM, mutant P101A<61>; #59# +/-0.006 mM <61>; #59# +/-0.010 mM, mutant P101G <61>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.1,shikimate 3-phosphate,Escherichia coli,"#59# +/-0.007 mM, mutant P101L <61>"
+2.5.1.19,3-phosphoshikimate 1-carboxyvinyltransferase,0.08,shikimate 3-phosphate,Escherichia coli,"#59# +/-0.006 mM, mutant P101S<61>"
+4.2.3.5,Chorismate synthase,0.0127,5-enolpyruvylshikimate 3-phosphate,Staphylococcus aureus,
+4.2.3.5,Chorismate synthase,0.011,5-enolpyruvylshikimate 3-phosphate,Solanum lycopersicum,#10# isozyme MatCS1<20>
+4.2.3.5,Chorismate synthase,0.08,5-enolpyruvylshikimate 3-phosphate,Solanum lycopersicum,#10# isozyme MatCS2<20>
+4.2.3.5,Chorismate synthase,0.047,5-enolpyruvylshikimate 3-phosphate,Capnoides sempervirens,
+4.2.3.5,Chorismate synthase,0.027,5-enolpyruvylshikimate 3-phosphate,Euglena gracilis,
+4.2.3.5,Chorismate synthase,0.0027,5-enolpyruvylshikimate 3-phosphate,Neurospora crassa,#6# wild-type enzyme<42>
+4.2.3.5,Chorismate synthase,0.0127,O5-(1-carboxyvinyl)-3-phosphoshikimate,Staphylococcus aureus,
+4.2.3.5,Chorismate synthase,0.011,O5-(1-carboxyvinyl)-3-phosphoshikimate,Solanum lycopersicum,#10# enzyme formCS1 <32>
+4.2.3.5,Chorismate synthase,0.08,O5-(1-carboxyvinyl)-3-phosphoshikimate,Solanum lycopersicum,#10# enzyme formCS2 <32>
+4.2.3.5,Chorismate synthase,0.053,O5-(1-carboxyvinyl)-3-phosphoshikimate,Capnoides sempervirens,
+4.2.3.5,Chorismate synthase,0.00175,O5-(1-carboxyvinyl)-3-phosphoshikimate,Escherichia coli,
+4.2.3.5,Chorismate synthase,0.00485,O5-(1-carboxyvinyl)-3-phosphoshikimate,Neurospora crassa,
+4.2.3.5,Chorismate synthase,0.0097,O5-(1-carboxyvinyl)-3-phosphoshikimate,Saccharomyces cerevisiae,
+4.2.3.5,Chorismate synthase,0.027,O5-(1-carboxyvinyl)-3-phosphoshikimate,Euglena gracilis,
+4.2.3.5,Chorismate synthase,0.11,NADPH,Neurospora crassa,"#6# FMN:NADPH oxidoreductase activity, mutant enzymeH17A <29>"
+4.2.3.5,Chorismate synthase,0.28,NADPH,Neurospora crassa,"#6# FMN:NADPH oxidoreductase activity, mutant enzymeH106A <29>"
+4.2.3.5,Chorismate synthase,0.043,NADPH,Neurospora crassa,"#6# FMN:NADPH oxidoreductase activity, wild-typeenzyme <29>"

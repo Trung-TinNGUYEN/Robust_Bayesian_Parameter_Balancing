@@ -1,0 +1,916 @@
+ec_code,name,KM,substrate,species,metadata
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.001,NADP+,Rattus norvegicus,#10# hepatic enzyme <32>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0003,NADP+,Rattus norvegicus,#10# nephridic enzyme <32>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.023,NADP+,Rattus norvegicus,"#10# pH 7.4, 37Â°C <54>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.06,NADP+,Bos taurus,"#13# isoform G6PD1, at pH 8.0, temperature notspecified in the publication <146>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.059,NADP+,Bos taurus,"#13# isoform G6PD1, at pH 8.0, temperature notspecified in the publication <146>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0056,NADP+,Bos taurus,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),1.2e-05,NADP+,Ovis aries,"#17# pH 8.0, 25Â°C <47>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0147,NADP+,Ovis aries,"#17# pH 7.4, 37Â°C <61>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.026,NADP+,Aspergillus niger,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.009,NADP+,Hordeum vulgare,#19# 25Â°C <52>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0066,NADP+,Hordeum vulgare,"#19# native enzyme, pH and temperature notspecified in the publication <144>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.017,NADP+,Meleagris gallopavo,"#10# 0.0025 mM glucose 6-phosphate <36>; #2#pH 8.0, 25Â°C <45>; #75# mutant enzyme K84A, at pH 7.5 and 25Â°C <142>;#75# mutant enzyme R408A, at pH 7.5 and 25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.017,NADP+,Trypanosoma cruzi,"#10# 0.0025 mM glucose 6-phosphate <36>; #2#pH 8.0, 25Â°C <45>; #75# mutant enzyme K84A, at pH 7.5 and 25Â°C <142>;#75# mutant enzyme R408A, at pH 7.5 and 25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.017,NADP+,Rattus norvegicus,"#10# 0.0025 mM glucose 6-phosphate <36>; #2#pH 8.0, 25Â°C <45>; #75# mutant enzyme K84A, at pH 7.5 and 25Â°C <142>;#75# mutant enzyme R408A, at pH 7.5 and 25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.041,NADP+,Nicotiana tabacum,#23# G6PDH activity extracted from source leavesof wild-type tobacco SNN cultivars <106>; #23# G6PDH activity extractedfrom source leaves of wild-type tobacco Xanthi cultivars <106>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0094,NADP+,Trypanosoma brucei,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0053,NADP+,Trypanosoma brucei,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.011,NADP+,Dictyostelium discoideum,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.01,NADP+,Canis lupus familiaris,"#32# pH 7.4, 37Â°C, with D-glucose 6-phosphate or2-deoxy-D-glucose 6-phosphate <46>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0225,NADP+,Zymomonas mobilis subsp. mobilis,"#38# pH 7.6, temperature not specified in thepublication <114>; #82# mutant enzyme A117S/Q324H/M381I/V443I/S470I, pH7.5, 30Â°C <151>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0225,NADP+,Trypanosoma cruzi,"#38# pH 7.6, temperature not specified in thepublication <114>; #82# mutant enzyme A117S/Q324H/M381I/V443I/S470I, pH7.5, 30Â°C <151>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),1.98,NADP+,Meyerozyma guilliermondii,"#39# purified enzyme, at pH 7.5 and 70Â°C <131>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0086,NADP+,Plasmodium falciparum,"#43# pH 7.5, temperature not specified in thepublication <129>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0121,NADP+,Leishmania mexicana,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0016,NADP+,Cryptococcus neoformans,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.081,NADP+,Camelus dromedarius,#53# at pH 8.0 temperature not specified in thepublication <135>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.08,NADP+,Thermotoga maritima,"#54# pH 7.8, 85Â°C, recombinant enzyme <40>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.116,NADP+,Coriandrum sativum,"#56# pH 8.5, 30Â°C <49>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.006,NADP+,Aspergillus aculeatus,#59# pH 7.5 <64>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.067,NADP+,Cyberlindnera jadinii,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0013,NADP+,Taenia crassiceps,"#63# 25Â°C, pH 7.8 <85>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.024,NADP+,Zymomonas mobilis subsp. mobilis,"#82# mutant enzyme A117S/Q324H/V443I/S470I, pH7.5, 30Â°C <151>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.024,NADP+,Arabidopsis thaliana,"#82# mutant enzyme A117S/Q324H/V443I/S470I, pH7.5, 30Â°C <151>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),4.8,NADP+,Homo sapiens,"#69# 25Â°C, pH 8.0, mutant enzyme G163D <84>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0072,NADP+,Homo sapiens,#69# at pH 8.0 and 37Â°C <141>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),4.67,NADP+,Homo sapiens,"#69# 25Â°C, pH 8.0, wild-type enzyme <84>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),6.46,NADP+,Homo sapiens,"#69# 25Â°C, pH 8.0, mutant enzyme G163S <84>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.021,NADP+,Trypanosoma cruzi,"#75# mutant enzyme K83A, at pH 7.5 and 25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.075,NADP+,Trypanosoma cruzi,"#75# mutant enzyme L80G, at pH 7.5 and 25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.077,NADP+,Koliella antarctica,"#76# pH 8.0, 25Â°C <120>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0474,NADP+,Trypanosoma cruzi,#78# pH and temperature not specified in thepublication <136>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0075,NADP+,Escherichia coli,"#8# 25Â°C, pH 8.0 <121>; #8# wild type enzyme, atpH 8.2 and 25Â°C <145>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.099,NADP+,Escherichia coli,"#8# mutant enzyme K18A, at pH 8.2 and 25Â°C <145>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.382,NADP+,Escherichia coli,"#8# mutant enzyme R50A, at pH 8.2 and 25Â°C <145>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),17.7,NADP+,Escherichia coli,"#8# mutant enzyme K18A/R50A, at pH 8.2 and 25Â°C<145>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.015,NADP+,Escherichia coli,"#8# pH 8.0, temperature not specified in thepublication <123>; #8# 25Â°C, pH 8.0, high-level glucose-6-phosphatedehydrogenase strain DF82 <122>; #19# recombinant His-tagged enzyme, pHand temperature not specified in the publication <144>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.015,NADP+,Hordeum vulgare,"#8# pH 8.0, temperature not specified in thepublication <123>; #8# 25Â°C, pH 8.0, high-level glucose-6-phosphatedehydrogenase strain DF82 <122>; #19# recombinant His-tagged enzyme, pHand temperature not specified in the publication <144>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.016,NADP+,Trypanosoma cruzi,"#75# wild type enzyme, at pH 7.5 and 25Â°C <142>;#8# 25Â°C, pH 8.0, wild-type strain K-10 <122>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.016,NADP+,Escherichia coli,"#75# wild type enzyme, at pH 7.5 and 25Â°C <142>;#8# 25Â°C, pH 8.0, wild-type strain K-10 <122>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0143,NADP+,Zymomonas mobilis subsp. mobilis,"#82# wild-type enzyme, pH 7.5, 30Â°C <151>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0199,NADP+,Zymomonas mobilis subsp. mobilis,"#82# mutant enzymeA117S/F277I/Q324H/M381I/V443I/S470I, pH 7.5, 30Â°C <151>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0159,NADP+,Zymomonas mobilis subsp. mobilis,"#82# mutant enzymeL99I/A117S/G225S/F277I/Q324H/M381I/V443I/S470I/A476V, pH 7.5, 30Â°C<151>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.013,NADP+,Homo sapiens,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.21,NADP+,Homo sapiens,"#9# pH 8.0, 25, wild-type enzyme <48>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.02,NADP+,Homo sapiens,#9# with D-glucose 6-phosphate or D-galactose6-phosphate <38>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.025,NADP+,Homo sapiens,"#9# isoenzyme II, with 6-phosphonogluconate 0.1 mM<39>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.07,NADP+,Homo sapiens,"#9# pH 8.0, 25, mutant enzyme 2 <48>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.085,NADP+,Homo sapiens,"#9# pH 8.0, 25, mutant enzyme 3 <48>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.13,NADP+,Homo sapiens,"#9# pH 8.0, 25, mutant enzyme 1 <48>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0093,NADP+,Homo sapiens,"#9# pH 8.0, 25Â°C, recombinant mutant R393G <58>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0071,NADP+,Homo sapiens,"#9# pH 8.0, 25Â°C, recombinant wild-type enzyme<58>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0165,NADP+,Homo sapiens,"#9# pH 8.0, 25Â°C, recombinant mutant R393H <58>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0118,NADP+,Homo sapiens,#9# clinical mutant G488S <94>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0107,NADP+,Homo sapiens,#9# clinical mutant G488V <94>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.00707,NADP+,Homo sapiens,"#9# pH 8.0, 25Â°C, recombinant wild-type enzyme,with D-glucose 6-phosphate <63>; #9# native G6PD <96>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.00694,NADP+,Homo sapiens,#9# refolded G6PD <96>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.00238,NADP+,Homo sapiens,"#9# pH 8.0, 25Â°C, recombinant mutant R454H, withD-glucose 6-phosphate <63>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.00276,NADP+,Homo sapiens,"#9# pH 8.0, 25Â°C, recombinant mutant R454C, withD-glucose 6-phosphate <63>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.00839,NADP+,Homo sapiens,"#9# pH 8.0, 25Â°C, recombinant mutant R454C, withdeoxy-D-glucose 6-phosphate <63>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.007,NADP+,Sus scrofa,"#9,11# isoenzymes I and II, with glucose6-phosphate <39>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.007,NADP+,Homo sapiens,"#9,11# isoenzymes I and II, with glucose6-phosphate <39>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.03,NADP+,Thermotoga maritima,"#9# with 2-deoxyglucose 6-phosphate, KMdecreases to 10 mM with increasing substrate concentration from 0.3 to1.5 mM <38>; #54# pH 7.4, 80Â°C, recombinant enzyme <44>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.03,NADP+,Aspergillus nidulans,"#9# with 2-deoxyglucose 6-phosphate, KMdecreases to 10 mM with increasing substrate concentration from 0.3 to1.5 mM <38>; #54# pH 7.4, 80Â°C, recombinant enzyme <44>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.03,NADP+,Homo sapiens,"#9# with 2-deoxyglucose 6-phosphate, KMdecreases to 10 mM with increasing substrate concentration from 0.3 to1.5 mM <38>; #54# pH 7.4, 80Â°C, recombinant enzyme <44>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.012,NADP+,Neurospora crassa,#9# recombinant from E. coli <27>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.012,NADP+,Homo sapiens,#9# recombinant from E. coli <27>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),34300.0,NADP+,Homo sapiens,#69# at pH 8.0 and 37Â°C <141>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),3400.0,NADP+,Trypanosoma cruzi,"#75# mutant enzyme K84A, at pH 7.5 and 25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),140.0,NADP+,Trypanosoma cruzi,"#75# mutant enzyme K83A, at pH 7.5 and 25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),36.0,NADP+,Trypanosoma cruzi,"#75# mutant enzyme L80G, at pH 7.5 and 25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),1100.0,NADP+,Trypanosoma cruzi,"#75# mutant enzyme R408A, at pH 7.5 and 25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),3200.0,NADP+,Trypanosoma cruzi,"#75# wild type enzyme, at pH 7.5 and 25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.001,NADP+,Escherichia coli,"#8# mutant enzyme K18A/R50A, at pH 8.2 and 25Â°C<145>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),1400.0,NADP+,Escherichia coli,"#8# mutant enzyme K18A, at pH 8.2 and 25Â°C <145>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),500.0,NADP+,Escherichia coli,"#8# mutant enzyme R50A, at pH 8.2 and 25Â°C <145>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),23200.0,NADP+,Escherichia coli,"#8# 25Â°C, pH 8.0 <121>; #8# wild type enzyme, at pH8.2 and 25Â°C <145>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),23200.0,NADP+,Escherichia coli,"#8# 25Â°C, pH 8.0 <121>; #8# wild type enzyme, at pH8.2 and 25Â°C <145>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0033,D-glucose 6-phosphate,Rattus norvegicus,#10# hepatic enzyme <32>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.2,D-glucose 6-phosphate,Rattus norvegicus,"#10# 22Â°C, normal liver parenchyma<50>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0021,D-glucose 6-phosphate,Rattus norvegicus,#10# nephridic enzyme <32>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),1.9,D-glucose 6-phosphate,Rattus norvegicus,"#10# 22Â°C, liver (pre)neoplasticlesions <50>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.056,D-glucose 6-phosphate,Sus scrofa,#11# isoenzyme II <39>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.167,D-glucose 6-phosphate,Sus scrofa,#11# isoenzyme I <39>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.042,D-glucose 6-phosphate,Bos taurus,#13# cosubstrate NADP+ <6>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.092,D-glucose 6-phosphate,Aspergillus nidulans,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.037,D-glucose 6-phosphate,Neurospora crassa,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.036,D-glucose 6-phosphate,Ovis aries,"#17# pH 8.0, 25Â°C <47>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.041,D-glucose 6-phosphate,Ovis aries,"#17# pH 7.4, 37Â°C <61>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.153,D-glucose 6-phosphate,Aspergillus niger,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.78,D-glucose 6-phosphate,Hordeum vulgare,"#19# native enzyme, pH andtemperature not specified in the publication <144>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.86,D-glucose 6-phosphate,Hordeum vulgare,"#19# recombinant His-tagged enzyme,pH and temperature not specified in the publication <144>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.96,D-glucose 6-phosphate,Hordeum vulgare,#19# 25Â°C <52>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.05,D-glucose 6-phosphate,Meleagris gallopavo,"#2# pH 8.0, 25Â°C <45>; #39#purified enzyme, at pH 7.5 and 70Â°C <131>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.05,D-glucose 6-phosphate,Meyerozyma guilliermondii,"#2# pH 8.0, 25Â°C <45>; #39#purified enzyme, at pH 7.5 and 70Â°C <131>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.1073,D-glucose 6-phosphate,Pisum sativum,"#20# pH 7.6, 25Â°C <55>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.25,D-glucose 6-phosphate,Nicotiana tabacum,#23# G6PDH activity extracted fromsource leaves of wild-type tobacco Xanthi cultivars <106>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.24,D-glucose 6-phosphate,Nicotiana tabacum,#23# G6PDH activity extracted fromsource leaves of wild-type tobacco SNN cultivars <106>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.138,D-glucose 6-phosphate,Trypanosoma brucei,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0578,D-glucose 6-phosphate,Trypanosoma brucei,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.122,D-glucose 6-phosphate,Canis lupus familiaris,"#32# pH 7.4, 37Â°C, with NADP+ ordeamino-NADP+ <46>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.206,D-glucose 6-phosphate,Trypanosoma cruzi,"#38# pH 7.6, temperature notspecified in the publication <114>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0145,D-glucose 6-phosphate,Plasmodium falciparum,"#43# pH 7.5, temperature notspecified in the publication <129>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0745,D-glucose 6-phosphate,Leishmania mexicana,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.024,D-glucose 6-phosphate,Cryptococcus neoformans,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.019,D-glucose 6-phosphate,Thermotoga maritima,"#54# pH 7.8, 85Â°C, recombinantenzyme <40>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.026,D-glucose 6-phosphate,Coriandrum sativum,"#56# pH 8.5, 30Â°C <49>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.075,D-glucose 6-phosphate,Aspergillus aculeatus,#59# pH 7.5 <64>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.23,D-glucose 6-phosphate,Cyberlindnera jadinii,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.063,D-glucose 6-phosphate,Aquifex aeolicus,"#60# 70Â°C, recombinant enzyme,with NADP+ <43>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.014,D-glucose 6-phosphate,Taenia crassiceps,"#63# 25Â°C, pH 7.8 <85>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.57,D-glucose 6-phosphate,Arabidopsis thaliana,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),44.4,D-glucose 6-phosphate,Homo sapiens,"#69# 25Â°C, pH 8.0, mutant enzymeG163D <84>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0478,D-glucose 6-phosphate,Homo sapiens,#69# at pH 8.0 and 37Â°C <141>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),45.8,D-glucose 6-phosphate,Homo sapiens,"#69# 25Â°C, pH 8.0, wild-type enzyme<84>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),50.7,D-glucose 6-phosphate,Homo sapiens,"#69# 25Â°C, pH 8.0, mutant enzymeG163S <84>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.168,D-glucose 6-phosphate,Trypanosoma cruzi,"#75# mutant enzyme R408A, at pH7.5 and 25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.074,D-glucose 6-phosphate,Trypanosoma cruzi,"#75# mutant enzyme L80G, at pH 7.5and 25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.537,D-glucose 6-phosphate,Trypanosoma cruzi,"#75# mutant enzyme K83A, at pH 7.5and 25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.618,D-glucose 6-phosphate,Trypanosoma cruzi,"#75# mutant enzyme K84A, at pH 7.5and 25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.44,D-glucose 6-phosphate,Koliella antarctica,"#76# pH 8.0, 25Â°C <120>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.21,D-glucose 6-phosphate,Trypanosoma cruzi,#78# pH and temperature notspecified in the publication <136>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.1,D-glucose 6-phosphate,Escherichia coli,"#8# 25Â°C, pH 8.0, wild-type strainK-10 <122>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.145,D-glucose 6-phosphate,Escherichia coli,"#8# 25Â°C, pH 8.0, high-levelglucose-6-phosphate dehydrogenase strain DF82 <122>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.174,D-glucose 6-phosphate,Escherichia coli,"#8# 25Â°C, pH 8.0, cofactor: NADP+<121>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),1.25,D-glucose 6-phosphate,Escherichia coli,"#8# 25Â°C, pH 8.0, cofactor: NAD+<121>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.07,D-glucose 6-phosphate,Rattus norvegicus,"#10# pH 7.4, 37Â°C <54>; #8# pH8.0, temperature not specified in the publication <123>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.07,D-glucose 6-phosphate,Escherichia coli,"#10# pH 7.4, 37Â°C <54>; #8# pH8.0, temperature not specified in the publication <123>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.073,D-glucose 6-phosphate,Zymomonas mobilis subsp. mobilis,"#82# mutant enzymeA117S/F277I/Q324H/M381I/V443I/S470I, pH 7.5, 30Â°C <151>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.081,D-glucose 6-phosphate,Zymomonas mobilis subsp. mobilis,"#82# mutant enzymeL99I/A117S/G225S/F277I/Q324H/M381I/V443I/S470I/A476V, pH 7.5, 30Â°C<151>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.151,D-glucose 6-phosphate,Zymomonas mobilis subsp. mobilis,"#82# mutant enzymeA117S/Q324H/V443I/S470I, pH 7.5, 30Â°C <151>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0078,D-glucose 6-phosphate,Zymomonas mobilis subsp. mobilis,"#82# wild-type enzyme, pH 7.5,30Â°C <151>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.099,D-glucose 6-phosphate,Zymomonas mobilis subsp. mobilis,"#82# mutant enzymeA117S/Q324H/M381I/V443I/S470I, pH 7.5, 30Â°C <151>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.083,D-glucose 6-phosphate,Homo sapiens,"#9# pH 8.0, 37Â°C, recombinantwild-type enzyme <41>; #9# pH 8.0, 25, mutant 3 <48>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.18,D-glucose 6-phosphate,Homo sapiens,#9# isoenzyme II <39>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.5,D-glucose 6-phosphate,Homo sapiens,"#9# pH 8.0, 25, wild-type enzyme<48>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.067,D-glucose 6-phosphate,Homo sapiens,"#9# pH 8.0, 25Â°C, recombinantmutant R393G <58>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.19,D-glucose 6-phosphate,Homo sapiens,"#9# pH 8.0, 25Â°C, recombinant mutantR393H <58>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.048,D-glucose 6-phosphate,Homo sapiens,"#9# pH 8.0, 25, mutant 2 <48>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.061,D-glucose 6-phosphate,Homo sapiens,#9# isoenzyme I <39>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.286,D-glucose 6-phosphate,Homo sapiens,"#9# pH 8.0, 37Â°C, recombinantmutant P409R <41>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.052,D-glucose 6-phosphate,Homo sapiens,"#9# pH 8.0, 25Â°C, recombinantwild-type enzyme <58>; #9# pH 8.0, 25Â°C, recombinant wild-type enzyme,with NADP+ <63>; #9# native G6PD <96>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.072,D-glucose 6-phosphate,Homo sapiens,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.069,D-glucose 6-phosphate,Homo sapiens,#9# recombinant from E. coli <27>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0538,D-glucose 6-phosphate,Homo sapiens,#9# clinical mutant G488V <94>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0491,D-glucose 6-phosphate,Homo sapiens,#9# clinical mutant G488S <94>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0547,D-glucose 6-phosphate,Homo sapiens,#9# refolded G6PD <96>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0488,D-glucose 6-phosphate,Homo sapiens,"#9# pH 8.0, 25Â°C, recombinantmutant R454C, with deamino-NADP+ <63>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.00953,D-glucose 6-phosphate,Homo sapiens,"#9# pH 8.0, 25Â°C, recombinantmutant R454C, with NADP+ <63>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.00971,D-glucose 6-phosphate,Homo sapiens,"#9# pH 8.0, 25Â°C, recombinantmutant R454H, with NADP+ <63>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.04,D-glucose 6-phosphate,Rattus norvegicus,"#10# 22Â°C, liver extralesionalparenchyma <50>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.04,D-glucose 6-phosphate,Dictyostelium discoideum,"#10# 22Â°C, liver extralesionalparenchyma <50>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.04,D-glucose 6-phosphate,Homo sapiens,"#10# 22Â°C, liver extralesionalparenchyma <50>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.15,D-glucose 6-phosphate,Thermotoga maritima,"#54# pH 7.4, 80Â°C, recombinantenzyme <44>; #9# pH 8.0, 25, mutant 1 <48>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.15,D-glucose 6-phosphate,Homo sapiens,"#54# pH 7.4, 80Â°C, recombinantenzyme <44>; #9# pH 8.0, 25, mutant 1 <48>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.077,D-glucose 6-phosphate,Trypanosoma cruzi,"#9# pH 8.0, 37Â°C, nativewild-type enzyme <41>; #75# wild type enzyme, at pH 7.5 and 25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.077,D-glucose 6-phosphate,Homo sapiens,"#9# pH 8.0, 37Â°C, nativewild-type enzyme <41>; #75# wild type enzyme, at pH 7.5 and 25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),5200.0,D-glucose 6-phosphate,Homo sapiens,#69# at pH 8.0 and 37Â°C <141>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),800.0,D-glucose 6-phosphate,Trypanosoma cruzi,"#75# wild type enzyme, at pH 7.5 and25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),5.0,D-glucose 6-phosphate,Trypanosoma cruzi,"#75# mutant enzyme K83A, at pH 7.5 and25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),40.0,D-glucose 6-phosphate,Trypanosoma cruzi,"#75# mutant enzyme K84A, at pH 7.5and 25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),89.0,D-glucose 6-phosphate,Trypanosoma cruzi,"#75# mutant enzyme R408A, at pH 7.5and 25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),27.0,D-glucose 6-phosphate,Trypanosoma cruzi,"#75# mutant enzyme L80G, at pH 7.5and 25Â°C <142>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.023,NADPH,Sus scrofa,"#11# isoenzyme II, with 6-phosphonogluconate 0.1mM <39>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.02,NADPH,Aspergillus nidulans,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.015,NADPH,Homo sapiens,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.014,NADPH,Homo sapiens,#9# recombinant from E. coli <27>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.051,D-galactose 6-phosphate,Sus scrofa,#11# isoenzyme II <39>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.031,D-galactose 6-phosphate,Homo sapiens,#9# isoenzyme II <39>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0465,D-galactose 6-phosphate,Sus scrofa,"#9,11# isoenzyme I <39>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0465,D-galactose 6-phosphate,Homo sapiens,"#9,11# isoenzyme I <39>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.279,6-phosphonogluconate,Sus scrofa,#11# isoenzyme II <39>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.864,6-phosphonogluconate,Homo sapiens,#9# isoenzyme II <39>
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.047,NAD+,Bos taurus,
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),12.0,NAD+,Thermotoga maritima,"#54# pH 7.4, 80Â°C, recombinant enzyme <44>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),1.67,NAD+,Escherichia coli,"#8# 25Â°C, pH 8.0 <122>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),5.09,NAD+,Escherichia coli,"#8# 25Â°C, pH 8.0 <121>; #8# wild type enzyme, at pH8.2 and 25Â°C <145>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),2.477,NAD+,Escherichia coli,"#8# mutant enzyme K18A, at pH 8.2 and 25Â°C <145>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),14.66,NAD+,Escherichia coli,"#8# mutant enzyme R50A, at pH 8.2 and 25Â°C <145>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),11.74,NAD+,Escherichia coli,"#8# mutant enzyme K18A/R50A, at pH 8.2 and 25Â°C<145>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.04,NAD+,Escherichia coli,"#8# mutant enzyme K18A, at pH 8.2 and 25Â°C <145>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.001,NAD+,Escherichia coli,"#8# mutant enzyme K18A/R50A, at pH 8.2 and 25Â°C<145>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.06,NAD+,Escherichia coli,"#8# wild type enzyme, at pH 8.2 and 25Â°C <145>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.01,NAD+,Escherichia coli,"#8# mutant enzyme R50A, at pH 8.2 and 25Â°C <145>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),56.0,NAD+,Escherichia coli,"#8# 25Â°C, pH 8.0 <121>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),24.0,2-deoxy-D-glucose 6-phosphate,Canis lupus familiaris,"#32# pH 7.4, 37Â°C, with NADP+<46>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),35.0,2-deoxy-D-glucose 6-phosphate,Thermotoga maritima,"#54# pH 7.4, 80Â°C,recombinant enzyme <44>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.374,2-deoxy-D-glucose 6-phosphate,Homo sapiens,"#9# pH 8.0, 25Â°C,recombinant mutant R454C, with NADP+ <63>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),2.5,deamino-NADP+,Canis lupus familiaris,"#32# pH 7.4, 37Â°C, with D-glucose6-phosphate <46>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.0156,deamino-NADP+,Homo sapiens,"#9# pH 8.0, 25Â°C, recombinant mutantR454C, with D-glucose 6-phosphate <63>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),0.06,thio-NADP+,Thermotoga maritima,"#54# pH 7.4, 80Â°C, recombinant enzyme <44>"
+1.1.1.49,Glucose-6-phosphate dehydrogenase (nadp+),1.5,thio-NAD+,Thermotoga maritima,"#54# pH 7.4, 80Â°C, recombinant enzyme <44>"
+3.1.1.31,6-phosphogluconolactonase,0.09,"6-phospho-D-glucono-1,5-lactone",Dicentrarchus labrax,#14# in situ <12>
+3.1.1.31,6-phosphogluconolactonase,0.08,"6-phospho-D-glucono-1,5-lactone",Rattus norvegicus,#4# in situ <5>
+3.1.1.31,6-phosphogluconolactonase,0.7,"6-phospho-D-glucono-1,5-lactone",Bos taurus,"#6# synthetic6-phosphogluconolactone, pH 6.5 <6>"
+3.1.1.31,6-phosphogluconolactonase,0.83,"6-phospho-D-glucono-1,5-lactone",Bos taurus,"#6# synthetic6-phosphogluconolactone, pH 7.4 <6,10>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.023,6-phosphogluconate,Homo sapiens,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.02,6-phosphogluconate,Geobacillus stearothermophilus,#15# 43Â°C <13>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.02,6-phosphogluconate,Homo sapiens,#15# 43Â°C <13>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.157,6-phosphogluconate,Rattus norvegicus,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0135,6-phosphogluconate,Sus scrofa,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.068,6-phosphogluconate,Saccharomyces cerevisiae,#13# pH 5.93 <54>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",3.13,6-phosphogluconate,Saccharomyces cerevisiae,#13# pH 9.03 <54>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.153,6-phosphogluconate,Saccharomyces cerevisiae,#13# pH 8.0 <54>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.022,6-phosphogluconate,Geobacillus stearothermophilus,#15# 45Â°C <13>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.014,6-phosphogluconate,Geobacillus stearothermophilus,#15# 60Â°C or 65Â°C <13>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.05,6-phosphogluconate,Neurospora crassa,"#17# 50 mM Tris-acetate, 20 mMMgCl2, KCl, pH 7.7 <6>; #16# heterocaryon col-10-wild-type <9>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.05,6-phosphogluconate,Geobacillus stearothermophilus,"#17# 50 mM Tris-acetate, 20 mMMgCl2, KCl, pH 7.7 <6>; #16# heterocaryon col-10-wild-type <9>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.05,6-phosphogluconate,Ovis aries,"#17# 50 mM Tris-acetate, 20 mMMgCl2, KCl, pH 7.7 <6>; #16# heterocaryon col-10-wild-type <9>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.016,6-phosphogluconate,Geobacillus stearothermophilus,#15# 30Â°C <13>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.016,6-phosphogluconate,Ovis aries,#15# 30Â°C <13>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.06,6-phosphogluconate,Neurospora crassa,#16# col-3-col-10 <9>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.01,6-phosphogluconate,Neurospora crassa,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.045,6-phosphogluconate,Neurospora crassa,#16# heterocaryon col-3-wild-type<9>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.11,6-phosphogluconate,Neurospora crassa,#16# mutant col 10 <9>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.11,6-phosphogluconate,Arthrobacter globiformis,#16# mutant col 10 <9>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.11,6-phosphogluconate,Corylus avellana,#16# mutant col 10 <9>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.09,6-phosphogluconate,Neurospora crassa,#16# mutant col 3 <9>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.09,6-phosphogluconate,Synechococcus sp.,#16# mutant col 3 <9>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.29,6-phosphogluconate,Ovis aries,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0161,6-phosphogluconate,Ovis aries,"#17# 50 mM Tris-acetate, pH 7.7 <6>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0069,6-phosphogluconate,Ovis aries,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.043,6-phosphogluconate,Ovis aries,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0227,6-phosphogluconate,Ovis aries,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0149,6-phosphogluconate,Ovis aries,"#17# 50 mM Tris-acetate, 5-10 mMMgCl2, pH 7.7 <6>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0167,6-phosphogluconate,Ovis aries,"#17# 10 mM Tris-acetate, 80 mM KCl,pH 7.7 <6>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0413,6-phosphogluconate,Ovis aries,"#17# 10 mM Tris-acetate, pH 7.7 <6>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.313,6-phosphogluconate,Ovis aries,#17# 23.5Â°C <60>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.015,6-phosphogluconate,Catharanthus roseus,#50# cytosolic isoenzyme <67>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.015,6-phosphogluconate,Ovis aries,#50# cytosolic isoenzyme <67>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.1,6-phosphogluconate,Spinacia oleracea,#18# isoenzyme 1 <5>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.08,6-phosphogluconate,Spinacia oleracea,#18# isoenzyme 2 <5>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0343,6-phosphogluconate,Gallus gallus,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.109,6-phosphogluconate,Glycine max,#22# plastid isoenzyme <67>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.098,6-phosphogluconate,Glycine max,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.035,6-phosphogluconate,Trypanosoma brucei,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.04,6-phosphogluconate,Dictyostelium discoideum,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.04,6-phosphogluconate,Synechococcus sp.,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.024,6-phosphogluconate,Enterococcus faecalis,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.011,6-phosphogluconate,[Candida] boidinii,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.045,6-phosphogluconate,[Brevibacterium] flavum,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.034,6-phosphogluconate,Corynebacterium glutamicum,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.012,6-phosphogluconate,Ricinus communis,#35# cytosolic isoenzyme <34>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0096,6-phosphogluconate,Ricinus communis,#35# proplastid isoenzyme <34>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.007,6-phosphogluconate,Vigna radiata,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.006,6-phosphogluconate,Daucus carota,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.065,6-phosphogluconate,Beta vulgaris,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.018,6-phosphogluconate,Catharanthus roseus,#50# plastid isoenzyme <67>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.02666,6-phosphogluconate,Dicentrarchus labrax,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.402,6-phosphogluconate,Avena fatua,#58# source endosperm <40>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.036,6-phosphogluconate,Phormidium sp.,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0068,6-phosphogluconate,Cyberlindnera jadinii,#7# pH 10 <70>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.22,6-phosphogluconate,Cyberlindnera jadinii,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.085,6-phosphogluconate,Cyberlindnera jadinii,#7# pH 8 <70>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.031,6-phosphogluconate,Cyberlindnera jadinii,#7# type II <23>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.052,6-phosphogluconate,Cyberlindnera jadinii,#7# type I <23>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.64,6-phosphogluconate,Cyberlindnera jadinii,#7# pH 9.5 <70>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.204,6-phosphogluconate,Cyberlindnera jadinii,#7# pH 9 <70>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.071,6-phosphogluconate,Rattus norvegicus,#7# pH 7 <70>; #58# sourceembryo <40>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.071,6-phosphogluconate,Avena fatua,#7# pH 7 <70>; #58# sourceembryo <40>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.071,6-phosphogluconate,Cyberlindnera jadinii,#7# pH 7 <70>; #58# sourceembryo <40>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.054,6-phosphogluconate,Oryctolagus cuniculus,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.054,6-phosphogluconate,Cyberlindnera jadinii,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.082,2-deoxy-3-oxo-6-phosphogluconate,Homo sapiens,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",1.42,2-deoxy-3-oxo-6-phosphogluconate,Ovis aries,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0096,2-deoxy-3-oxo-6-phosphogluconate,Trypanosoma brucei,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.03,NADP+,Neurospora crassa,#16# mutant col-3 <9>; #16# source of enzyme:whole cells <8>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.03,NADP+,Homo sapiens,#16# mutant col-3 <9>; #16# source of enzyme:whole cells <8>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.03,NADP+,Ovis aries,#16# mutant col-3 <9>; #16# source of enzyme:whole cells <8>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.053,NADP+,Rattus norvegicus,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.258,NADP+,Rattus norvegicus,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.013,NADP+,Phormidium sp.,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.013,NADP+,Rattus norvegicus,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.013,NADP+,[Candida] boidinii,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.031,NADP+,Saccharomyces cerevisiae,#13# pH 9.03 <54>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.033,NADP+,Neurospora crassa,#16# source of enzyme: peak II <8>; #13# pH5.93 <54>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.033,NADP+,Saccharomyces cerevisiae,#16# source of enzyme: peak II <8>; #13# pH5.93 <54>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.033,NADP+,Geobacillus stearothermophilus,#16# source of enzyme: peak II <8>; #13# pH5.93 <54>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.023,NADP+,Oryctolagus cuniculus,#19# plastid isoenzyme <67>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.023,NADP+,Pisum sativum,#19# plastid isoenzyme <67>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.021,NADP+,Geobacillus stearothermophilus,#15# 45Â°C <13>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0034,NADP+,Geobacillus stearothermophilus,"#15# free enzyme, at pH 7.5 and 25Â°C <132>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.015,NADP+,Neurospora crassa,"#16# heterocaryon col 3-wild-type <9>;#15# 65Â°C <13>; #94# pH 7.3, 32Â°C, mutant enzyme S42T <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.015,NADP+,Enterococcus faecalis,"#16# heterocaryon col 3-wild-type <9>;#15# 65Â°C <13>; #94# pH 7.3, 32Â°C, mutant enzyme S42T <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.015,NADP+,Synechocystis sp.,"#16# heterocaryon col 3-wild-type <9>;#15# 65Â°C <13>; #94# pH 7.3, 32Â°C, mutant enzyme S42T <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.015,NADP+,Geobacillus stearothermophilus,"#16# heterocaryon col 3-wild-type <9>;#15# 65Â°C <13>; #94# pH 7.3, 32Â°C, mutant enzyme S42T <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.011,NADP+,Catharanthus roseus,#15# 60Â°C <13>; #50# plastid isoenzyme <67>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.011,NADP+,Geobacillus stearothermophilus,#15# 60Â°C <13>; #50# plastid isoenzyme <67>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.011,NADP+,Pisum sativum,#15# 60Â°C <13>; #50# plastid isoenzyme <67>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.017,NADP+,Corynebacterium glutamicum,#15# 30Â°C <13>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.017,NADP+,Geobacillus stearothermophilus,#15# 30Â°C <13>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.01,NADP+,Neurospora crassa,"#16# wild-type, mutant col 10,heterocaryon col-10-wild-type <9>; #52# in 50 mM HEPES buffer (pH 7.5)containing 5 mM Mg2+, 0.5 mM Mn2+, and 0.5 mg bovine serum albumin, at80Â°C <119>; #85# 80Â°C, pH 7.5 <143>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.01,NADP+,Thermotoga maritima,"#16# wild-type, mutant col 10,heterocaryon col-10-wild-type <9>; #52# in 50 mM HEPES buffer (pH 7.5)containing 5 mM Mg2+, 0.5 mM Mn2+, and 0.5 mg bovine serum albumin, at80Â°C <119>; #85# 80Â°C, pH 7.5 <143>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.01,NADP+,Synechococcus sp.,"#16# wild-type, mutant col 10,heterocaryon col-10-wild-type <9>; #52# in 50 mM HEPES buffer (pH 7.5)containing 5 mM Mg2+, 0.5 mM Mn2+, and 0.5 mg bovine serum albumin, at80Â°C <119>; #85# 80Â°C, pH 7.5 <143>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.01,NADP+,Spinacia oleracea,"#16# wild-type, mutant col 10,heterocaryon col-10-wild-type <9>; #52# in 50 mM HEPES buffer (pH 7.5)containing 5 mM Mg2+, 0.5 mM Mn2+, and 0.5 mg bovine serum albumin, at80Â°C <119>; #85# 80Â°C, pH 7.5 <143>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.018,NADP+,Neurospora crassa,#16# heterocaryon col-3-col-10 <9>; #87# atpH 7.5 and 22Â°C <136>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.018,NADP+,Dictyostelium discoideum,#16# heterocaryon col-3-col-10 <9>; #87# atpH 7.5 and 22Â°C <136>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.018,NADP+,Homo sapiens,#16# heterocaryon col-3-col-10 <9>; #87# atpH 7.5 and 22Â°C <136>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0068,NADP+,Ovis aries,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.029,NADP+,Ovis aries,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.00571,NADP+,Ovis aries,"#17# 10 mM Tris-acetate, 10 mM MgCl2, pH 7.7<6>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.00631,NADP+,Ovis aries,"#17# 10 mM Tris-acetate, 80 mM KCl, pH 7.7 <6>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.00676,NADP+,Ovis aries,"#17# 50 mM Tris-acetate, pH 7.7 <6>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.00861,NADP+,Ovis aries,"#17# 50 mM Tris-acetate, 20 mM MgCl2, pH 7.7<6>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.00893,NADP+,Ovis aries,"#17# 10 mM Tris-acetate, pH 7.7 <6>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0217,NADP+,Ovis aries,#17# 23.5Â°C <60>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.007,NADP+,Spinacia oleracea,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.007,NADP+,Ovis aries,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.016,NADP+,Corylus avellana,#82# mutant enzyme K260A <98>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.016,NADP+,Ovis aries,#82# mutant enzyme K260A <98>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.6211,NADP+,Gallus gallus,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.036,NADP+,[Brevibacterium] flavum,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0041,NADP+,Ricinus communis,#35# cytosolic isoenzyme <34>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0054,NADP+,Ricinus communis,#35# proplastid isoenzyme <34>; #82# mutantenzyme S128A <95>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0054,NADP+,Ovis aries,#35# proplastid isoenzyme <34>; #82# mutantenzyme S128A <95>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.035,NADP+,Saccharomyces cerevisiae,#68# pH 7.5 <105>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.035,NADP+,Arthrobacter globiformis,#68# pH 7.5 <105>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.025,NADP+,Synechococcus sp.,#13# pH 8.0 <54>; #15# 43Â°C <13>; #16#source of enzyme: peak I <8>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.025,NADP+,Beta vulgaris,#13# pH 8.0 <54>; #15# 43Â°C <13>; #16#source of enzyme: peak I <8>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.025,NADP+,Saccharomyces cerevisiae,#13# pH 8.0 <54>; #15# 43Â°C <13>; #16#source of enzyme: peak I <8>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.025,NADP+,Geobacillus stearothermophilus,#13# pH 8.0 <54>; #15# 43Â°C <13>; #16#source of enzyme: peak I <8>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.025,NADP+,Neurospora crassa,#13# pH 8.0 <54>; #15# 43Â°C <13>; #16#source of enzyme: peak I <8>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.00088,NADP+,Dicentrarchus labrax,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0052,NADP+,Ctenopharyngodon idella,#56# at pH 8.0 and 25Â°C <128>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.006,NADP+,Avena fatua,#58# source endosperm <40>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.032,NADP+,Avena fatua,#58# source embryo <40>; #82# mutant enzymeM13I <94>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.032,NADP+,Ovis aries,#58# source embryo <40>; #82# mutant enzymeM13I <94>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0046,NADP+,Trypanosoma cruzi,"#65# pH 7.5, 30Â°C, purified native wild-typeenzyme <88>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0059,NADP+,Trypanosoma cruzi,"#65# pH 7.5, 30Â°C, purified recombinant mutantenzyme <88>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.02,NADP+,Cyberlindnera jadinii,#7# type I and II <23>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.008,NADP+,Catharanthus roseus,#50# cytosolic isoenzyme <67>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.008,NADP+,Cyberlindnera jadinii,#50# cytosolic isoenzyme <67>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.049,NADP+,Escherichia coli,"#79# in 50 mM Tris-HCl buffer (pH 8.0), 20 mMMgCl2, at 25Â°C <118>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.118,NADP+,Klebsiella pneumoniae,"#81# in 50 mM Tris-HCl buffer (pH 8.0), 20 mMMgCl2, at 25Â°C <118>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.002,NADP+,Ovis aries,#82# wild type enzyme <94>; #82# mutant enzymeH186A <95>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.014,NADP+,Ovis aries,#82# mutant enzyme Y191A <98>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0042,NADP+,Ovis aries,#82# mutant enzyme T262A <98>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.026,NADP+,Ovis aries,#82# mutant enzyme M13V <94>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.073,NADP+,Ovis aries,#82# mutant enzyme R287A <98>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.064,NADP+,Ovis aries,#82# mutant enzyme R446A <98>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0064,NADP+,Ovis aries,#82# mutant enzyme M13C <94>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0298,NADP+,Ovis aries,#82# mutant enzyme N187A <95>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.005,NADP+,Thermotoga maritima,"#82# wild type enzyme <95,98>; #85# wild typeenzyme, at pH 7.5 and 70Â°C <138>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.005,NADP+,Ovis aries,"#82# wild type enzyme <95,98>; #85# wild typeenzyme, at pH 7.5 and 70Â°C <138>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.019,NADP+,Arthrospira platensis,"#82# mutant enzyme M13F <94>; #82# mutantenzyme M13Q <94>; #97# pH 7.3, 32Â°C, wild-type enzyme <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.019,NADP+,Ovis aries,"#82# mutant enzyme M13F <94>; #82# mutantenzyme M13Q <94>; #97# pH 7.3, 32Â°C, wild-type enzyme <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",100.0,NADP+,Thermotoga maritima,"#85# Km above 100 mM, mutant enzyme N32D/R33L/T34S,at pH 7.5 and 70Â°C <138>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",2.3,NADP+,Thermotoga maritima,"#85# mutant enzyme N32D, at pH 7.5 and 70Â°C <138>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",70.0,NADP+,Thermotoga maritima,"#85# mutant enzyme N32D/R33I/T34I, at pH 7.5 and 70Â°C<138>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",79.0,NADP+,Thermotoga maritima,"#85# mutant enzyme N32E/R33I/T34I, at pH 7.5 and 70Â°C<138>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.66,NADP+,Moorella thermoacetica,"#86# mutant enzyme A30E/R31I/T32D, at pH 7.5 and50Â°C <137>; #89# recombinant His-tagged mutant A30E/R31I/T32D, pH 7.5,50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0265,NADP+,Moorella thermoacetica,"#86# mutant enzyme R31I, at pH 7.5 and 50Â°C<137>; #89# recombinant His-tagged mutant R31I, pH 7.5, 50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0355,NADP+,Moorella thermoacetica,"#86# mutant enzyme R31T, at pH 7.5 and 50Â°C<137>; #89# recombinant His-tagged mutant R31T, pH 7.5, 50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0139,NADP+,Moorella thermoacetica,"#86# wild type enzyme, at pH 7.5 and 50Â°C<137>; #89# recombinant His-tagged wild-type enzyme, pH 7.5, 50Â°C<141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.698,NADP+,Moorella thermoacetica,"#86# mutant enzyme A30C/R31I/T32K, at pH 7.5and 50Â°C <137>; #89# recombinant His-tagged mutant A30C/R31I/T32K, pH7.5, 50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.228,NADP+,Moorella thermoacetica,"#86# mutant enzyme A30D/R31I/T32I, at pH 7.5and 50Â°C <137>; #89# recombinant His-tagged mutant A30D/R31I/T32I, pH7.5, 50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.1044,NADP+,Moorella thermoacetica,"#86# mutant enzyme R31I/T32G, at pH 7.5 and50Â°C <137>; #89# recombinant His-tagged mutant R31I/T32G, pH 7.5, 50Â°C<141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0069,NADP+,Homo sapiens,"#87# pH 8.0, 25Â°C, wild-type enzyme <157>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",6.9,NADP+,Homo sapiens,"#87# pH 8.0, 25Â°C <157>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.009,NADP+,Plasmodium falciparum,"#93# pH 8.0, 25Â°C, wild-type enzyme <157>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0048,NADP+,Plasmodium falciparum,"#93# pH 8.0, 25Â°C, mutant enzyme W104L <157>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.058,NADP+,Synechocystis sp.,"#94# pH 7.3, 32Â°C, wild-type enzyme <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.042,NADP+,Arthrospira platensis,"#97# pH 7.3, 32Â°C, mutant enzyme T35S <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.2,NADP+,Thermotoga maritima,"#85# mutant enzyme N32D/R33I/T34I, at pH 7.5 and70Â°C <138>; #85# mutant enzyme N32E/R33I/T34I, at pH 7.5 and 70Â°C<138>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",7.3,NADP+,Thermotoga maritima,"#85# mutant enzyme N32D, at pH 7.5 and 70Â°C <138>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",3520.0,NADP+,Thermotoga maritima,"#85# wild type enzyme, at pH 7.5 and 70Â°C <138>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",8.9,NADP+,Moorella thermoacetica,"#86# mutant enzyme A30C/R31I/T32K, at pH 7.5 and50Â°C <137>; #89# recombinant His-tagged mutant A30C/R31I/T32K, pH 7.5,50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",8.9,NADP+,Moorella thermoacetica,"#86# mutant enzyme A30C/R31I/T32K, at pH 7.5 and50Â°C <137>; #89# recombinant His-tagged mutant A30C/R31I/T32K, pH 7.5,50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",114.0,NADP+,Moorella thermoacetica,"#86# mutant enzyme R31I/T32G, at pH 7.5 and 50Â°C<137>; #89# recombinant His-tagged mutant R31I/T32G, pH 7.5, 50Â°C<141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",114.0,NADP+,Moorella thermoacetica,"#86# mutant enzyme R31I/T32G, at pH 7.5 and 50Â°C<137>; #89# recombinant His-tagged mutant R31I/T32G, pH 7.5, 50Â°C<141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",4.7,NADP+,Moorella thermoacetica,"#86# mutant enzyme A30E/R31I/T32D, at pH 7.5 and50Â°C <137>; #89# recombinant His-tagged mutant A30E/R31I/T32D, pH 7.5,50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",4.7,NADP+,Moorella thermoacetica,"#86# mutant enzyme A30E/R31I/T32D, at pH 7.5 and50Â°C <137>; #89# recombinant His-tagged mutant A30E/R31I/T32D, pH 7.5,50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",7.9,NADP+,Moorella thermoacetica,"#86# mutant enzyme A30D/R31I/T32I, at pH 7.5 and50Â°C <137>; #89# recombinant His-tagged mutant A30D/R31I/T32I, pH 7.5,50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",7.9,NADP+,Moorella thermoacetica,"#86# mutant enzyme A30D/R31I/T32I, at pH 7.5 and50Â°C <137>; #89# recombinant His-tagged mutant A30D/R31I/T32I, pH 7.5,50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",435.0,NADP+,Moorella thermoacetica,"#86# mutant enzyme R31I, at pH 7.5 and 50Â°C<137>; #89# recombinant His-tagged mutant R31I, pH 7.5, 50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",435.0,NADP+,Moorella thermoacetica,"#86# mutant enzyme R31I, at pH 7.5 and 50Â°C<137>; #89# recombinant His-tagged mutant R31I, pH 7.5, 50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",305.6,NADP+,Moorella thermoacetica,"#86# mutant enzyme R31T, at pH 7.5 and 50Â°C<137>; #89# recombinant His-tagged mutant R31T, pH 7.5, 50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",305.6,NADP+,Moorella thermoacetica,"#86# mutant enzyme R31T, at pH 7.5 and 50Â°C<137>; #89# recombinant His-tagged mutant R31T, pH 7.5, 50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",628.8,NADP+,Moorella thermoacetica,"#86# wild type enzyme, at pH 7.5 and 50Â°C<137>; #89# recombinant His-tagged wild-type enzyme, pH 7.5, 50Â°C<141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",628.8,NADP+,Moorella thermoacetica,"#86# wild type enzyme, at pH 7.5 and 50Â°C<137>; #89# recombinant His-tagged wild-type enzyme, pH 7.5, 50Â°C<141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",1.1,NADP+,Synechocystis sp.,"#94# pH 7.3, 32Â°C, wild-type enzyme <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",1207.0,NADP+,Synechocystis sp.,"#94# pH 7.3, 32Â°C, wild-type enzyme <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",3719.0,NADP+,Synechocystis sp.,"#94# pH 7.3, 32Â°C, mutant enzyme S42T <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",585.0,NADP+,Arthrospira platensis,"#97# pH 7.3, 32Â°C, mutant enzyme T35S <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",857.0,NADP+,Arthrospira platensis,"#97# pH 7.3, 32Â°C, wild-type enzyme <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.595,6-phospho-D-gluconate,Rattus norvegicus,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0822,6-phospho-D-gluconate,Geobacillus stearothermophilus,"#15# free enzyme, at pH 7.5 and25Â°C <132>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0102,6-phospho-D-gluconate,Pisum sativum,"#19# pH 7.6, 25Â°C <91>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.00013,6-phospho-D-gluconate,Trypanosoma brucei,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.011,6-phospho-D-gluconate,Thermotoga maritima,"#52# in 50 mM HEPES buffer (pH7.5) containing 5 mM Mg2+, 0.5 mM Mn2+, and 0.5 mg bovine serumalbumin, at 80Â°C <119>; #85# 80Â°C, pH 7.5 <143>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.019,6-phospho-D-gluconate,Ctenopharyngodon idella,#56# at pH 8.0 and 25Â°C <128>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0509,6-phospho-D-gluconate,Saccharomyces cerevisiae,#68# pH 7.5 <105>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.04,6-phospho-D-gluconate,Cyberlindnera jadinii,"#7# dimeric enzyme with two6-phospho-D-gluconate bound, pH not specified in the publication,temperature not specified in the publication <124>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.07,6-phospho-D-gluconate,Cyberlindnera jadinii,"#7# dimeric enzyme with one6-phospho-D-gluconate bound, pH not specified in the publication,temperature not specified in the publication <124>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.093,6-phospho-D-gluconate,Escherichia coli,"#79# in 50 mM Tris-HCl buffer (pH8.0), 20 mM MgCl2, at 25Â°C <118>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.107,6-phospho-D-gluconate,Klebsiella pneumoniae,"#81# in 50 mM Tris-HCl buffer (pH8.0), 20 mM MgCl2, at 25Â°C <118>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.095,6-phospho-D-gluconate,Ovis aries,#82# mutant enzyme S128A <95>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",2.5,6-phospho-D-gluconate,Ovis aries,#82# mutant enzyme R287A <98>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.028,6-phospho-D-gluconate,Ovis aries,#82# wild type enzyme <98>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.15,6-phospho-D-gluconate,Ovis aries,#82# mutant enzyme K260A <98>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.024,6-phospho-D-gluconate,Ovis aries,#82# mutant enzyme T262A <98>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.53,6-phospho-D-gluconate,Ovis aries,#82# mutant enzyme N187A <95>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",3.4,6-phospho-D-gluconate,Ovis aries,#82# mutant enzyme R446A <98>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0121,6-phospho-D-gluconate,Ovis aries,#82# mutant enzyme H186A <95>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",1.04,6-phospho-D-gluconate,Ovis aries,#82# mutant enzyme Y191A <98>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0284,6-phospho-D-gluconate,Ovis aries,#82# wild type enzyme <95>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.051,6-phospho-D-gluconate,Homo sapiens,#87# at pH 7.5 and 22Â°C <136>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",33.7,6-phospho-D-gluconate,Homo sapiens,"#87# pH 8.0, 25Â°C <157>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0337,6-phospho-D-gluconate,Homo sapiens,"#87# pH 8.0, 25Â°C, wild-typeenzyme <157>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0058,6-phospho-D-gluconate,Plasmodium falciparum,"#93# pH 8.0, 25Â°C, mutant enzymeW104L <157>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0113,6-phospho-D-gluconate,Plasmodium falciparum,"#93# pH 8.0, 25Â°C, wild-typeenzyme <157>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.042,6-phospho-D-gluconate,Synechocystis sp.,"#94# pH 7.3, 32Â°C, mutant enzymeS42T <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.052,6-phospho-D-gluconate,Synechocystis sp.,"#94# pH 7.3, 32Â°C, wild-typeenzyme <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",1239.0,6-phospho-D-gluconate,Synechocystis sp.,"#94# pH 7.3, 32Â°C, wild-type enzyme<160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",1225.0,6-phospho-D-gluconate,Synechocystis sp.,"#94# pH 7.3, 32Â°C, mutant enzymeS42T <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.02,ribulose-5-phosphate,Ovis aries,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",1.0,ribulose-5-phosphate,Cyberlindnera jadinii,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",1.4,2-deoxy-6-phosphogluconate,Ovis aries,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",1.42,2-deoxy-6-phosphogluconate,Ovis aries,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.55,2-deoxy-6-phosphogluconate,Cyberlindnera jadinii,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.016,6-phosphono-D-gluconate,Ovis aries,"#17# pH 7.5, 20Â°C <87>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0035,6-phosphono-D-gluconate,Trypanosoma brucei,"#26# pH 7.5, 20Â°C <87>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.022,6-phosphono-D-gluconate,Trypanosoma cruzi,"#65# pH 7.5, 30Â°C, purifiednative wild-type enzyme <88>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0222,6-phosphono-D-gluconate,Trypanosoma cruzi,"#65# pH 7.5, 30Â°C, purifiedrecombinant mutant enzyme <88>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.03,6-phosphono-D-gluconate,Ovis aries,"#82# pH 8.0, 20Â°C <83>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0053,6-phosphono-D-gluconate,Trypanosoma brucei,"#83# pH 8.0, 20Â°C <83>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",34.0,CO2,Ovis aries,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",50.0,CO2,Cyberlindnera jadinii,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.00022,NADPH,Ovis aries,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.002,NADPH,Cyberlindnera jadinii,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",1.7,MgCl2,Ricinus communis,#35# cytosolic isoenzyme <34>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",2.4,MgCl2,Ricinus communis,#35# proplastid isoenzyme <34>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.38,NAD+,Thermotoga maritima,"#52# in 50 mM HEPES buffer (pH 7.5) containing 5mM Mg2+, 0.5 mM Mn2+, and 0.5 mg bovine serum albumin, at 80Â°C <119>;#85# 80Â°C, pH 7.5 <143>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",1.0,NAD+,Cyberlindnera jadinii,#7# 43Â°C <13>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",9.0,NAD+,Cyberlindnera jadinii,#7# pH 8 <70>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",17.0,NAD+,Cyberlindnera jadinii,#7# pH 9.5 <70>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",16.0,NAD+,Cyberlindnera jadinii,#7# pH 7 <70>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",3.5,NAD+,Cyberlindnera jadinii,#7# 30Â°C <13>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",18.0,NAD+,Cyberlindnera jadinii,#7# pH 9 <70>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",114.0,NAD+,Cyberlindnera jadinii,#7# pH 10 <70>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",2.5,NAD+,Thermotoga maritima,"#85# mutant enzyme N32E/R33I/T34I, at pH 7.5 and 70Â°C<138>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",4.3,NAD+,Thermotoga maritima,#85# wild type enzyme at pH 7.5 and 70Â°C <138>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",4.0,NAD+,Thermotoga maritima,"#85# mutant enzyme N32D, at pH 7.5 and 70Â°C <138>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",3.9,NAD+,Thermotoga maritima,"#85# mutant enzyme N32D/R33I/T34I, at pH 7.5 and 70Â°C<138>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",7.5,NAD+,Thermotoga maritima,"#85# mutant enzyme N32D/R33L/T34S, at pH 7.5 and 70Â°C<138>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.01187,NAD+,Moorella thermoacetica,"#86# mutant enzyme A30D/R31I/T32I, at pH 7.5 and50Â°C <137>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.127,NAD+,Moorella thermoacetica,"#86# mutant enzyme A30E/R31I/T32D, at pH 7.5 and50Â°C <137>; #89# recombinant His-tagged mutant A30E/R31I/T32D, pH 7.5,50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.605,NAD+,Moorella thermoacetica,"#86# mutant enzyme R31T, at pH 7.5 and 50Â°C<137>; #89# recombinant His-tagged mutant R31T, pH 7.5, 50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.362,NAD+,Moorella thermoacetica,"#86# mutant enzyme R31I/T32G, at pH 7.5 and 50Â°C<137>; #89# recombinant His-tagged mutant R31I/T32G, pH 7.5, 50Â°C<141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.354,NAD+,Moorella thermoacetica,"#86# mutant enzyme R31I, at pH 7.5 and 50Â°C<137>; #89# recombinant His-tagged mutant R31I, pH 7.5, 50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.404,NAD+,Moorella thermoacetica,"#86# mutant enzyme A30C/R31I/T32K, at pH 7.5 and50Â°C <137>; #89# recombinant His-tagged mutant A30C/R31I/T32K, pH 7.5,50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",1.397,NAD+,Moorella thermoacetica,"#86# wild type enzyme, at pH 7.5 and 50Â°C <137>;#89# recombinant His-tagged wild-type enzyme, pH 7.5, 50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0119,NAD+,Moorella thermoacetica,"#89# recombinant His-tagged mutant A30D/R31I/T32I,pH 7.5, 50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",6.6,NAD+,Synechocystis sp.,"#94# pH 7.3, 32Â°C, mutant enzyme S42T <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",4.46,NAD+,Synechocystis sp.,"#94# pH 7.3, 32Â°C, wild-type enzyme <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",8.3,NAD+,Thermotoga maritima,"#85# mutant enzyme N32D/R33I/T34I, at pH 7.5 and 70Â°C<138>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",7.3,NAD+,Thermotoga maritima,"#85# mutant enzyme N32D, at pH 7.5 and 70Â°C <138>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",5.4,NAD+,Thermotoga maritima,#85# wild type enzyme at pH 7.5 and 70Â°C <138>
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",3.4,NAD+,Thermotoga maritima,"#85# mutant enzyme N32D/R33L/T34S, at pH 7.5 and 70Â°C<138>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",19.2,NAD+,Thermotoga maritima,"#85# mutant enzyme N32E/R33I/T34I, at pH 7.5 and70Â°C <138>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",9.0,NAD+,Moorella thermoacetica,"#86# wild type enzyme, at pH 7.5 and 50Â°C <137>;#89# recombinant His-tagged wild-type enzyme, pH 7.5, 50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",9.0,NAD+,Moorella thermoacetica,"#86# wild type enzyme, at pH 7.5 and 50Â°C <137>;#89# recombinant His-tagged wild-type enzyme, pH 7.5, 50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",15.0,NAD+,Moorella thermoacetica,"#86# mutant enzyme R31T, at pH 7.5 and 50Â°C <137>;#89# recombinant His-tagged mutant R31T, pH 7.5, 50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",15.0,NAD+,Moorella thermoacetica,"#86# mutant enzyme R31T, at pH 7.5 and 50Â°C <137>;#89# recombinant His-tagged mutant R31T, pH 7.5, 50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",35.8,NAD+,Moorella thermoacetica,"#86# mutant enzyme R31I/T32G, at pH 7.5 and 50Â°C<137>; #89# recombinant His-tagged mutant R31I/T32G, pH 7.5, 50Â°C<141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",35.8,NAD+,Moorella thermoacetica,"#86# mutant enzyme R31I/T32G, at pH 7.5 and 50Â°C<137>; #89# recombinant His-tagged mutant R31I/T32G, pH 7.5, 50Â°C<141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",85.1,NAD+,Moorella thermoacetica,"#86# mutant enzyme A30E/R31I/T32D, at pH 7.5 and50Â°C <137>; #89# recombinant His-tagged mutant A30E/R31I/T32D, pH 7.5,50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",85.1,NAD+,Moorella thermoacetica,"#86# mutant enzyme A30E/R31I/T32D, at pH 7.5 and50Â°C <137>; #89# recombinant His-tagged mutant A30E/R31I/T32D, pH 7.5,50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",14.8,NAD+,Moorella thermoacetica,"#86# mutant enzyme A30C/R31I/T32K, at pH 7.5 and50Â°C <137>; #89# recombinant His-tagged mutant A30C/R31I/T32K, pH 7.5,50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",14.8,NAD+,Moorella thermoacetica,"#86# mutant enzyme A30C/R31I/T32K, at pH 7.5 and50Â°C <137>; #89# recombinant His-tagged mutant A30C/R31I/T32K, pH 7.5,50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",42.4,NAD+,Moorella thermoacetica,"#86# mutant enzyme R31I, at pH 7.5 and 50Â°C<137>; #89# recombinant His-tagged mutant R31I, pH 7.5, 50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",42.4,NAD+,Moorella thermoacetica,"#86# mutant enzyme R31I, at pH 7.5 and 50Â°C<137>; #89# recombinant His-tagged mutant R31I, pH 7.5, 50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",484.2,NAD+,Moorella thermoacetica,"#86# mutant enzyme A30D/R31I/T32I, at pH 7.5 and50Â°C <137>; #89# recombinant His-tagged mutant A30D/R31I/T32I, pH 7.5,50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",484.2,NAD+,Moorella thermoacetica,"#86# mutant enzyme A30D/R31I/T32I, at pH 7.5 and50Â°C <137>; #89# recombinant His-tagged mutant A30D/R31I/T32I, pH 7.5,50Â°C <141>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",1.1,NAD+,Synechocystis sp.,"#94# pH 7.3, 32Â°C, wild-type enzyme <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.7,NAD+,Synechocystis sp.,"#94# pH 7.3, 32Â°C, mutant enzyme S42T <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.74,NAD+,Synechocystis sp.,"#94# pH 7.3, 32Â°C, mutant enzyme S42T <160>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",3.33,Mg2+,Dicentrarchus labrax,
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.011,"6,7-dideoxy-7-phosphono-D-glucoheptonate",Ovis aries,"#82# pH 8.0,20Â°C <83>"
+1.1.1.44,"Phosphogluconate dehydrogenase (nadp+-dependent, decarboxylating)",0.0048,"6,7-dideoxy-7-phosphono-D-glucoheptonate",Trypanosoma brucei,"#83# pH 8.0,20Â°C <83>"
+5.3.1.6,Ribose-5-phosphate isomerase,4.6,D-ribose 5-phosphate,Spinacia oleracea,
+5.3.1.6,Ribose-5-phosphate isomerase,3.3,D-ribose 5-phosphate,Spinacia oleracea,
+5.3.1.6,Ribose-5-phosphate isomerase,0.88,D-ribose 5-phosphate,Pisum sativum,
+5.3.1.6,Ribose-5-phosphate isomerase,1.8,D-ribose 5-phosphate,Mycobacterium tuberculosis,
+5.3.1.6,Ribose-5-phosphate isomerase,1.8,D-ribose 5-phosphate,Klebsiella aerogenes,
+5.3.1.6,Ribose-5-phosphate isomerase,3.7,D-ribose 5-phosphate,Mycobacterium tuberculosis,
+5.3.1.6,Ribose-5-phosphate isomerase,2.8,D-ribose 5-phosphate,Pediococcus pentosaceus,
+5.3.1.6,Ribose-5-phosphate isomerase,0.16,D-ribose 5-phosphate,Cyberlindnera jadinii,#2# enzyme form III <11>
+5.3.1.6,Ribose-5-phosphate isomerase,0.67,D-ribose 5-phosphate,Cyberlindnera jadinii,#2# enzyme form II <11>
+5.3.1.6,Ribose-5-phosphate isomerase,2.5,D-ribose 5-phosphate,Cyberlindnera jadinii,
+5.3.1.6,Ribose-5-phosphate isomerase,0.77,D-ribose 5-phosphate,Cyberlindnera jadinii,#2# enzyme form I <11>
+5.3.1.6,Ribose-5-phosphate isomerase,0.108,D-ribose 5-phosphate,Cyberlindnera jadinii,
+5.3.1.6,Ribose-5-phosphate isomerase,0.43,D-ribose 5-phosphate,Rhodospirillum rubrum,
+5.3.1.6,Ribose-5-phosphate isomerase,2.7,D-ribose 5-phosphate,Echinococcus granulosus,
+5.3.1.6,Ribose-5-phosphate isomerase,7.6,D-ribose 5-phosphate,Thermotoga maritima,#25# at 60Â°C and pH 7.0 <57>
+5.3.1.6,Ribose-5-phosphate isomerase,1.55,D-ribose 5-phosphate,Thermotoga maritima,#25# at 80Â°C and pH 7.0 <57>
+5.3.1.6,Ribose-5-phosphate isomerase,30.0,D-ribose 5-phosphate,Clostridioides difficile,"#26# pH 7.5, 40Â°C <53>; #40# pH 7.5and 40Â°C <58>"
+5.3.1.6,Ribose-5-phosphate isomerase,30.0,D-ribose 5-phosphate,Clostridioides difficile A,"#26# pH 7.5, 40Â°C <53>; #40# pH 7.5and 40Â°C <58>"
+5.3.1.6,Ribose-5-phosphate isomerase,0.017,D-ribose 5-phosphate,Acetivibrio thermocellus,"#27# pH 7.5, 65Â°C, recombinantenzyme <41>"
+5.3.1.6,Ribose-5-phosphate isomerase,17.0,D-ribose 5-phosphate,Acetivibrio thermocellus,"#27# in 50 mM Tris-HCl buffer (pH7.5), at 65Â°C <41>"
+5.3.1.6,Ribose-5-phosphate isomerase,1.0,D-ribose 5-phosphate,Mycobacterium tuberculosis,"#29# in 50 mM Tris-HCl, pH 7.5, at 37Â°C<42>"
+5.3.1.6,Ribose-5-phosphate isomerase,1.63,D-ribose 5-phosphate,Thermus thermophilus,
+5.3.1.6,Ribose-5-phosphate isomerase,3.1,D-ribose 5-phosphate,Escherichia coli,
+5.3.1.6,Ribose-5-phosphate isomerase,0.17,D-ribose 5-phosphate,Pyrococcus horikoshii,"#35# 50Â°C, pH 6.0, mutant enzymeD85N <28>"
+5.3.1.6,Ribose-5-phosphate isomerase,5.1,D-ribose 5-phosphate,Pyrococcus horikoshii,"#35# 50Â°C, pH 6.0, mutant enzymeK125A <28>"
+5.3.1.6,Ribose-5-phosphate isomerase,2.39,D-ribose 5-phosphate,Pyrococcus horikoshii,"#35# 50Â°C, pH 6.0, mutant enzymeD168N <28>"
+5.3.1.6,Ribose-5-phosphate isomerase,1.17,D-ribose 5-phosphate,Pyrococcus horikoshii,"#35# 50Â°C, pH 6.0, wild-type enzyme<28>"
+5.3.1.6,Ribose-5-phosphate isomerase,7.13,D-ribose 5-phosphate,Pyrococcus horikoshii,"#35# 50Â°C, pH 6.0, mutant enzymeR100A <28>"
+5.3.1.6,Ribose-5-phosphate isomerase,0.83,D-ribose 5-phosphate,Escherichia coli,#4# ribosephosphate isomerase B <6>
+5.3.1.6,Ribose-5-phosphate isomerase,4.4,D-ribose 5-phosphate,Escherichia coli,#4# ribosephosphate isomerase A <6>
+5.3.1.6,Ribose-5-phosphate isomerase,37.0,D-ribose 5-phosphate,Thermotoga maritima,#41# pH 8.0 and 70Â°C <58>
+5.3.1.6,Ribose-5-phosphate isomerase,4.3,D-ribose 5-phosphate,Leishmania donovani,"#44# mutant P47A, pH 7.5, 22Â°C <64>"
+5.3.1.6,Ribose-5-phosphate isomerase,3.4,D-ribose 5-phosphate,Leishmania donovani,"#44# mutant H11N, pH 7.5, 22Â°C <64>"
+5.3.1.6,Ribose-5-phosphate isomerase,2.51,D-ribose 5-phosphate,Leishmania donovani,"#44# wild-type, pH 7.5, 22Â°C <64>"
+5.3.1.6,Ribose-5-phosphate isomerase,2.59,D-ribose 5-phosphate,Leishmania donovani,"#44# mutant Y46F, pH 7.5, 22Â°C <64>"
+5.3.1.6,Ribose-5-phosphate isomerase,8.14,D-ribose 5-phosphate,Leishmania donovani,"#44# mutant H138N, pH 7.5, 22Â°C<64>"
+5.3.1.6,Ribose-5-phosphate isomerase,2.2,D-ribose 5-phosphate,Homo sapiens,
+5.3.1.6,Ribose-5-phosphate isomerase,0.74,D-ribose 5-phosphate,Saccharomyces cerevisiae,
+5.3.1.6,Ribose-5-phosphate isomerase,2.0,D-ribose 5-phosphate,Bos taurus,
+5.3.1.6,Ribose-5-phosphate isomerase,2.6,D-ribose 5-phosphate,Bos taurus,#9# calf spleen <2>
+5.3.1.6,Ribose-5-phosphate isomerase,6.5,D-ribose 5-phosphate,Bos taurus,#9# ox muscle <2>
+5.3.1.6,Ribose-5-phosphate isomerase,9.649999999999999,D-ribose 5-phosphate,Bos taurus,#9# calf liver <2>
+5.3.1.6,Ribose-5-phosphate isomerase,500.0,D-ribose 5-phosphate,Clostridioides difficile,"#26# pH 7.5, 40Â°C <53>; #40# pH7.5 and 40Â°C <58>"
+5.3.1.6,Ribose-5-phosphate isomerase,500.0,D-ribose 5-phosphate,Clostridioides difficile A,"#26# pH 7.5, 40Â°C <53>; #40# pH7.5 and 40Â°C <58>"
+5.3.1.6,Ribose-5-phosphate isomerase,500.0,D-ribose 5-phosphate,Clostridioides difficile,"#26# pH 7.5, 40Â°C <53>; #40# pH7.5 and 40Â°C <58>"
+5.3.1.6,Ribose-5-phosphate isomerase,500.0,D-ribose 5-phosphate,Clostridioides difficile A,"#26# pH 7.5, 40Â°C <53>; #40# pH7.5 and 40Â°C <58>"
+5.3.1.6,Ribose-5-phosphate isomerase,3029.0,D-ribose 5-phosphate,Acetivibrio thermocellus,"#27# pH 7.5, 65Â°C, recombinantenzyme <41>"
+5.3.1.6,Ribose-5-phosphate isomerase,540.0,D-ribose 5-phosphate,Thermotoga maritima,#41# pH 8.0 and 70Â°C <58>
+5.3.1.6,Ribose-5-phosphate isomerase,1.35,D-ribose 5-phosphate,Leishmania donovani,"#44# mutant H138N, pH 7.5, 22Â°C<64>"
+5.3.1.6,Ribose-5-phosphate isomerase,4.24,D-ribose 5-phosphate,Leishmania donovani,"#44# mutant P47A, pH 7.5, 22Â°C <64>"
+5.3.1.6,Ribose-5-phosphate isomerase,11.175,D-ribose 5-phosphate,Leishmania donovani,"#44# wild-type, pH 7.5, 22Â°C <64>"
+5.3.1.6,Ribose-5-phosphate isomerase,9.51,D-ribose 5-phosphate,Leishmania donovani,"#44# mutant H11N, pH 7.5, 22Â°C <64>"
+5.3.1.6,Ribose-5-phosphate isomerase,9.82,D-ribose 5-phosphate,Leishmania donovani,"#44# mutant Y46F, pH 7.5, 22Â°C <64>"
+5.3.1.6,Ribose-5-phosphate isomerase,0.56,D-ribose-5-phosphate,Spinacia oleracea,"#10# pH 8.0, 25Â°C, mutant enzymeD87A <24>"
+5.3.1.6,Ribose-5-phosphate isomerase,0.63,D-ribose-5-phosphate,Spinacia oleracea,"#10# pH 8.0, 25Â°C, wild-type enzyme<24>"
+5.3.1.6,Ribose-5-phosphate isomerase,0.52,D-ribose-5-phosphate,Spinacia oleracea,"#10# pH 8.0, 25Â°C, mutant enzymeD90A <24>"
+5.3.1.6,Ribose-5-phosphate isomerase,1.17,D-ribose-5-phosphate,Spinacia oleracea,"#10# pH 8.0, 25Â°C, mutant enzymeE91A <24>"
+5.3.1.6,Ribose-5-phosphate isomerase,4.41,D-ribose-5-phosphate,Spinacia oleracea,"#10# pH 8.0, 25Â°C, mutant enzymeK100A <24>"
+5.3.1.6,Ribose-5-phosphate isomerase,0.66,D-ribulose 5-phosphate,Pisum sativum,
+5.3.1.6,Ribose-5-phosphate isomerase,0.015,D-ribulose 5-phosphate,Acetivibrio thermocellus,"#27# pH 7.5, 65Â°C, recombinantenzyme <41>"
+5.3.1.6,Ribose-5-phosphate isomerase,15.0,D-ribulose 5-phosphate,Acetivibrio thermocellus,"#27# in 50 mM Tris-HCl buffer (pH7.5), at 65Â°C <41>"
+5.3.1.6,Ribose-5-phosphate isomerase,5.0,D-ribulose 5-phosphate,Trypanosoma cruzi,"#28# in 50 mM Tris-HCl (pH 7.6), 150mM NaCl and 5 mM MESNA, at 30Â°C <50>"
+5.3.1.6,Ribose-5-phosphate isomerase,2589.0,D-ribulose 5-phosphate,Acetivibrio thermocellus,"#27# pH 7.5, 65Â°C, recombinantenzyme <41>"
+5.3.1.6,Ribose-5-phosphate isomerase,270.0,D-ribose,Clostridioides difficile,"#26# pH 7.5, 40Â°C <53>; #40# pH 7.5 and 40Â°C<58>"
+5.3.1.6,Ribose-5-phosphate isomerase,270.0,D-ribose,Clostridioides difficile A,"#26# pH 7.5, 40Â°C <53>; #40# pH 7.5 and 40Â°C<58>"
+5.3.1.6,Ribose-5-phosphate isomerase,44.0,D-ribose,Acetivibrio thermocellus,"#27# in 50 mM Tris-HCl buffer (pH 7.5), at 65Â°C<41>"
+5.3.1.6,Ribose-5-phosphate isomerase,110.0,D-ribose,Thermotoga maritima,#41# pH 8.0 and 70Â°C <58>
+5.3.1.6,Ribose-5-phosphate isomerase,0.6,D-ribose,Clostridioides difficile,"#26# pH 7.5, 40Â°C <53>; #40# pH 7.5 and 40Â°C<58>"
+5.3.1.6,Ribose-5-phosphate isomerase,0.6,D-ribose,Clostridioides difficile A,"#26# pH 7.5, 40Â°C <53>; #40# pH 7.5 and 40Â°C<58>"
+5.3.1.6,Ribose-5-phosphate isomerase,0.6,D-ribose,Clostridioides difficile,"#26# pH 7.5, 40Â°C <53>; #40# pH 7.5 and 40Â°C<58>"
+5.3.1.6,Ribose-5-phosphate isomerase,0.6,D-ribose,Clostridioides difficile A,"#26# pH 7.5, 40Â°C <53>; #40# pH 7.5 and 40Â°C<58>"
+5.3.1.6,Ribose-5-phosphate isomerase,4.7,D-ribose,Thermotoga maritima,#41# pH 8.0 and 70Â°C <58>
+5.3.1.6,Ribose-5-phosphate isomerase,12.5,L-talose,Clostridioides difficile,"#26# pH 7.5, 40Â°C <53>; #40# pH 7.5 and 40Â°C<58>"
+5.3.1.6,Ribose-5-phosphate isomerase,12.5,L-talose,Clostridioides difficile A,"#26# pH 7.5, 40Â°C <53>; #40# pH 7.5 and 40Â°C<58>"
+5.3.1.6,Ribose-5-phosphate isomerase,37.0,L-talose,Acetivibrio thermocellus,"#27# in 50 mM Tris-HCl buffer (pH 7.5), at 65Â°C<41>"
+5.3.1.6,Ribose-5-phosphate isomerase,190.0,L-talose,Thermotoga maritima,#41# pH 8.0 and 70Â°C <58>
+5.3.1.6,Ribose-5-phosphate isomerase,0.3,L-talose,Clostridioides difficile,"#26# pH 7.5, 40Â°C <53>; #40# pH 7.5 and 40Â°C<58>"
+5.3.1.6,Ribose-5-phosphate isomerase,0.3,L-talose,Clostridioides difficile A,"#26# pH 7.5, 40Â°C <53>; #40# pH 7.5 and 40Â°C<58>"
+5.3.1.6,Ribose-5-phosphate isomerase,0.3,L-talose,Clostridioides difficile,"#26# pH 7.5, 40Â°C <53>; #40# pH 7.5 and 40Â°C<58>"
+5.3.1.6,Ribose-5-phosphate isomerase,0.3,L-talose,Clostridioides difficile A,"#26# pH 7.5, 40Â°C <53>; #40# pH 7.5 and 40Â°C<58>"
+5.3.1.6,Ribose-5-phosphate isomerase,7.0,L-talose,Thermotoga maritima,#41# pH 8.0 and 70Â°C <58>
+5.3.1.6,Ribose-5-phosphate isomerase,460.0,D-allose,Clostridioides difficile,"#26# pH 7.5, 40Â°C <53>; #40# pH 7.5 and 40Â°C<58>"
+5.3.1.6,Ribose-5-phosphate isomerase,460.0,D-allose,Clostridioides difficile A,"#26# pH 7.5, 40Â°C <53>; #40# pH 7.5 and 40Â°C<58>"
+5.3.1.6,Ribose-5-phosphate isomerase,106.0,D-allose,Acetivibrio thermocellus,"#27# in 50 mM Tris-HCl buffer (pH 7.5), at 65Â°C<41>"
+5.3.1.6,Ribose-5-phosphate isomerase,130.0,D-allose,Thermotoga maritima,#41# pH 8.0 and 70Â°C <58>
+5.3.1.6,Ribose-5-phosphate isomerase,0.4,D-allose,Clostridioides difficile,"#26# pH 7.5, 40Â°C <53>; #40# pH 7.5 and 40Â°C<58>"
+5.3.1.6,Ribose-5-phosphate isomerase,0.4,D-allose,Clostridioides difficile A,"#26# pH 7.5, 40Â°C <53>; #40# pH 7.5 and 40Â°C<58>"
+5.3.1.6,Ribose-5-phosphate isomerase,0.4,D-allose,Clostridioides difficile,"#26# pH 7.5, 40Â°C <53>; #40# pH 7.5 and 40Â°C<58>"
+5.3.1.6,Ribose-5-phosphate isomerase,0.4,D-allose,Clostridioides difficile A,"#26# pH 7.5, 40Â°C <53>; #40# pH 7.5 and 40Â°C<58>"
+5.3.1.6,Ribose-5-phosphate isomerase,1.1,D-allose,Thermotoga maritima,#41# pH 8.0 and 70Â°C <58>
+5.3.1.6,Ribose-5-phosphate isomerase,34.0,D-ribulose,Acetivibrio thermocellus,"#27# in 50 mM Tris-HCl buffer (pH 7.5), at 65Â°C<41>"
+5.3.1.6,Ribose-5-phosphate isomerase,98.0,L-allose,Acetivibrio thermocellus,"#27# in 50 mM Tris-HCl buffer (pH 7.5), at 65Â°C<41>"
+5.3.1.6,Ribose-5-phosphate isomerase,173.0,L-ribose,Acetivibrio thermocellus,"#27# in 50 mM Tris-HCl buffer (pH 7.5), at 65Â°C<41>"
+5.3.1.6,Ribose-5-phosphate isomerase,125.0,L-tagatose,Acetivibrio thermocellus,"#27# in 50 mM Tris-HCl buffer (pH 7.5), at 65Â°C<41>"
+5.3.1.6,Ribose-5-phosphate isomerase,319.0,L-ribulose,Acetivibrio thermocellus,"#27# in 50 mM Tris-HCl buffer (pH 7.5), at 65Â°C<41>"
+5.3.1.6,Ribose-5-phosphate isomerase,232.0,D-talose,Acetivibrio thermocellus,"#27# in 50 mM Tris-HCl buffer (pH 7.5), at 65Â°C<41>"
+5.3.1.6,Ribose-5-phosphate isomerase,53.0,D-psicose,Acetivibrio thermocellus,"#27# in 50 mM Tris-HCl buffer (pH 7.5), at65Â°C <41>; #33# mutant enzyme R132K, pH 7.5, 80Â°C <48>; #33# wild typeenzyme, pH 7.5, 80Â°C <48>"
+5.3.1.6,Ribose-5-phosphate isomerase,56.0,D-psicose,Acetivibrio thermocellus,"#33# mutant enzyme R132A, pH 7.5, 80Â°C <48>"
+5.3.1.6,Ribose-5-phosphate isomerase,46.0,D-psicose,Acetivibrio thermocellus,"#33# mutant enzyme R132D, pH 7.5, 80Â°C <48>"
+5.3.1.6,Ribose-5-phosphate isomerase,78.0,D-psicose,Acetivibrio thermocellus,"#33# mutant enzyme R132I, pH 7.5, 80Â°C <48>"
+5.3.1.6,Ribose-5-phosphate isomerase,43.0,D-psicose,Acetivibrio thermocellus,"#33# mutant enzyme R132E, pH 7.5, 80Â°C <48>"
+5.3.1.6,Ribose-5-phosphate isomerase,54.0,D-psicose,Acetivibrio thermocellus,"#33# mutant enzyme R132Q, pH 7.5, 80Â°C <48>"
+5.3.1.6,Ribose-5-phosphate isomerase,64.0,D-psicose,Pseudothermotoga lettingae,#38# at pH 8.0 and 75Â°C <54>
+5.3.1.6,Ribose-5-phosphate isomerase,46.0,D-psicose,Acetivibrio thermocellus,"#33# mutant enzyme R132A, pH 7.5, 80Â°C <48>"
+5.3.1.6,Ribose-5-phosphate isomerase,28.0,D-psicose,Acetivibrio thermocellus,"#33# mutant enzyme R132I, pH 7.5, 80Â°C <48>"
+5.3.1.6,Ribose-5-phosphate isomerase,44.0,D-psicose,Acetivibrio thermocellus,"#33# wild type enzyme, pH 7.5, 80Â°C <48>"
+5.3.1.6,Ribose-5-phosphate isomerase,37.0,D-psicose,Acetivibrio thermocellus,"#33# mutant enzyme R132K, pH 7.5, 80Â°C <48>"
+5.3.1.6,Ribose-5-phosphate isomerase,43.0,D-psicose,Acetivibrio thermocellus,"#33# mutant enzyme R132Q, pH 7.5, 80Â°C <48>"
+5.3.1.6,Ribose-5-phosphate isomerase,58.0,D-psicose,Acetivibrio thermocellus,"#33# mutant enzyme R132D, pH 7.5, 80Â°C <48>"
+5.3.1.6,Ribose-5-phosphate isomerase,64.0,D-psicose,Acetivibrio thermocellus,"#33# mutant enzyme R132E, pH 7.5, 80Â°C <48>"
+5.3.1.6,Ribose-5-phosphate isomerase,0.0018,D-psicose,Pseudothermotoga lettingae,#38# at pH 8.0 and 75Â°C <54>
+5.3.1.6,Ribose-5-phosphate isomerase,2.0,D-Ribose 5-diphosphate,Trypanosoma cruzi,"#28# mutant H102A, pH 8.4, 25Â°C <39>"
+5.3.1.6,Ribose-5-phosphate isomerase,2.5,D-Ribose 5-diphosphate,Trypanosoma cruzi,"#28# muant H11A, pH 8.4, 25Â°C <39>"
+5.3.1.6,Ribose-5-phosphate isomerase,10.0,D-Ribose 5-diphosphate,Trypanosoma cruzi,"#28# mutant H138A, pH 8.4, 25Â°C<39>"
+5.3.1.6,Ribose-5-phosphate isomerase,4.0,D-Ribose 5-diphosphate,Trypanosoma cruzi,"#28# wild-type, pH 8.4, 25Â°C <39>"
+5.3.1.6,Ribose-5-phosphate isomerase,1.4,D-ribulose 5-diphosphate,Trypanosoma cruzi,"#28# wild-type, pH 8.4, 25Â°C<39>"
+5.3.1.6,Ribose-5-phosphate isomerase,2.5,D-ribulose 5-diphosphate,Trypanosoma cruzi,"#28# mutant H102A, pH 8.4, 25Â°C<39>"
+5.1.3.1,Ribulose-phosphate 3-epimerase,0.3,D-ribulose 5-phosphate,Spinacia oleracea,#18# mutant enzyme D186E <20>
+5.1.3.1,Ribulose-phosphate 3-epimerase,0.28,D-ribulose 5-phosphate,Spinacia oleracea,#18# mutant enzyme D186N <20>
+5.1.3.1,Ribulose-phosphate 3-epimerase,0.22,D-ribulose 5-phosphate,Spinacia oleracea,"#18# wild-type enzyme <20>; #18#25Â°C, pH 8.0 <24>"
+5.1.3.1,Ribulose-phosphate 3-epimerase,2.1,D-ribulose 5-phosphate,Spinacia oleracea,#18# mutant enzyme D186A <20>
+5.1.3.1,Ribulose-phosphate 3-epimerase,0.2,D-ribulose 5-phosphate,Streptococcus pyogenes,
+5.1.3.1,Ribulose-phosphate 3-epimerase,0.075,D-ribulose 5-phosphate,Bacillus methanolicus,"#22# recombinant enzyme, pH 7.7,25Â°C <36>"
+5.1.3.1,Ribulose-phosphate 3-epimerase,0.058,D-ribulose 5-phosphate,Bacillus methanolicus,"#23# recombinant enzyme, pH 7.7,25Â°C <36>"
+5.1.3.1,Ribulose-phosphate 3-epimerase,0.056,D-ribulose 5-phosphate,Bacillus methanolicus,"#24# recombinant enzyme, pH 7.7,25Â°C <36>"
+5.1.3.1,Ribulose-phosphate 3-epimerase,1.5,D-ribulose 5-phosphate,Saccharomyces cerevisiae,
+5.1.3.1,Ribulose-phosphate 3-epimerase,15.0,D-ribulose 5-phosphate,Saccharomyces cerevisiae,#4# D-xylulose 5-phosphate <1>
+5.1.3.1,Ribulose-phosphate 3-epimerase,0.19,D-ribulose 5-phosphate,Bos taurus,
+5.1.3.1,Ribulose-phosphate 3-epimerase,0.25,D-ribulose 5-phosphate,Spinacia oleracea,#7# pH 7.5 <14>
+5.1.3.1,Ribulose-phosphate 3-epimerase,2.4,D-ribulose-5-phosphate,Saccharomyces cerevisiae,
+5.1.3.1,Ribulose-phosphate 3-epimerase,2.9,D-ribulose-5-phosphate,Bos taurus,
+2.2.1.1,Transketolase,0.095,D-ribose 5-phosphate,Oryctolagus cuniculus,
+2.2.1.1,Transketolase,0.356,D-ribose 5-phosphate,Cereibacter sphaeroides,"#13# wild-type, pH 6.7, 25Â°C <37>"
+2.2.1.1,Transketolase,0.739,D-ribose 5-phosphate,Cereibacter sphaeroides,"#13# mutant C160E, pH 7.6, 25Â°C<37>"
+2.2.1.1,Transketolase,2.316,D-ribose 5-phosphate,Cereibacter sphaeroides,"#13# wild-type, pH 8.5, 25Â°C <37>"
+2.2.1.1,Transketolase,0.436,D-ribose 5-phosphate,Cereibacter sphaeroides,"#13# mutant C160S, pH 7.9, 25Â°C<37>"
+2.2.1.1,Transketolase,0.949,D-ribose 5-phosphate,Cereibacter sphaeroides,"#13# wild-type, pH 7.8, 25Â°C <37>"
+2.2.1.1,Transketolase,0.837,D-ribose 5-phosphate,Cereibacter sphaeroides,"#13# mutant C160D, pH 8.5, 25Â°C<37>"
+2.2.1.1,Transketolase,0.882,D-ribose 5-phosphate,Cereibacter sphaeroides,"#13# mutant C160A, pH 7.8, 25Â°C<37>"
+2.2.1.1,Transketolase,0.8,D-ribose 5-phosphate,Trypanosoma brucei,"#36# pH 7.6, 37Â°C <105>; #17# pH7.5, 22Â°C <103>"
+2.2.1.1,Transketolase,0.8,D-ribose 5-phosphate,Mycobacterium tuberculosis,"#36# pH 7.6, 37Â°C <105>; #17# pH7.5, 22Â°C <103>"
+2.2.1.1,Transketolase,0.12,D-ribose 5-phosphate,Bacillus methanolicus,"#22# isoform TKTc, at pH 7.5 and55Â°C <115>"
+2.2.1.1,Transketolase,0.61,D-ribose 5-phosphate,Homo sapiens,"#27# His-tagged recombinant enzyme,pH 7.6, 30Â°C <101>"
+2.2.1.1,Transketolase,0.48,D-ribose 5-phosphate,Homo sapiens,"#27# recombinant enzyme, pH 7.6,30Â°C <101>"
+2.2.1.1,Transketolase,7.0,D-ribose 5-phosphate,Saccharomyces cerevisiae,#35# R528A <26>
+2.2.1.1,Transketolase,1.75,D-ribose 5-phosphate,Saccharomyces cerevisiae,#35# D477A <26>
+2.2.1.1,Transketolase,5.97,D-ribose 5-phosphate,Saccharomyces cerevisiae,#35# H469A <26>
+2.2.1.1,Transketolase,5.65,D-ribose 5-phosphate,Saccharomyces cerevisiae,#35# R359A <26>
+2.2.1.1,Transketolase,0.33,D-ribose 5-phosphate,Mus musculus,#4# cosubstrate D-xylulose5-phosphate <23>
+2.2.1.1,Transketolase,0.33,D-ribose 5-phosphate,Spinacia oleracea,#4# cosubstrate D-xylulose5-phosphate <23>
+2.2.1.1,Transketolase,0.058,D-ribose 5-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#41# with excess D-xylose5-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,0.73,D-ribose 5-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#42# with excess D-xylose5-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,0.66,D-ribose 5-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#43# with excess D-xylose5-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,1.4,D-ribose 5-phosphate,Escherichia coli,
+2.2.1.1,Transketolase,0.063,D-ribose 5-phosphate,Homo sapiens,"#6# pH 7.6, 22Â°C <98>"
+2.2.1.1,Transketolase,0.3,D-ribose 5-phosphate,Homo sapiens,#6# cosubstrate D-xylulose 5-phosphate<16>
+2.2.1.1,Transketolase,0.63,D-ribose 5-phosphate,Homo sapiens,#6# cosubstrate D-xylulose5-phosphate <15>
+2.2.1.1,Transketolase,0.53,D-ribose 5-phosphate,Homo sapiens,
+2.2.1.1,Transketolase,0.72,D-ribose 5-phosphate,Rattus norvegicus,#7# cosubstrate D-xylulose5-phosphate <18>
+2.2.1.1,Transketolase,0.0362,D-ribose 5-phosphate,Rattus norvegicus,#7# wild-type <28>
+2.2.1.1,Transketolase,0.879,D-ribose 5-phosphate,Rattus norvegicus,#7# R433A <28>
+2.2.1.1,Transketolase,0.06,D-ribose 5-phosphate,Saccharomyces cerevisiae,"#9# first active center oftransketolase <55>; #9# pH 7.6, 25Â°C, affinity to the first activecenter when the second center is unoccupied <55>"
+2.2.1.1,Transketolase,0.6,D-ribose 5-phosphate,Saccharomyces cerevisiae,"#9# pH 7.6, 25Â°C, affinity to thesecond active center when the first center is occupied, presence ofCa2+ <88>"
+2.2.1.1,Transketolase,0.09,D-ribose 5-phosphate,Saccharomyces cerevisiae,"#9# hemiholotransketolase 1, i. e.transketolase, in which the functional active center has a higheraffinity for the coenzyme than the other active center <55>"
+2.2.1.1,Transketolase,0.014,D-ribose 5-phosphate,Saccharomyces cerevisiae,"#9# pH 7.6, 25Â°C, affinity to thefirst active center when the second center is unoccupied, presence ofCa2+ <88>"
+2.2.1.1,Transketolase,0.29,D-ribose 5-phosphate,Saccharomyces cerevisiae,#9# H30A <27>
+2.2.1.1,Transketolase,0.15,D-ribose 5-phosphate,Saccharomyces cerevisiae,#9# H481A <27>
+2.2.1.1,Transketolase,0.007,D-ribose 5-phosphate,Saccharomyces cerevisiae,"#9# and second value 0.698 mM, pH7.6, presence of 0.1 mM Ca2+, temperature not specified in thepublication <108>"
+2.2.1.1,Transketolase,0.08,D-ribose 5-phosphate,Saccharomyces cerevisiae,"#9# hemiholotransketolase 2, i.e.,transketolase, in which the functional active center has a loweraffinity for thiamine diphosphate than hemiholotransketolase 1 <55>"
+2.2.1.1,Transketolase,0.093,D-ribose 5-phosphate,Saccharomyces cerevisiae,#9# H263A <27>
+2.2.1.1,Transketolase,0.193,D-ribose 5-phosphate,Saccharomyces cerevisiae,#9# H69A <27>
+2.2.1.1,Transketolase,0.159,D-ribose 5-phosphate,Saccharomyces cerevisiae,"#9# pH 7.6, temperature notspecified in the publication <108>"
+2.2.1.1,Transketolase,0.698,D-ribose 5-phosphate,Saccharomyces cerevisiae,"#9# and first value 0.007 mM, pH7.6, presence of 0.1 mM Ca2+, temperature not specified in thepublication <108>"
+2.2.1.1,Transketolase,0.4,D-ribose 5-phosphate,Saccharomyces cerevisiae,"#9# cosubstrate D-xylulose5-phosphate <2>; #9# pH 7.6, 25Â°C, affinity to the first active centerwhen the second center is unoccupied, presence of Mg2+ <88>; #9# pH7.6, 25Â°C, affinity to the second active center when the first centeris occupied, presence of Mg2+ <88>"
+2.2.1.1,Transketolase,0.4,D-ribose 5-phosphate,Spinacia oleracea,"#9# cosubstrate D-xylulose5-phosphate <2>; #9# pH 7.6, 25Â°C, affinity to the first active centerwhen the second center is unoccupied, presence of Mg2+ <88>; #9# pH7.6, 25Â°C, affinity to the second active center when the first centeris occupied, presence of Mg2+ <88>"
+2.2.1.1,Transketolase,0.25,D-ribose 5-phosphate,Saccharomyces cerevisiae,"#9# second active center oftransketolase <55>; #9# pH 7.6, 25Â°C, affinity to the second activecenter when the first center is occupied <55>; #22# isoform TKTp, at pH7.7 and 55Â°C <115>"
+2.2.1.1,Transketolase,0.25,D-ribose 5-phosphate,Bacillus methanolicus,"#9# second active center oftransketolase <55>; #9# pH 7.6, 25Â°C, affinity to the second activecenter when the first center is occupied <55>; #22# isoform TKTp, at pH7.7 and 55Â°C <115>"
+2.2.1.1,Transketolase,0.146,D-ribose 5-phosphate,Saccharomyces cerevisiae,"#9,35# wild-type <26,27>"
+2.2.1.1,Transketolase,84.0,D-ribose 5-phosphate,Bacillus methanolicus,"#22# isoform TKTp, at pH 7.7 and 55Â°C<115>"
+2.2.1.1,Transketolase,109.0,D-ribose 5-phosphate,Bacillus methanolicus,"#22# isoform TKTc, at pH 7.5 and 55Â°C<115>"
+2.2.1.1,Transketolase,23200.0,D-ribose 5-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#41# with excess D-xylose5-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,131000.0,D-ribose 5-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#42# with excess D-xylose5-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,102000.0,D-ribose 5-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#43# with excess D-xylose5-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,0.038,D-xylulose 5-phosphate,Oryctolagus cuniculus,
+2.2.1.1,Transketolase,0.015,D-xylulose 5-phosphate,Cereibacter sphaeroides,"#13# mutant C160A, pH 7.8, 25Â°C<37>"
+2.2.1.1,Transketolase,0.02,D-xylulose 5-phosphate,Cereibacter sphaeroides,"#13# mutant C160D, pH 8.5, 25Â°C<37>"
+2.2.1.1,Transketolase,0.065,D-xylulose 5-phosphate,Cereibacter sphaeroides,"#13# mutant C160E, pH 7.6, 25Â°C<37>"
+2.2.1.1,Transketolase,0.033,D-xylulose 5-phosphate,Cereibacter sphaeroides,"#13# mutant C160S, pH 7.9, 25Â°C<37>"
+2.2.1.1,Transketolase,0.034,D-xylulose 5-phosphate,Cereibacter sphaeroides,"#13# wild-type, pH 8.5, 25Â°C<37>"
+2.2.1.1,Transketolase,0.0056,D-xylulose 5-phosphate,Cereibacter sphaeroides,"#13# wild-type, pH 6.7, 25Â°C<37>"
+2.2.1.1,Transketolase,0.067,D-xylulose 5-phosphate,Spinacia oleracea,
+2.2.1.1,Transketolase,0.23,D-xylulose 5-phosphate,Bacillus methanolicus,"#22# isoform TKTp, at pH 7.7 and55Â°C <115>"
+2.2.1.1,Transketolase,0.255,D-xylulose 5-phosphate,Homo sapiens,"#27# recombinant enzyme, pH 7.6,30Â°C <101>"
+2.2.1.1,Transketolase,0.303,D-xylulose 5-phosphate,Homo sapiens,"#27# His-tagged recombinantenzyme, pH 7.6, 30Â°C <101>"
+2.2.1.1,Transketolase,0.073,D-xylulose 5-phosphate,Saccharomyces cerevisiae,#35# wild-type <26>
+2.2.1.1,Transketolase,0.163,D-xylulose 5-phosphate,Saccharomyces cerevisiae,#35# R359A <26>
+2.2.1.1,Transketolase,0.595,D-xylulose 5-phosphate,Saccharomyces cerevisiae,#35# D477A <26>
+2.2.1.1,Transketolase,0.318,D-xylulose 5-phosphate,Saccharomyces cerevisiae,#35# R528A <26>
+2.2.1.1,Transketolase,0.829,D-xylulose 5-phosphate,Saccharomyces cerevisiae,#35# H469A <26>
+2.2.1.1,Transketolase,0.12,D-xylulose 5-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#4# (+ D-ribose 5-phosphate)<23>; #41# with excess D-erythrose 4-phosphate as cosubstrate, at pH7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,0.12,D-xylulose 5-phosphate,Mus musculus,"#4# (+ D-ribose 5-phosphate)<23>; #41# with excess D-erythrose 4-phosphate as cosubstrate, at pH7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,0.75,D-xylulose 5-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#41# with excess D-ribose5-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,0.17,D-xylulose 5-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#42# with excess D-erythrose4-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,0.27,D-xylulose 5-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#42# with excess D-ribose5-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,0.29,D-xylulose 5-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#43# with excess D-ribose5-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,0.145,D-xylulose 5-phosphate,Scheffersomyces stipitis,"#45# wild type enzyme, withD-erythrose 4-phosphate as cosubstrate, at pH 8.0 and 25Â°C <143>"
+2.2.1.1,Transketolase,0.68,D-xylulose 5-phosphate,Scheffersomyces stipitis,"#45# mutant enzyme R525L, withD-ribose 5-phosphate as cosubstrate, at pH 8.0 and 25Â°C <143>"
+2.2.1.1,Transketolase,0.183,D-xylulose 5-phosphate,Scheffersomyces stipitis,"#45# wild type enzyme, withD-ribose 5-phosphate as cosubstrate, at pH 8.0 and 25Â°C <143>"
+2.2.1.1,Transketolase,0.517,D-xylulose 5-phosphate,Scheffersomyces stipitis,"#45# mutant enzyme R356L, withD-ribose 5-phosphate as cosubstrate, at pH 8.0 and 25Â°C <143>"
+2.2.1.1,Transketolase,0.232,D-xylulose 5-phosphate,Scheffersomyces stipitis,"#45# mutant enzyme H27A, withD-ribose 5-phosphate as cosubstrate, at pH 8.0 and 25Â°C <143>"
+2.2.1.1,Transketolase,0.16,D-xylulose 5-phosphate,Escherichia coli,
+2.2.1.1,Transketolase,0.1,D-xylulose 5-phosphate,Homo sapiens,"#6# presence of 2 mM D-ribose5-phosphate, pH 7.6, temperature not specified in the publication <97>"
+2.2.1.1,Transketolase,0.41,D-xylulose 5-phosphate,Homo sapiens,"#6# presence of 10 mM D-ribose5-phosphate, pH 7.6, temperature not specified in the publication <97>"
+2.2.1.1,Transketolase,0.04,D-xylulose 5-phosphate,Homo sapiens,"#6# presence of 1 mM D-ribose5-phosphate, pH 7.6, temperature not specified in the publication <97>"
+2.2.1.1,Transketolase,0.49,D-xylulose 5-phosphate,Homo sapiens,
+2.2.1.1,Transketolase,0.011,D-xylulose 5-phosphate,Cereibacter sphaeroides,"#6# pH 7.6, 22Â°C <98>; #13#wild-type, pH 7.8, 25Â°C <37>"
+2.2.1.1,Transketolase,0.011,D-xylulose 5-phosphate,Homo sapiens,"#6# pH 7.6, 22Â°C <98>; #13#wild-type, pH 7.8, 25Â°C <37>"
+2.2.1.1,Transketolase,0.2,D-xylulose 5-phosphate,Trypanosoma brucei,"#17# pH 7.5, 22Â°C <103>; #6#presence of 5 mM D-ribose 5-phosphate, pH 7.6, temperature notspecified in the publication <97>"
+2.2.1.1,Transketolase,0.2,D-xylulose 5-phosphate,Homo sapiens,"#17# pH 7.5, 22Â°C <103>; #6#presence of 5 mM D-ribose 5-phosphate, pH 7.6, temperature notspecified in the publication <97>"
+2.2.1.1,Transketolase,0.15,D-xylulose 5-phosphate,Bacillus methanolicus,"#6# (+ D-ribose 5-phosphate)<17>; #22# isoform TKTc, at pH 7.5 and 55Â°C <115>"
+2.2.1.1,Transketolase,0.15,D-xylulose 5-phosphate,Homo sapiens,"#6# (+ D-ribose 5-phosphate)<17>; #22# isoform TKTc, at pH 7.5 and 55Â°C <115>"
+2.2.1.1,Transketolase,0.18,D-xylulose 5-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#6# (+ D-ribose 5-phosphate)<16>; #43# with excess D-erythrose 4-phosphate as cosubstrate, at pH7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,0.18,D-xylulose 5-phosphate,Homo sapiens,"#6# (+ D-ribose 5-phosphate)<16>; #43# with excess D-erythrose 4-phosphate as cosubstrate, at pH7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,0.44,D-xylulose 5-phosphate,Rattus norvegicus,#7# (+ D-ribose 5-phosphate) <18>
+2.2.1.1,Transketolase,0.0399,D-xylulose 5-phosphate,Rattus norvegicus,#7# wild-type <28>
+2.2.1.1,Transketolase,0.4579,D-xylulose 5-phosphate,Rattus norvegicus,#7# R433A <28>
+2.2.1.1,Transketolase,0.025,D-xylulose 5-phosphate,Rattus norvegicus,"#9# and second value 0.773 mM,pH 7.6, presence of 0.1 mM Ca2+, temperature not specified in thepublication <108>"
+2.2.1.1,Transketolase,0.025,D-xylulose 5-phosphate,Saccharomyces cerevisiae,"#9# and second value 0.773 mM,pH 7.6, presence of 0.1 mM Ca2+, temperature not specified in thepublication <108>"
+2.2.1.1,Transketolase,0.5,D-xylulose 5-phosphate,Saccharomyces cerevisiae,"#9# pH 7.6, 25Â°C, affinity to thesecond active center when the first center is occupied, presence ofCa2+ <88>"
+2.2.1.1,Transketolase,0.021,D-xylulose 5-phosphate,Saccharomyces cerevisiae,"#9# pH 7.6, 25Â°C, affinity to thefirst active center when the second center is unoccupied, presence ofCa2+ <88>"
+2.2.1.1,Transketolase,0.07,D-xylulose 5-phosphate,Saccharomyces cerevisiae,#9# wild-type <27>
+2.2.1.1,Transketolase,0.023,D-xylulose 5-phosphate,Saccharomyces cerevisiae,#9# H263A <27>
+2.2.1.1,Transketolase,0.075,D-xylulose 5-phosphate,Saccharomyces cerevisiae,"#9# pH 7.6, temperature notspecified in the publication <108>"
+2.2.1.1,Transketolase,1.01,D-xylulose 5-phosphate,Saccharomyces cerevisiae,#9# H30A <27>
+2.2.1.1,Transketolase,0.115,D-xylulose 5-phosphate,Saccharomyces cerevisiae,"#9# pH 7.6, 25Â°C, affinity to thefirst active center when the second center is unoccupied, presence ofMg2+ <88>; #9# pH 7.6, 25Â°C, affinity to the second active center whenthe first center is occupied, presence of Mg2+ <88>"
+2.2.1.1,Transketolase,1.24,D-xylulose 5-phosphate,Saccharomyces cerevisiae,#9# H481A <27>
+2.2.1.1,Transketolase,0.773,D-xylulose 5-phosphate,Saccharomyces cerevisiae,"#9# and first value 0.025 mM, pH7.6, presence of 0.1 mM Ca2+, temperature not specified in thepublication <108>"
+2.2.1.1,Transketolase,3.35,D-xylulose 5-phosphate,Saccharomyces cerevisiae,#9# H481S <27>
+2.2.1.1,Transketolase,4.08,D-xylulose 5-phosphate,Saccharomyces cerevisiae,#9# H481Q <27>
+2.2.1.1,Transketolase,0.21,D-xylulose 5-phosphate,Saccharomyces cerevisiae,#9# (+ D-ribose 5-phosphate)<2>
+2.2.1.1,Transketolase,0.4,D-xylulose 5-phosphate,Saccharomyces cerevisiae,"#9# H69A <27>; #36# pH 7.6, 37Â°C<105>"
+2.2.1.1,Transketolase,0.4,D-xylulose 5-phosphate,Mycobacterium tuberculosis,"#9# H69A <27>; #36# pH 7.6, 37Â°C<105>"
+2.2.1.1,Transketolase,264.0,D-xylulose 5-phosphate,Bacillus methanolicus,"#22# isoform TKTc, at pH 7.5 and55Â°C <115>"
+2.2.1.1,Transketolase,231.0,D-xylulose 5-phosphate,Bacillus methanolicus,"#22# isoform TKTp, at pH 7.7 and55Â°C <115>"
+2.2.1.1,Transketolase,10800.0,D-xylulose 5-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#41# with excess D-ribose5-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,5580.0,D-xylulose 5-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#41# with excess D-erythrose4-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,477000.0,D-xylulose 5-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#42# with excess D-ribose5-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,422000.0,D-xylulose 5-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#42# with excess D-erythrose4-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,269000.0,D-xylulose 5-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#43# with excess D-ribose5-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,299000.0,D-xylulose 5-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#43# with excess D-erythrose4-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,120.0,D-xylulose 5-phosphate,Scheffersomyces stipitis,"#45# wild type enzyme, withD-erythrose 4-phosphate as cosubstrate, at pH 8.0 and 25Â°C <143>"
+2.2.1.1,Transketolase,0.78,D-xylulose 5-phosphate,Scheffersomyces stipitis,"#45# mutant enzyme R525L, withD-ribose 5-phosphate as cosubstrate, at pH 8.0 and 25Â°C <143>"
+2.2.1.1,Transketolase,80.0,D-xylulose 5-phosphate,Scheffersomyces stipitis,"#45# mutant enzyme H27A, withD-ribose 5-phosphate as cosubstrate, at pH 8.0 and 25Â°C <143>"
+2.2.1.1,Transketolase,140.0,D-xylulose 5-phosphate,Scheffersomyces stipitis,"#45# wild type enzyme, withD-ribose 5-phosphate as cosubstrate, at pH 8.0 and 25Â°C <143>"
+2.2.1.1,Transketolase,0.66,D-xylulose 5-phosphate,Scheffersomyces stipitis,"#45# mutant enzyme R356L, withD-ribose 5-phosphate as cosubstrate, at pH 8.0 and 25Â°C <143>"
+2.2.1.1,Transketolase,11.0,fructose 6-phosphate,Oryctolagus cuniculus,
+2.2.1.1,Transketolase,3.2,fructose 6-phosphate,Spinacia oleracea,
+2.2.1.1,Transketolase,0.61,fructose 6-phosphate,Leishmania mexicana,
+2.2.1.1,Transketolase,1.1,fructose 6-phosphate,Escherichia coli,
+2.2.1.1,Transketolase,7.0,fructose 6-phosphate,Homo sapiens,
+2.2.1.1,Transketolase,1.8,fructose 6-phosphate,Saccharomyces cerevisiae,#9# (+ ribose 5-phosphate) <2>
+2.2.1.1,Transketolase,45.0,D-xylose,Spinacia oleracea,
+2.2.1.1,Transketolase,55.0,L-arabinose,Spinacia oleracea,
+2.2.1.1,Transketolase,120.0,L-Lyxose,Spinacia oleracea,
+2.2.1.1,Transketolase,230.0,D-ribose,Spinacia oleracea,
+2.2.1.1,Transketolase,2.25,fructose-6-phosphate,Plasmodium falciparum,
+2.2.1.1,Transketolase,4.78,Hydroxypyruvate,Plasmodium falciparum,
+2.2.1.1,Transketolase,33.0,Hydroxypyruvate,Saccharomyces cerevisiae,
+2.2.1.1,Transketolase,5.3,Hydroxypyruvate,Escherichia coli,"#5# wild-type, in the presence of 50 mMglycolaldehyde <74>"
+2.2.1.1,Transketolase,18.0,Hydroxypyruvate,Escherichia coli,
+2.2.1.1,Transketolase,6.6,Hydroxypyruvate,Escherichia coli,"#5# mutant A29E, in the presence of 50 mMglycolaldehyde <74>"
+2.2.1.1,Transketolase,0.25,D-fructose 6-phosphate,Bacillus methanolicus,"#22# isoform TKTp, at pH 7.7 and55Â°C <115>"
+2.2.1.1,Transketolase,0.72,D-fructose 6-phosphate,Bacillus methanolicus,"#22# isoform TKTc, at pH 7.5 and55Â°C <115>"
+2.2.1.1,Transketolase,0.6,D-fructose 6-phosphate,Mycobacterium tuberculosis,"#36# pH 7.6, 37Â°C <105>"
+2.2.1.1,Transketolase,0.029,D-fructose 6-phosphate,Scheffersomyces stipitis,"#45# wild type enzyme, at pH 8.0and 25Â°C <143>"
+2.2.1.1,Transketolase,0.34,D-fructose 6-phosphate,Homo sapiens,"#6# pH 7.6, temperature notspecified in the publication <97>"
+2.2.1.1,Transketolase,115.0,D-fructose 6-phosphate,Bacillus methanolicus,"#22# isoform TKTc, at pH 7.5 and55Â°C <115>"
+2.2.1.1,Transketolase,448.0,D-fructose 6-phosphate,Bacillus methanolicus,"#22# isoform TKTp, at pH 7.7 and55Â°C <115>"
+2.2.1.1,Transketolase,920.0,D-fructose 6-phosphate,Scheffersomyces stipitis,"#45# wild type enzyme, at pH 8.0and 25Â°C <143>"
+2.2.1.1,Transketolase,0.67,D-glyceraldehyde 3-phosphate,Bacillus methanolicus,"#22# isoform TKTp, at pH 7.7and 55Â°C <115>"
+2.2.1.1,Transketolase,0.92,D-glyceraldehyde 3-phosphate,Bacillus methanolicus,"#22# isoform TKTc, at pH 7.5and 55Â°C <115>"
+2.2.1.1,Transketolase,71.0,D-glyceraldehyde 3-phosphate,Bacillus methanolicus,"#22# isoform TKTp, at pH 7.7and 55Â°C <115>"
+2.2.1.1,Transketolase,108.0,D-glyceraldehyde 3-phosphate,Bacillus methanolicus,"#22# isoform TKTc, at pH 7.5and 55Â°C <115>"
+2.2.1.1,Transketolase,0.0054,thiamine diphosphate,Cyberlindnera jadinii,
+2.2.1.1,Transketolase,0.0019,thiamine diphosphate,Saccharomyces cerevisiae,#35# R359A <26>
+2.2.1.1,Transketolase,0.0024,thiamine diphosphate,Saccharomyces cerevisiae,#35# R528A <26>
+2.2.1.1,Transketolase,0.007,thiamine diphosphate,Mus musculus,
+2.2.1.1,Transketolase,0.0004,thiamine diphosphate,Homo sapiens,#6# in the presence of Mg2+ <16>
+2.2.1.1,Transketolase,0.0003,thiamine diphosphate,Saccharomyces cerevisiae,#9# H481A <27>
+2.2.1.1,Transketolase,0.0018,thiamine diphosphate,Saccharomyces cerevisiae,#9# H69A <27>
+2.2.1.1,Transketolase,0.0007,thiamine diphosphate,Saccharomyces cerevisiae,#9# H481Q <27>
+2.2.1.1,Transketolase,0.0008,thiamine diphosphate,Saccharomyces cerevisiae,#9# H30A <27>
+2.2.1.1,Transketolase,0.0005,thiamine diphosphate,Saccharomyces cerevisiae,"#35# H469A <26>; #9# H30N, H418S<27>"
+2.2.1.1,Transketolase,0.0006,thiamine diphosphate,Saccharomyces cerevisiae,"#9,35# wild-type <26,27>"
+2.2.1.1,Transketolase,0.0012,thiamine diphosphate,Saccharomyces cerevisiae,#35# D477A <26>; #9# H263A <27>
+2.2.1.1,Transketolase,2.75,D-ribose-5-phosphate,Leishmania mexicana,#31# pH 7.5 <38>
+2.2.1.1,Transketolase,0.2,D-ribose-5-phosphate,Geobacillus stearothermophilus,#40# at pH 7.5 and 25Â°C <111>
+2.2.1.1,Transketolase,0.13,D-ribose-5-phosphate,Geobacillus stearothermophilus,#40# at pH 7.5 and 50Â°C <111>
+2.2.1.1,Transketolase,4.9,glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,
+2.2.1.1,Transketolase,300.0,L-glyceraldehyde,Geobacillus stearothermophilus,"#40# Km above 300 mM, at pH 7.2 and 50Â°C<112>"
+2.2.1.1,Transketolase,300.0,L-lactaldehyde,Geobacillus stearothermophilus,"#40# Km above 300 mM, at pH 7.2 and 50Â°C<112>"
+2.2.1.1,Transketolase,8.0,L-erythrulose,Geobacillus stearothermophilus,#40# at pH 7.5 and 50Â°C <111>
+2.2.1.1,Transketolase,5.2,L-erythrulose,Geobacillus stearothermophilus,#40# at pH 7.5 and 25Â°C <111>
+2.2.1.1,Transketolase,4.9,L-erythrulose,Saccharomyces cerevisiae,#9# cosubstrate glyceraldehyde 3-phosphate<2>
+2.2.1.1,Transketolase,6.0,D-glyceraldehyde,Geobacillus stearothermophilus,#40# at pH 7.2 and 50Â°C <112>
+2.2.1.1,Transketolase,8.4,D-Lactaldehyde,Geobacillus stearothermophilus,#40# at pH 7.2 and 50Â°C <112>
+2.2.1.1,Transketolase,0.023,D-erythrose 4-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#41# with excess D-xylose5-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,0.099,D-erythrose 4-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#42# with excess D-xylose5-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,0.082,D-erythrose 4-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#43# with excess D-xylose5-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,0.09,D-erythrose 4-phosphate,Escherichia coli,
+2.2.1.1,Transketolase,0.36,D-erythrose 4-phosphate,Homo sapiens,
+2.2.1.1,Transketolase,60700.0,D-erythrose 4-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#41# with excess D-xylose5-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,1050000.0,D-erythrose 4-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#42# with excess D-xylose5-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,106000.0,D-erythrose 4-phosphate,Salmonella enterica subsp. enterica serovar Typhimurium,"#43# with excess D-xylose5-phosphate as cosubstrate, at pH 7.5 and 37Â°C <138>"
+2.2.1.1,Transketolase,0.031,sedoheptulose 7-phosphate,Scheffersomyces stipitis,"#45# wild type enzyme, at pH8.0 and 25Â°C <143>"
+2.2.1.1,Transketolase,0.294,sedoheptulose 7-phosphate,Scheffersomyces stipitis,"#45# mutant enzyme H27A, withD-ribose 5-phosphate as cosubstrate, at pH 8.0 and 25Â°C <143>"
+2.2.1.1,Transketolase,4.0,sedoheptulose 7-phosphate,Escherichia coli,
+2.2.1.1,Transketolase,70.0,sedoheptulose 7-phosphate,Scheffersomyces stipitis,"#45# mutant enzyme H27A, withD-ribose 5-phosphate as cosubstrate, at pH 8.0 and 25Â°C <143>"
+2.2.1.1,Transketolase,910.0,sedoheptulose 7-phosphate,Scheffersomyces stipitis,"#45# wild type enzyme, at pH 8.0and 25Â°C <143>"
+2.2.1.1,Transketolase,55.0,propionaldehyde,Escherichia coli,"#5# mutant D469T, in the presence of 50 mMLi-hydroxypyruvate, 50 mM propionaldehyde, and 50 mM Tris-HCl, 2.4 mMthiamine diphosphate, 9 mM MgCl2, pH 7.0 <75>"
+2.2.1.1,Transketolase,140.0,propionaldehyde,Escherichia coli,"#5# wild-type, in the presence of 50 mMLi-hydroxypyruvate, 50 mM propionaldehyde, and 50 mM Tris-HCl, 2.4 mMthiamine diphosphate, 9 mM MgCl2, pH 7.0 <75>"
+2.2.1.1,Transketolase,1.3,3-formylbenzoic acid,Escherichia coli,"#5# mutant enzyme S385Y/D469T/R520Q,at pH 7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,1.7,3-formylbenzoic acid,Escherichia coli,"#5# mutant enzyme S385T/D469T/R520Q,at pH 7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,56.0,3-formylbenzoic acid,Escherichia coli,"#5# mutant enzyme D469T, at pH 7.0 and22Â°C <133>"
+2.2.1.1,Transketolase,13.0,3-formylbenzoic acid,Escherichia coli,"#5# mutant enzyme D469T/R520Q, at pH7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,18.0,3-formylbenzoic acid,Escherichia coli,"#5# mutant enzyme S385E/D469T/R520Q, atpH 7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,0.24,3-formylbenzoic acid,Escherichia coli,"#5# mutant enzyme D469T, at pH 7.0and 22Â°C <133>"
+2.2.1.1,Transketolase,5.4,3-formylbenzoic acid,Escherichia coli,"#5# mutant enzyme S385Y/D469T/R520Q,at pH 7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,1.9,3-formylbenzoic acid,Escherichia coli,"#5# mutant enzyme S385E/D469T/R520Q,at pH 7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,0.47,3-formylbenzoic acid,Escherichia coli,"#5# mutant enzyme D469T/R520Q, at pH7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,4.25,3-formylbenzoic acid,Escherichia coli,"#5# mutant enzyme S385T/D469T/R520Q,at pH 7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,2.5,4-formylbenzoic acid,Escherichia coli,"#5# mutant enzyme S385T/D469T/R520Q,at pH 7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,25.0,4-formylbenzoic acid,Escherichia coli,"#5# mutant enzyme D469T/R520Q, at pH7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,13.0,4-formylbenzoic acid,Escherichia coli,"#5# mutant enzyme S385Y/D469T/R520Q, atpH 7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,72.0,4-formylbenzoic acid,Escherichia coli,"#5# mutant enzyme S385E/D469T/R520Q, atpH 7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,251.0,4-formylbenzoic acid,Escherichia coli,"#5# mutant enzyme D469T, at pH 7.0 and22Â°C <133>"
+2.2.1.1,Transketolase,0.09,4-formylbenzoic acid,Escherichia coli,"#5# mutant enzyme S385T/D469T/R520Q,at pH 7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,0.11,4-formylbenzoic acid,Escherichia coli,"#5# mutant enzyme S385Y/D469T/R520Q,at pH 7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,0.02,4-formylbenzoic acid,Escherichia coli,"#5# mutant enzyme D469T, at pH 7.0and 22Â°C <133>"
+2.2.1.1,Transketolase,0.0081,4-formylbenzoic acid,Escherichia coli,"#5# mutant enzyme D469T/R520Q, atpH 7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,0.0046,4-formylbenzoic acid,Escherichia coli,"#5# mutant enzymeS385E/D469T/R520Q, at pH 7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,10.0,"D,L-glyceraldehyde",Escherichia coli,
+2.2.1.1,Transketolase,2.1,"D,L-glyceraldehyde 3-phosphate",Escherichia coli,
+2.2.1.1,Transketolase,14.0,glycolaldehyde,Escherichia coli,
+2.2.1.1,Transketolase,35.0,glycolaldehyde,Escherichia coli,"#5# wild-type, in the presence of 50 mMhydroxypyruvate <74>"
+2.2.1.1,Transketolase,200.0,glycolaldehyde,Escherichia coli,"#5# mutant A29E, in the presence of 50 mMhydroxypyruvate <74>"
+2.2.1.1,Transketolase,26.0,lithium beta-hydroxypyruvate,Escherichia coli,"#5# pH 7.0, 25Â°C <89>"
+2.2.1.1,Transketolase,150.0,D-erythrose,Escherichia coli,
+2.2.1.1,Transketolase,31.0,formaldehyde,Escherichia coli,
+2.2.1.1,Transketolase,390.0,3-Hydroxybenzaldehyde,Escherichia coli,"#5# mutant enzyme S385Y/D469T/R520Q,at pH 7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,180.0,3-Hydroxybenzaldehyde,Escherichia coli,"#5# mutant enzyme S385T/D469T/R520Q,at pH 7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,245.0,3-Hydroxybenzaldehyde,Escherichia coli,"#5# mutant enzyme S385E/D469T/R520Q,at pH 7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,0.0055,3-Hydroxybenzaldehyde,Escherichia coli,"#5# mutant enzymeS385T/D469T/R520Q, at pH 7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,0.0054,3-Hydroxybenzaldehyde,Escherichia coli,"#5# mutant enzymeS385Y/D469T/R520Q, at pH 7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,0.0024,3-Hydroxybenzaldehyde,Escherichia coli,"#5# mutant enzymeS385E/D469T/R520Q, at pH 7.0 and 22Â°C <133>"
+2.2.1.1,Transketolase,0.16,Xylulose 5-phosphate,Saccharomyces cerevisiae,#9# KM for the second active centerof transketolase in the presence of Ca2+ <82>
+2.2.1.1,Transketolase,0.0365,Xylulose 5-phosphate,Saccharomyces cerevisiae,#9# KM for the first active centerof transketolase in the presence of Ca2+ <82>
+2.2.1.2,Transaldolase,1.6,D-fructose 6-phosphate,Dictyostelium discoideum,
+2.2.1.2,Transaldolase,0.2,D-fructose 6-phosphate,Arthrobacter sp.,
+2.2.1.2,Transaldolase,0.65,D-fructose 6-phosphate,Methanocaldococcus jannaschii,"#21# pH 7.5, 50Â°C <20>"
+2.2.1.2,Transaldolase,0.64,D-fructose 6-phosphate,Methanocaldococcus jannaschii,"#21# pH 7.5, 25Â°C <20>"
+2.2.1.2,Transaldolase,0.056,D-fructose 6-phosphate,Blastobotrys adeninivorans,"#27,32# pH 6.0, 20Â°C <23>"
+2.2.1.2,Transaldolase,0.8,D-fructose 6-phosphate,Cyberlindnera jadinii,
+2.2.1.2,Transaldolase,1.5,D-fructose 6-phosphate,Escherichia coli,"#37# mutant F189Y, reaction:fructose 6-phosphate cleavage into dihydroxyacetone and glyceraldehyde3-phosphate <31>"
+2.2.1.2,Transaldolase,22.0,D-fructose 6-phosphate,Escherichia coli,"#37# mutant F189Y, reaction:sedoheptulose 7-phosphate and D-glyceraldehyde 3-phosphate formationfrom erythrose 4-phosphate + D-fructose 6-phosphate <31>"
+2.2.1.2,Transaldolase,0.36,D-fructose 6-phosphate,Thermotoga maritima,"#39# pH 9.0, 80Â°C <44>"
+2.2.1.2,Transaldolase,2.3,D-fructose 6-phosphate,Thermoplasma acidophilum,"#42# wild type enzyme, at pH 7.5and 30Â°C <52>"
+2.2.1.2,Transaldolase,0.6,D-fructose 6-phosphate,Escherichia coli,#5# E96A <18>
+2.2.1.2,Transaldolase,1.2,D-fructose 6-phosphate,Escherichia coli,#5# wild-type <18>; #5# R300E <17>
+2.2.1.2,Transaldolase,0.7,D-fructose 6-phosphate,Escherichia coli,#5# D17A <18>
+2.2.1.2,Transaldolase,1.1,D-fructose 6-phosphate,Escherichia coli,#5# N35A <18>
+2.2.1.2,Transaldolase,0.94,D-fructose 6-phosphate,Escherichia coli,#5# wild-type <17>
+2.2.1.2,Transaldolase,1.35,D-fructose 6-phosphate,Escherichia coli,#5# R300A <17>
+2.2.1.2,Transaldolase,0.96,D-fructose 6-phosphate,Escherichia coli,#5# D17N <18>
+2.2.1.2,Transaldolase,4.9,D-fructose 6-phosphate,Escherichia coli,#5# S176A <18>
+2.2.1.2,Transaldolase,1.14,D-fructose 6-phosphate,Escherichia coli,#5# E96Q <18>
+2.2.1.2,Transaldolase,1.02,D-fructose 6-phosphate,Escherichia coli,#5# T156A <18>
+2.2.1.2,Transaldolase,0.76,D-fructose 6-phosphate,Homo sapiens,"#6# mutant F189Y, reaction:fructose 6-phosphate cleavage into dihydroxyacetone and glyceraldehyde3-phosphate <31>"
+2.2.1.2,Transaldolase,27.0,D-fructose 6-phosphate,Homo sapiens,"#6# mutant F189Y, reaction:sedoheptulose 7-phosphate and D-glyceraldehyde 3-phosphate formationfrom erythrose 4-phosphate + D-fructose 6-phosphate <31>"
+2.2.1.2,Transaldolase,0.32,D-fructose 6-phosphate,Saccharomyces cerevisiae,
+2.2.1.2,Transaldolase,6.0261,D-fructose 6-phosphate,Thermoplasma acidophilum,"#42# wild type enzyme, at pH 7.5and 30Â°C <52>"
+2.2.1.2,Transaldolase,0.46,sedoheptulose 7-phosphate,Dictyostelium discoideum,
+2.2.1.2,Transaldolase,0.285,sedoheptulose 7-phosphate,Escherichia coli,
+2.2.1.2,Transaldolase,0.18,sedoheptulose 7-phosphate,Saccharomyces cerevisiae,
+2.2.1.2,Transaldolase,0.072,glyceraldehyde 3-phosphate,Dictyostelium discoideum,
+2.2.1.2,Transaldolase,0.038,glyceraldehyde 3-phosphate,Escherichia coli,
+2.2.1.2,Transaldolase,2.4,glyceraldehyde 3-phosphate,Escherichia coli,"#5# mutant F178, pH 8.5, 30Â°C<46>"
+2.2.1.2,Transaldolase,1.9,glyceraldehyde 3-phosphate,Escherichia coli,"#5# wild-type, pH 8.5, 30Â°C<46>"
+2.2.1.2,Transaldolase,0.22,glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,
+2.2.1.2,Transaldolase,5000.0,glyceraldehyde 3-phosphate,Escherichia coli,"#5# mutant F178, pH 8.5, 30Â°C<46>"
+2.2.1.2,Transaldolase,6600.0,glyceraldehyde 3-phosphate,Escherichia coli,"#5# wild-type, pH 8.5, 30Â°C<46>"
+2.2.1.2,Transaldolase,0.132,erythrose 4-phosphate,Solanum lycopersicum,"#14# isoform ToTal1, 25Â°C, pH 8.5<22>"
+2.2.1.2,Transaldolase,0.343,fructose-6-phosphate,Solanum lycopersicum,"#14# isoform ToTal1, 25Â°C, pH 8.5<22>"
+2.2.1.2,Transaldolase,2.2,D-ribose 5-phosphate,Methanocaldococcus jannaschii,"#21# pH 7.5, 50Â°C, concentration ofribose-5-phosphate between 0.5 and 15 mM <20>"
+2.2.1.2,Transaldolase,0.0278,D-erythrose 4-phosphate,Methanocaldococcus jannaschii,"#21# pH 7.5, 50Â°C <20>"
+2.2.1.2,Transaldolase,0.0156,D-erythrose 4-phosphate,Methanocaldococcus jannaschii,"#21# pH 7.5, 25Â°C <20>"
+2.2.1.2,Transaldolase,0.013,D-erythrose 4-phosphate,Blastobotrys adeninivorans,"#27,32# pH 6.0, 20Â°C <23>"
+2.2.1.2,Transaldolase,0.02,D-erythrose 4-phosphate,Cyberlindnera jadinii,
+2.2.1.2,Transaldolase,0.27,D-erythrose 4-phosphate,Thermotoga maritima,"#39# pH 9.0, 80Â°C <44>"
+2.2.1.2,Transaldolase,0.111,D-erythrose 4-phosphate,Escherichia coli,#5# S176A <18>
+2.2.1.2,Transaldolase,0.078,D-erythrose 4-phosphate,Escherichia coli,#5# T156A <18>
+2.2.1.2,Transaldolase,0.09,D-erythrose 4-phosphate,Escherichia coli,
+2.2.1.2,Transaldolase,0.11,D-erythrose 4-phosphate,Escherichia coli,#5# D17N <18>
+2.2.1.2,Transaldolase,0.14,D-erythrose 4-phosphate,Escherichia coli,"#5# transaldolase A, at pH 7.2 and37Â°C <54>"
+2.2.1.2,Transaldolase,0.35,D-erythrose 4-phosphate,Escherichia coli,#5# R300E <17>
+2.2.1.2,Transaldolase,0.122,D-erythrose 4-phosphate,Escherichia coli,#5# E96A <18>
+2.2.1.2,Transaldolase,0.265,D-erythrose 4-phosphate,Escherichia coli,#5# R300A <17>
+2.2.1.2,Transaldolase,0.117,D-erythrose 4-phosphate,Escherichia coli,#5# E96Q <18>
+2.2.1.2,Transaldolase,0.084,D-erythrose 4-phosphate,Escherichia coli,"#5# transaldolase B, at pH 7.2and 37Â°C <54>"
+2.2.1.2,Transaldolase,0.555,D-erythrose 4-phosphate,Escherichia coli,#5# D17A <18>
+2.2.1.2,Transaldolase,0.295,D-erythrose 4-phosphate,Escherichia coli,#5# wild-type <17>
+2.2.1.2,Transaldolase,0.1,D-erythrose 4-phosphate,Dictyostelium discoideum,"#5# wild-type, N35A <18>"
+2.2.1.2,Transaldolase,0.1,D-erythrose 4-phosphate,Escherichia coli,"#5# wild-type, N35A <18>"
+2.2.1.2,Transaldolase,0.018,D-erythrose 4-phosphate,Saccharomyces cerevisiae,
+2.2.1.2,Transaldolase,0.007,D-erythrose 4-phosphate,Bos taurus,
+2.2.1.2,Transaldolase,0.49,D-erythrose-4-phosphate,Fusarium oxysporum,
+2.2.1.2,Transaldolase,0.013,D-erythrose-4-phosphate,Blastobotrys adeninivorans,
+2.2.1.2,Transaldolase,139.9,D-erythrose-4-phosphate,Fusarium oxysporum,
+2.2.1.2,Transaldolase,6.66,D-fructose-6-phosphate,Fusarium oxysporum,
+2.2.1.2,Transaldolase,10.38,D-fructose-6-phosphate,Fusarium oxysporum,
+2.2.1.2,Transaldolase,30.0,dihydroxyacetone,Escherichia coli,"#37# mutant F189Y, reaction: fructose6-phosphate synthesis from dihydroxyacetone and glyceraldehyde3-phosphate <31>"
+2.2.1.2,Transaldolase,340.0,dihydroxyacetone,Homo sapiens,"#6# mutant F189Y, reaction: fructose6-phosphate synthesis from dihydroxyacetone and glyceraldehyde3-phosphate <31>"
+2.2.1.2,Transaldolase,120.0,DL-glyceraldehyde,Escherichia coli,"#5# mutant F178, pH 8.5, 30Â°C <46>"
+2.2.1.2,Transaldolase,4.3,DL-glyceraldehyde,Escherichia coli,"#5# mutant F178, pH 8.5, 30Â°C <46>"
+2.2.1.2,Transaldolase,59.0,D-glyceraldehyde,Escherichia coli,"#5# mutant F178, pH 8.5, 30Â°C <46>"
+2.2.1.2,Transaldolase,9.0,D-glyceraldehyde,Escherichia coli,"#5# mutant F178, pH 8.5, 30Â°C <46>"

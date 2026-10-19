@@ -1,0 +1,8 @@
+m,k,path,solve_s
+1000,100,dense,0.003519833
+1000,100,factor_woodbury,0.0001805
+2000,200,dense,0.032094958
+2000,200,factor_woodbury,0.000980125
+4000,400,dense,0.170811208
+4000,400,factor_woodbury,0.0063945
+8000,800,factor_woodbury,0.048419875

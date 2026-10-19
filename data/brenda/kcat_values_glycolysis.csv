@@ -1,0 +1,853 @@
+ec_code,name,kcat,substrate,species,metadata
+2.7.1.1,Hexokinase,1.5,D-fructose,Eimeria tenella,"#117# wild-type, pH 9.0, 36Â°C <234>"
+2.7.1.1,Hexokinase,0.02,D-fructose,Cryptosporidium parvum,"#118# pH 7.5, temperature not specified inthe publication <241>"
+2.7.1.1,Hexokinase,3.69,D-fructose,Solanum chacoense,"#92# 30Â°C, pH 8.0 <123>"
+2.7.1.1,Hexokinase,0.025,D-mannose,Eimeria tenella,"#117# wild-type, pH 9.0, 36Â°C <234>"
+2.7.1.1,Hexokinase,12.1,D-mannose,Cryptosporidium parvum,"#118# pH 7.5, temperature not specified in thepublication <241>"
+2.7.1.1,Hexokinase,3.78,D-mannose,Solanum chacoense,"#92# 30Â°C, pH 8.0 <123>"
+2.7.1.1,Hexokinase,10.8,D-glucose,Eimeria tenella,"#117# mutant N216K, pH 9.0, 36Â°C <234>"
+2.7.1.1,Hexokinase,219.0,D-glucose,Eimeria tenella,"#117# wild-type, pH 9.0, 36Â°C <234>"
+2.7.1.1,Hexokinase,39.7,D-glucose,Eimeria tenella,"#117# mutant D217H, pH 9.0, 36Â°C <234>"
+2.7.1.1,Hexokinase,20.5,D-glucose,Cryptosporidium parvum,"#118# pH 7.5, temperature not specified in thepublication <241>"
+2.7.1.1,Hexokinase,93.39,D-glucose,Mus musculus,#127# pH and temperature not specified in thepublication <250>
+2.7.1.1,Hexokinase,284.0,D-glucose,Entamoeba histolytica,"#20# recombinant HXK1, at 30Â°C, pH 8 <62>"
+2.7.1.1,Hexokinase,195.0,D-glucose,Entamoeba histolytica,"#20# recombinant HXK2, at 30Â°C, pH 8 <62>"
+2.7.1.1,Hexokinase,2.85,D-glucose,Mus musculus,"#4# 37Â°C, pH 7.4, mutant enzyme A456V <109>"
+2.7.1.1,Hexokinase,11.0,D-glucose,Mus musculus,"#4# 37Â°C, pH 7.4, mutant enzyme K414E <109>"
+2.7.1.1,Hexokinase,53.2,D-glucose,Mus musculus,"#4# 37Â°C, pH 7.4, wild-type enzyme <109>"
+2.7.1.1,Hexokinase,84.9,D-glucose,Mus musculus,"#4# 37Â°C, pH 7.4, mutant enzyme A456V <109>"
+2.7.1.1,Hexokinase,3.47,D-glucose,Toxoplasma gondii,"#56# at 37Â°C, pH 7 <57>"
+2.7.1.1,Hexokinase,39.0,D-glucose,Homo sapiens,#6# mutant enzyme Y214C <94>
+2.7.1.1,Hexokinase,0.77,D-glucose,Homo sapiens,"#6# mutant L146R, 37Â°C, pH not specified in thepuclication <185>"
+2.7.1.1,Hexokinase,38.0,D-glucose,Homo sapiens,#6# wild-type enzyme <94>; #6# glucokinase withC-terminal 10 alanine addition <148>
+2.7.1.1,Hexokinase,75.0,D-glucose,Homo sapiens,"#6# wild type enzyme, at 25Â°C, in the presence of0.02 mM activator LY-2121260 <147>"
+2.7.1.1,Hexokinase,64.0,D-glucose,Homo sapiens,"#6# wild type enzyme, at 25Â°C, in the presence of0.02 mM activatorN-[2-amino-4-fluoro-5-[(1-methyl-1H-imidazol-2-yl)sulfanyl]benzyl]-13-thiazol-2-amine <147>"
+2.7.1.1,Hexokinase,0.18,D-glucose,Homo sapiens,#6# truncated enzyme with removed helix alpha13<148>
+2.7.1.1,Hexokinase,37.0,D-glucose,Homo sapiens,#6# glucokinase with C-terminal 5 alanine addition<148>
+2.7.1.1,Hexokinase,0.007,D-glucose,Homo sapiens,"#6# mutant T228M, 37Â°C, pH not specified in thepuclication <185>"
+2.7.1.1,Hexokinase,67.6,D-glucose,Homo sapiens,"#6# wild-type, 37Â°C, pH not specified in thepuclication <185>"
+2.7.1.1,Hexokinase,0.00091,D-glucose,Homo sapiens,"#6# mutant enzyme D205A, kcat less than0.00091 s-1 <148>"
+2.7.1.1,Hexokinase,29.0,D-glucose,Homo sapiens,"#6# wild type enzyme <148>; #87# deletionmutant lacking residues 70-71, pH 7.6, 25 Â°C <240>"
+2.7.1.1,Hexokinase,34.0,D-glucose,Homo sapiens,"#87# mutant enzyme G72R, at 37Â°C, in 100 mM Trisand 125 mM KCl, pH 7.4, in the presence of 14 mM beta-mercaptoethanolor 5 mM dithiothreitol <146>"
+2.7.1.1,Hexokinase,117.0,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant Y214A <176>"
+2.7.1.1,Hexokinase,54.0,D-glucose,Homo sapiens,"#87# mutant enzyme V62M, at 30Â°C, in 100 mM Trisand 125 mM KCl, pH 7.4, in the presence of 14 mM beta-mercaptoethanolor 5 mM dithiothreitol <146>"
+2.7.1.1,Hexokinase,50.0,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant C213R <176>"
+2.7.1.1,Hexokinase,17.7,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant M197E <176>"
+2.7.1.1,Hexokinase,19.9,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant K414E <176>"
+2.7.1.1,Hexokinase,33.0,D-glucose,Homo sapiens,"#87# deletion mutant lacking residue 71, pH 7.6,25 Â°C <240>"
+2.7.1.1,Hexokinase,61.0,D-glucose,Homo sapiens,"#87# mutant enzyme V62M, at 37Â°C, in 100 mM Trisand 125 mM KCl, pH 7.4, in the presence of 14 mM beta-mercaptoethanolor 5 mM dithiothreitol <146>"
+2.7.1.1,Hexokinase,74.0,D-glucose,Homo sapiens,"#87# wild type enzyme, at 30Â°C, in 100 mM Trisand 125 mM KCl, pH 7.4, in the presence of 14 mM beta-mercaptoethanolor 5 mM dithiothreitol <146>"
+2.7.1.1,Hexokinase,44.7,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant Y215A <176>"
+2.7.1.1,Hexokinase,40.0,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant K140E <176>"
+2.7.1.1,Hexokinase,29.8,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant G72R <176>"
+2.7.1.1,Hexokinase,29.3,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant C252Y <176>"
+2.7.1.1,Hexokinase,24.0,D-glucose,Homo sapiens,"#87# mutant enzyme G72R, at 30Â°C, in 100 mM Trisand 125 mM KCl, pH 7.4, in the presence of 14 mM beta-mercaptoethanolor 5 mM dithiothreitol <146>"
+2.7.1.1,Hexokinase,0.037,D-glucose,Homo sapiens,"#87# deletion mutant lacking residues 66-71,pH 7.6, 25 Â°C <240>"
+2.7.1.1,Hexokinase,0.026,D-glucose,Homo sapiens,"#87# deletion mutant lacking residues 68-71,pH 7.6, 25 Â°C <240>"
+2.7.1.1,Hexokinase,56.0,D-glucose,Homo sapiens,"#87# mutant S64R/E67D/S69T, K0.5 value, Hillcoefficient 1.7, pH 7.6, 25 Â°C <240>"
+2.7.1.1,Hexokinase,17.4,D-glucose,Homo sapiens,"#87# mutant enzyme W167F, in 25 mM HEPES (pH7.4), at 37Â°C <161>"
+2.7.1.1,Hexokinase,122.0,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant V452L <176>"
+2.7.1.1,Hexokinase,47.2,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant V62M <176>"
+2.7.1.1,Hexokinase,48.3,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant P417R <176>"
+2.7.1.1,Hexokinase,22.6,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant T65I <176>"
+2.7.1.1,Hexokinase,0.042,D-glucose,Homo sapiens,"#87# deletion mutant lacking residues 67-71,pH 7.6, 25 Â°C <240>"
+2.7.1.1,Hexokinase,44.6,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant S263P <176>"
+2.7.1.1,Hexokinase,114.0,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant S64Y <176>"
+2.7.1.1,Hexokinase,37.7,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant M298K <176>"
+2.7.1.1,Hexokinase,83.3,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant S64P <176>"
+2.7.1.1,Hexokinase,65.6,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant A456V <176>"
+2.7.1.1,Hexokinase,101.0,D-glucose,Homo sapiens,"#87# wild type enzyme, at 37Â°C, in 100 mM Trisand 125 mM KCl, pH 7.4, in the presence of 14 mM beta-mercaptoethanolor 5 mM dithiothreitol <146>"
+2.7.1.1,Hexokinase,62.7,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant G68V <176>"
+2.7.1.1,Hexokinase,52.2,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant 454-Ala <176>"
+2.7.1.1,Hexokinase,23.1,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant Y214A/V452A <176>"
+2.7.1.1,Hexokinase,50.2,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant M197I/A379T <176>"
+2.7.1.1,Hexokinase,40.1,D-glucose,Homo sapiens,"#87# wild-type, pH 7.6, 25 Â°C <240>"
+2.7.1.1,Hexokinase,43.2,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant G68K <176>"
+2.7.1.1,Hexokinase,46.8,D-glucose,Homo sapiens,"#87# mutant enzyme W99F, in 25 mM HEPES (pH7.4), at 37Â°C <161>"
+2.7.1.1,Hexokinase,42.1,D-glucose,Homo sapiens,"#87# mutant enzyme W257F, in 25 mM HEPES (pH7.4), at 37Â°C <161>"
+2.7.1.1,Hexokinase,58.1,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant M197I <176>"
+2.7.1.1,Hexokinase,60.6,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant V91L <176>"
+2.7.1.1,Hexokinase,60.4,D-glucose,Homo sapiens,"#87# wild type enzyme, in 25 mM HEPES (pH 7.4),at 37Â°C <161>"
+2.7.1.1,Hexokinase,61.2,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant A379T <176>"
+2.7.1.1,Hexokinase,2.46,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant S336L <176>"
+2.7.1.1,Hexokinase,62.6,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant M197L <176>"
+2.7.1.1,Hexokinase,65.3,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant Y214C <176>"
+2.7.1.1,Hexokinase,62.8,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, wild-type <176>"
+2.7.1.1,Hexokinase,67.1,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant V389L <176>"
+2.7.1.1,Hexokinase,52.6,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant E442K <176>"
+2.7.1.1,Hexokinase,61.8,D-glucose,Homo sapiens,"#87# pH 7.1, temperature not specified in thepublication, co-substrate: ATP, mutant V455M <176>"
+2.7.1.1,Hexokinase,1.67,D-glucose,Saccharomyces cerevisiae,"#9# pH 7.5, 22Â°C, immobilized enzyme <79>"
+2.7.1.1,Hexokinase,1.06,D-glucose,Saccharomyces cerevisiae,"#9# pH 7.5, 22Â°C, soluble enzyme <79>"
+2.7.1.1,Hexokinase,483.3,D-glucose,Trypanosoma brucei,#90# recombinant TbHK1 <103>
+2.7.1.1,Hexokinase,3.3,D-glucose,Solanum chacoense,"#92# 30Â°C, pH 8.0 <123>"
+2.7.1.1,Hexokinase,5.01,D-glucose,Solanum chacoense,"#92# 30Â°C, pH 8.0 <123>"
+2.7.1.1,Hexokinase,33.7,2-deoxy-D-glucose,Eimeria tenella,"#117# wild-type, pH 9.0, 36Â°C <234>"
+2.7.1.1,Hexokinase,29.0,2-deoxy-D-glucose,Homo sapiens,#6# wild-type enzyme <94>
+2.7.1.1,Hexokinase,9.5,ATP,Cryptosporidium parvum,"#118# pH 7.5, temperature not specified in thepublication <241>"
+2.7.1.1,Hexokinase,2.85,ATP,Mus musculus,"#4# 37Â°C, pH 7.4, mutant enzyme A456V <109>"
+2.7.1.1,Hexokinase,11.0,ATP,Mus musculus,"#4# 37Â°C, pH 7.4, mutant enzyme K414E <109>"
+2.7.1.1,Hexokinase,53.2,ATP,Mus musculus,"#4# 37Â°C, pH 7.4, wild-type enzyme <109>"
+2.7.1.1,Hexokinase,84.9,ATP,Mus musculus,"#4# 37Â°C, pH 7.4, mutant enzyme A456V <109>"
+2.7.1.1,Hexokinase,3.32,ATP,Toxoplasma gondii,"#56# at 37Â°C, pH 7 <57>"
+2.7.1.1,Hexokinase,0.7,ATP,Homo sapiens,"#6# wild-type, 37Â°C, pH not specified in thepuclication. Kinetic constants at high and low concentrations of thefixed substrate: 0.5 mM D-glucose <185>"
+2.7.1.1,Hexokinase,54.0,ATP,Homo sapiens,"#6# wild type enzyme, at 25Â°C <147>"
+2.7.1.1,Hexokinase,4.92,ATP,Homo sapiens,#6# mutant enzyme V62E <106>
+2.7.1.1,Hexokinase,62.3,ATP,Homo sapiens,#6# wild-type enzyme <106>
+2.7.1.1,Hexokinase,25.7,ATP,Homo sapiens,#6# mutant enzyme V62T <106>
+2.7.1.1,Hexokinase,53.6,ATP,Homo sapiens,#6# mutant enzyme V62M <106>
+2.7.1.1,Hexokinase,14.9,ATP,Homo sapiens,#6# mutant enzyme V62Q <106>
+2.7.1.1,Hexokinase,0.61,ATP,Homo sapiens,"#6# mutant L146R, 37Â°C, pH not specified in thepuclication <185>"
+2.7.1.1,Hexokinase,59.9,ATP,Homo sapiens,#6# mutant enzyme V62L <106>
+2.7.1.1,Hexokinase,43.1,ATP,Homo sapiens,#6# mutant enzyme V62A <106>
+2.7.1.1,Hexokinase,68.4,ATP,Homo sapiens,"#6# wild-type, 37Â°C, pH not specified in thepuclication <185>; #6# wild-type, 37Â°C, pH not specified in thepuclication. Kinetic constants at high and low concentrations of thefixed substrate: 60 mM D-glucose <185>"
+2.7.1.1,Hexokinase,33.7,ATP,Homo sapiens,#6# mutant enzyme V62F <106>
+2.7.1.1,Hexokinase,6.42,ATP,Homo sapiens,#6# mutant enzyme V62K <106>
+2.7.1.1,Hexokinase,3.5,ATP,Solanum chacoense,"#92# 30Â°C, pH 8.0 <123>"
+2.7.1.1,Hexokinase,12.7,beta-D-glucose,Homo sapiens,"#6# co-substrate: ATP, mutant W167F/W257Fin the presence of 20 microM glucokinase activator drug (GKA), pH andtemperature not specified in the publication <178>"
+2.7.1.1,Hexokinase,11.1,beta-D-glucose,Homo sapiens,"#6# co-substrate: ATP, mutant W99R/W167F inthe presence of 20 microM glucokinase activator drug (GKA), pH andtemperature not specified in the publication <178>"
+2.7.1.1,Hexokinase,5.9,beta-D-glucose,Homo sapiens,"#6# co-substrate: ATP, mutant W99R/W167F inthe presence of 20-30% glycerol and in the presence of 20 microMglucokinase activator drug (GKA), pH and temperature not specified inthe publication <178>"
+2.7.1.1,Hexokinase,6.1,beta-D-glucose,Homo sapiens,"#6# co-substrate: ATP, mutant W167F/W257F inthe presence of 20-30% glycerol, pH and temperature not specified inthe publication <178>"
+2.7.1.1,Hexokinase,12.4,beta-D-glucose,Homo sapiens,"#6# co-substrate: ATP, mutant W99R/W167F,pH and temperature not specified in the publication <178>"
+2.7.1.1,Hexokinase,26.2,beta-D-glucose,Homo sapiens,"#6# co-substrate: ATP, mutant W99R/W257F inthe presence of 20-30% glycerol, pH and temperature not specified inthe publication <178>"
+2.7.1.1,Hexokinase,37.7,beta-D-glucose,Homo sapiens,"#6# co-substrate: ATP, wild-type in thepresence of 20-30% glycerol, pH and temperature not specified in thepublication <178>"
+2.7.1.1,Hexokinase,38.9,beta-D-glucose,Homo sapiens,"#6# co-substrate: ATP, mutant W99R/W257F inthe presence of 20-30% glycerol and in the presence of 20 microMglucokinase activator drug (GKA), pH and temperature not specified inthe publication <178>"
+2.7.1.1,Hexokinase,83.7,beta-D-glucose,Homo sapiens,"#6# co-substrate: ATP, wild-type, pH andtemperature not specified in the publication <178>"
+2.7.1.1,Hexokinase,166.0,beta-D-glucose,Homo sapiens,"#6# co-substrate: ATP, wild-type in thepresence of 20 microM glucokinase activator drug (GKA), pH andtemperature not specified in the publication <178>"
+2.7.1.1,Hexokinase,69.9,beta-D-glucose,Homo sapiens,"#6# co-substrate: ATP, mutant W99R/W257F,pH and temperature not specified in the publication <178>"
+2.7.1.1,Hexokinase,60.5,beta-D-glucose,Homo sapiens,"#6# co-substrate: ATP, wild-type in thepresence of 20-30% glycerol and in the presence of 20 microMglucokinase activator drug (GKA), pH and temperature not specified inthe publication <178>"
+2.7.1.1,Hexokinase,6.37,beta-D-glucose,Homo sapiens,"#6# co-substrate: ATP, mutant W99R/W167F inthe presence of 20-30% glycerol, pH and temperature not specified inthe publication <178>"
+2.7.1.1,Hexokinase,9.43,beta-D-glucose,Homo sapiens,"#6# co-substrate: ATP, mutant W167F/W257Fin the presence of 20-30% glycerol and in the presence of 20 microMglucokinase activator drug (GKA), pH and temperature not specified inthe publication <178>"
+2.7.1.1,Hexokinase,8.47,beta-D-glucose,Homo sapiens,"#6# co-substrate: ATP, mutant W167F/W257F,pH and temperature not specified in the publication <178>"
+2.7.1.1,Hexokinase,91.3,beta-D-glucose,Homo sapiens,"#6# co-substrate: ATP, mutant W99R/W257F inthe presence of 20 microM glucokinase activator drug (GKA), pH andtemperature not specified in the publication <178>"
+2.7.1.1,Hexokinase,3.02,UTP,Solanum chacoense,"#92# 30Â°C, pH 8.0 <123>"
+2.7.1.1,Hexokinase,0.85,GTP,Solanum chacoense,"#92# 30Â°C, pH 8.0 <123>"
+2.7.1.1,Hexokinase,1.42,TTP,Solanum chacoense,"#92# 30Â°C, pH 8.0 <123>"
+2.7.1.1,Hexokinase,1.61,CTP,Solanum chacoense,"#92# 30Â°C, pH 8.0 <123>"
+5.3.1.9,Glucose-6-phosphate isomerase,18.0,D-fructose 6-phosphate,Carassius auratus,#30# pH 8.0 <82>
+5.3.1.9,Glucose-6-phosphate isomerase,5.0,D-fructose 6-phosphate,Thermococcus kodakarensis,#55# at pH 6.0 and 37Â°C <105>
+5.3.1.9,Glucose-6-phosphate isomerase,15.0,D-fructose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant L339P <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,42.0,D-fructose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant R347H <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,76.0,D-fructose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant I525T <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,0.6,D-fructose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant S278L <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,160.0,D-fructose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant V101M <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,190.0,D-fructose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant R472H <78>; #62# pH 7.5, 30Â°C, recombinant mutant R83W <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,150.0,D-fructose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant R347C <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,19.0,D-fructose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant L487F <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,100.0,D-fructose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant A300P <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,75.0,D-fructose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant T375R <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,93.0,D-fructose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant R75G <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,300.0,D-fructose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant T195I <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,420.0,D-fructose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant E495K <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,650.0,D-fructose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantwild-type enzyme <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,8.4,D-fructose 6-phosphate,Pyrococcus furiosus,#69# 50Â°C <70>
+5.3.1.9,Glucose-6-phosphate isomerase,0.5,D-fructose 6-phosphate,Thermococcus litoralis,"#73# 50Â°C, pH 7.5, mutant enzymeH91A <42>"
+5.3.1.9,Glucose-6-phosphate isomerase,0.34,D-fructose 6-phosphate,Thermococcus litoralis,"#73# 50Â°C, pH 7.5, mutant enzymeH137A <42>"
+5.3.1.9,Glucose-6-phosphate isomerase,26.0,D-fructose 6-phosphate,Thermococcus litoralis,"#73# 50Â°C, pH 7.5, wild-type enzyme<42>"
+5.3.1.9,Glucose-6-phosphate isomerase,0.021,D-fructose 6-phosphate,Thermococcus litoralis,"#73# 50Â°C, pH 7.5, mutant enzymeH89A <42>"
+5.3.1.9,Glucose-6-phosphate isomerase,0.0003,D-fructose 6-phosphate,Thermococcus litoralis,"#73# 50Â°C, pH 7.5, mutant enzymeE98V <42>"
+5.3.1.9,Glucose-6-phosphate isomerase,8.0,D-fructose 6-phosphate,Archaeoglobus fulgidus,"#74# pH 7.4, 70Â°C, mutant enzyme H82A<96>"
+5.3.1.9,Glucose-6-phosphate isomerase,1.9,D-fructose 6-phosphate,Archaeoglobus fulgidus,"#74# pH 7.4, 70Â°C, mutant enzymeT63A <96>"
+5.3.1.9,Glucose-6-phosphate isomerase,0.06,D-fructose 6-phosphate,Archaeoglobus fulgidus,"#74# pH 7.4, 70Â°C, mutant enzymeE93D <96>"
+5.3.1.9,Glucose-6-phosphate isomerase,0.07,D-fructose 6-phosphate,Archaeoglobus fulgidus,"#74# pH 7.4, 70Â°C, mutant enzymeG79L <96>"
+5.3.1.9,Glucose-6-phosphate isomerase,0.32,D-fructose 6-phosphate,Archaeoglobus fulgidus,"#74# pH 7.4, 70Â°C, mutant enzymeG79A <96>"
+5.3.1.9,Glucose-6-phosphate isomerase,0.68,D-fructose 6-phosphate,Archaeoglobus fulgidus,"#74# pH 7.4, 70Â°C, mutant enzymeY95K <96>"
+5.3.1.9,Glucose-6-phosphate isomerase,0.42,D-fructose 6-phosphate,Archaeoglobus fulgidus,"#74# pH 7.4, 70Â°C, mutant enzymeH80D <96>"
+5.3.1.9,Glucose-6-phosphate isomerase,0.43,D-fructose 6-phosphate,Archaeoglobus fulgidus,"#74# pH 7.4, 70Â°C, mutant enzymeH80A <96>"
+5.3.1.9,Glucose-6-phosphate isomerase,11.6,D-fructose 6-phosphate,Archaeoglobus fulgidus,"#74# pH 7.4, 70Â°C, mutant enzymeY160F <96>"
+5.3.1.9,Glucose-6-phosphate isomerase,0.22,D-fructose 6-phosphate,Archaeoglobus fulgidus,"#74# pH 7.4, 70Â°C, mutant enzymeY95F <96>"
+5.3.1.9,Glucose-6-phosphate isomerase,30.8,D-fructose 6-phosphate,Archaeoglobus fulgidus,"#74# pH 7.4, 70Â°C, mutant enzymeH136A <96>"
+5.3.1.9,Glucose-6-phosphate isomerase,32.4,D-fructose 6-phosphate,Archaeoglobus fulgidus,"#74# pH 7.4, 70Â°C, wild-typeenzyme <96>"
+5.3.1.9,Glucose-6-phosphate isomerase,946.0,D-glucose 6-phosphate,Acetivibrio thermocellus,"#52# avicel-cellulose-bindingmodule-phosphoglucose isomerase, in 100 mM HEPES, 10 mM Mg2+ and 0.5 mMMn2+, pH 7.5, 37Â°C <92>"
+5.3.1.9,Glucose-6-phosphate isomerase,1091.0,D-glucose 6-phosphate,Acetivibrio thermocellus,"#52# immobilized-cellulose-bindingmodule-phosphoglucose isomerase, in 100 mM HEPES, 10 mM Mg2+ and 0.5 mMMn2+, pH 7.5, 37Â°C <92>"
+5.3.1.9,Glucose-6-phosphate isomerase,929.0,D-glucose 6-phosphate,Acetivibrio thermocellus,"#52# free enzyme, in 100 mM HEPES,10 mM Mg2+ and 0.5 mM Mn2+, pH 7.5, 37Â°C <92>"
+5.3.1.9,Glucose-6-phosphate isomerase,2765.0,D-glucose 6-phosphate,Acetivibrio thermocellus,"#52# free enzyme, in 100 mM HEPES,10 mM Mg2+ and 0.5 mM Mn2+, pH 7.5, 60Â°C <92>"
+5.3.1.9,Glucose-6-phosphate isomerase,729.0,D-glucose 6-phosphate,Acetivibrio thermocellus,"#52# cellulose-bindingmodule-phosphoglucose isomerase, in 100 mM HEPES, 10 mM Mg2+ and 0.5 mMMn2+, pH 7.5, 37Â°C <92>"
+5.3.1.9,Glucose-6-phosphate isomerase,2433.0,D-glucose 6-phosphate,Acetivibrio thermocellus,"#52# cellulose-bindingmodule-phosphoglucose isomerase, in 100 mM HEPES, 10 mM Mg2+ and 0.5 mMMn2+, pH 7.5, 60Â°C <92>"
+5.3.1.9,Glucose-6-phosphate isomerase,2009.0,D-glucose 6-phosphate,Acetivibrio thermocellus,"#52# avicel-cellulose-bindingmodule-phosphoglucose isomerase, in 100 mM HEPES, 10 mM Mg2+ and 0.5 mMMn2+, pH 7.5, 60Â°C <92>"
+5.3.1.9,Glucose-6-phosphate isomerase,2198.0,D-glucose 6-phosphate,Acetivibrio thermocellus,"#52# immobilized-cellulose-bindingmodule-phosphoglucose isomerase, in 100 mM HEPES, 10 mM Mg2+ and 0.5 mMMn2+, pH 7.5, 60Â°C <92>"
+5.3.1.9,Glucose-6-phosphate isomerase,0.3,D-glucose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant S278L <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,120.0,D-glucose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant R83W <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,1.3,D-glucose 6-phosphate,Homo sapiens,"#62# mutant enzyme D511N, at 21Â°C in20 mM HEPES buffer (pH 7.5) <101>"
+5.3.1.9,Glucose-6-phosphate isomerase,1.6,D-glucose 6-phosphate,Homo sapiens,"#62# mutant enzyme E495Q, at 21Â°C in20 mM HEPES buffer (pH 7.5) <101>"
+5.3.1.9,Glucose-6-phosphate isomerase,110.0,D-glucose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant I525T <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,21.0,D-glucose 6-phosphate,Homo sapiens,"#62# mutant enzyme H396L, at 21Â°C in20 mM HEPES buffer (pH 7.5) <101>"
+5.3.1.9,Glucose-6-phosphate isomerase,0.04,D-glucose 6-phosphate,Homo sapiens,"#62# kcat below 0.04 s-1,mutantenzyme K362A, at 21Â°C in 20 mM HEPES buffer (pH 7.5) <101>; #62# kcatbelow 0.04 s-1mutant enzyme H389L, at 21Â°C in 20 mM HEPES buffer (pH7.5) <101>"
+5.3.1.9,Glucose-6-phosphate isomerase,17.0,D-glucose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinant mutantL487F <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,500.0,D-glucose 6-phosphate,Homo sapiens,"#62# wild type enzyme, at 21Â°C in 20mM HEPES buffer (pH 7.5) <101>"
+5.3.1.9,Glucose-6-phosphate isomerase,1000.0,D-glucose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantwild-type enzyme <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,0.6,D-glucose 6-phosphate,Homo sapiens,"#62# mutant enzyme H100L, at 21Â°C in20 mM HEPES buffer (pH 7.5) <101>"
+5.3.1.9,Glucose-6-phosphate isomerase,61.0,D-glucose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinant mutantA300P <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,63.0,D-glucose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinant mutantR347H <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,130.0,D-glucose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant R75G <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,360.0,D-glucose 6-phosphate,Homo sapiens,"#62# mutant enzyme S185A, at 21Â°C in20 mM HEPES buffer (pH 7.5) <101>"
+5.3.1.9,Glucose-6-phosphate isomerase,350.0,D-glucose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant R347C <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,140.0,D-glucose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant V101M <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,31.0,D-glucose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinant mutantL339P <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,380.0,D-glucose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant T195I <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,260.0,D-glucose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant R472H <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,80.0,D-glucose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinant mutantT375R <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,750.0,D-glucose 6-phosphate,Homo sapiens,"#62# pH 7.5, 30Â°C, recombinantmutant E495K <78>"
+5.3.1.9,Glucose-6-phosphate isomerase,470.0,D-glucose 6-phosphate,Homo sapiens,"#62# mutant enzyme N154Q, at 21Â°C in20 mM HEPES buffer (pH 7.5) <101>; #62# mutant enzyme N386A, at 21Â°C in20 mM HEPES buffer (pH 7.5) <101>"
+5.3.1.9,Glucose-6-phosphate isomerase,240.0,D-glucose 6-phosphate,Homo sapiens,"#62# mutant enzyme Y274F, at 21Â°C in20 mM HEPES buffer (pH 7.5) <101>"
+5.3.1.9,Glucose-6-phosphate isomerase,340.0,D-glucose 6-phosphate,Homo sapiens,"#62# mutant enzyme Y341F, at 21Â°C in20 mM HEPES buffer (pH 7.5) <101>"
+5.3.1.9,Glucose-6-phosphate isomerase,4.5,D-glucose 6-phosphate,Homo sapiens,"#62# mutant enzyme Q388A, at 21Â°C in20 mM HEPES buffer (pH 7.5) <101>"
+5.3.1.9,Glucose-6-phosphate isomerase,42.0,D-glucose 6-phosphate,Thermococcus litoralis,"#73# 50Â°C, pH 7.5, wild-type enzyme<42>"
+5.3.1.9,Glucose-6-phosphate isomerase,3330.0,fructose 6-phosphate,Homo sapiens,#6# isomerase a <4>
+5.3.1.9,Glucose-6-phosphate isomerase,475.5,L-talose,Pyrococcus furiosus,"#69# pH 7.0, 95Â°C <76>"
+2.7.1.11,6-phosphofructokinase,0.016,D-fructose 6-phosphate,Escherichia coli,"#101# pH 7.2, 30Â°C, cosubstrategamma-thio-ATP <106>"
+2.7.1.11,6-phosphofructokinase,1.2,D-fructose 6-phosphate,Escherichia coli,"#101# pH 7.0, 55Â°C <173>"
+2.7.1.11,6-phosphofructokinase,44.0,D-fructose 6-phosphate,Escherichia coli,"#105# in the presence of 0.5 mMMgATP2-, at pH 8.2 and 25Â°C <142>"
+2.7.1.11,6-phosphofructokinase,60.0,D-fructose 6-phosphate,Escherichia coli,"#105# in the presence of 0.1 mMMgATP2-, at pH 8.2 and 25Â°C <142>"
+2.7.1.11,6-phosphofructokinase,6.5,D-fructose 6-phosphate,Staphylococcus aureus,"#115# pH 7.5, 37Â°C, wild-typeenzyme <166>"
+2.7.1.11,6-phosphofructokinase,25.2,D-fructose 6-phosphate,Staphylococcus aureus,"#115# pH 7.5, 37Â°C mutant enzymeG150D/L151A <166>"
+2.7.1.11,6-phosphofructokinase,282.0,D-fructose 6-phosphate,Thermococcus kodakarensis,"#118# pH 7.5, 50Â°C, 5 mM Mg2+<174>"
+2.7.1.11,6-phosphofructokinase,495.0,D-fructose 6-phosphate,Thermococcus kodakarensis,"#118# pH 7.5, 50Â°C, 5 mM Co2+<174>"
+2.7.1.11,6-phosphofructokinase,4328.0,D-fructose 6-phosphate,Thermococcus kodakarensis,"#118# pH 7.5, 90Â°C, 5 mM Co2+<174>"
+2.7.1.11,6-phosphofructokinase,41.0,D-fructose 6-phosphate,Pseudoclostridium thermosuccinogenes,"#127# pH 7.0, 55Â°C <173>"
+2.7.1.11,6-phosphofructokinase,49.0,fructose 6-phosphate,Escherichia coli,"#101# pH 7.2, 30Â°C, cosubstrate ATP<106>"
+2.7.1.11,6-phosphofructokinase,88.0,fructose 6-phosphate,Escherichia coli,"#101# pH 7.2, 30Â°C, at 2mM ATP <106>"
+2.7.1.11,6-phosphofructokinase,149.0,fructose 6-phosphate,Geobacillus stearothermophilus,"#15# pH 8.2, 30Â°C, native PFK <78>"
+2.7.1.11,6-phosphofructokinase,126.0,fructose 6-phosphate,Geobacillus stearothermophilus,"#15# pH 8.2, 30Â°C, G212V mutant PFK<78>"
+2.7.1.11,6-phosphofructokinase,112.0,fructose 6-phosphate,Geobacillus stearothermophilus,"#15# forward reaction, recombinantenzyme <64>"
+2.7.1.11,6-phosphofructokinase,3.7,fructose 6-phosphate,Escherichia coli,"#6# pH 8.5, 30Â°C, R252Q mutant PFK<99>"
+2.7.1.11,6-phosphofructokinase,0.3,fructose 6-phosphate,Escherichia coli,"#6# pH 8.5, 30Â°C, R72H mutant PFK<70>"
+2.7.1.11,6-phosphofructokinase,110.0,fructose 6-phosphate,Escherichia coli,"#6# pH 8.2, 25Â°C <71>"
+2.7.1.11,6-phosphofructokinase,5.0,fructose 6-phosphate,Escherichia coli,"#6# pH 8.2, 5Â°C <71>"
+2.7.1.11,6-phosphofructokinase,61.0,fructose 6-phosphate,Escherichia coli,"#6# pH 8.0, 8.5Â°C, wild-type PFK <97>"
+2.7.1.11,6-phosphofructokinase,167.0,fructose 6-phosphate,Escherichia coli,"#6# pH 8.5, 30Â°C <99>"
+2.7.1.11,6-phosphofructokinase,60.0,fructose 6-phosphate,Escherichia coli,"#6# pH 8.2, 15Â°C <71>"
+2.7.1.11,6-phosphofructokinase,111.0,fructose 6-phosphate,Escherichia coli,"#6# pH 8.5, 30Â°C, wild-type PFK <70>"
+2.7.1.11,6-phosphofructokinase,0.015,fructose 6-phosphate,Escherichia coli,"#6# pH 8.0, 8.5Â°C, T125A mutant PFK<97>"
+2.7.1.11,6-phosphofructokinase,185.0,fructose 6-phosphate,Escherichia coli,"#6# pH 8.2, 37Â°C <71>"
+2.7.1.11,6-phosphofructokinase,57.2,fructose 6-phosphate,Escherichia coli,"#6# pH 8.5, 30Â°C, I126A mutant PFK<70>"
+2.7.1.11,6-phosphofructokinase,3.47,fructose 6-phosphate,Escherichia coli,"#6# pH 8.0, 8.5Â°C, R171E mutant PFK<97>"
+2.7.1.11,6-phosphofructokinase,0.303,fructose 6-phosphate,Escherichia coli,"#6# pH 8.0, 8.5Â°C, R72E mutant PFK<97>"
+2.7.1.11,6-phosphofructokinase,0.25,sedoheptulose 7-phosphate,Escherichia coli,"#101# pH 7.0, 55Â°C <173>"
+2.7.1.11,6-phosphofructokinase,104.0,D-glucose,Thermococcus kodakarensis,"#118# pH 7.5, 50Â°C, 5 mM Mg2+ <174>"
+2.7.1.11,6-phosphofructokinase,112.0,AMP,Thermococcus kodakarensis,"#118# pH 7.5, 50Â°C, 5 mM Mg2+ <174>"
+2.7.1.11,6-phosphofructokinase,95.0,"D-fructose 1,6-bisphosphate",Thermococcus kodakarensis,"#118# pH 7.5, 50Â°C, 5 mM Mg2+<174>"
+2.7.1.11,6-phosphofructokinase,338.0,ADP,Thermococcus kodakarensis,"#118# pH 7.5, 50Â°C, 5 mM Mg2+ <174>"
+2.7.1.11,6-phosphofructokinase,475.0,ADP,Thermococcus kodakarensis,"#118# pH 7.5, 50Â°C, 5 mM Co2+ <174>"
+2.7.1.11,6-phosphofructokinase,4410.0,ADP,Thermococcus kodakarensis,"#118# pH 7.5, 90Â°C, 5 mM Co2+ <174>"
+2.7.1.11,6-phosphofructokinase,3.2,"fructose 1,6-bisphosphate",Geobacillus stearothermophilus,"#15# reverse raction,recombinant enzyme <64>"
+2.7.1.11,6-phosphofructokinase,236.0,ATP,Dictyostelium discoideum,"#29# wild type enzyme, at pH 7.0 in 50 mM HEPES, 100mM KCl, 5 mM MgCl2 and 25Â°C <138>"
+2.7.1.11,6-phosphofructokinase,9.0,ATP,Escherichia coli,"#6# mutant enzyme E190Q, in the presence of Mn2+, in 0.05M Tris-HCl, pH 8.2, temperature not specified in the publication <136>"
+2.7.1.11,6-phosphofructokinase,0.24,ATP,Escherichia coli,"#6# mutant enzyme E190Q, in the presence of Mg2+, in0.05 M Tris-HCl, pH 8.2, temperature not specified in the publication<136>"
+2.7.1.11,6-phosphofructokinase,62.0,ATP,Escherichia coli,"#6# wild type enzyme, in the presence of Mg2+, in 0.05 MTris-HCl, pH 8.2, temperature not specified in the publication <136>"
+2.7.1.11,6-phosphofructokinase,0.037,ATP,Escherichia coli,"#6# wild type enzyme, in the presence of Mn2+, in0.05 M Tris-HCl, pH 8.2, temperature not specified in the publication<136>"
+2.7.1.11,6-phosphofructokinase,357.0,ATP,Homo sapiens,"#7# wild type enzyme, at pH 7.0 in 50 mM HEPES, 100 mMKCl, 5 mM MgCl2 and 25Â°C <138>"
+4.1.2.13,Fructose-bisphosphate aldolase,45.9,"D-fructose 1,6-bisphosphate",Gallus gallus,
+4.1.2.13,Fructose-bisphosphate aldolase,8.2,"D-fructose 1,6-bisphosphate",Escherichia coli,"#111# pH 7.6 <83>; #139#30Â°C, wild-type enzyme <81>"
+4.1.2.13,Fructose-bisphosphate aldolase,8.2,"D-fructose 1,6-bisphosphate",Leishmania mexicana,"#111# pH 7.6 <83>; #139#30Â°C, wild-type enzyme <81>"
+4.1.2.13,Fructose-bisphosphate aldolase,21.0,"D-fructose 1,6-bisphosphate",Mycobacterium tuberculosis,"#118# pH 7.3, 28Â°C <106>"
+4.1.2.13,Fructose-bisphosphate aldolase,13.0,"D-fructose 1,6-bisphosphate",Edwardsiella ictaluri,#119# 30Â°C <105>
+4.1.2.13,Fructose-bisphosphate aldolase,0.16,"D-fructose 1,6-bisphosphate",Escherichia coli,"#12# N35A mutant, 30Â°C <72>"
+4.1.2.13,Fructose-bisphosphate aldolase,5.8,"D-fructose 1,6-bisphosphate",Escherichia coli,"#12# E181A mutant, 30Â°C <82>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.033,"D-fructose 1,6-bisphosphate",Escherichia coli,"#12# E182A mutant, 30Â°C<82>"
+4.1.2.13,Fructose-bisphosphate aldolase,8.5,"D-fructose 1,6-bisphosphate",Escherichia coli,"#12# Q59A mutant, 30Â°C <72>"
+4.1.2.13,Fructose-bisphosphate aldolase,10.5,"D-fructose 1,6-bisphosphate",Escherichia coli,"#12# wild-type enzyme, 30Â°C<72,82>"
+4.1.2.13,Fructose-bisphosphate aldolase,6.3,"D-fructose 1,6-bisphosphate",Escherichia coli,"#12# S61T mutant, 30Â°C <72>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.013,"D-fructose 1,6-bisphosphate",Escherichia coli,"#12# E174A mutant, 30Â°C<82>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.85,"D-fructose 1,6-bisphosphate",Escherichia coli,"#12# S61A mutant, 30Â°C <72>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.58,"D-fructose 1,6-bisphosphate",Escherichia coli,"#12# K325A mutant, 30Â°C <72>"
+4.1.2.13,Fructose-bisphosphate aldolase,6.08,"D-fructose 1,6-bisphosphate",Escherichia coli,"#126# 30Â°C, AB_Allmutant <80>; #12# K325A mutant, 30Â°C <72>; #142# L256P mutant, 22Â°C<73>; #142# Q354E mutant, 22Â°C <73>; #142# wild-type enzyme, 22Â°C <73>"
+4.1.2.13,Fructose-bisphosphate aldolase,6.08,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,"#126# 30Â°C, AB_Allmutant <80>; #12# K325A mutant, 30Â°C <72>; #142# L256P mutant, 22Â°C<73>; #142# Q354E mutant, 22Â°C <73>; #142# wild-type enzyme, 22Â°C <73>"
+4.1.2.13,Fructose-bisphosphate aldolase,6.08,"D-fructose 1,6-bisphosphate",Homo sapiens,"#126# 30Â°C, AB_Allmutant <80>; #12# K325A mutant, 30Â°C <72>; #142# L256P mutant, 22Â°C<73>; #142# Q354E mutant, 22Â°C <73>; #142# wild-type enzyme, 22Â°C <73>"
+4.1.2.13,Fructose-bisphosphate aldolase,2.94,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,"#126# 30Â°C, aldolase B <80>;#126# E189Q mutant, pH 7.6, 22Â°C <79>"
+4.1.2.13,Fructose-bisphosphate aldolase,3.4,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,"#126# E189A mutant, pH 7.6,22Â°C <79>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.65,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,#126# mutant enzyme K107M<139>
+4.1.2.13,Fructose-bisphosphate aldolase,1.69,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,"#126# E189Q mutant, pH 7.6,22Â°C <79>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.12,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,"#126# E187A mutant, pH 7.6,22Â°C <79>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.002,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,#126# mutant enzyme D33S<139>
+4.1.2.13,Fructose-bisphosphate aldolase,0.003,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,#126# mutant enzyme D33N<139>
+4.1.2.13,Fructose-bisphosphate aldolase,0.03,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,"#126# E187Q mutant, pH 7.6,22Â°C <79>"
+4.1.2.13,Fructose-bisphosphate aldolase,16.5,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,"#126# 30Â°C, H156E mutant<80>"
+4.1.2.13,Fructose-bisphosphate aldolase,1.07,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,"#126# 30Â°C, AB_All mutant<80>"
+4.1.2.13,Fructose-bisphosphate aldolase,10.2,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,"#126# at 30Â°C <111>; #126#30Â°C, aldolase A <80>"
+4.1.2.13,Fructose-bisphosphate aldolase,42.2,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,"#126# native recombinantenzyme, pH 7.6, 22Â°C <79>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.0002,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,"#126# turnover number lessthan 0.0002 sec-1, mutant enzyme K146A <139>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.0019,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,#126# mutant enzyme K146M<139>
+4.1.2.13,Fructose-bisphosphate aldolase,0.046,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,#126# mutant enzyme E187A<139>
+4.1.2.13,Fructose-bisphosphate aldolase,36.9,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,"#126# E189A mutant, pH 7.6,22Â°C <79>"
+4.1.2.13,Fructose-bisphosphate aldolase,13.22,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,#126# native wild typeenzyme <139>
+4.1.2.13,Fructose-bisphosphate aldolase,0.005,"D-fructose 1,6-bisphosphate",Methylococcus capsulatus,"#126# mutant enzymeE187Q <139>; #138# in the absence of Co2+, at pH 7.5, 30Â°C <146>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.005,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,"#126# mutant enzymeE187Q <139>; #138# in the absence of Co2+, at pH 7.5, 30Â°C <146>"
+4.1.2.13,Fructose-bisphosphate aldolase,14.0,"D-fructose 1,6-bisphosphate",Homo sapiens,"#13# wild-type and mutants, pH7.4 <70>"
+4.1.2.13,Fructose-bisphosphate aldolase,2.83,"D-fructose 1,6-bisphosphate",Homo sapiens,#13# mutant aldolase C Y363S<44>
+4.1.2.13,Fructose-bisphosphate aldolase,12.6,"D-fructose 1,6-bisphosphate",Homo sapiens,#13# aldolase C <44>
+4.1.2.13,Fructose-bisphosphate aldolase,20.1,"D-fructose 1,6-bisphosphate",Homo sapiens,#13# aldolase B <44>
+4.1.2.13,Fructose-bisphosphate aldolase,59.7,"D-fructose 1,6-bisphosphate",Homo sapiens,#13# aldolase A <44>
+4.1.2.13,Fructose-bisphosphate aldolase,0.029,"D-fructose 1,6-bisphosphate",Homo sapiens,"#13# pH 7.4, 10Â°C, enzymefrom patients with intolerance <68>"
+4.1.2.13,Fructose-bisphosphate aldolase,5.2,"D-fructose 1,6-bisphosphate",Homo sapiens,
+4.1.2.13,Fructose-bisphosphate aldolase,0.011,"D-fructose 1,6-bisphosphate",Homo sapiens,"#13# pH 7.4, 30Â°C, enzymefrom patients with intolerance <68>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.19,"D-fructose 1,6-bisphosphate",Escherichia coli,"#139# 30Â°C, N286Amutant <81>; #142# N334K mutant, 22Â°C <73>; #13# pH 7.4, 10Â°C,wild-type enzyme <68>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.19,"D-fructose 1,6-bisphosphate",Homo sapiens,"#139# 30Â°C, N286Amutant <81>; #142# N334K mutant, 22Â°C <73>; #13# pH 7.4, 10Â°C,wild-type enzyme <68>"
+4.1.2.13,Fructose-bisphosphate aldolase,2.1,"D-fructose 1,6-bisphosphate",Neisseria meningitidis,"#13# pH 7.4, 30Â°C,wild-type enzyme <68>; #37# at 30Â°C in 50 mM Tris-HCl, 0.1 M potassiumacetate buffer (pH 8.0) <143>"
+4.1.2.13,Fructose-bisphosphate aldolase,2.1,"D-fructose 1,6-bisphosphate",Homo sapiens,"#13# pH 7.4, 30Â°C,wild-type enzyme <68>; #37# at 30Â°C in 50 mM Tris-HCl, 0.1 M potassiumacetate buffer (pH 8.0) <143>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.63,"D-fructose 1,6-bisphosphate",Giardia intestinalis,"#136# mutant enzyme D255A,in 50 mM K+-HEPES (pH 7.5), at 25Â°C <138>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.018,"D-fructose 1,6-bisphosphate",Methylococcus capsulatus,"#138# in the presence of0.02 mM Co2+, at substrate concentrations of 0.008-0.5 mM, at pH 7.5,30Â°C <146>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.055,"D-fructose 1,6-bisphosphate",Methylococcus capsulatus,"#138# in the presence of0.02 mM Co2+, at substrate concentrations of 0.5-1.5 mM, at pH 7.5,30Â°C <146>"
+4.1.2.13,Fructose-bisphosphate aldolase,7.0,"D-fructose 1,6-bisphosphate",Escherichia coli,"#139# 30Â°C, D290A mutant <81>"
+4.1.2.13,Fructose-bisphosphate aldolase,2.0,"D-fructose 1,6-bisphosphate",Escherichia coli,"#139# 30Â°C, D144A mutant <81>"
+4.1.2.13,Fructose-bisphosphate aldolase,2.2,"D-fructose 1,6-bisphosphate",Escherichia coli,"#139# 30Â°C, D288A mutant<81>"
+4.1.2.13,Fructose-bisphosphate aldolase,12.3,"D-fructose 1,6-bisphosphate",Escherichia coli,"#139# 30Â°C, D329A mutant<81>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.001,"D-fructose 1,6-bisphosphate",Escherichia coli,"#139# 30Â°C, N286D mutant<81>"
+4.1.2.13,Fructose-bisphosphate aldolase,14.2,"D-fructose 1,6-bisphosphate",Escherichia coli,#139# 30Â°C <105>
+4.1.2.13,Fructose-bisphosphate aldolase,0.0028,"D-fructose 1,6-bisphosphate",Escherichia coli,"#139# 30Â°C, D109A mutant<81>"
+4.1.2.13,Fructose-bisphosphate aldolase,33.0,"D-fructose 1,6-bisphosphate",Rattus norvegicus,#14# aldolase C <44>
+4.1.2.13,Fructose-bisphosphate aldolase,0.57,"D-fructose 1,6-bisphosphate",Homo sapiens,"#142# Q354E mutant, 22Â°C<73>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.43,"D-fructose 1,6-bisphosphate",Homo sapiens,"#142# W147R mutant, 22Â°C<73>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.54,"D-fructose 1,6-bisphosphate",Homo sapiens,"#142# L256P mutant, 22Â°C<73>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.61,"D-fructose 1,6-bisphosphate",Homo sapiens,"#142# wild-type enzyme, 22Â°C<73>"
+4.1.2.13,Fructose-bisphosphate aldolase,16.7,"D-fructose 1,6-bisphosphate",Homo sapiens,#143# wild-type enzyme <88>
+4.1.2.13,Fructose-bisphosphate aldolase,10.7,"D-fructose 1,6-bisphosphate",Homo sapiens,#143# mutant enzyme E206K<88>
+4.1.2.13,Fructose-bisphosphate aldolase,4.7,"D-fructose 1,6-bisphosphate",Homo sapiens,#143# mutant enzyme G346S<88>
+4.1.2.13,Fructose-bisphosphate aldolase,0.027,"D-fructose 1,6-bisphosphate",Sulfurisphaera tokodaii,"#147# pH 8.0, 48Â°C,wild-type enzyme <155>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.026,"D-fructose 1,6-bisphosphate",Sulfurisphaera tokodaii,"#147# pH 8.0, 48Â°C, mutantenzyme Y348F <155>"
+4.1.2.13,Fructose-bisphosphate aldolase,5.1,"D-fructose 1,6-bisphosphate",Bacillus methanolicus,"#150# pH 7.6, 50Â°C <170>"
+4.1.2.13,Fructose-bisphosphate aldolase,7.09,"D-fructose 1,6-bisphosphate",Toxoplasma gondii,"#156# pH 7.5, 25Â°C <187>;#156# at pH 7.5 and 25Â°C <187>"
+4.1.2.13,Fructose-bisphosphate aldolase,1.16,"D-fructose 1,6-bisphosphate",Staphylococcus aureus,"#159# at pH 7.8 and 25Â°C<178>; #159# pH 7.8, temperature not specified in the publication<178>"
+4.1.2.13,Fructose-bisphosphate aldolase,1.63,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,#19# pH 5.5 <54>
+4.1.2.13,Fructose-bisphosphate aldolase,4.02,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,#19# pH 9.3 <54>
+4.1.2.13,Fructose-bisphosphate aldolase,5.47,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,#19# pH 7.6 <54>
+4.1.2.13,Fructose-bisphosphate aldolase,3.55,"D-fructose 1,6-bisphosphate",Giardia intestinalis,"#27# at pH 7.5 and 25Â°C,in the absence of Zn2+ <120>; #136# wild type enzyme, in 50 mM K+-HEPES(pH 7.5), at 25Â°C <138>"
+4.1.2.13,Fructose-bisphosphate aldolase,1.53,"D-fructose 1,6-bisphosphate",Pseudomonas aeruginosa,"#126# 30Â°C, aldolase B<80>; #30# in Tris-HCl pH 8.0, at 30Â°C <150>"
+4.1.2.13,Fructose-bisphosphate aldolase,1.53,"D-fructose 1,6-bisphosphate",Oryctolagus cuniculus,"#126# 30Â°C, aldolase B<80>; #30# in Tris-HCl pH 8.0, at 30Â°C <150>"
+4.1.2.13,Fructose-bisphosphate aldolase,10.3,"D-fructose 1,6-bisphosphate",Trypanosoma brucei,"#33# pH 7.6, native enzyme<54,57>"
+4.1.2.13,Fructose-bisphosphate aldolase,5.03,"D-fructose 1,6-bisphosphate",Trypanosoma brucei,#33# pH 5.5 <54>
+4.1.2.13,Fructose-bisphosphate aldolase,5.28,"D-fructose 1,6-bisphosphate",Trypanosoma brucei,#33# pH 9.2 <54>
+4.1.2.13,Fructose-bisphosphate aldolase,10.9,"D-fructose 1,6-bisphosphate",Trypanosoma brucei,"#33# pH 7.6, recombinantenzyme <57>"
+4.1.2.13,Fructose-bisphosphate aldolase,2.95,"D-fructose 1,6-bisphosphate",Bacillus cereus,"#39# in Tris-HCl pH 8.0, at30Â°C <150>"
+4.1.2.13,Fructose-bisphosphate aldolase,30.1,"D-fructose 1,6-bisphosphate",Mycobacterium tuberculosis,"#41# in Tris-HCl pH 8.0, at30Â°C <150>"
+4.1.2.13,Fructose-bisphosphate aldolase,40.0,"D-fructose 1,6-bisphosphate",Vigna radiata,"#46# pH 7.5, 30Â°C <103>"
+4.1.2.13,Fructose-bisphosphate aldolase,64.5,"D-fructose 1,6-bisphosphate",Daucus carota,
+4.1.2.13,Fructose-bisphosphate aldolase,1.6,"D-fructose 1,6-bisphosphate",Bacillus methanolicus,"#69# pH 7.8, 55Â°C <170>"
+4.1.2.13,Fructose-bisphosphate aldolase,13.9,"D-fructose 1,6-bisphosphate",Staphylococcus aureus,#8# pH 7.6 <54>
+4.1.2.13,Fructose-bisphosphate aldolase,7.5,"D-fructose 1,6-bisphosphate",Staphylococcus aureus,#8# pH 9.3 <54>
+4.1.2.13,Fructose-bisphosphate aldolase,7.87,"D-fructose 1,6-bisphosphate",Staphylococcus aureus,#8# pH 5.5 <54>
+4.1.2.13,Fructose-bisphosphate aldolase,15.8,"D-fructose 1,6-bisphosphate",Lethenteron camtschaticum,#83# non-muscle-type enzyme<45>
+4.1.2.13,Fructose-bisphosphate aldolase,17.9,"D-fructose 1,6-bisphosphate",Lethenteron camtschaticum,#83# recombinantnon-muscle-type enzyme <45>
+4.1.2.13,Fructose-bisphosphate aldolase,46.1,"D-fructose 1,6-bisphosphate",Lethenteron camtschaticum,#83# muscle-type enzyme <45>
+4.1.2.13,Fructose-bisphosphate aldolase,49.3,"D-fructose 1,6-bisphosphate",Lethenteron camtschaticum,#83# recombinant muscle-typeenzyme <45>
+4.1.2.13,Fructose-bisphosphate aldolase,20.3,"D-fructose 1,6-bisphosphate",Staphylococcus carnosus,"#87# recombinant fusionprotein DLF, in Tris-HCl buffer (40 mM, pH 8.0), at 25Â°C <147>"
+4.1.2.13,Fructose-bisphosphate aldolase,16.76,"D-fructose 1,6-bisphosphate",Staphylococcus carnosus,"#87# native enzyme, inTris-HCl buffer (40 mM, pH 8.0), at 25Â°C <147>"
+4.1.2.13,Fructose-bisphosphate aldolase,45.7,"D-fructose 1,6-bisphosphate",Pyricularia grisea,"#89# in Tris-HCl pH 8.0, at30Â°C <150>"
+4.1.2.13,Fructose-bisphosphate aldolase,46.0,"D-fructose 1,6-bisphosphate",Pyricularia grisea,#89# at pH 7.8 <123>
+4.1.2.13,Fructose-bisphosphate aldolase,0.17,"D-fructose-1,6-bisphosphate",Mycobacterium tuberculosis,"#118# mutant G167A, pH 7.8,22Â°C <158>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.01,"D-fructose-1,6-bisphosphate",Mycobacterium tuberculosis,"#118# mutant E169A, pH 7.8,22Â°C <158>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.45,"D-fructose-1,6-bisphosphate",Mycobacterium tuberculosis,"#118# mutant D276A, pH 7.8,22Â°C <158>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.11,"D-fructose-1,6-bisphosphate",Mycobacterium tuberculosis,"#118# mutant G167A/G166A, pH7.8, 22Â°C <158>"
+4.1.2.13,Fructose-bisphosphate aldolase,2.67,"D-fructose-1,6-bisphosphate",Mycobacterium tuberculosis,"#118# mutant E168A, pH 7.8,22Â°C <158>"
+4.1.2.13,Fructose-bisphosphate aldolase,12.0,"D-fructose-1,6-bisphosphate",Mycobacterium tuberculosis,"#118# wild-type, pH 7.8, 22Â°C<158>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.63,D-Fructose 1-phosphate,Oryctolagus cuniculus,"#126# at 30Â°C <111>; #126# 30Â°C,aldolase A <80>"
+4.1.2.13,Fructose-bisphosphate aldolase,1.47,D-Fructose 1-phosphate,Oryctolagus cuniculus,"#126# 30Â°C, AB_All mutant <80>"
+4.1.2.13,Fructose-bisphosphate aldolase,6.08,D-Fructose 1-phosphate,Oryctolagus cuniculus,"#126# 30Â°C, AB_All mutant<80>; #126# 30Â°C, aldolase A <80>; #126# 30Â°C, aldolase B <80>; #142#wild-type enzyme, 22Â°C <73>"
+4.1.2.13,Fructose-bisphosphate aldolase,6.08,D-Fructose 1-phosphate,Homo sapiens,"#126# 30Â°C, AB_All mutant<80>; #126# 30Â°C, aldolase A <80>; #126# 30Â°C, aldolase B <80>; #142#wild-type enzyme, 22Â°C <73>"
+4.1.2.13,Fructose-bisphosphate aldolase,2.0,D-Fructose 1-phosphate,Homo sapiens,"#13# pH 7.4, 30Â°C, wild-type enzyme<68>"
+4.1.2.13,Fructose-bisphosphate aldolase,2.8,D-Fructose 1-phosphate,Homo sapiens,
+4.1.2.13,Fructose-bisphosphate aldolase,0.12,D-Fructose 1-phosphate,Homo sapiens,"#13# pH 7.4, 10Â°C, wild-typeenzyme <68>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.008,D-Fructose 1-phosphate,Homo sapiens,"#13# pH 7.4, 30Â°C, enzyme frompatients with intolerance <68>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.019,D-Fructose 1-phosphate,Homo sapiens,"#13# pH 7.4, 10Â°C, enzyme frompatients with intolerance <68>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.38,D-Fructose 1-phosphate,Homo sapiens,"#142# L256P mutant, 22Â°C <73>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.67,D-Fructose 1-phosphate,Homo sapiens,"#142# wild-type enzyme, 22Â°C<73>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.25,D-Fructose 1-phosphate,Homo sapiens,"#142# W147R mutant, 22Â°C <73>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.085,D-Fructose 1-phosphate,Homo sapiens,"#142# N334K mutant, 22Â°C <73>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.059,D-Fructose 1-phosphate,Homo sapiens,"#142# Q354E mutant, 22Â°C <73>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.75,fructose 1-phosphate,Homo sapiens,#13# mutant aldolase C Y363S <44>
+4.1.2.13,Fructose-bisphosphate aldolase,1.28,fructose 1-phosphate,Homo sapiens,#13# aldolase A <44>
+4.1.2.13,Fructose-bisphosphate aldolase,1.48,fructose 1-phosphate,Homo sapiens,#13# aldolase C <44>
+4.1.2.13,Fructose-bisphosphate aldolase,10.8,fructose 1-phosphate,Homo sapiens,#13# aldolase B <44>
+4.1.2.13,Fructose-bisphosphate aldolase,2.67,fructose 1-phosphate,Rattus norvegicus,#14# aldolase C <44>
+4.1.2.13,Fructose-bisphosphate aldolase,0.167,fructose 1-phosphate,Oryctolagus cuniculus,#19# pH 9.3 <54>
+4.1.2.13,Fructose-bisphosphate aldolase,0.183,fructose 1-phosphate,Oryctolagus cuniculus,#19# pH 5.5 <54>
+4.1.2.13,Fructose-bisphosphate aldolase,0.267,fructose 1-phosphate,Oryctolagus cuniculus,#19# pH 7.6 <54>
+4.1.2.13,Fructose-bisphosphate aldolase,1.7,fructose 1-phosphate,Trypanosoma brucei,#33# pH 7.6 <54>
+4.1.2.13,Fructose-bisphosphate aldolase,1.13,fructose 1-phosphate,Trypanosoma brucei,#33# pH 5.5 <54>
+4.1.2.13,Fructose-bisphosphate aldolase,1.27,fructose 1-phosphate,Trypanosoma brucei,#33# pH 9.2 <54>
+4.1.2.13,Fructose-bisphosphate aldolase,1.05,fructose 1-phosphate,Staphylococcus aureus,#8# pH 7.6 <54>
+4.1.2.13,Fructose-bisphosphate aldolase,0.45,fructose 1-phosphate,Staphylococcus aureus,#8# pH 5.5 <54>
+4.1.2.13,Fructose-bisphosphate aldolase,0.583,fructose 1-phosphate,Staphylococcus aureus,#8# pH 9.3 <54>
+4.1.2.13,Fructose-bisphosphate aldolase,3.6,fructose 1-phosphate,Lethenteron camtschaticum,#83# non-muscle-type enzyme <45>
+4.1.2.13,Fructose-bisphosphate aldolase,1.38,fructose 1-phosphate,Lethenteron camtschaticum,#83# muscle-type enzyme <45>
+4.1.2.13,Fructose-bisphosphate aldolase,1.55,fructose 1-phosphate,Lethenteron camtschaticum,#83# recombinant muscle-type enzyme<45>
+4.1.2.13,Fructose-bisphosphate aldolase,3.65,fructose 1-phosphate,Lethenteron camtschaticum,#83# recombinant non-muscle-typeenzyme <45>
+4.1.2.13,Fructose-bisphosphate aldolase,0.002,D-glyceraldehyde 3-phosphate,Methylococcus capsulatus,"#138# in the absence ofCo2+, at pH 7.5, 30Â°C <146>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.1,D-glyceraldehyde 3-phosphate,Sulfurisphaera tokodaii,"#147# pH 8.0, 48Â°C, mutantenzyme Y348F <155>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.91,D-glyceraldehyde 3-phosphate,Sulfurisphaera tokodaii,"#147# pH 8.0, 48Â°C,wild-type enzyme <155>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.56,D-glyceraldehyde 3-phosphate,Bacillus methanolicus,"#150# pH 7.6, 50Â°C <170>"
+4.1.2.13,Fructose-bisphosphate aldolase,12.6,D-glyceraldehyde 3-phosphate,Bacillus methanolicus,"#69# pH 7.8, 55Â°C <170>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.002,dihydroxyacetone phosphate,Methylococcus capsulatus,"#138# in the absence ofCo2+, at pH 7.5, 30Â°C <146>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.003,"sedoheptulose 1,7-bisphosphate",Methylococcus capsulatus,"#138# in the absence ofCo2+, at pH 7.5, 30Â°C <146>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.1,glycerone phosphate,Sulfurisphaera tokodaii,"#147# pH 8.0, 48Â°C, mutant enzymeY348F <155>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.91,glycerone phosphate,Sulfurisphaera tokodaii,"#147# pH 8.0, 48Â°C, wild-type enzyme<155>"
+4.1.2.13,Fructose-bisphosphate aldolase,0.4,glycerone phosphate,Bacillus methanolicus,"#150# pH 7.6, 50Â°C <170>"
+4.1.2.13,Fructose-bisphosphate aldolase,8.0,glycerone phosphate,Bacillus methanolicus,"#69# pH 7.8, 55Â°C <170>"
+4.1.2.13,Fructose-bisphosphate aldolase,33.3,sedoheptulose 7-phosphate,Vigna radiata,"#46# pH 7.5, 30Â°C <103>"
+4.1.2.13,Fructose-bisphosphate aldolase,25.2,"sedoheptulose 1,7-diphosphate",Daucus carota,
+5.3.1.1,Triose-phosphate isomerase,8.0,dihydroxyacetone phosphate,Gallus gallus,"#1# mutant enzyme L7RM, in 30 mMtriethanolamine buffer at pH 7.5 and 25Â°C <144>"
+5.3.1.1,Triose-phosphate isomerase,54.0,dihydroxyacetone phosphate,Gallus gallus,"#1# 30Â°C, pH 7.6, mutant enzymeK174G/T175G/A176G <60>"
+5.3.1.1,Triose-phosphate isomerase,50.0,dihydroxyacetone phosphate,Gallus gallus,"#1# 30Â°C, pH 7.6, mutant enzymeV167G/W168G <60>"
+5.3.1.1,Triose-phosphate isomerase,430.0,dihydroxyacetone phosphate,Gallus gallus,"#1# 30Â°C, pH 7.6, wild-typeenzyme <60>"
+5.3.1.1,Triose-phosphate isomerase,0.25,dihydroxyacetone phosphate,Gallus gallus,"#1# 30Â°C, pH 7.6, mutant enzymeV167G/W168G/K174G/T175G/A176G <60>"
+5.3.1.1,Triose-phosphate isomerase,340.0,dihydroxyacetone phosphate,Gallus gallus,"#1# wild type enzyme, in 30 mMtriethanolamine buffer at pH 7.5 and 25Â°C <144>"
+5.3.1.1,Triose-phosphate isomerase,267.0,dihydroxyacetone phosphate,Giardia intestinalis,"#14# 25Â°C, pH 7.4, dimericenzyme form <71>"
+5.3.1.1,Triose-phosphate isomerase,6.5,dihydroxyacetone phosphate,Trypanosoma brucei brucei,"#41# mutant enzyme L7RM, in 30mM triethanolamine buffer at pH 7.5 and 25Â°C <144>"
+5.3.1.1,Triose-phosphate isomerase,4.7,dihydroxyacetone phosphate,Trypanosoma brucei brucei,"#41# mutant enzyme L232A, at pH7.5 (30 mM triethanolamine), 25Â°C <148>"
+5.3.1.1,Triose-phosphate isomerase,300.0,dihydroxyacetone phosphate,Trypanosoma brucei brucei,"#41# wild type enzyme, in 100mM TEA (pH 7.5), at 25Â°C <133>; #41# wild type enzyme, at pH 7.5 (30 mMtriethanolamine), 25Â°C <148>; #41# wild type enzyme, in 30 mMtriethanolamine buffer at pH 7.5 and 25Â°C <144>"
+5.3.1.1,Triose-phosphate isomerase,730.0,dihydroxyacetone phosphate,Mycobacterium tuberculosis,"#58# in 100 mM Tris pH 7.8, at25Â°C <142>"
+5.3.1.1,Triose-phosphate isomerase,60.0,dihydroxyacetone phosphate,Saccharomyces cerevisiae,"#7# 25Â°C, pH 7.4, mutant enzymeC126S <61>"
+5.3.1.1,Triose-phosphate isomerase,500.0,dihydroxyacetone phosphate,Saccharomyces cerevisiae,"#7# 25Â°C, pH 7.4, wild-typeenzyme <61>; #73# mutant A178L, pH 7.6, 25Â°C <91>"
+5.3.1.1,Triose-phosphate isomerase,500.0,dihydroxyacetone phosphate,Trypanosoma brucei,"#7# 25Â°C, pH 7.4, wild-typeenzyme <61>; #73# mutant A178L, pH 7.6, 25Â°C <91>"
+5.3.1.1,Triose-phosphate isomerase,0.8,dihydroxyacetone phosphate,Trypanosoma brucei,"#73# monomeric wild-type, pH7.6, 25Â°C <91>"
+5.3.1.1,Triose-phosphate isomerase,19.0,dihydroxyacetone phosphate,Trypanosoma brucei,"#73# mutant P168A, 25Â°C, pH 7.6<75>"
+5.3.1.1,Triose-phosphate isomerase,0.06,dihydroxyacetone phosphate,Trypanosoma brucei,"#73# monomeric mutant A178L,pH 7.6, 25Â°C <91>"
+5.3.1.1,Triose-phosphate isomerase,800.0,dihydroxyacetone phosphate,Trypanosoma brucei,"#73# wild-type, pH 7.6, 25Â°C<91>"
+5.3.1.1,Triose-phosphate isomerase,645.0,dihydroxyacetone phosphate,Trypanosoma brucei,"#73# wild-type, 25Â°C, pH 7.6<75>"
+5.3.1.1,Triose-phosphate isomerase,1.7,D-glyceraldehyde 3-phosphate,Gallus gallus,"#1# 30Â°C, pH 7.6, mutantenzyme V167G/W168G/K174G/T175G/A176G <60>"
+5.3.1.1,Triose-phosphate isomerase,16.0,D-glyceraldehyde 3-phosphate,Gallus gallus,"#1# mutant enzyme L7RM, in 30mM triethanolamine buffer at pH 7.5 and 25Â°C <144>"
+5.3.1.1,Triose-phosphate isomerase,261.0,D-glyceraldehyde 3-phosphate,Gallus gallus,"#1# 30Â°C, pH 7.6, mutantenzyme K174G/T175G/A176G <60>"
+5.3.1.1,Triose-phosphate isomerase,240.0,D-glyceraldehyde 3-phosphate,Gallus gallus,"#1# 30Â°C, pH 7.6, mutantenzyme V167G/W168G <60>"
+5.3.1.1,Triose-phosphate isomerase,3200.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#50# wild-type, pH 7.5,25Â°C <158>; #17# mutant C14S/S71C, 25Â°C, pH 7.4 <95>; #1# wild typeenzyme, in 30 mM triethanolamine buffer at pH 7.5 and 25Â°C <144>"
+5.3.1.1,Triose-phosphate isomerase,3200.0,D-glyceraldehyde 3-phosphate,Gallus gallus,"#50# wild-type, pH 7.5,25Â°C <158>; #17# mutant C14S/S71C, 25Â°C, pH 7.4 <95>; #1# wild typeenzyme, in 30 mM triethanolamine buffer at pH 7.5 and 25Â°C <144>"
+5.3.1.1,Triose-phosphate isomerase,4300.0,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#51# pH 7.0, 25Â°C<121>; #1# 30Â°C, pH 7.6, wild-type enzyme <60>; #54# wild type enzyme,in 100 mM triethanolamine-HCl (pH 7.6), at 23Â°C <137>; #54# wild typeenzyme, in TEA buffer (pH 7.6, 100 mM), at 25Â°C <135>"
+5.3.1.1,Triose-phosphate isomerase,4300.0,D-glyceraldehyde 3-phosphate,Tenebrio molitor,"#51# pH 7.0, 25Â°C<121>; #1# 30Â°C, pH 7.6, wild-type enzyme <60>; #54# wild type enzyme,in 100 mM triethanolamine-HCl (pH 7.6), at 23Â°C <137>; #54# wild typeenzyme, in TEA buffer (pH 7.6, 100 mM), at 25Â°C <135>"
+5.3.1.1,Triose-phosphate isomerase,4300.0,D-glyceraldehyde 3-phosphate,Gallus gallus,"#51# pH 7.0, 25Â°C<121>; #1# 30Â°C, pH 7.6, wild-type enzyme <60>; #54# wild type enzyme,in 100 mM triethanolamine-HCl (pH 7.6), at 23Â°C <137>; #54# wild typeenzyme, in TEA buffer (pH 7.6, 100 mM), at 25Â°C <135>"
+5.3.1.1,Triose-phosphate isomerase,4833.0,D-glyceraldehyde 3-phosphate,Giardia intestinalis,"#14# 25Â°C, pH 7.4, dimericenzyme form <71>"
+5.3.1.1,Triose-phosphate isomerase,2450.0,D-glyceraldehyde 3-phosphate,Giardia intestinalis,"#14# 25Â°C, pH 7.4,tetrameric enzyme form <71>"
+5.3.1.1,Triose-phosphate isomerase,6170.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,
+5.3.1.1,Triose-phosphate isomerase,1.9,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#17# pH 7.4, 25Â°C, mutantenzyme C14F <46>"
+5.3.1.1,Triose-phosphate isomerase,11.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#17# mutant E168D, pH 7.4,25Â°C <90>"
+5.3.1.1,Triose-phosphate isomerase,3670.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#17# pH 7.4, 25Â°C, mutantenzyme C14P <46>"
+5.3.1.1,Triose-phosphate isomerase,3830.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#17# pH 7.4, 25Â°C, mutantenzyme C14T <46>"
+5.3.1.1,Triose-phosphate isomerase,4330.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#17# pH 7.4, 25Â°C, wild-typeenzyme <46>"
+5.3.1.1,Triose-phosphate isomerase,5170.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#17# pH 7.4, 25Â°C, mutantenzyme C14A <46>; #17# wild-type, pH 7.4, 25Â°C <90>"
+5.3.1.1,Triose-phosphate isomerase,483.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#17# mutant C14S/A73C, 25Â°C,pH 7.4 <95>"
+5.3.1.1,Triose-phosphate isomerase,3667.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#17# pH 7.4, 25Â°C, mutantenzyme C14P <46>"
+5.3.1.1,Triose-phosphate isomerase,3833.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#17# pH 7.4, 25Â°C, mutantenzyme C14T <46>"
+5.3.1.1,Triose-phosphate isomerase,4183.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#17# wild-type, 25Â°C, pH 7.4<95>"
+5.3.1.1,Triose-phosphate isomerase,5133.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#17# mutant C14S, 25Â°C, pH7.4 <95>"
+5.3.1.1,Triose-phosphate isomerase,2967.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#17# mutant C14S/S79C, 25Â°C,pH 7.4 <95>"
+5.3.1.1,Triose-phosphate isomerase,833.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#17# in complex withmutant C15A of Trypanosoma cruzi enzyme, after modification bymethylmethane thiosulfonate, pH 7.4, 25Â°C <90>; #23# mutant C15A incomplex with intact monomer from Trypanosoma brucei enzyme, aftermodification by methylmethane thiosulfonate, pH 7.4, 25Â°C <90>"
+5.3.1.1,Triose-phosphate isomerase,833.0,D-glyceraldehyde 3-phosphate,Trypanosoma cruzi,"#17# in complex withmutant C15A of Trypanosoma cruzi enzyme, after modification bymethylmethane thiosulfonate, pH 7.4, 25Â°C <90>; #23# mutant C15A incomplex with intact monomer from Trypanosoma brucei enzyme, aftermodification by methylmethane thiosulfonate, pH 7.4, 25Â°C <90>"
+5.3.1.1,Triose-phosphate isomerase,5000.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#17# pH 7.4, 25Â°C, mutantenzyme C14S <46>; #23# in complex with monomer from Trypanosoma brucei,pH 7.4, 25Â°C <90>; #17# in complex with monomer from Trypanosoma cruzi,pH 7.4, 25Â°C <90>"
+5.3.1.1,Triose-phosphate isomerase,5000.0,D-glyceraldehyde 3-phosphate,Trypanosoma cruzi,"#17# pH 7.4, 25Â°C, mutantenzyme C14S <46>; #23# in complex with monomer from Trypanosoma brucei,pH 7.4, 25Â°C <90>; #17# in complex with monomer from Trypanosoma cruzi,pH 7.4, 25Â°C <90>"
+5.3.1.1,Triose-phosphate isomerase,2170.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#17# in complex withmutant C15A of Trypanosoma cruzi enzyme, pH 7.4, 25Â°C <90>; #23# mutantC15A in complex with intact monomer from Trypanosoma brucei enzyme, pH7.4, 25Â°C <90>"
+5.3.1.1,Triose-phosphate isomerase,2170.0,D-glyceraldehyde 3-phosphate,Trypanosoma cruzi,"#17# in complex withmutant C15A of Trypanosoma cruzi enzyme, pH 7.4, 25Â°C <90>; #23# mutantC15A in complex with intact monomer from Trypanosoma brucei enzyme, pH7.4, 25Â°C <90>"
+5.3.1.1,Triose-phosphate isomerase,750.0,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#23# mutant C15A incomplex with mutant E168D of Trypanosoma brucei, pH 7.4, 25Â°C <90>;#17# mutant E168D in complex with mutant C15A of Trypanosoma cruzi, pH7.4, 25Â°C <90>; #54# mutant enzyme C126S, in 100 mM triethanolamine-HCl(pH 7.6), at 23Â°C <137>"
+5.3.1.1,Triose-phosphate isomerase,750.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#23# mutant C15A incomplex with mutant E168D of Trypanosoma brucei, pH 7.4, 25Â°C <90>;#17# mutant E168D in complex with mutant C15A of Trypanosoma cruzi, pH7.4, 25Â°C <90>; #54# mutant enzyme C126S, in 100 mM triethanolamine-HCl(pH 7.6), at 23Â°C <137>"
+5.3.1.1,Triose-phosphate isomerase,750.0,D-glyceraldehyde 3-phosphate,Trypanosoma cruzi,"#23# mutant C15A incomplex with mutant E168D of Trypanosoma brucei, pH 7.4, 25Â°C <90>;#17# mutant E168D in complex with mutant C15A of Trypanosoma cruzi, pH7.4, 25Â°C <90>; #54# mutant enzyme C126S, in 100 mM triethanolamine-HCl(pH 7.6), at 23Â°C <137>"
+5.3.1.1,Triose-phosphate isomerase,4000.0,D-glyceraldehyde 3-phosphate,Leishmania mexicana,"#73# mutant enzymeR191S <50>; #17# pH 7.4, 25Â°C, mutant enzyme C14V <46>"
+5.3.1.1,Triose-phosphate isomerase,4000.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#73# mutant enzymeR191S <50>; #17# pH 7.4, 25Â°C, mutant enzyme C14V <46>"
+5.3.1.1,Triose-phosphate isomerase,4333.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#17# pH 7.4, 25Â°C,wild-type enzyme <46>; #55# mutant W75F/W173F/W196F <97>"
+5.3.1.1,Triose-phosphate isomerase,4333.0,D-glyceraldehyde 3-phosphate,Giardia intestinalis,"#17# pH 7.4, 25Â°C,wild-type enzyme <46>; #55# mutant W75F/W173F/W196F <97>"
+5.3.1.1,Triose-phosphate isomerase,6000.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei brucei,"#73# wild-type enzyme<50>; #17# recombinant enzyme <25>; #63# wild-type, 25Â°C, pH notspecified in the publication <173>"
+5.3.1.1,Triose-phosphate isomerase,6000.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#73# wild-type enzyme<50>; #17# recombinant enzyme <25>; #63# wild-type, 25Â°C, pH notspecified in the publication <173>"
+5.3.1.1,Triose-phosphate isomerase,5167.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#17# pH 7.4, 25Â°C, mutantenzyme C14A <46>; #64# wild-type, 25Â°C, pH not specified in thepublication <173>; #17# in 100 mM TEA, 10 mM EDTA, pH 7.4, at 25Â°C<152>"
+5.3.1.1,Triose-phosphate isomerase,5167.0,D-glyceraldehyde 3-phosphate,Trypanosoma cruzi,"#17# pH 7.4, 25Â°C, mutantenzyme C14A <46>; #64# wild-type, 25Â°C, pH not specified in thepublication <173>; #17# in 100 mM TEA, 10 mM EDTA, pH 7.4, at 25Â°C<152>"
+5.3.1.1,Triose-phosphate isomerase,2600.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#73# mutant enzyme S227A<50>; #17# mutant C14S/A69C, 25Â°C, pH 7.4 <95>"
+5.3.1.1,Triose-phosphate isomerase,68330.0,D-glyceraldehyde 3-phosphate,Mycobacterium tuberculosis,"#21# 22Â°C, pH 7.6 <82>"
+5.3.1.1,Triose-phosphate isomerase,2670.0,D-glyceraldehyde 3-phosphate,Trypanosoma cruzi,"#23# mutant C15A, pH 7.4,25Â°C <90>"
+5.3.1.1,Triose-phosphate isomerase,4500.0,D-glyceraldehyde 3-phosphate,Trypanosoma cruzi,"#23# wild-type, pH 7.4, 25Â°C<90>; #23# in 100 mM TEA, 10 mM EDTA, pH 7.4, at 25Â°C <152>"
+5.3.1.1,Triose-phosphate isomerase,4170.0,D-glyceraldehyde 3-phosphate,Leishmania mexicana,#32# recombinant enzyme<29>
+5.3.1.1,Triose-phosphate isomerase,4670.0,D-glyceraldehyde 3-phosphate,Moritella marina,"#33# mutant A238S <30>; #33#pH 7.6, mutant enzyme A238S <30>"
+5.3.1.1,Triose-phosphate isomerase,7000.0,D-glyceraldehyde 3-phosphate,Moritella marina,"#33# wild type enzyme <30>;#33# pH 7.6, wild-type enzyme <30>"
+5.3.1.1,Triose-phosphate isomerase,4667.0,D-glyceraldehyde 3-phosphate,Moritella marina,"#33# pH 7.6, mutant enzymeA238S <30>"
+5.3.1.1,Triose-phosphate isomerase,24.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei brucei,"#41# mutant enzyme L7RM, in 30mM triethanolamine buffer at pH 7.5 and 25Â°C <144>"
+5.3.1.1,Triose-phosphate isomerase,220.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei brucei,"#41# mutant enzyme L232A, atpH 7.5 (30 mM triethanolamine), 25Â°C <148>"
+5.3.1.1,Triose-phosphate isomerase,2100.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei brucei,"#41# wild type enzyme, in100 mM TEA (pH 7.5), at 25Â°C <133>; #41# wild type enzyme, at pH 7.5(30 mM triethanolamine), 25Â°C <148>; #41# wild type enzyme, in 30 mMtriethanolamine buffer at pH 7.5 and 25Â°C <144>"
+5.3.1.1,Triose-phosphate isomerase,2000.0,D-glyceraldehyde 3-phosphate,Helicobacter pylori,"#49# mutant K183S, pH 7.5,25Â°C <89>"
+5.3.1.1,Triose-phosphate isomerase,1470.0,D-glyceraldehyde 3-phosphate,Helicobacter pylori,"#49# wild-type, pH 7.5, 25Â°C<89>"
+5.3.1.1,Triose-phosphate isomerase,1830.0,D-glyceraldehyde 3-phosphate,Helicobacter pylori,"#49# mutant D213Q, pH 7.5,25Â°C <89>"
+5.3.1.1,Triose-phosphate isomerase,1570.0,D-glyceraldehyde 3-phosphate,Helicobacter pylori,"#49# mutant D213A, pH 7.5,25Â°C <89>"
+5.3.1.1,Triose-phosphate isomerase,2330.0,D-glyceraldehyde 3-phosphate,Helicobacter pylori,"#49# mutant K183A, pH 7.5,25Â°C <89>"
+5.3.1.1,Triose-phosphate isomerase,20000.0,D-glyceraldehyde 3-phosphate,Helicobacter pylori,"#49# mutant K183S, pH 7.5,25Â°C <108>"
+5.3.1.1,Triose-phosphate isomerase,14670.0,D-glyceraldehyde 3-phosphate,Helicobacter pylori,"#49# wild-type, pH 7.5,25Â°C <108>"
+5.3.1.1,Triose-phosphate isomerase,18330.0,D-glyceraldehyde 3-phosphate,Helicobacter pylori,"#49# mutant D213Q, pH 7.5,25Â°C <108>"
+5.3.1.1,Triose-phosphate isomerase,15670.0,D-glyceraldehyde 3-phosphate,Helicobacter pylori,"#49# mutant D213A, pH 7.5,25Â°C <108>"
+5.3.1.1,Triose-phosphate isomerase,23330.0,D-glyceraldehyde 3-phosphate,Helicobacter pylori,"#49# mutant K183A, pH 7.5,25Â°C <108>"
+5.3.1.1,Triose-phosphate isomerase,9000.0,D-glyceraldehyde 3-phosphate,Escherichia coli,"#5# pH 7.6, wild-type enzyme<30>"
+5.3.1.1,Triose-phosphate isomerase,20.0,D-glyceraldehyde 3-phosphate,Gallus gallus,"#50# mutant V167P/W168E, pH7.5, 25Â°C <158>"
+5.3.1.1,Triose-phosphate isomerase,0.03,D-glyceraldehyde 3-phosphate,Gallus gallus,"#50# mutant 170-173del, pH7.5, 25Â°C <158>"
+5.3.1.1,Triose-phosphate isomerase,14.8,D-glyceraldehyde 3-phosphate,Arabidopsis thaliana,"#52# mutant C127S/C218S, pH7.8, 30Â°C <166>"
+5.3.1.1,Triose-phosphate isomerase,70.4,D-glyceraldehyde 3-phosphate,Arabidopsis thaliana,"#52# mutant C127S, pH 7.8,30Â°C <166>"
+5.3.1.1,Triose-phosphate isomerase,3406.0,D-glyceraldehyde 3-phosphate,Arabidopsis thaliana,"#52# wild-type, pH 7.8, 30Â°C<166>"
+5.3.1.1,Triose-phosphate isomerase,2690.0,D-glyceraldehyde 3-phosphate,Arabidopsis thaliana,"#52# mutant C218S, pH 7.8,30Â°C <166>"
+5.3.1.1,Triose-phosphate isomerase,3.8,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# mutant F96A, 25Â°C, pHnot specified in the publication <162>"
+5.3.1.1,Triose-phosphate isomerase,1.0,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# mutant enzyme E97Q, in TEAbuffer (pH 7.6, 100 mM), at 25Â°C <135>"
+5.3.1.1,Triose-phosphate isomerase,5.5,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# mutant F96Y, 25Â°C, pHnot specified in the publication <162>"
+5.3.1.1,Triose-phosphate isomerase,67.0,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# pH 7.6, mutant enzymeY74G <49>"
+5.3.1.1,Triose-phosphate isomerase,0.04,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# wild-type, pH 7.6, 23Â°C<164>"
+5.3.1.1,Triose-phosphate isomerase,620.0,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# pH 7.6, mutant F96S<111>"
+5.3.1.1,Triose-phosphate isomerase,4.0,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# mutant F96S/L167V, 25Â°C,pH not specified in the publication <162>"
+5.3.1.1,Triose-phosphate isomerase,160.0,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# mutant enzyme C126V, in100 mM triethanolamine-HCl (pH 7.6), at 23Â°C <137>"
+5.3.1.1,Triose-phosphate isomerase,190.0,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# mutant enzyme C126M, in100 mM triethanolamine-HCl (pH 7.6), at 23Â°C <137>"
+5.3.1.1,Triose-phosphate isomerase,4.3,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# wild-type, 25Â°C, pH notspecified in the publication <162>"
+5.3.1.1,Triose-phosphate isomerase,4.6,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# mutant F96S/S73A, 25Â°C,pH not specified in the publication <162>"
+5.3.1.1,Triose-phosphate isomerase,4.2,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# mutant enzyme E165A, inTEA buffer (pH 7.6, 100 mM), at 25Â°C <135>"
+5.3.1.1,Triose-phosphate isomerase,0.013,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# mutant T75N, pH 7.6,23Â°C <164>"
+5.3.1.1,Triose-phosphate isomerase,0.038,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# mutant T75S, pH 7.6,23Â°C <164>; #54# mutant T75V, pH 7.6, 23Â°C <164>"
+5.3.1.1,Triose-phosphate isomerase,6.2,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# mutant F96S, 25Â°C, pHnot specified in the publication <162>"
+5.3.1.1,Triose-phosphate isomerase,330.0,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# mutant enzyme C126T, in100 mM triethanolamine-HCl (pH 7.6), at 23Â°C <137>"
+5.3.1.1,Triose-phosphate isomerase,600.0,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# mutant enzyme C13D, in100 mM triethanolamine-HCl (pH 7.6), temperature not specified in thepublication <140>"
+5.3.1.1,Triose-phosphate isomerase,770.0,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# mutant enzyme C126A, in100 mM triethanolamine-HCl (pH 7.6), at 23Â°C <137>"
+5.3.1.1,Triose-phosphate isomerase,185.0,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# pH 7.6, mutant F96H<111>"
+5.3.1.1,Triose-phosphate isomerase,0.034,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# mutant T75C, pH 7.6,23Â°C <164>"
+5.3.1.1,Triose-phosphate isomerase,2420.0,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# pH 7.6, mutant enzymeY74C <49>"
+5.3.1.1,Triose-phosphate isomerase,4470.0,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# pH 7.6, wild-typeenzyme <49>"
+5.3.1.1,Triose-phosphate isomerase,2417.0,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# pH 7.6, mutant enzymeY74C <49>"
+5.3.1.1,Triose-phosphate isomerase,4467.0,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# pH 7.6, wild-typeenzyme <49>; #54# wild type enzyme, in 100 mM triethanolamine-HCl (pH7.6), temperature not specified in the publication <140>"
+5.3.1.1,Triose-phosphate isomerase,42330.0,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# pH 7.6, wild-typeenzyme <111>"
+5.3.1.1,Triose-phosphate isomerase,2466.0,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# pH 7.6, mutant F96W<111>"
+5.3.1.1,Triose-phosphate isomerase,1367.0,D-glyceraldehyde 3-phosphate,Plasmodium falciparum,"#54# mutant enzyme C13E, in100 mM triethanolamine-HCl (pH 7.6), temperature not specified in thepublication <140>"
+5.3.1.1,Triose-phosphate isomerase,5500.0,D-glyceraldehyde 3-phosphate,Giardia intestinalis,#55# mutant F12W <97>
+5.3.1.1,Triose-phosphate isomerase,8000.0,D-glyceraldehyde 3-phosphate,Giardia intestinalis,#55# mutant W75F <97>
+5.3.1.1,Triose-phosphate isomerase,3333.0,D-glyceraldehyde 3-phosphate,Giardia intestinalis,#55# mutant W162F <97>
+5.3.1.1,Triose-phosphate isomerase,7666.0,D-glyceraldehyde 3-phosphate,Giardia intestinalis,#55# wildtype <97>
+5.3.1.1,Triose-phosphate isomerase,3166.0,D-glyceraldehyde 3-phosphate,Giardia intestinalis,#55# mutantW162F/W173F/W196F <97>; #55# presence of methyl methanethiosulfonate<104>
+5.3.1.1,Triose-phosphate isomerase,1666.0,D-glyceraldehyde 3-phosphate,Giardia intestinalis,#55# presence of2-carboxyethyl methanethiosulfonate <104>
+5.3.1.1,Triose-phosphate isomerase,6166.0,D-glyceraldehyde 3-phosphate,Giardia intestinalis,#55# mutant W173F <97>
+5.3.1.1,Triose-phosphate isomerase,4166.0,D-glyceraldehyde 3-phosphate,Giardia intestinalis,#55# mutant W196F <97>
+5.3.1.1,Triose-phosphate isomerase,7166.0,D-glyceraldehyde 3-phosphate,Giardia intestinalis,#55# mutant W75F/W162F/W196F<97>
+5.3.1.1,Triose-phosphate isomerase,3666.0,D-glyceraldehyde 3-phosphate,Giardia intestinalis,#55# mutant W75F/W162F/W173F<97>
+5.3.1.1,Triose-phosphate isomerase,0.69,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#62# mutantK17L/Y46F/D48F/Q82F/D85L, pH 7.4, 25Â°C <96>"
+5.3.1.1,Triose-phosphate isomerase,1.04,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#62# mutantK17L/Y46F/D48Y/Q82A/D85A, pH 7.4, 25Â°C <96>"
+5.3.1.1,Triose-phosphate isomerase,13.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#62# mutant Y208F, pH 7.5,25Â°C <168>"
+5.3.1.1,Triose-phosphate isomerase,520.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#62# mutant Y208T/S211G, pH7.5, 25Â°C <168>"
+5.3.1.1,Triose-phosphate isomerase,740.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#62# mutant Y208A, pH 7.5,25Â°C <168>"
+5.3.1.1,Triose-phosphate isomerase,940.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#62# mutant Y208S, pH 7.5,25Â°C <168>"
+5.3.1.1,Triose-phosphate isomerase,6400.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#62# wild-type, pH 7.4, 25Â°C<96>"
+5.3.1.1,Triose-phosphate isomerase,3700.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#62# mutant Y208T, pH 7.5,25Â°C <168>"
+5.3.1.1,Triose-phosphate isomerase,7500.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#62# mutant S211G, pH 7.5,25Â°C <168>"
+5.3.1.1,Triose-phosphate isomerase,8900.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#62# wild-type, pH 7.5, 25Â°C<168>"
+5.3.1.1,Triose-phosphate isomerase,2800.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#62# mutant S211A, pH 7.5,25Â°C <168>"
+5.3.1.1,Triose-phosphate isomerase,4160.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#62# mutantK17P/Y46A/D48L/Q82T/D85A, pH 7.4, 25Â°C <96>"
+5.3.1.1,Triose-phosphate isomerase,7020.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#62# mutantK17A/Y46A/D48F/Q82A/D85S , pH 7.4, 25Â°C <96>"
+5.3.1.1,Triose-phosphate isomerase,16700.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,
+5.3.1.1,Triose-phosphate isomerase,0.6,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#7# mutant enzyme K12G, in 30mM TEA at pH 7.5, at 25Â°C <132>"
+5.3.1.1,Triose-phosphate isomerase,1100.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#7# 25Â°C, pH 7.4, mutantenzyme C126S <61>"
+5.3.1.1,Triose-phosphate isomerase,3100.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#7# 25Â°C, pH 7.4, mutantenzyme C126A <61>"
+5.3.1.1,Triose-phosphate isomerase,4600.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#7# mutant D225Q, pH 7.4,25Â°C <109>"
+5.3.1.1,Triose-phosphate isomerase,4700.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#7# 25Â°C, pH 7., wild-typeenzyme <61>"
+5.3.1.1,Triose-phosphate isomerase,6900.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#7# wild-type, pH 7.4, 25Â°C<109>"
+5.3.1.1,Triose-phosphate isomerase,7300.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#7# wild type enzyme, in 30mM TEA at pH 7.5, at 25Â°C <132>"
+5.3.1.1,Triose-phosphate isomerase,8700.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,#7# at pH 7.5 and 37Â°C <150>
+5.3.1.1,Triose-phosphate isomerase,2.2,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#73# monomeric wild-type, pH7.6, 25Â°C <91>"
+5.3.1.1,Triose-phosphate isomerase,60.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#73# mutant P168A, 25Â°C, pH7.6 <75>"
+5.3.1.1,Triose-phosphate isomerase,0.25,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#73# monomeric mutant A178L,pH 7.6, 25Â°C <91>"
+5.3.1.1,Triose-phosphate isomerase,2500.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,#73# mutant enzymeR191A<50>
+5.3.1.1,Triose-phosphate isomerase,5300.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#73# mutant A178L, pH 7.6,25Â°C <91>"
+5.3.1.1,Triose-phosphate isomerase,1600.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,#73# mutant enzyme S227N<50>
+5.3.1.1,Triose-phosphate isomerase,4400.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#73# wild-type, pH 7.6, 25Â°C<91>"
+5.3.1.1,Triose-phosphate isomerase,3570.0,D-glyceraldehyde 3-phosphate,Trypanosoma brucei,"#73# wild-type, 25Â°C, pH 7.6<75>"
+5.3.1.1,Triose-phosphate isomerase,3372.0,D-glyceraldehyde 3-phosphate,Chlamydomonas reinhardtii,"#74# in 100 mMtriethanolamine (pH 7.4), at 25Â°C <151>"
+5.3.1.1,Triose-phosphate isomerase,25000000.0,D-glyceraldehyde 3-phosphate,Thermococcus onnurineus,"#79# pH 8.0, 90Â°C <153>"
+5.3.1.1,Triose-phosphate isomerase,1430000.0,D-glyceraldehyde 3-phosphate,Thermococcus onnurineus,"#79# pH 8.0, 25Â°C <153>"
+5.3.1.1,Triose-phosphate isomerase,1548000.0,D-glyceraldehyde 3-phosphate,Pyrococcus furiosus,"#80# pH 8.0, 25Â°C <153>"
+5.3.1.1,Triose-phosphate isomerase,57500000.0,D-glyceraldehyde 3-phosphate,Pyrococcus furiosus,"#80# pH 8.0, 90Â°C <153>"
+5.3.1.1,Triose-phosphate isomerase,1.5,D-glyceraldehyde 3-phosphate,Trichomonas vaginalis,"#84# mutant lacking loop 3,pH 7.4, 25Â°C <160>"
+5.3.1.1,Triose-phosphate isomerase,17.7,D-glyceraldehyde 3-phosphate,Trichomonas vaginalis,"#84# mutant I45F, pH 7.4,25Â°C <174>"
+5.3.1.1,Triose-phosphate isomerase,1330.0,D-glyceraldehyde 3-phosphate,Trichomonas vaginalis,"#84# wild-type, pH 7.4, 25Â°C<160,174>"
+5.3.1.1,Triose-phosphate isomerase,15.7,D-glyceraldehyde 3-phosphate,Trichomonas vaginalis,"#84# mutant I45Y, pH 7.4,25Â°C <174>"
+5.3.1.1,Triose-phosphate isomerase,1650.0,D-glyceraldehyde 3-phosphate,Trichomonas vaginalis,"#84# mutant I45V, pH 7.4,25Â°C <174>"
+5.3.1.1,Triose-phosphate isomerase,78.3,D-glyceraldehyde 3-phosphate,Trichomonas vaginalis,"#84# mutant I45A, pH 7.4,25Â°C <174>"
+5.3.1.1,Triose-phosphate isomerase,1900.0,D-glyceraldehyde 3-phosphate,Trichomonas vaginalis,"#84# mutant I45L, pH 7.4,25Â°C <174>"
+5.3.1.1,Triose-phosphate isomerase,72.8,D-glyceraldehyde 3-phosphate,Trichomonas vaginalis,"#84# mutant I45G, pH 7.4,25Â°C <174>"
+5.3.1.1,Triose-phosphate isomerase,76.7,D-glyceraldehyde 3-phosphate,Trichomonas vaginalis,"#85# mutant V45A, pH 7.4,25Â°C <160>"
+5.3.1.1,Triose-phosphate isomerase,0.31,D-glyceraldehyde 3-phosphate,Trichomonas vaginalis,"#85# mutant lacking loop 3,pH 7.4, 25Â°C <160>"
+5.3.1.1,Triose-phosphate isomerase,1373.0,D-glyceraldehyde 3-phosphate,Trichomonas vaginalis,"#85# wild-type, pH 7.4, 25Â°C<160>"
+5.3.1.1,Triose-phosphate isomerase,8670.0,D-glyceraldehyde 3-phosphate,Oryctolagus cuniculus,
+5.3.1.1,Triose-phosphate isomerase,1080.0,glycerone phosphate,Trypanosoma brucei,
+5.3.1.1,Triose-phosphate isomerase,1000.0,glycerone phosphate,Trypanosoma brucei,#73# wild-type enzyme <50>; #17#recombinant enzyme <25>
+5.3.1.1,Triose-phosphate isomerase,367.0,glycerone phosphate,Leishmania mexicana,
+5.3.1.1,Triose-phosphate isomerase,63.0,glycerone phosphate,Trypanosoma brucei,#73# mutant enzyme R191A <50>
+5.3.1.1,Triose-phosphate isomerase,200.0,glycerone phosphate,Trypanosoma brucei,#73# mutant enzyme D227N <50>
+5.3.1.1,Triose-phosphate isomerase,180.0,glycerone phosphate,Trypanosoma brucei,#73# mutant enzyme D227A <50>
+5.3.1.1,Triose-phosphate isomerase,240.0,glycerone phosphate,Trypanosoma brucei,#73# mutant enzyme R191S <50>
+5.3.1.1,Triose-phosphate isomerase,340.0,dihydroxyacetone 3-phosphate,Gallus gallus,"#50# wild-type, pH 7.5, 25Â°C<158>"
+5.3.1.1,Triose-phosphate isomerase,135.0,dihydroxyacetone 3-phosphate,Saccharomyces cerevisiae,"#62# mutant Y208T/S211G, pH7.5, 25Â°C <168>"
+5.3.1.1,Triose-phosphate isomerase,250.0,dihydroxyacetone 3-phosphate,Saccharomyces cerevisiae,"#62# mutant Y208S, pH 7.5,25Â°C <168>"
+5.3.1.1,Triose-phosphate isomerase,4.5,dihydroxyacetone 3-phosphate,Saccharomyces cerevisiae,"#62# mutant Y208F, pH 7.5,25Â°C <168>"
+5.3.1.1,Triose-phosphate isomerase,210.0,dihydroxyacetone 3-phosphate,Saccharomyces cerevisiae,"#62# mutant Y208A, pH 7.5,25Â°C <168>"
+5.3.1.1,Triose-phosphate isomerase,810.0,dihydroxyacetone 3-phosphate,Saccharomyces cerevisiae,"#62# mutant S211G, pH 7.5,25Â°C <168>"
+5.3.1.1,Triose-phosphate isomerase,580.0,dihydroxyacetone 3-phosphate,Saccharomyces cerevisiae,"#62# mutant Y208T, pH 7.5,25Â°C <168>"
+5.3.1.1,Triose-phosphate isomerase,860.0,dihydroxyacetone 3-phosphate,Saccharomyces cerevisiae,"#62# wild-type, pH 7.5, 25Â°C<168>"
+5.3.1.1,Triose-phosphate isomerase,327.0,dihydroxyacetone 3-phosphate,Saccharomyces cerevisiae,#7# at pH 7.5 and 37Â°C <150>
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),2.0,NADP+,Bacillus subtilis,#10# mutant enzyme D32A <81>
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),17.7,NADP+,Bacillus subtilis,#10# mutant enzyme D32A/L187N <81>
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),8.0,NADP+,Corynebacterium glutamicum,"#10# mutant enzyme L187N <81>; #131# mutantD35G/L36T/T37K, pH 8.5, 25Â°C <226>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),8.0,NADP+,Bacillus subtilis,"#10# mutant enzyme L187N <81>; #131# mutantD35G/L36T/T37K, pH 8.5, 25Â°C <226>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),1.58,NADP+,Corynebacterium glutamicum,"#131# mutant L36T, pH 8.5, 25Â°C <226>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),2.97,NADP+,Corynebacterium glutamicum,"#131# mutant D35G, pH 8.5, 25Â°C <226>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),6.48,NADP+,Corynebacterium glutamicum,"#131# mutant D35G/L36T/P192S, pH 8.5, 25Â°C <226>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),7.13,NADP+,Corynebacterium glutamicum,"#131# mutant D35G/L36T/T37K/P192S, pH 8.5, 25Â°C<226>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),2.5,NAD+,Bacillus subtilis,#10# mutant enzyme D32A/L187N <81>
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),112.0,NAD+,Bacillus subtilis,#10# mutant enzyme L187N <81>
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),70.0,NAD+,Bacillus subtilis,"#10# wild-type enzyme and mutant enzyme L187N <81>;#31# 30Â°C, pH 7.2 <208>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),70.0,NAD+,Lactococcus lactis,"#10# wild-type enzyme and mutant enzyme L187N <81>;#31# 30Â°C, pH 7.2 <208>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),20.0,NAD+,Saccharolobus solfataricus,"#123# pH 8.5, 65Â°C <89>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),0.24,NAD+,Oryza sativa Japonica Group,"#127# mutant F36G, pH 8.8, 25Â°C <219>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),0.13,NAD+,Oryza sativa Japonica Group,"#127# mutant F36T, pH 8.8, 25Â°C <219>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),122.0,NAD+,Oryza sativa Japonica Group,"#127# wild-type, pH 8.8, 25Â°C <219>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),0.09,NAD+,Oryza sativa Japonica Group,"#127# mutant F36L, pH 8.8, 25Â°C <219>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),4.2,NAD+,Corynebacterium glutamicum,"#131# mutant D35G/L36T/T37K, pH 8.5, 25Â°C <226>;#131# pH 8.0, 25Â°C, recombinant mutant D35G/L36T/T37K <245>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),1.45,NAD+,Corynebacterium glutamicum,"#131# mutant L36T, pH 8.5, 25Â°C <226>; #131# pH8.0, 25Â°C, recombinant mutant L36T <245>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),2.73,NAD+,Corynebacterium glutamicum,"#131# mutant D35G/L36T/T37K/P192S, pH 8.5, 25Â°C<226>; #131# pH 8.0, 25Â°C, recombinant mutant D35G/L36T/T37K/P192S<245>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),6.37,NAD+,Corynebacterium glutamicum,"#131# mutant D35G, pH 8.5, 25Â°C <226>; #131# pH8.0, 25Â°C, recombinant mutant D35G <245>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),2.87,NAD+,Corynebacterium glutamicum,"#131# mutant D35G/L36T/P192S, pH 8.5, 25Â°C <226>;#131# pH 8.0, 25Â°C, recombinant mutant D35G/L36T/P192S <245>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),6.45,NAD+,Corynebacterium glutamicum,"#131# pH 8.0, 25Â°C, recombinant wild-type enzyme<245>; #131# wild-type, pH 8.5, 25Â°C <226>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),1.43,NAD+,Fasciola gigantica,"#151# pH 7.4, 37Â°C, recombinant enzyme <277>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),0.1,NAD+,Geobacillus stearothermophilus,"#22# pH 8.0, 25Â°C, tetrameric enzyme form, mutantD282G <94>; #22# pH 8.0, 25Â°C, tetrameric enzyme form, mutantT34Q/T39S/L43Q <94>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),1.0,NAD+,Geobacillus stearothermophilus,"#22# pH 8.0, 25Â°C, tetrameric enzyme form, mutant N313T<94>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),65.0,NAD+,Geobacillus stearothermophilus,"#22# pH 8.0, 25Â°C, tetrameric enzyme form, wild-type<94>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),73.0,NAD+,Geobacillus stearothermophilus,"#22# pH 8.0, 25Â°C, tetrameric enzyme form, mutantY283V <94>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),51.0,NAD+,Geobacillus stearothermophilus,"#22# pH 8.0, 25Â°C, tetrameric enzyme form, mutantW310F <94>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),199.0,NAD+,Homo sapiens,"#85# wild-type, pH 8.5, 25Â°C <210>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),234.0,NAD+,Homo sapiens,"#85# N-terminally truncated mutant, pH 8.5, 25Â°C<210>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),0.05,D-glyceraldehyde 3-phosphate,Staphylococcus aureus,"#110# mutant enzyme H178N,pH 8.7, 25Â°C <207>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),0.002,D-glyceraldehyde 3-phosphate,Staphylococcus aureus,"#110# mutant enzymeC151S/H178N, pH 8.7, 25Â°C <207>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),0.09,D-glyceraldehyde 3-phosphate,Oryza sativa,"#110# mutant enzymeC151S, pH 8.7, 25Â°C <207>; #126# mutant enzyme F37L, in 50 mMtriethanolamine, 50 mM Na2HPO4, 0.2 mM EDTA, at pH 8.8 and 25Â°C <219>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),0.09,D-glyceraldehyde 3-phosphate,Staphylococcus aureus,"#110# mutant enzymeC151S, pH 8.7, 25Â°C <207>; #126# mutant enzyme F37L, in 50 mMtriethanolamine, 50 mM Na2HPO4, 0.2 mM EDTA, at pH 8.8 and 25Â°C <219>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),0.24,D-glyceraldehyde 3-phosphate,Oryza sativa,"#126# mutant enzyme F37G,in 50 mM triethanolamine, 50 mM Na2HPO4, 0.2 mM EDTA, at pH 8.8 and25Â°C <219>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),0.13,D-glyceraldehyde 3-phosphate,Oryza sativa,"#126# mutant enzyme F37T,in 50 mM triethanolamine, 50 mM Na2HPO4, 0.2 mM EDTA, at pH 8.8 and25Â°C <219>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),122.2,D-glyceraldehyde 3-phosphate,Oryza sativa,"#126# wild type enzyme, in50 mM triethanolamine, 50 mM Na2HPO4, 0.2 mM EDTA, at pH 8.8 and 25Â°C<219>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),1.58,D-glyceraldehyde 3-phosphate,Fasciola gigantica,"#151# pH 7.4, 37Â°C,recombinant enzyme <277>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),16.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#17# isoform TDH2, pH 8.5,25Â°C <224>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),16.7,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),29.0,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#17# isoform TDH1, pH 8.5,25Â°C <224>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),9.1,D-glyceraldehyde 3-phosphate,Saccharomyces cerevisiae,"#17# isoform TDH3, pH 8.5,25Â°C <224>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),46.0,D-glyceraldehyde 3-phosphate,Geobacillus stearothermophilus,#22# mutant enzyme W84F <49>
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),70.0,D-glyceraldehyde 3-phosphate,Geobacillus stearothermophilus,"#110# wild type enzyme, pH8.7, 25Â°C <207>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),70.0,D-glyceraldehyde 3-phosphate,Staphylococcus aureus,"#110# wild type enzyme, pH8.7, 25Â°C <207>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),50.0,D-glyceraldehyde 3-phosphate,Spinacia oleracea,
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),24.51,D-glyceraldehyde 3-phosphate,Neisseria meningitidis,"#36# recombinant enzyme, in50 mM Tricine buffer (pH 8.5), at 25Â°C <164>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),71.4,D-glyceraldehyde 3-phosphate,Trypanosoma cruzi,"#43# in the absence of DMSOand methanol, in TEA-HCl buffer (pH 7.5) at 25Â°C <135>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),118.0,D-glyceraldehyde 3-phosphate,Trypanosoma cruzi,"#43# in the presence of 5%(v/v) DMSO, in TEA-HCl buffer (pH 7.5) at 25Â°C <135>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),442.0,D-glyceraldehyde 3-phosphate,Trypanosoma cruzi,"#43# in the presence of 5%(v/v) methanol, in TEA-HCl buffer (pH 7.5) at 25Â°C <135>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),199.0,D-glyceraldehyde 3-phosphate,Homo sapiens,"#85#glyceraldehyde-3-phosphate dehydrogenase, in 10 mM sodium diphosphate,20 mM sodium phosphate (pH 8.5), 0.003 mM dithiothreitol and 10 mMsodium arsenate, at 25Â°C <210>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),234.0,D-glyceraldehyde 3-phosphate,Homo sapiens,"#85# recombinant, highlysoluble form of sperm-specific glyceraldehyde-3-phosphate dehydrogenasetruncated at the N-terminus, in 10 mM sodium diphosphate, 20 mM sodiumphosphate (pH 8.5), 0.003 mM dithiothreitol and 10 mM sodium arsenate,at 25Â°C <210>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),0.08,3-phospho-D-glyceroyl phosphate,Oryza sativa,"#126# mutant enzymeF37T, in 80 mM triethanolamine, 3.3 mM L-cysteine HCl, 1.7 mM MgSO4,0.5 mM EDTA, pH 7.6, at 25Â°C <219>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),0.06,3-phospho-D-glyceroyl phosphate,Oryza sativa,"#126# mutant enzymeF37L, in 80 mM triethanolamine, 3.3 mM L-cysteine HCl, 1.7 mM MgSO4,0.5 mM EDTA, pH 7.6, at 25Â°C <219>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),0.14,3-phospho-D-glyceroyl phosphate,Oryza sativa,"#126# mutant enzymeF37G, in 80 mM triethanolamine, 3.3 mM L-cysteine HCl, 1.7 mM MgSO4,0.5 mM EDTA, pH 7.6, at 25Â°C <219>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),73.56,3-phospho-D-glyceroyl phosphate,Oryza sativa,"#126# wild type enzyme,in 80 mM triethanolamine, 3.3 mM L-cysteine HCl, 1.7 mM MgSO4, 0.5 mMEDTA, pH 7.6, at 25Â°C <219>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),0.08,NADH,Oryza sativa Japonica Group,"#127# mutant F36T, pH 8.8, 25Â°C <219>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),0.06,NADH,Oryza sativa Japonica Group,"#127# mutant F36L, pH 8.8, 25Â°C <219>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),0.14,NADH,Oryza sativa Japonica Group,"#127# mutant F36G, pH 8.8, 25Â°C <219>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),73.6,NADH,Oryza sativa Japonica Group,"#127# wild-type, pH 8.8, 25Â°C <219>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),4.03,acetaldehyde,Neisseria meningitidis,"#36# recombinant enzyme, in 50 mM Tricinebuffer (pH 8.5), at 25Â°C <164>"
+1.2.1.12,Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating),4.35,glyceraldehyde,Neisseria meningitidis,"#36# recombinant enzyme, in 50 mM Tricinebuffer (pH 8.5), at 25Â°C <164>"
+2.7.2.3,Phosphoglycerate kinase,3.4,ATP,Saccharomyces cerevisiae,"#10# mutant P204H, pH 7.5, 25Â°C <59>"
+2.7.2.3,Phosphoglycerate kinase,354.0,ATP,Saccharomyces cerevisiae,"#10# wild-type enzyme, pH 7.5, 25Â°C <59>"
+2.7.2.3,Phosphoglycerate kinase,149.8,ATP,Methanothermus fervidus,"#102# pH 7.5, 70Â°C <47>; #102# pH 7.5, 60Â°C, nativeenzyme <47>"
+2.7.2.3,Phosphoglycerate kinase,225.2,ATP,Methanothermus fervidus,"#102# pH 7.5, 80Â°C <47>; #102# pH 7.5, 70Â°C, nativeenzyme <47>"
+2.7.2.3,Phosphoglycerate kinase,254.5,ATP,Methanothermus fervidus,"#102# pH 7.5, 90Â°C <47>; #102# pH 7.5, 73Â°C, nativeenzyme <47>"
+2.7.2.3,Phosphoglycerate kinase,338.9,ATP,Methanothermus fervidus,"#102# pH 7.5, 98Â°C <47>; #102# pH 7.5, 98Â°C, nativeenzyme <47>"
+2.7.2.3,Phosphoglycerate kinase,28.5,ATP,Chlamydomonas reinhardtii,"#104# pH 7.9, 25Â°C, recombinant oxidized wild-typeenzyme <158>"
+2.7.2.3,Phosphoglycerate kinase,83.4,ATP,Chlamydomonas reinhardtii,"#104# pH 7.9, 25Â°C, recombinant reduced wild-typeenzyme <158>"
+2.7.2.3,Phosphoglycerate kinase,3.3,ATP,Leishmania major,"#44# mutant enzyme H71A, at pH 5.5 and 25ÃÂ°C <169>"
+2.7.2.3,Phosphoglycerate kinase,3.5,ATP,Leishmania major,"#44# wild type enzyme, at pH 5.5 and 25ÃÂ°C <169>"
+2.7.2.3,Phosphoglycerate kinase,3.8,ATP,Leishmania major,"#44# mutant enzyme H57A, at pH 5.5 and 25ÃÂ°C <169>"
+2.7.2.3,Phosphoglycerate kinase,1.3,ATP,Leishmania major,"#44# mutant enzyme H111A, at pH 7.5 and 25ÃÂ°C <169>"
+2.7.2.3,Phosphoglycerate kinase,3.2,ATP,Leishmania major,"#44# mutant enzyme H89A, at pH 5.5 and 25ÃÂ°C <169>"
+2.7.2.3,Phosphoglycerate kinase,1.4,ATP,Leishmania major,"#44# wild type enzyme, at pH 7.5 and 25ÃÂ°C <169>"
+2.7.2.3,Phosphoglycerate kinase,3.6,ATP,Leishmania major,"#44# mutant enzyme H111A, at pH 5.5 and 25ÃÂ°C <169>"
+2.7.2.3,Phosphoglycerate kinase,1.35,ATP,Leishmania major,"#44# mutant enzyme H89A, at pH 7.5 and 25ÃÂ°C <169>"
+2.7.2.3,Phosphoglycerate kinase,1.28,ATP,Leishmania major,"#44# mutant enzyme H71A, at pH 7.5 and 25ÃÂ°C <169>"
+2.7.2.3,Phosphoglycerate kinase,4.5,ATP,Leishmania major,"#44# mutant enzyme H57A, at pH 7.5 and 25ÃÂ°C <169>"
+2.7.2.3,Phosphoglycerate kinase,570.0,ATP,Hippoglossus stenolepis,
+2.7.2.3,Phosphoglycerate kinase,0.05,ATP,Homo sapiens,"#7# mutant K215A, at 4Â°C, in 30% methanol, 20 mMtriethanolamine, pH 7.5, 0.1 M potassium acetate, and 1 mM free Mg2+<121>"
+2.7.2.3,Phosphoglycerate kinase,200.0,ATP,Homo sapiens,#7# mutant enzyme S398A <108>
+2.7.2.3,Phosphoglycerate kinase,270.0,ATP,Homo sapiens,#7# mutant enzyme F165A <108>
+2.7.2.3,Phosphoglycerate kinase,58.0,ATP,Homo sapiens,#7# mutant enzyme T393A <108>
+2.7.2.3,Phosphoglycerate kinase,16.4,ATP,Homo sapiens,#7# mutant enzyme S392A/T393A <108>
+2.7.2.3,Phosphoglycerate kinase,155.0,ATP,Homo sapiens,#7# mutant enzyme E192A <108>
+2.7.2.3,Phosphoglycerate kinase,0.067,ATP,Homo sapiens,#7# mutant enzyme T393del <108>
+2.7.2.3,Phosphoglycerate kinase,2.48,ATP,Homo sapiens,"#7# wild-type, at 4Â°C, in 30% methanol, 20 mMtriethanolamine, pH 7.5, 0.1 M potassium acetate, and 1 mM free Mg2+<121>"
+2.7.2.3,Phosphoglycerate kinase,610.0,ATP,Homo sapiens,#7# mutant enzyme F196A <108>
+2.7.2.3,Phosphoglycerate kinase,575.0,ATP,Homo sapiens,#7# mutant enzyme S392A <108>
+2.7.2.3,Phosphoglycerate kinase,833.0,ATP,Homo sapiens,"#7,74# wild-type enzyme <103,108>; #7# wild-type, at20Â°C, in methanol-free buffer, 20 mM triethanolamine, pH 7.5, 0.1 Mpotassium acetate, and 1 mM free Mg2+ <121>"
+2.7.2.3,Phosphoglycerate kinase,0.48,ATP,Homo sapiens,"#74# mutant enzyme K125A <103>; #7# mutant K215A,at 20Â°C, in methanol-free buffer, 20 mM triethanolamine, pH 7.5, 0.1 Mpotassium acetate, and 1 mM free Mg2+ <121>"
+2.7.2.3,Phosphoglycerate kinase,916.0,ATP,Pyrococcus woesei,"#70# pH 7.5, 98Â°C <47>; #70# pH 7.5, 98Â°C, nativeenzyme <47>"
+2.7.2.3,Phosphoglycerate kinase,113.4,ATP,Pyrococcus woesei,"#70# pH 7.5, 70Â°C <47>; #70# pH 7.5, 70Â°C, nativeenzyme <47>"
+2.7.2.3,Phosphoglycerate kinase,238.5,ATP,Pyrococcus woesei,"#70# pH 7.5, 80Â°C <47>; #70# pH 7.5, 80Â°C, nativeenzyme <47>"
+2.7.2.3,Phosphoglycerate kinase,505.8,ATP,Pyrococcus woesei,"#70# pH 7.5, 90Â°C <47>; #70# pH 7.5, 90Â°C, nativeenzyme <47>"
+2.7.2.3,Phosphoglycerate kinase,6.0,ATP,Homo sapiens,#74# mutant enzyme N336A <103>
+2.7.2.3,Phosphoglycerate kinase,0.9,ATP,Homo sapiens,#74# mutant enzyme k219A <103>
+2.7.2.3,Phosphoglycerate kinase,0.45,ATP,Homo sapiens,#74# mutant enzyme R38A <103>
+2.7.2.3,Phosphoglycerate kinase,125.0,ATP,Homo sapiens,#74# mutant enzyme T375A <103>
+2.7.2.3,Phosphoglycerate kinase,14.3,ATP,Homo sapiens,#74# mutant enzyme E343A <103>
+2.7.2.3,Phosphoglycerate kinase,411.0,ATP,Pseudomonas sp.,#75# recombinant His-tagged enzyme <62>
+2.7.2.3,Phosphoglycerate kinase,500.0,ATP,Pseudomonas sp.,#75# recombinant wild-type enzyme <62>
+2.7.2.3,Phosphoglycerate kinase,519.0,ATP,Pseudomonas sp.,#75# native wild-type enzyme <62>
+2.7.2.3,Phosphoglycerate kinase,3.4,3-phospho-D-glycerate,Saccharomyces cerevisiae,"#10# mutant P204H, pH 7.5, 25Â°C<59>"
+2.7.2.3,Phosphoglycerate kinase,354.0,3-phospho-D-glycerate,Saccharomyces cerevisiae,"#10# wild-type enzyme, pH 7.5, 25Â°C<59>"
+2.7.2.3,Phosphoglycerate kinase,149.8,3-phospho-D-glycerate,Methanothermus fervidus,"#102# pH 7.5, 70Â°C <47>; #102# pH7.5, 60Â°C, recombinant enzyme <47>"
+2.7.2.3,Phosphoglycerate kinase,225.2,3-phospho-D-glycerate,Methanothermus fervidus,"#102# pH 7.5, 80Â°C <47>; #102# pH7.5, 70Â°C, recombinant enzyme <47>"
+2.7.2.3,Phosphoglycerate kinase,254.5,3-phospho-D-glycerate,Methanothermus fervidus,"#102# pH 7.5, 90Â°C <47>; #102# pH7.5, 73Â°C, recombinant enzyme <47>"
+2.7.2.3,Phosphoglycerate kinase,338.9,3-phospho-D-glycerate,Methanothermus fervidus,"#102# pH 7.5, 80Â°C, recombinantenzyme <47>; #102# pH 7.5, 98Â°C <47>"
+2.7.2.3,Phosphoglycerate kinase,28.5,3-phospho-D-glycerate,Chlamydomonas reinhardtii,"#104# pH 7.9, 25Â°C, recombinantoxidized wild-type enzyme <158>"
+2.7.2.3,Phosphoglycerate kinase,84.7,3-phospho-D-glycerate,Chlamydomonas reinhardtii,"#104# pH 7.9, 25Â°C, recombinantreduced wild-type enzyme <158>"
+2.7.2.3,Phosphoglycerate kinase,150.0,3-phospho-D-glycerate,Methanothermus fervidus,"#41# recombinant enzyme, 70Â°C <47>"
+2.7.2.3,Phosphoglycerate kinase,339.0,3-phospho-D-glycerate,Methanothermus fervidus,"#41# recombinant enzyme, 98Â°C <47>"
+2.7.2.3,Phosphoglycerate kinase,570.0,3-phospho-D-glycerate,Hippoglossus stenolepis,
+2.7.2.3,Phosphoglycerate kinase,13.5,3-phospho-D-glycerate,Homo sapiens,"#7# co-substrate: ATP, mutantD218A/D374A, pH and temperature not specified in the publication <140>"
+2.7.2.3,Phosphoglycerate kinase,100.0,3-phospho-D-glycerate,Homo sapiens,"#7# co-substrate: ATP, mutant D218A,pH and temperature not specified in the publication <140>"
+2.7.2.3,Phosphoglycerate kinase,200.0,3-phospho-D-glycerate,Homo sapiens,#7# mutant enzyme S398A <108>
+2.7.2.3,Phosphoglycerate kinase,270.0,3-phospho-D-glycerate,Homo sapiens,#7# mutant enzyme F165A <108>
+2.7.2.3,Phosphoglycerate kinase,58.0,3-phospho-D-glycerate,Homo sapiens,#7# mutant enzyme T393A <108>
+2.7.2.3,Phosphoglycerate kinase,220.0,3-phospho-D-glycerate,Homo sapiens,"#7# co-substrate: ATP, wild-type, pHand temperature not specified in the publication <140>"
+2.7.2.3,Phosphoglycerate kinase,16.4,3-phospho-D-glycerate,Homo sapiens,#7# mutant enzyme S392A/T393A <108>
+2.7.2.3,Phosphoglycerate kinase,208.0,3-phospho-D-glycerate,Homo sapiens,"#7# co-substrate: ATP, mutant D374A,pH and temperature not specified in the publication <140>"
+2.7.2.3,Phosphoglycerate kinase,155.0,3-phospho-D-glycerate,Homo sapiens,#7# mutant enzyme E192A <108>
+2.7.2.3,Phosphoglycerate kinase,0.067,3-phospho-D-glycerate,Homo sapiens,#7# mutant enzyme T393del <108>
+2.7.2.3,Phosphoglycerate kinase,610.0,3-phospho-D-glycerate,Homo sapiens,#7# mutant enzyme F196A <108>
+2.7.2.3,Phosphoglycerate kinase,575.0,3-phospho-D-glycerate,Homo sapiens,#7# mutant enzyme S392A <108>
+2.7.2.3,Phosphoglycerate kinase,833.0,3-phospho-D-glycerate,Homo sapiens,"#7,74# wild-type enzyme <103,108>"
+2.7.2.3,Phosphoglycerate kinase,113.0,3-phospho-D-glycerate,Pyrococcus woesei,"#70# recombinant enzyme, 70Â°C <47>"
+2.7.2.3,Phosphoglycerate kinase,916.0,3-phospho-D-glycerate,Pyrococcus woesei,"#70# recombinant enzyme, 98Â°C <47>;#70# pH 7.5, 98Â°C <47>; #70# pH 7.5, 98Â°C, recombinant enzyme <47>"
+2.7.2.3,Phosphoglycerate kinase,113.4,3-phospho-D-glycerate,Pyrococcus woesei,"#70# pH 7.5, 70Â°C <47>; #70# pH7.5, 70Â°C, recombinant enzyme <47>"
+2.7.2.3,Phosphoglycerate kinase,238.5,3-phospho-D-glycerate,Pyrococcus woesei,"#70# pH 7.5, 80Â°C <47>; #70# pH7.5, 80Â°C, recombinant enzyme <47>"
+2.7.2.3,Phosphoglycerate kinase,505.8,3-phospho-D-glycerate,Pyrococcus woesei,"#70# pH 7.5, 90Â°C <47>; #70# pH7.5, 90Â°C, recombinant enzyme <47>"
+2.7.2.3,Phosphoglycerate kinase,6.0,3-phospho-D-glycerate,Homo sapiens,#74# mutant enzyme N336A <103>
+2.7.2.3,Phosphoglycerate kinase,0.9,3-phospho-D-glycerate,Homo sapiens,#74# mutant enzyme k219A <103>
+2.7.2.3,Phosphoglycerate kinase,2.85,3-phospho-D-glycerate,Homo sapiens,"#74# mutant enzyme R65W, at pH 8.0and 37ÃÂ°C <179>"
+2.7.2.3,Phosphoglycerate kinase,0.45,3-phospho-D-glycerate,Homo sapiens,#74# mutant enzyme R38A <103>
+2.7.2.3,Phosphoglycerate kinase,1.9,3-phospho-D-glycerate,Homo sapiens,"#74# mutant enzyme V216F, at pH 8.0and 37ÃÂ°C <179>"
+2.7.2.3,Phosphoglycerate kinase,125.0,3-phospho-D-glycerate,Homo sapiens,#74# mutant enzyme T375A <103>
+2.7.2.3,Phosphoglycerate kinase,5.9,3-phospho-D-glycerate,Homo sapiens,"#74# mutant enzyme G166D, at pH 8.0and 37ÃÂ°C <179>"
+2.7.2.3,Phosphoglycerate kinase,30.5,3-phospho-D-glycerate,Homo sapiens,"#74# mutant enzyme M189I, at pH 8.0and 37ÃÂ°C <179>"
+2.7.2.3,Phosphoglycerate kinase,14.3,3-phospho-D-glycerate,Homo sapiens,#74# mutant enzyme E343A <103>
+2.7.2.3,Phosphoglycerate kinase,89.8,3-phospho-D-glycerate,Homo sapiens,"#74# wild type enzyme, at pH 8.0and 37ÃÂ°C <179>"
+2.7.2.3,Phosphoglycerate kinase,213.0,3-phospho-D-glycerate,Homo sapiens,"#74# mutant enzyme F241S, at pH 8.0and 37ÃÂ°C <179>"
+2.7.2.3,Phosphoglycerate kinase,76.6,3-phospho-D-glycerate,Homo sapiens,"#74# mutant enzyme A199V, at pH 8.0and 37ÃÂ°C <179>"
+2.7.2.3,Phosphoglycerate kinase,0.48,3-phospho-D-glycerate,Homo sapiens,#74# mutant enzyme K125A <103>
+2.7.2.3,Phosphoglycerate kinase,7.2e-06,3-phospho-D-glycerate,Homo sapiens,"#74# mutant enzyme R38M, at pH8.0 and 37ÃÂ°C <179>"
+2.7.2.3,Phosphoglycerate kinase,540.0,3-phospho-D-glycerate,Pseudomonas sp.,#75# native wild-type enzyme <62>
+2.7.2.3,Phosphoglycerate kinase,362.0,3-phospho-D-glycerate,Pseudomonas sp.,#75# recombinant His-tagged enzyme<62>
+2.7.2.3,Phosphoglycerate kinase,537.0,3-phospho-D-glycerate,Pseudomonas sp.,#75# recombinant wild-type enzyme<62>
+2.7.2.3,Phosphoglycerate kinase,3.8,3-phosphoglycerate,Leishmania major,"#44# mutant enzyme H111A, at pH 5.5 and25ÃÂ°C <169>"
+2.7.2.3,Phosphoglycerate kinase,3.7,3-phosphoglycerate,Leishmania major,"#44# wild type enzyme, at pH 5.5 and25ÃÂ°C <169>"
+2.7.2.3,Phosphoglycerate kinase,1.3,3-phosphoglycerate,Leishmania major,"#44# mutant enzyme H71A, at pH 7.5 and25ÃÂ°C <169>"
+2.7.2.3,Phosphoglycerate kinase,3.2,3-phosphoglycerate,Leishmania major,"#44# mutant enzyme H71A, at pH 5.5 and25ÃÂ°C <169>; #44# mutant enzyme H89A, at pH 5.5 and 25ÃÂ°C <169>"
+2.7.2.3,Phosphoglycerate kinase,3.6,3-phosphoglycerate,Leishmania major,"#44# mutant enzyme H57A, at pH 5.5 and25ÃÂ°C <169>"
+2.7.2.3,Phosphoglycerate kinase,1.35,3-phosphoglycerate,Leishmania major,"#44# mutant enzyme H89A, at pH 7.5 and25ÃÂ°C <169>"
+2.7.2.3,Phosphoglycerate kinase,1.37,3-phosphoglycerate,Leishmania major,"#44# wild type enzyme, at pH 7.5 and25ÃÂ°C <169>"
+2.7.2.3,Phosphoglycerate kinase,1.29,3-phosphoglycerate,Leishmania major,"#44# mutant enzyme H111A, at pH 7.5and 25ÃÂ°C <169>"
+2.7.2.3,Phosphoglycerate kinase,4.4,3-phosphoglycerate,Leishmania major,"#44# mutant enzyme H57A, at pH 7.5 and25ÃÂ°C <169>"
+2.7.2.3,Phosphoglycerate kinase,120.0,L-GTP,Homo sapiens,
+2.7.2.3,Phosphoglycerate kinase,110.0,2'-dGTP,Homo sapiens,
+2.7.2.3,Phosphoglycerate kinase,10.0,CTP,Homo sapiens,
+2.7.2.3,Phosphoglycerate kinase,500.0,D-ATP,Homo sapiens,
+2.7.2.3,Phosphoglycerate kinase,4.0,2'-dCTP,Homo sapiens,
+2.7.2.3,Phosphoglycerate kinase,100.0,L-ATP,Homo sapiens,
+2.7.2.3,Phosphoglycerate kinase,200.0,ADP,Homo sapiens,"#7# wild-type, at 4Â°C, in 30% methanol, 20 mMtriethanolamine, pH 7.5, 0.1 M potassium acetate, and 1 mM free Mg2+<121>"
+2.7.2.3,Phosphoglycerate kinase,0.06,ADP,Homo sapiens,"#7# mutant K215A, at 4Â°C, in 30% methanol, 20 mMtriethanolamine, pH 7.5, 0.1 M potassium acetate, and 1 mM free Mg2+<121>"
+2.7.2.3,Phosphoglycerate kinase,250.0,ADP,Homo sapiens,#7# mutant enzyme T393A <108>
+2.7.2.3,Phosphoglycerate kinase,1130.0,ADP,Homo sapiens,#7# mutant enzyme E192A <108>
+2.7.2.3,Phosphoglycerate kinase,1170.0,ADP,Homo sapiens,#7# mutant enzyme F165A <108>
+2.7.2.3,Phosphoglycerate kinase,2630.0,ADP,Homo sapiens,#7# wild-type enzyme <108>
+2.7.2.3,Phosphoglycerate kinase,0.78,ADP,Homo sapiens,"#74# mutant enzyme K125A <103>; #7# mutant K215A,at 20Â°C, in methanol-free buffer, 20 mM triethanolamine, pH 7.5, 0.1 Mpotassium acetate, and 1 mM free Mg2+ <121>"
+2.7.2.3,Phosphoglycerate kinase,2633.0,ADP,Homo sapiens,"#74# wild-type enzyme <103>; #7# wild-type, at20Â°C, in methanol-free buffer, 20 mM triethanolamine, pH 7.5, 0.1 Mpotassium acetate, and 1 mM free Mg2+ <121>"
+2.7.2.3,Phosphoglycerate kinase,6.0,ADP,Homo sapiens,#74# mutant enzyme R38A <103>
+2.7.2.3,Phosphoglycerate kinase,84.0,ADP,Homo sapiens,#74# mutant enzyme E343A <103>
+2.7.2.3,Phosphoglycerate kinase,23.3,ADP,Homo sapiens,#74# mutant enzyme N336A <103>
+2.7.2.3,Phosphoglycerate kinase,5.25,ADP,Homo sapiens,#74# mutant enzyme k219A <103>
+2.7.2.3,Phosphoglycerate kinase,675.0,ADP,Homo sapiens,#74# mutant enzyme T375A <103>
+2.7.2.3,Phosphoglycerate kinase,963.1,ADP,Saccharomyces cerevisiae,#94# enzymatic activity in bulk condition <88>
+2.7.2.3,Phosphoglycerate kinase,250.0,3-phospho-D-glyceroyl phosphate,Homo sapiens,#7# mutant enzyme T393A<108>
+2.7.2.3,Phosphoglycerate kinase,1130.0,3-phospho-D-glyceroyl phosphate,Homo sapiens,#7# mutant enzyme E192A<108>
+2.7.2.3,Phosphoglycerate kinase,1170.0,3-phospho-D-glyceroyl phosphate,Homo sapiens,#7# mutant enzyme F165A<108>
+2.7.2.3,Phosphoglycerate kinase,2630.0,3-phospho-D-glyceroyl phosphate,Homo sapiens,#7# wild-type enzyme<108>
+2.7.2.3,Phosphoglycerate kinase,6.0,3-phospho-D-glyceroyl phosphate,Homo sapiens,#74# mutant enzyme R38A<103>
+2.7.2.3,Phosphoglycerate kinase,84.0,3-phospho-D-glyceroyl phosphate,Homo sapiens,#74# mutant enzyme E343A<103>
+2.7.2.3,Phosphoglycerate kinase,0.78,3-phospho-D-glyceroyl phosphate,Homo sapiens,#74# mutant enzyme K125A<103>
+2.7.2.3,Phosphoglycerate kinase,5.25,3-phospho-D-glyceroyl phosphate,Homo sapiens,#74# mutant enzyme k219A<103>
+2.7.2.3,Phosphoglycerate kinase,23.2,3-phospho-D-glyceroyl phosphate,Homo sapiens,#74# mutant enzyme N336A<103>
+2.7.2.3,Phosphoglycerate kinase,675.0,3-phospho-D-glyceroyl phosphate,Homo sapiens,#74# mutant enzyme T375A<103>
+2.7.2.3,Phosphoglycerate kinase,2633.0,3-phospho-D-glyceroyl phosphate,Homo sapiens,#74# wild-type enzyme<103>
+2.7.2.3,Phosphoglycerate kinase,420.0,D-GTP,Homo sapiens,
+2.7.2.3,Phosphoglycerate kinase,685.0,L-ADP,Homo sapiens,#7# L-MgADP- <101>
+2.7.2.3,Phosphoglycerate kinase,86.0,L-ADP,Homo sapiens,"#74# pH 7.5, temperature not specified in thepublication <144>"
+2.7.2.3,Phosphoglycerate kinase,200.0,D-ADP,Homo sapiens,"#74# pH 7.5, temperature not specified in thepublication <144>"
+5.4.2.11,"Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)",3200.0,3-phospho-D-glycerate,Lactococcus lactis subsp. lactis,"#10# in triethanol-HCl buffer (125mM, pH 7.2, 5 mM MgCl2, 10 mM KCl), 0.1 mM 2,3-bisphosphoglyceric acid,temperature not specified in the publication <59>"
+5.4.2.11,"Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)",82.0,3-phospho-D-glycerate,Schizosaccharomyces pombe,#12# mutase activity <36>
+5.4.2.11,"Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)",0.02,3-phospho-D-glycerate,Schizosaccharomyces pombe,#12# phosphatase activity <36>
+5.4.2.11,"Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)",20.0,3-phospho-D-glycerate,Saccharomyces cerevisiae,#20# S11A mutant <38>
+5.4.2.11,"Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)",4.7,3-phospho-D-glycerate,Saccharomyces cerevisiae,#20# E86Q mutant <38>
+5.4.2.11,"Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)",370.0,3-phospho-D-glycerate,Saccharomyces cerevisiae,#20# A60S mutant <38>
+5.4.2.11,"Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)",0.0009,3-phospho-D-glycerate,Saccharomyces cerevisiae,#7# phosphatase activity <36>
+5.4.2.11,"Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)",530.0,3-phospho-D-glycerate,Saccharomyces cerevisiae,#7# mutase activity <36>
+5.4.2.11,"Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)",530.0,3-phosphoglycerate,Saccharomyces cerevisiae,
+5.4.2.11,"Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)",2.1,3-phosphoglycerate,Saccharomyces cerevisiae,#7# mutant S11G <14>
+5.4.2.11,"Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)",490.0,3-phosphoglycerate,Saccharomyces cerevisiae,#7# wild-type enzyme <13>
+5.4.2.11,"Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)",0.078,3-phosphoglycerate,Saccharomyces cerevisiae,#7# mutant H181A <13>
+5.4.2.11,"Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)",384.0,3-phosphoglycerate,Saccharomyces cerevisiae,#7# wild-type enzyme <14>
+5.4.2.11,"Phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)",324.0,3-phosphoglycerate,Saccharomyces cerevisiae,#7# mutant K246G <14>
+4.2.1.11,Phosphopyruvate hydratase,37.0,2-phospho-D-glycerate,Theileria annulata,"#127# 1.5 mM MgCl2 in 50 mM Tris/HCl(pH 7.4), at 25Â°C <166>"
+4.2.1.11,Phosphopyruvate hydratase,52.7,2-phospho-D-glycerate,Klebsiella pneumoniae,"#25# in 50 mM imidazole-HCl buffer,pH 7.8, with 1 mM MgSO4, 0.4 M KCl <107>"
+4.2.1.11,Phosphopyruvate hydratase,20.6,2-phospho-D-glycerate,Plasmodium falciparum,"#33# recombinant, dimeric enzyme<109>"
+4.2.1.11,Phosphopyruvate hydratase,22.2,2-phospho-D-glycerate,Plasmodium falciparum,"#33# recombinant, His-tagged,hexameric enzyme <109>"
+4.2.1.11,Phosphopyruvate hydratase,81.68,2-phospho-D-glycerate,Homo sapiens,"#6# in 50 mM imidazole-HCl buffer,pH 6.8, with 3 mM MgSO4, 0.4 M KCl <107>"
+4.2.1.11,Phosphopyruvate hydratase,230.0,2-phospho-D-glycerate,Saccharomyces cerevisiae,"#9# native enolase, pH 7.8, 21-23Â°C<7>"
+4.2.1.11,Phosphopyruvate hydratase,0.0185,2-phospho-D-glycerate,Saccharomyces cerevisiae,"#9# mutant enzyme S39A, pH7.8, 21-23Â°C <7>"
+4.2.1.11,Phosphopyruvate hydratase,78.0,2-phospho-D-glycerate,Saccharomyces cerevisiae,#9# wild-type enzyme <44>
+4.2.1.11,Phosphopyruvate hydratase,71.4,2-phospho-D-glycerate,Saccharomyces cerevisiae,"#9# isoform Eno1p, in 50 mMimidazole, pH 7.1, 250 mM KCl, 1 mM Mg(OAc)2, 0.1 mM EDTA, temperaturenot specified in the publication <172>"
+4.2.1.11,Phosphopyruvate hydratase,19.7,2-phospho-D-glycerate,Saccharomyces cerevisiae,"#9# isoform Err2p, in 50 mMimidazole, pH 7.1, 250 mM KCl, 1 mM Mg(OAc)2, 0.1 mM EDTA, temperaturenot specified in the publication <172>"
+4.2.1.11,Phosphopyruvate hydratase,19.4,2-phospho-D-glycerate,Saccharomyces cerevisiae,"#9# isoform Err3p, in 50 mMimidazole, pH 7.1, 250 mM KCl, 1 mM Mg(OAc)2, 0.1 mM EDTA, temperaturenot specified in the publication <172>"
+4.2.1.11,Phosphopyruvate hydratase,15.47,phosphoenolpyruvate,Klebsiella pneumoniae,"#25# in 50 mM imidazole-HCl buffer,pH 7.8, with 1 mM MgSO4, 0.4 M KCl <107>"
+4.2.1.11,Phosphopyruvate hydratase,34.07,phosphoenolpyruvate,Homo sapiens,"#6# in 50 mM imidazole-HCl buffer, pH6.8, with 3 mM MgSO4, 0.4 M KCl <107>"
+2.7.1.40,Pyruvate kinase,3.2,phosphoenolpyruvate,Homo sapiens,"#10# wild type enzyme, in the absenceof K+, in 50 mM Mes-Tris, pH 6.0, at 25Â°C <142>"
+2.7.1.40,Pyruvate kinase,161.0,phosphoenolpyruvate,Homo sapiens,"#10# mutant enzyme E117K, in theabsence of K+, in 50 mM Mes-Tris, pH 6.0, at 25Â°C <142>"
+2.7.1.40,Pyruvate kinase,1182.0,phosphoenolpyruvate,Homo sapiens,"#10# wild type enzyme, in thepresence of K+, in 50 mM Mes-Tris, pH 6.0, at 25Â°C <142>"
+2.7.1.40,Pyruvate kinase,15.3,phosphoenolpyruvate,Urocitellus richardsonii,"#101# purified enzyme, pH 7.0, 5Â°C<286>"
+2.7.1.40,Pyruvate kinase,360.0,phosphoenolpyruvate,Urocitellus richardsonii,"#101# purified enzyme, pH 7.0, 35Â°C<286>"
+2.7.1.40,Pyruvate kinase,56.0,phosphoenolpyruvate,Urocitellus richardsonii,"#101# purified enzyme, pH 7.0,25Â°C/room temperature <286>"
+2.7.1.40,Pyruvate kinase,66.0,phosphoenolpyruvate,Saccharomyces cerevisiae,"#13# pH 6.2, wild-type enzyme, Mn2+-and fructose 1,6-bisphosphate activated <119>"
+2.7.1.40,Pyruvate kinase,12.1,phosphoenolpyruvate,Saccharomyces cerevisiae,"#13# pH 6.2, mutant enzyme T298C,Mn2+-activated <119>"
+2.7.1.40,Pyruvate kinase,13.9,phosphoenolpyruvate,Saccharomyces cerevisiae,"#13# pH 6.2, mutant enzyme T298C,Mn2+- and fructose 1,6-bisphosphate activated <119>"
+2.7.1.40,Pyruvate kinase,12.2,phosphoenolpyruvate,Saccharomyces cerevisiae,"#13# mutant enzyme T298C, activatedbe Tl+ and Mn2+ <108>"
+2.7.1.40,Pyruvate kinase,21.5,phosphoenolpyruvate,Saccharomyces cerevisiae,"#13# mutant enzyme T298S, activatedbe Tl+ and Mn2+ <108>"
+2.7.1.40,Pyruvate kinase,232.0,phosphoenolpyruvate,Saccharomyces cerevisiae,"#13# pH 6.2, wild-type enzyme,Mg2+-activated <119>"
+2.7.1.40,Pyruvate kinase,1.97,phosphoenolpyruvate,Saccharomyces cerevisiae,"#13# mutant enzyme T298A, activatedbe Tl+ and Mn2+ <108>"
+2.7.1.40,Pyruvate kinase,226.0,phosphoenolpyruvate,Saccharomyces cerevisiae,"#13# pH 6.2, wild-type enzyme, Mg2+and fructose 1,6-bisphosphate activated <119>"
+2.7.1.40,Pyruvate kinase,41.3,phosphoenolpyruvate,Saccharomyces cerevisiae,"#13# pH 6.2, mutant enzyme T298C,Mg2+- and fructose 1,6-bisphosphate activated <119>"
+2.7.1.40,Pyruvate kinase,58.4,phosphoenolpyruvate,Saccharomyces cerevisiae,"#13# pH 6.2, wild-type enzyme,Mn2+-activated <119>; #151# 70Â°C, pH not specified in the publication<256>"
+2.7.1.40,Pyruvate kinase,58.4,phosphoenolpyruvate,Saccharolobus solfataricus,"#13# pH 6.2, wild-type enzyme,Mn2+-activated <119>; #151# 70Â°C, pH not specified in the publication<256>"
+2.7.1.40,Pyruvate kinase,0.57,phosphoenolpyruvate,Homo sapiens,"#130# mutant PKM2G415R, pH 7.6, 37Â°C<271>"
+2.7.1.40,Pyruvate kinase,1.0,phosphoenolpyruvate,Thermofilum pendens,"#150# pH 6.0, 45Â°C, in presence of Mn2+<255>"
+2.7.1.40,Pyruvate kinase,0.38,phosphoenolpyruvate,Thermofilum pendens,"#150# pH 6.0, 45Â°C, in presence ofMg2+ <255>"
+2.7.1.40,Pyruvate kinase,39.67,phosphoenolpyruvate,Saccharolobus solfataricus,"#151# 50Â°C, pH not specified in thepublication <256>"
+2.7.1.40,Pyruvate kinase,50.12,phosphoenolpyruvate,Saccharolobus solfataricus,"#151# 65Â°C, pH not specified in thepublication <256>"
+2.7.1.40,Pyruvate kinase,73.04,phosphoenolpyruvate,Saccharolobus solfataricus,"#151# 80Â°C, pH not specified in thepublication <256>"
+2.7.1.40,Pyruvate kinase,1.53,phosphoenolpyruvate,Arabidopsis thaliana,"#161# cPK1, pH 7.5, 25Â°C <289>"
+2.7.1.40,Pyruvate kinase,3.05,phosphoenolpyruvate,Arabidopsis thaliana,"#162# cPK2, pH 7.5, 25Â°C <289>"
+2.7.1.40,Pyruvate kinase,2.4,phosphoenolpyruvate,Arabidopsis thaliana,"#163# cPK3, pH 7.5, 25Â°C <289>"
+2.7.1.40,Pyruvate kinase,4.0,phosphoenolpyruvate,Arabidopsis thaliana,"#165# cPK4, pH 7.5, 25Â°C <289>"
+2.7.1.40,Pyruvate kinase,6.68,phosphoenolpyruvate,Arabidopsis thaliana,"#166# cPK5, pH 7.5, 25Â°C <289>"
+2.7.1.40,Pyruvate kinase,5.58,phosphoenolpyruvate,Corynebacterium glutamicum,"#167# pH 7.0, 35Â°C <274>"
+2.7.1.40,Pyruvate kinase,9.79,phosphoenolpyruvate,Entamoeba histolytica,"#168# pH 7.5, 37Â°C <272>"
+2.7.1.40,Pyruvate kinase,86.83,phosphoenolpyruvate,Trypanosoma congolense,"#169# recombinant enzyme, pH 7.2,25Â°C <284>"
+2.7.1.40,Pyruvate kinase,111.5,phosphoenolpyruvate,Trypanosoma congolense,"#169# recombinant enzyme, pH 7.2,25Â°C, in presence of fructose 2,6-bisphosphate <284>"
+2.7.1.40,Pyruvate kinase,107.33,phosphoenolpyruvate,Trypanosoma congolense,"#169# recombinant enzyme, pH 7.2,25Â°C, in presence of fructose 1,6-bisphosphate <284>"
+2.7.1.40,Pyruvate kinase,185.0,phosphoenolpyruvate,Trypanosoma brucei brucei,"#170# recombinant enzyme, pH 7.2,25Â°C, in presence of fructose 1,6-bisphosphate <284>"
+2.7.1.40,Pyruvate kinase,152.0,phosphoenolpyruvate,Trypanosoma brucei brucei,"#170# recombinant enzyme, pH 7.2,25Â°C, in presence of fructose 2,6-bisphosphate <284>"
+2.7.1.40,Pyruvate kinase,104.33,phosphoenolpyruvate,Trypanosoma brucei brucei,"#170# recombinant enzyme, pH 7.2,25Â°C <284>"
+2.7.1.40,Pyruvate kinase,3204.0,phosphoenolpyruvate,Geobacillus stearothermophilus,"#18# wild type enzyme, in thepresence of 0.1 mM ribose 5-phosphate, in 50 mM imidazole-HCl buffer,pH 7.2, 50 mM KCl, 7 mM MgCl2, 0.12 mM NADH, 0.02 mg/ml lactatedehydrogenase, 2 mM PEP, and 4 mM ADP, at 30Â°C <141>"
+2.7.1.40,Pyruvate kinase,1736.0,phosphoenolpyruvate,Geobacillus stearothermophilus,"#18# mutant enzyme C9S/C268S, in thepresence of 0.1 mM ribose 5-phosphate, in 50 mM imidazole-HCl buffer,pH 7.2, 50 mM KCl, 7 mM MgCl2, 0.12 mM NADH, 0.02 mg/ml lactatedehydrogenase, 2 mM PEP, and 4 mM ADP, at 30Â°C <141>"
+2.7.1.40,Pyruvate kinase,15.3,ADP,Urocitellus richardsonii,"#101# purified enzyme, pH 7.0, 5Â°C <286>"
+2.7.1.40,Pyruvate kinase,360.0,ADP,Urocitellus richardsonii,"#101# purified enzyme, pH 7.0, 35Â°C <286>"
+2.7.1.40,Pyruvate kinase,56.0,ADP,Urocitellus richardsonii,"#101# purified enzyme, pH 7.0, 25Â°C/room temperature<286>"
+2.7.1.40,Pyruvate kinase,47.6,ADP,Toxoplasma gondii,"#103# PykII, in 100 mM Tris-HCl,pH 8.5, at 37Â°C<204>"
+2.7.1.40,Pyruvate kinase,0.2,ADP,Thermofilum pendens,"#150# pH 6.0, 45Â°C, in presence of Mn2+ <255>"
+2.7.1.40,Pyruvate kinase,0.16,ADP,Thermofilum pendens,"#150# pH 6.0, 45Â°C, in presence of Mg2+ <255>"
+2.7.1.40,Pyruvate kinase,40.06,ADP,Saccharolobus solfataricus,"#151# 50Â°C, pH not specified in the publication<256>"
+2.7.1.40,Pyruvate kinase,52.85,ADP,Saccharolobus solfataricus,"#151# 65Â°C, pH not specified in the publication<256>"
+2.7.1.40,Pyruvate kinase,58.78,ADP,Saccharolobus solfataricus,"#151# 70Â°C, pH not specified in the publication<256>"
+2.7.1.40,Pyruvate kinase,80.29,ADP,Saccharolobus solfataricus,"#151# 80Â°C, pH not specified in the publication<256>"
+2.7.1.40,Pyruvate kinase,1.53,ADP,Arabidopsis thaliana,"#161# cPK1, pH 7.5, 25Â°C <289>"
+2.7.1.40,Pyruvate kinase,3.05,ADP,Arabidopsis thaliana,"#162# cPK2, pH 7.5, 25Â°C <289>"
+2.7.1.40,Pyruvate kinase,2.4,ADP,Arabidopsis thaliana,"#163# cPK3, pH 7.5, 25Â°C <289>"
+2.7.1.40,Pyruvate kinase,4.0,ADP,Arabidopsis thaliana,"#165# cPK4, pH 7.5, 25Â°C <289>"
+2.7.1.40,Pyruvate kinase,6.68,ADP,Arabidopsis thaliana,"#166# cPK5, pH 7.5, 25Â°C <289>"
+2.7.1.40,Pyruvate kinase,4.36,ADP,Corynebacterium glutamicum,"#167# pH 7.0, 35Â°C <274>"
+2.7.1.40,Pyruvate kinase,110.0,GDP,Toxoplasma gondii,"#103# PykII, in 100 mM Tris-HCl,pH 8.5, at 37Â°C<204>"
+2.7.1.40,Pyruvate kinase,131.0,IDP,Toxoplasma gondii,"#103# PykII, in 100 mM Tris-HCl,pH 8.5, at 37Â°C<204>"

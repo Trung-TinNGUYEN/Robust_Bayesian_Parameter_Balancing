@@ -1,0 +1,25 @@
+n_outer,n_mcmc,model,is_re,time_s,pathway,d,method
+3,150,Gaussian Fixed,false,0.011308958000000001,TCA,79,collapsed
+3,150,Gaussian RE,true,0.0175433335,TCA,79,collapsed
+3,150,Student-t Fixed,false,0.035427021,TCA,79,collapsed
+3,150,Student-t RE,true,0.060685375,TCA,79,collapsed
+3,150,Skew-N Fixed,false,0.041937541999999994,TCA,79,collapsed
+3,150,Skew-N RE,true,0.06902216650000001,TCA,79,collapsed
+5,150,Gaussian Fixed,false,0.0187826875,TCA,79,collapsed
+5,150,Gaussian RE,true,0.029696042,TCA,79,collapsed
+5,150,Student-t Fixed,false,0.061314666500000004,TCA,79,collapsed
+5,150,Student-t RE,true,0.10364343749999999,TCA,79,collapsed
+5,150,Skew-N Fixed,false,0.0702976875,TCA,79,collapsed
+5,150,Skew-N RE,true,0.11484025,TCA,79,collapsed
+10,150,Gaussian Fixed,false,0.037253603999999996,TCA,79,collapsed
+10,150,Gaussian RE,true,0.0576730625,TCA,79,collapsed
+10,150,Student-t Fixed,false,0.12236874950000001,TCA,79,collapsed
+10,150,Student-t RE,true,0.204709042,TCA,79,collapsed
+10,150,Skew-N Fixed,false,0.140680417,TCA,79,collapsed
+10,150,Skew-N RE,true,0.2233813335,TCA,79,collapsed
+15,150,Gaussian Fixed,false,0.056023187,TCA,79,collapsed
+15,150,Gaussian RE,true,0.085826875,TCA,79,collapsed
+15,150,Student-t Fixed,false,0.18471910349999998,TCA,79,collapsed
+15,150,Student-t RE,true,0.308544167,TCA,79,collapsed
+15,150,Skew-N Fixed,false,0.211615833,TCA,79,collapsed
+15,150,Skew-N RE,true,0.341447771,TCA,79,collapsed
